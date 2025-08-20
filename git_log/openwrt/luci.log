@@ -2,5 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-ae16bb74dd|Hosted Weblate|Mon Aug 18 10:44:35 2025 +0200|Translated using Weblate (Portuguese)
+09372c6ddc|Stan Grishin|Mon Aug 18 20:32:52 2025 -0700|Merge pull request #7902 from stangri/master-luci-app-advanced-reboot
+a353d15b55|Stan Grishin|Tue Aug 12 08:31:10 2025 +0000|luci-app-advanced-reboot: update to 1.1.0-1
 </details>
