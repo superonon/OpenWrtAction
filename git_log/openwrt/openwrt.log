@@ -2,6 +2,10 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-070d8eb4d5|Markus Stockhausen|Mon Aug 11 04:34:00 2025 -0400|realtek: mdio: rtl931x: move functions over to bus
-3ff8a3dca8|Shiji Yang|Mon Aug 11 18:52:30 2025 +0800|ipq40xx: dts: reduce the maximum SPI clock frequency to 24MHz
+44a5d1c448|Shiji Yang|Tue Jun 10 21:32:13 2025 +0800|toolchain: gcc: update GCC13 to 13.4
+d01165a6ce|Shiji Yang|Wed Aug 20 19:32:11 2025 +0800|tools/squashfs4: update to 4.7.2
+43ef1a468c|Shiji Yang|Wed Aug 20 21:10:11 2025 +0800|ath79: remove 6.6 kernel patches and configs
+db86a07bdf|Shiji Yang|Wed Aug 20 21:09:38 2025 +0800|ath79: switch default kernel to 6.12
+5290e2f523|Nick Hainke|Tue Aug 19 22:40:12 2025 +0200|tools: lzop: add patch bumping minimum CMake version to 3.5
+4d3a35f368|Rosen Penev|Mon Aug 18 12:49:43 2025 -0700|mac80211: remove rt2x00_platform_data
 </details>

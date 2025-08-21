@@ -1,0 +1,54 @@
+<details> <summary> <b>packages new commit log :new: </b>  </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+d27748cac|Tianling Shen|Wed Aug 20 19:40:51 2025 +0800|modemband: bump to latest git HEAD
+d11308086|Tianling Shen|Wed Aug 20 17:51:18 2025 +0800|Merge Official Source
+0a512e8f0|Stan Grishin|Mon Aug 18 16:34:28 2025 +0000|pbr: 1.1.8-36 bugfixes
+b31b59907|Bruce Chen|Tue Aug 19 09:03:14 2025 +0800|aliyun-cli: update to 3.0.296
+d9c2a9f4e|Jon Henrik Bjørnstad|Mon Aug 18 14:59:19 2025 +0200|qbee-agent: bump version to 2025.34
+ab1f60b74|John Audia|Sun Aug 17 18:51:05 2025 -0400|lxc: update to 6.0.5
+6faa0a848|Austin Lane|Sun Aug 17 16:39:33 2025 -0400|abseil-cpp: Update to 20240722.1 LTS
+f2d141912|Austin Lane|Sun Aug 17 18:27:02 2025 -0400|python-pyelftools: Update to v0.32
+005600b4e|Peter van Dijk|Mon Aug 4 14:05:08 2025 +0200|pdns-recursor: update to 5.2.5
+341006475|John Audia|Thu Aug 14 15:37:14 2025 -0400|libpam: add upstream patch/fix build mold linker
+9318a5fef|George Sapkin|Thu Aug 14 22:08:00 2025 +0300|yt-dlp: bump to 2025.08.11
+c7782e0a9|Roc Lai|Mon Aug 11 08:34:19 2025 +0800|frp: bump to 0.64.0
+c536549ee|Austin Lane|Wed Jun 11 06:43:51 2025 -0400|libprotobuf-c: Update to v1.5.2
+99393c9ef|Nathaniel Wesley Filardo|Sun Mar 30 16:02:41 2025 +0100|lua-argparse: bump to luarocks' 0.7.1
+62dbf8c87|Glenn Strauss|Sun Aug 17 03:45:36 2025 -0400|lighttpd: update to lighttpd 1.4.81 release hash
+a2ed55180|Gregory Gullin|Thu Aug 14 18:12:38 2025 +0300|sing-box: update to 1.12.1
+ade9ad431|W. Michael Petullo|Fri Aug 15 20:20:04 2025 -0500|sendmail: fix building as non-root user
+8c2f7dc86|Rosen Penev|Thu Aug 14 13:27:53 2025 -0700|coova-chilli: fix compilation with GCC15
+aa34a4482|W. Michael Petullo|Fri Aug 15 16:46:30 2025 -0500|krb5: update to 1.22
+c79bed5fd|Eric Fahlgren|Fri Aug 15 18:31:27 2025 -0700|owut: update to 2025.08.15
+6d9d0d2bf|Wei-Ting Yang|Fri Aug 15 10:58:25 2025 +0800|python-certifi: update to 2025.8.3
+dc6724fca|Wei-Ting Yang|Fri Aug 15 11:11:42 2025 +0800|python-certifi: assign PKG_CPE_ID
+ae8a2d515|Philip Prindeville|Fri Aug 8 21:48:06 2025 -0600|isc-dhcpd: quote filenames for safety
+824a344a4|Philip Prindeville|Sun Aug 3 19:40:44 2025 -0600|isc-dhcp: fix spacing on forced parameters
+a97218b6c|Philip Prindeville|Sat Jun 7 14:38:26 2025 -0600|isc-dhcp: distinguish between hexstrings and strings
+3d2a8e3f8|Philip Prindeville|Mon Aug 11 17:59:00 2025 -0600|isc-dhcp: clean up 'if' formatting
+05d604a9f|Christian Korber|Thu Aug 14 19:39:34 2025 +0200|packages/net-snmp: fix typo
+23646be59|Wei-Ting Yang|Thu Aug 14 16:23:53 2025 +0800|python-urllib3: update to 2.0.7
+3686cbe41|Josef Schlehofer|Thu Aug 14 13:59:52 2025 +0200|python3: update to version 3.11.13
+1afc4f543|Til Kaiser|Thu Aug 14 10:25:53 2025 +0200|mstflint: update to 4.33.0
+418131400|Liu Yu|Mon Aug 11 03:57:43 2025 +0900|kea: fix kea.init error handling
+ba33ab937|Liu Yu|Fri Aug 8 00:10:48 2025 +0900|kea: update to 2.6.4
+651d18f62|Tianling Shen|Thu Aug 14 21:07:33 2025 +0800|cloudflared: Update to 2025.8.0
+12738a8ee|Alexandru Ardelean|Wed Aug 13 17:43:38 2025 +0300|django: allow test.sh only for python3-django package
+52620adee|Alexandru Ardelean|Wed Aug 13 09:15:26 2025 +0300|python-requests: bump to version 2.32.4
+2c2c7a9de|Alexandru Ardelean|Wed Aug 13 09:08:43 2025 +0300|numpy: bump to version 2.3.2
+eecc9a97d|Alexandru Ardelean|Wed Aug 13 09:06:16 2025 +0300|django-restframework: bump to version 3.16.1
+0f0c757a6|Alexandru Ardelean|Thu Aug 7 11:53:01 2025 +0300|squashfs-tools: bump to version 4.7
+2749f0a3a|Bjørn Mork|Tue Aug 5 17:34:42 2025 +0200|dbus: fix ujail configuration
+8b84b03b9|Rosen Penev|Fri Aug 1 11:36:41 2025 -0700|gkrellmd: update to 2.4.0
+7648e2556|Rosen Penev|Fri Aug 1 16:14:24 2025 -0700|perl-file-rsyncp: update to 0.76
+79c293e91|Fabian Lipken|Mon Aug 11 11:27:46 2025 +0200|python-pycares: bump to 4.10.0
+0ec95bd1f|Tianling Shen|Mon Aug 11 20:23:18 2025 +0800|lttng-tools: fix build with libxml 2.14
+ba6ce219c|Alexandru Ardelean|Tue Mar 11 15:18:03 2025 +0200|openblas: bump to version 0.3.30
+e810f0afa|Stan Grishin|Sun Aug 10 01:41:34 2025 +0000|pbr: update to 1.1.8-34
+1e391d052|Alexandru Ardelean|Thu Aug 7 12:05:16 2025 +0300|sudo: bump to version 1.9.17p2
+39d0a49c0|Rosen Penev|Mon Aug 4 15:46:21 2025 -0700|tcpreplay: compile as gnu11
+808d02512|Philip Prindeville|Sun Aug 10 23:22:23 2025 -0600|isc-dhcp: fix build issues with stricter compilers
+f9f7e388b|Florian Eckert|Mon Aug 11 10:49:37 2025 +0200|net-snmp: fix recursive dependency
+</details>
