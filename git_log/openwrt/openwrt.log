@@ -2,6 +2,14 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-00c16754cd|Bevan Weiss|Mon Aug 18 18:12:57 2025 +1000|realtek: RTL930x led_set count error message tidy up + dev_ print fixups
-5d44b115f1|Bevan Weiss|Sun Jul 27 14:12:32 2025 +1000|realtek: RTL930x/RTL931x led_set defines
+db0b0e14be|Andre Heider|Wed May 7 08:53:22 2025 +0200|omap: enable 6.12 testing kernel
+9273904ac7|Andre Heider|Wed May 7 08:52:57 2025 +0200|omap: update kernel 6.12 config
+cb26a6c0e1|Andre Heider|Fri May 9 07:33:31 2025 +0200|generic: 6.12: add new config symbols
+1b16dffeb6|Andre Heider|Wed May 7 08:50:21 2025 +0200|omap: refresh kernel 6.12 patches
+2baec9856b|Andre Heider|Wed May 7 08:44:19 2025 +0200|kernel/omap: Restore kernel files for v6.6
+72626f8b6a|Andre Heider|Wed May 7 08:44:19 2025 +0200|kernel/omap: Create kernel files for v6.12 (from v6.6)
+c4eb2425ed|Andre Heider|Wed May 7 08:42:28 2025 +0200|omap: update kernel 6.6 config
+3b54f821d0|Mark Mentovai|Sun Aug 17 00:41:29 2025 -0400|toolchain/binutils: export ZSTD_CFLAGS/LIBS to fix non-Linux build
+5b3c823589|Shiji Yang|Fri Aug 22 09:06:43 2025 +0800|uboot-layerscape: do not build efimkcapsule tool
+aff2f09623|Paul Spooren|Fri Aug 22 00:16:02 2025 +0200|include: make APK .list files reproducible
 </details>

@@ -2,7 +2,16 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-ee49f0028|Tianling Shen|Wed Aug 20 18:04:36 2025 +0800|dufs: remove `--locked` flag
-84cb850b7|Tianling Shen|Wed Aug 20 17:44:57 2025 +0800|rust: read build path from `{HOST_}MAKE_PATH`
-1000e9918|Tianling Shen|Wed Aug 20 17:28:22 2025 +0800|rust: introduce `RUST_{HOST,PKG}_LOCKED` flag
+31b3f9bd1|Aleksey Vasilenko|Sat Aug 23 00:29:59 2025 +0300|whois: update to 5.6.4
+465ad7068|Michael Heimpold|Sat Aug 9 22:35:08 2025 +0200|php8: update to 8.4.11
+22eb7b09d|Christian Marangi|Mon Aug 18 17:29:48 2025 +0200|libpfring: backport patches fixing compilation warning on 6.12+
+e19f315f2|Jianhui Zhao|Fri Aug 22 22:48:39 2025 +0800|rtty: update to 9.0.2
+0885e5322|Rosen Penev|Thu Aug 14 13:02:39 2025 -0700|parted: fix compilation with GCC15
+99cced331|Wei-Ting Yang|Wed Aug 20 15:01:27 2025 +0800|iperf: update to 2.2.1
+11b0340c5|Tianling Shen|Fri Aug 22 17:22:33 2025 +0800|cloudreve: Update to 4.6.0
+0cb83250b|Tianling Shen|Fri Aug 22 19:37:27 2025 +0800|dufs: Update to 0.44.0
+c16bee8b9|Tianling Shen|Fri Aug 22 19:36:32 2025 +0800|cloudflared: Update to 2025.8.1
+f8ace6e39|John Audia|Tue Aug 12 03:52:32 2025 -0400|snort3: update to 3.9.3.0
+64b8872cf|John Audia|Tue Aug 12 03:49:11 2025 -0400|libdaq3: update to 3.0.21
+002e0559a|Gregory Gullin|Thu Aug 21 15:40:38 2025 +0300|sing-box: update to 1.12.3
 </details>

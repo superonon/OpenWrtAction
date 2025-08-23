@@ -2,5 +2,9 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-143e72e06|MkQtS|Thu Aug 21 12:23:23 2025 +0800|sing-box: update to 1.12.3
+8968c5ca3|Tianling Shen|Fri Aug 22 17:27:53 2025 +0800|Merge Official Source
+002e0559a|Gregory Gullin|Thu Aug 21 15:40:38 2025 +0300|sing-box: update to 1.12.3
+ee49f0028|Tianling Shen|Wed Aug 20 18:04:36 2025 +0800|dufs: remove `--locked` flag
+84cb850b7|Tianling Shen|Wed Aug 20 17:44:57 2025 +0800|rust: read build path from `{HOST_}MAKE_PATH`
+1000e9918|Tianling Shen|Wed Aug 20 17:28:22 2025 +0800|rust: introduce `RUST_{HOST,PKG}_LOCKED` flag
 </details>
