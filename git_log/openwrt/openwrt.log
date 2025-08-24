@@ -2,14 +2,16 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-db0b0e14be|Andre Heider|Wed May 7 08:53:22 2025 +0200|omap: enable 6.12 testing kernel
-9273904ac7|Andre Heider|Wed May 7 08:52:57 2025 +0200|omap: update kernel 6.12 config
-cb26a6c0e1|Andre Heider|Fri May 9 07:33:31 2025 +0200|generic: 6.12: add new config symbols
-1b16dffeb6|Andre Heider|Wed May 7 08:50:21 2025 +0200|omap: refresh kernel 6.12 patches
-2baec9856b|Andre Heider|Wed May 7 08:44:19 2025 +0200|kernel/omap: Restore kernel files for v6.6
-72626f8b6a|Andre Heider|Wed May 7 08:44:19 2025 +0200|kernel/omap: Create kernel files for v6.12 (from v6.6)
-c4eb2425ed|Andre Heider|Wed May 7 08:42:28 2025 +0200|omap: update kernel 6.6 config
-3b54f821d0|Mark Mentovai|Sun Aug 17 00:41:29 2025 -0400|toolchain/binutils: export ZSTD_CFLAGS/LIBS to fix non-Linux build
-5b3c823589|Shiji Yang|Fri Aug 22 09:06:43 2025 +0800|uboot-layerscape: do not build efimkcapsule tool
-aff2f09623|Paul Spooren|Fri Aug 22 00:16:02 2025 +0200|include: make APK .list files reproducible
+8c314acc33|Shiji Yang|Fri Jun 6 20:32:26 2025 +0800|ath10k-ct-firmware: update wave2 chip firmware to latest beta version
+cb24806ff1|Shiji Yang|Fri Jun 6 20:32:26 2025 +0800|ath10k-ct-firmware: update qca988X firmware to latest beta version
+3850d60f38|Shiji Yang|Fri Jun 6 20:32:26 2025 +0800|ath10k-ct-firmware: update to latest stable firmware 2021.11.08
+8c42e63a69|Issam Hamdi|Fri Mar 28 10:39:44 2025 +0100|realtek: rtl93xx: fix incorrect destination port selection
+6e04dccb7a|Qing W|Thu Aug 21 18:55:42 2025 -0400|mediatek: Add support for Acer Predator Connect W6x
+4cd256c72a|Hauke Mehrtens|Thu Aug 21 22:07:06 2025 +0200|kernel: Remove patch for fixed bug
+62d50fb196|Alexandra Alth|Thu Aug 14 19:55:44 2025 +0200|realtek: add support for XikeStor SKS8310-8X
+e021b8a746|Konstantin Demin|Wed Aug 20 09:55:47 2025 +0300|dropbear: disable login recording with musl libc
+fb6c22caec|Konstantin Demin|Wed Aug 20 09:55:47 2025 +0300|dropbear: don't limit channel window to 500MB
+3e5f8a0364|Konstantin Demin|Wed Aug 20 09:55:47 2025 +0300|dropbear: fix missing depends for sntrup761x25519-sha512
+e7ed87b83b|Stefan Dösinger|Sat Aug 9 17:29:38 2025 +0300|ramips: fix TP-Link mr600 radio partition offset
+65ed5f8d6d|Shiji Yang|Thu Aug 21 19:56:15 2025 +0800|ipq40xx: do not build EnGenius EAP1300 and ENS620EXT by default
 </details>
