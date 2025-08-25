@@ -2,24 +2,28 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-e7a466717|Jan-Niklas Burfeind|Sat Aug 23 17:46:18 2025 +0200|uradvd: provide warning upon disabled configuration
-b2f14a5e8|Jan-Niklas Burfeind|Thu Aug 21 21:34:42 2025 +0200|uradvd: Update to 2025-08-16
-592d7f0b8|Aleksey Vasilenko|Sat Aug 23 00:15:23 2025 +0300|apr: update to 1.7.6
-965dc7088|Carlos Miguel Ferreira|Sat Aug 23 01:06:24 2025 +0100|boost: Updates package to version 1.89.0 This commit updates boost to version 1.89.0
-9b098179f|Hannu Nyman|Sat Aug 23 21:45:31 2025 +0300|libcbor: adjust for cmake 4.x
-d3e4d5549|Hannu Nyman|Sat Aug 23 21:38:14 2025 +0300|treewide: adjust local CMakeLists.txt min version to cmake 4.x
-d0deac49f|Austin Lane|Mon Jun 23 09:12:55 2025 -0400|libulfius: Update to v2.7.15
-5055dcbcc|Austin Lane|Mon Jun 23 08:55:03 2025 -0400|libyder: Update to v1.4.20 This library is tightly coupled with liborcania and libulfius, they must be updated together.
-51a087585|Austin Lane|Fri Jun 6 21:13:25 2025 -0400|liborcania: Update to v2.3.3
-eb333d1be|Christian Lachner|Sat Aug 23 12:27:00 2025 +0200|haproxy: update to v3.2.4
-d4f6c9c32|Hannu Nyman|Sat Aug 23 14:28:12 2025 +0300|nano: set nano as default EDITOR for nano-plus/full
-ff673f94a|Richard Yu|Sat Aug 23 05:13:41 2025 +0800|frp: Remove myself as maintainer
-3989142f1|Shin Rag|Fri Aug 22 21:25:52 2025 +0800|fish: update to 4.0.2
-3f9faf991|Aleksey Vasilenko|Fri Aug 22 23:28:38 2025 +0300|libpng: update to 1.6.50
-c54bda2e5|Aleksey Vasilenko|Fri Aug 22 23:30:47 2025 +0300|imagemagick: update to 7.1.2.1
-9443e91b6|Aleksey Vasilenko|Sat Aug 23 00:16:47 2025 +0300|subversion: update to 1.14.5
-072b5c6f4|Aleksey Vasilenko|Sat Aug 23 01:29:58 2025 +0300|bottom: update to 0.11.1
-10862df85|Aleksey Vasilenko|Sat Aug 23 01:11:33 2025 +0300|rust: update to 1.89.0
-61f29f743|Hannu Nyman|Sat Aug 23 10:03:40 2025 +0300|nano: Update to 8.6
-0ec080bef|Rosen Penev|Fri Aug 22 16:04:57 2025 -0700|protobuf-c: fix host usage
+f6ade70bc|Ryan Keane|Mon Nov 18 05:47:29 2024 -0800|transmission-web-control: Update to 20240408
+6b8981f01|Sebastian Hamann|Tue Aug 19 15:33:02 2025 +0200|nut: update to 2.8.4
+f5371ab43|Sebastian Hamann|Tue Aug 19 13:53:33 2025 +0200|nut: switch to https:// download URL
+012cfe598|Sebastian Hamann|Tue Aug 19 13:53:27 2025 +0200|nut: fix typo in nut_serial.hotplug (fix #21504)
+114f41240|Aleksey Vasilenko|Sat Aug 23 01:59:21 2025 +0300|ffmpeg: update to 6.1.3
+bc2d10333|Tianling Shen|Sun Aug 24 23:14:02 2025 +0800|dufs: backport upstream fixes
+d9fee0863|Rosen Penev|Sun Aug 10 15:18:06 2025 -0700|python3: fix host uuid and ncurses
+ebb0d8745|Gregory Gullin|Sat Aug 16 15:05:14 2025 +0300|nnn: update to version 5.1
+f6511d390|Yu Fang|Mon Jul 28 14:40:18 2025 +0800|gateway-go: update to 2.0.10
+57bc583f7|Jonas Jelonek|Tue Aug 5 10:49:46 2025 +0000|i2csfp: update to latest Git HEAD
+f59476ad8|Luiz Angelo Daros de Luca|Sun Aug 3 11:07:25 2025 -0300|iodine: use procd, add extra options
+d75075ce8|George Sapkin|Wed Aug 6 23:11:34 2025 +0300|syncthing: improve relay argument parsing
+6ccb3b617|George Sapkin|Wed Aug 6 22:41:53 2025 +0300|syncthing: improve discovery argument parsing
+1d4901072|Roc Lai|Fri Aug 8 15:12:40 2025 +0800|ariang: bump to 1.3.11
+187815544|Aleksey Vasilenko|Fri Aug 22 23:26:09 2025 +0300|libjpeg-turbo: update to 3.1.1
+d9310f430|Aleksey Vasilenko|Sat Aug 23 01:38:40 2025 +0300|clamav: update to 1.4.3
+9edb3c868|Aleksey Vasilenko|Fri Aug 22 13:29:55 2025 +0300|https-dns-proxy: match updated curl config options
+69768c592|Aleksey Vasilenko|Fri Aug 22 13:21:39 2025 +0300|nghttp2: update to 1.66.0
+21fa16273|Aleksey Vasilenko|Fri Aug 22 13:12:55 2025 +0300|nghttp3: update to 1.11.0
+ea45f66f6|Aleksey Vasilenko|Sat Aug 23 08:39:32 2025 +0300|ngtcp2: update to 1.15.0
+ea66e463c|Aleksey Vasilenko|Fri Aug 22 12:54:21 2025 +0300|curl: update to 8.15.0
+bfd305877|George Sapkin|Thu Aug 14 23:30:03 2025 +0300|golang: bump to 1.25.0
+18bbec9f2|Aleksey Vasilenko|Fri Aug 22 23:24:36 2025 +0300|libzip: update to 1.11.4
+b1bb4533e|Rosen Penev|Wed Aug 20 12:22:53 2025 -0700|coova-chilli: update to 1.7
 </details>

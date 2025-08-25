@@ -2,14 +2,28 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-6a1283b423|Tianling Shen|Sat Aug 23 20:49:43 2025 +0800|Merge Official Source
-65ed5f8d6d|Shiji Yang|Thu Aug 21 19:56:15 2025 +0800|ipq40xx: do not build EnGenius EAP1300 and ENS620EXT by default
-db0b0e14be|Andre Heider|Wed May 7 08:53:22 2025 +0200|omap: enable 6.12 testing kernel
-9273904ac7|Andre Heider|Wed May 7 08:52:57 2025 +0200|omap: update kernel 6.12 config
-cb26a6c0e1|Andre Heider|Fri May 9 07:33:31 2025 +0200|generic: 6.12: add new config symbols
-1b16dffeb6|Andre Heider|Wed May 7 08:50:21 2025 +0200|omap: refresh kernel 6.12 patches
-2baec9856b|Andre Heider|Wed May 7 08:44:19 2025 +0200|kernel/omap: Restore kernel files for v6.6
-72626f8b6a|Andre Heider|Wed May 7 08:44:19 2025 +0200|kernel/omap: Create kernel files for v6.12 (from v6.6)
-c4eb2425ed|Andre Heider|Wed May 7 08:42:28 2025 +0200|omap: update kernel 6.6 config
-3b54f821d0|Mark Mentovai|Sun Aug 17 00:41:29 2025 -0400|toolchain/binutils: export ZSTD_CFLAGS/LIBS to fix non-Linux build
+361853b40d|Tianling Shen|Sun Aug 24 22:02:24 2025 +0800|Merge Official Source
+41106141b8|Zhenfu Shi|Wed Aug 20 14:00:26 2025 +1000|mediatek: filogic: support WAVLINK WL-WN586X3 Rev B
+f29bc8736a|Axel Sepulveda|Wed Feb 19 18:19:03 2025 +0100|ramips: CREALITY BOX WB01
+26c6fb671e|Shiji Yang|Sun Aug 24 14:12:54 2025 +0800|mediatek: dts: remove mt7531 switch reset delay time properties
+b286fd8a39|Shiji Yang|Sun Aug 10 20:16:21 2025 +0800|uboot-mediatek: adjust the reserved memory regions
+2958eeea3b|Shiji Yang|Sun Aug 10 20:15:12 2025 +0800|mediatek: dts: increase mt7986 ATF reserved memory to 256 kiB
+5fc5b0c18e|Shiji Yang|Sat Aug 9 10:40:09 2025 +0800|mediatek: dts: remove some useless spaces
+bb94280942|Shiji Yang|Sat Aug 9 10:05:52 2025 +0800|mediatek: dts: fix some minor dtc warnings
+9688f035b0|Shiji Yang|Fri Aug 8 21:10:24 2025 +0800|mediatek: dts: mt7981: add back #address-cells and #size-cells to eth node
+f3ce0c29ea|Shiji Yang|Sat Aug 9 10:45:39 2025 +0800|mediatek: dts: use dt-bindings enumerated drive strength values
+c089ad8f68|Shiji Yang|Fri Aug 8 21:05:10 2025 +0800|mediatek: dts: convert pinctrl bias to the Linux generic style
+6f33529a12|Shiji Yang|Fri Aug 8 20:53:58 2025 +0800|mediatek: dts: fix the broken memory node
+78188ee2bc|Felix Fietkau|Sun Aug 24 07:18:43 2025 +0200|udebug: update to Git HEAD (2025-08-24)
+8c314acc33|Shiji Yang|Fri Jun 6 20:32:26 2025 +0800|ath10k-ct-firmware: update wave2 chip firmware to latest beta version
+cb24806ff1|Shiji Yang|Fri Jun 6 20:32:26 2025 +0800|ath10k-ct-firmware: update qca988X firmware to latest beta version
+3850d60f38|Shiji Yang|Fri Jun 6 20:32:26 2025 +0800|ath10k-ct-firmware: update to latest stable firmware 2021.11.08
+8c42e63a69|Issam Hamdi|Fri Mar 28 10:39:44 2025 +0100|realtek: rtl93xx: fix incorrect destination port selection
+6e04dccb7a|Qing W|Thu Aug 21 18:55:42 2025 -0400|mediatek: Add support for Acer Predator Connect W6x
+4cd256c72a|Hauke Mehrtens|Thu Aug 21 22:07:06 2025 +0200|kernel: Remove patch for fixed bug
+62d50fb196|Alexandra Alth|Thu Aug 14 19:55:44 2025 +0200|realtek: add support for XikeStor SKS8310-8X
+e021b8a746|Konstantin Demin|Wed Aug 20 09:55:47 2025 +0300|dropbear: disable login recording with musl libc
+fb6c22caec|Konstantin Demin|Wed Aug 20 09:55:47 2025 +0300|dropbear: don't limit channel window to 500MB
+3e5f8a0364|Konstantin Demin|Wed Aug 20 09:55:47 2025 +0300|dropbear: fix missing depends for sntrup761x25519-sha512
+e7ed87b83b|Stefan Dösinger|Sat Aug 9 17:29:38 2025 +0300|ramips: fix TP-Link mr600 radio partition offset
 </details>

@@ -1,7 +1,0 @@
-<details> <summary> <b>luci new commit log :new: </b>  </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-9c7e472edb|Hannu Nyman|Sat Aug 23 20:42:15 2025 +0300|rpcd-mod-{luci,rrdns}: set cmake_minimum_required to current 3.31
-4c8cd49f70|Richard Yu|Sat Aug 23 04:59:51 2025 +0800|luci-app-frp*: Remove myself as maintainer
-</details>
