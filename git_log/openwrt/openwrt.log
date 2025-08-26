@@ -2,24 +2,15 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-57a127c9e7|Paul Donald|Mon Jul 21 19:54:43 2025 +0200|mediatek: remove the aquantia kmod from filogic mediatek platforms
-73a7466e41|Pavlo Samko|Fri Mar 14 19:48:35 2025 +0200|nilfs-utils: add userspace utilities for NILFS2
-2b5119e355|Pavlo Samko|Fri Mar 14 19:39:31 2025 +0200|kernel: add NILFS2 fs module
-69a8c7f71a|Simonas Tamošaitis|Tue May 13 05:56:33 2025 +0300|mediatek: filogic: add Teltonika RUTC50 support
-53d8303a79|Simonas Tamošaitis|Wed Aug 6 21:52:15 2025 +0300|images: move append-teltonika-metadata to image-commands.mk
-715f9541e8|Rosen Penev|Sat May 24 18:20:09 2025 -0700|ath79: db120: use led-sources for ath9k
-132b6862a0|Rosen Penev|Tue Jun 11 15:37:37 2024 -0700|ath79: trendnet,tew-823dru: use nvmem
-749fa79e01|Rosen Penev|Wed Aug 13 17:22:35 2025 -0700|ramips: zyxel wsm20: set mac address in dts
-41106141b8|Zhenfu Shi|Wed Aug 20 14:00:26 2025 +1000|mediatek: filogic: support WAVLINK WL-WN586X3 Rev B
-f29bc8736a|Axel Sepulveda|Wed Feb 19 18:19:03 2025 +0100|ramips: CREALITY BOX WB01
-26c6fb671e|Shiji Yang|Sun Aug 24 14:12:54 2025 +0800|mediatek: dts: remove mt7531 switch reset delay time properties
-b286fd8a39|Shiji Yang|Sun Aug 10 20:16:21 2025 +0800|uboot-mediatek: adjust the reserved memory regions
-2958eeea3b|Shiji Yang|Sun Aug 10 20:15:12 2025 +0800|mediatek: dts: increase mt7986 ATF reserved memory to 256 kiB
-5fc5b0c18e|Shiji Yang|Sat Aug 9 10:40:09 2025 +0800|mediatek: dts: remove some useless spaces
-bb94280942|Shiji Yang|Sat Aug 9 10:05:52 2025 +0800|mediatek: dts: fix some minor dtc warnings
-9688f035b0|Shiji Yang|Fri Aug 8 21:10:24 2025 +0800|mediatek: dts: mt7981: add back #address-cells and #size-cells to eth node
-f3ce0c29ea|Shiji Yang|Sat Aug 9 10:45:39 2025 +0800|mediatek: dts: use dt-bindings enumerated drive strength values
-c089ad8f68|Shiji Yang|Fri Aug 8 21:05:10 2025 +0800|mediatek: dts: convert pinctrl bias to the Linux generic style
-6f33529a12|Shiji Yang|Fri Aug 8 20:53:58 2025 +0800|mediatek: dts: fix the broken memory node
-78188ee2bc|Felix Fietkau|Sun Aug 24 07:18:43 2025 +0200|udebug: update to Git HEAD (2025-08-24)
+43ae8e17e1|Shiji Yang|Mon Aug 25 21:17:39 2025 +0800|mediatek: dts: use dt-bindings documented bias type for UniFi 6 Plus
+c33df09169|Shiji Yang|Mon Aug 25 21:13:23 2025 +0800|uboot-mediatek: remove wmcpu_emi dts node leftovers
+a4cbb44c1b|Markus Stockhausen|Wed Aug 20 04:56:19 2025 -0400|realtek: convert access to RTL931x analog serdes pages
+30e20d8cb2|Robert Marko|Mon Aug 25 10:51:03 2025 +0200|ipq-wifi: update to Git HEAD (2025-08-25)
+369525b950|Rosen Penev|Sun May 25 18:39:55 2025 -0700|treewide: fix compatible string for ath10k
+26a371303f|Rosen Penev|Sat Jun 7 19:47:04 2025 -0700|ath79: compex_wpj531: remove wrong wifi device
+f5930cb6b5|Rosen Penev|Sat May 24 18:14:47 2025 -0700|ath79: wb2000: use led-sources for ath9k
+acc49770c2|Rosen Penev|Sat May 24 20:41:27 2025 -0700|ath79: dir-825-c1: set LED pin properly
+b2277e9bab|Carsten Schuette|Sun Aug 24 16:07:25 2025 +0200|mold: Update to 2.40.4
+48c7a40745|Rosen Penev|Sun May 25 18:26:22 2025 -0700|ath79: iodata: set ath9k LED pin
+5eef79a249|Rosen Penev|Tue May 20 18:17:32 2025 -0700|ath79: iodata: extract calibration with nvmem
 </details>

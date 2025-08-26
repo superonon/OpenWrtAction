@@ -2,28 +2,14 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-f6ade70bc|Ryan Keane|Mon Nov 18 05:47:29 2024 -0800|transmission-web-control: Update to 20240408
-6b8981f01|Sebastian Hamann|Tue Aug 19 15:33:02 2025 +0200|nut: update to 2.8.4
-f5371ab43|Sebastian Hamann|Tue Aug 19 13:53:33 2025 +0200|nut: switch to https:// download URL
-012cfe598|Sebastian Hamann|Tue Aug 19 13:53:27 2025 +0200|nut: fix typo in nut_serial.hotplug (fix #21504)
-114f41240|Aleksey Vasilenko|Sat Aug 23 01:59:21 2025 +0300|ffmpeg: update to 6.1.3
-bc2d10333|Tianling Shen|Sun Aug 24 23:14:02 2025 +0800|dufs: backport upstream fixes
-d9fee0863|Rosen Penev|Sun Aug 10 15:18:06 2025 -0700|python3: fix host uuid and ncurses
-ebb0d8745|Gregory Gullin|Sat Aug 16 15:05:14 2025 +0300|nnn: update to version 5.1
-f6511d390|Yu Fang|Mon Jul 28 14:40:18 2025 +0800|gateway-go: update to 2.0.10
-57bc583f7|Jonas Jelonek|Tue Aug 5 10:49:46 2025 +0000|i2csfp: update to latest Git HEAD
-f59476ad8|Luiz Angelo Daros de Luca|Sun Aug 3 11:07:25 2025 -0300|iodine: use procd, add extra options
-d75075ce8|George Sapkin|Wed Aug 6 23:11:34 2025 +0300|syncthing: improve relay argument parsing
-6ccb3b617|George Sapkin|Wed Aug 6 22:41:53 2025 +0300|syncthing: improve discovery argument parsing
-1d4901072|Roc Lai|Fri Aug 8 15:12:40 2025 +0800|ariang: bump to 1.3.11
-187815544|Aleksey Vasilenko|Fri Aug 22 23:26:09 2025 +0300|libjpeg-turbo: update to 3.1.1
-d9310f430|Aleksey Vasilenko|Sat Aug 23 01:38:40 2025 +0300|clamav: update to 1.4.3
-9edb3c868|Aleksey Vasilenko|Fri Aug 22 13:29:55 2025 +0300|https-dns-proxy: match updated curl config options
-69768c592|Aleksey Vasilenko|Fri Aug 22 13:21:39 2025 +0300|nghttp2: update to 1.66.0
-21fa16273|Aleksey Vasilenko|Fri Aug 22 13:12:55 2025 +0300|nghttp3: update to 1.11.0
-ea45f66f6|Aleksey Vasilenko|Sat Aug 23 08:39:32 2025 +0300|ngtcp2: update to 1.15.0
-ea66e463c|Aleksey Vasilenko|Fri Aug 22 12:54:21 2025 +0300|curl: update to 8.15.0
-bfd305877|George Sapkin|Thu Aug 14 23:30:03 2025 +0300|golang: bump to 1.25.0
-18bbec9f2|Aleksey Vasilenko|Fri Aug 22 23:24:36 2025 +0300|libzip: update to 1.11.4
-b1bb4533e|Rosen Penev|Wed Aug 20 12:22:53 2025 -0700|coova-chilli: update to 1.7
+b207db0ca|Hannu Nyman|Mon Aug 25 19:40:09 2025 +0300|transmission-web-control: fix mirror hash
+26edbcbb3|John Audia|Mon Aug 25 12:02:50 2025 -0400|libtirpc: update to 1.3.7
+763f984e4|John Audia|Sat Aug 16 06:44:45 2025 -0400|lm-sensors: fix build with glibc
+d3b228612|Sven Eckelmann|Mon Aug 18 11:51:19 2025 +0200|poemgr: update to latest HEAD
+802e874d7|Tianling Shen|Mon Aug 25 15:35:35 2025 +0800|v2ray-geodata: Update to latest version
+d5b31edb7|Tianling Shen|Mon Aug 25 15:33:08 2025 +0800|rclone: Update to 1.71.0
+713b37dd2|Tianling Shen|Mon Aug 25 15:32:48 2025 +0800|openlist: Update to 4.1.1
+5d2c92397|Tianling Shen|Mon Aug 25 15:31:33 2025 +0800|v2raya: Update to 2.2.7
+5da8338e9|Aleksey Vasilenko|Sun Aug 24 20:42:52 2025 +0300|ngtcp2: update to 1.15.0
+47ed8ab5b|Othmar Truniger|Tue Jul 29 12:24:52 2025 +0200|linknx: prevent jsoncpp dependency
 </details>
