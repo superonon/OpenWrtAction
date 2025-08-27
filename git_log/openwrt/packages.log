@@ -2,14 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-b207db0ca|Hannu Nyman|Mon Aug 25 19:40:09 2025 +0300|transmission-web-control: fix mirror hash
-26edbcbb3|John Audia|Mon Aug 25 12:02:50 2025 -0400|libtirpc: update to 1.3.7
-763f984e4|John Audia|Sat Aug 16 06:44:45 2025 -0400|lm-sensors: fix build with glibc
-d3b228612|Sven Eckelmann|Mon Aug 18 11:51:19 2025 +0200|poemgr: update to latest HEAD
-802e874d7|Tianling Shen|Mon Aug 25 15:35:35 2025 +0800|v2ray-geodata: Update to latest version
-d5b31edb7|Tianling Shen|Mon Aug 25 15:33:08 2025 +0800|rclone: Update to 1.71.0
-713b37dd2|Tianling Shen|Mon Aug 25 15:32:48 2025 +0800|openlist: Update to 4.1.1
-5d2c92397|Tianling Shen|Mon Aug 25 15:31:33 2025 +0800|v2raya: Update to 2.2.7
-5da8338e9|Aleksey Vasilenko|Sun Aug 24 20:42:52 2025 +0300|ngtcp2: update to 1.15.0
-47ed8ab5b|Othmar Truniger|Tue Jul 29 12:24:52 2025 +0200|linknx: prevent jsoncpp dependency
+730cefb84|George Sapkin|Tue Aug 26 17:01:42 2025 +0300|adguardhome: bump to 0.107.65
 </details>

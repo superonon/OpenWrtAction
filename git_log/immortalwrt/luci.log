@@ -2,5 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-b105db25bb|Tianling Shen|Mon Aug 25 19:32:22 2025 +0800|luci-app-diskman: remove ntfs-3g dependencies
+b17ce715b0|Tianling Shen|Tue Aug 26 20:04:12 2025 +0800|luci-app-mentohust: drop legacy package
+1b77833539|Tianling Shen|Tue Aug 26 19:55:25 2025 +0800|luci-proto-minieap: move proto script to package
 </details>
