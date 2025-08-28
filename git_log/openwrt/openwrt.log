@@ -2,16 +2,11 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-18077d22e9|Harshal Gohel|Fri Aug 8 17:31:03 2025 +0200|realtek: rtl93xx: Trap LLDP management frames
-43dbc6d4d6|Harshal Gohel|Fri Aug 8 17:31:03 2025 +0200|realtek: rtl931x: Register support for trapping management frames
-75fe6b2d0b|Harshal Gohel|Fri Aug 8 17:31:03 2025 +0200|realtek: rtl930x: Add support for trapping management frames
-1b436585a2|Harshal Gohel|Fri Aug 8 17:31:03 2025 +0200|realtek: dsa: Fix prefix for trapping functions
-f39c7e103f|John Audia|Sat Aug 23 16:04:04 2025 -0400|kernel: bump 6.12 to 6.12.43
-c6d8f2267c|John Audia|Fri Aug 15 15:22:27 2025 -0400|generic/config-6.12: add new option
-ae49895cd2|John Audia|Fri Aug 15 15:04:26 2025 -0400|kernel: bump 6.12 to 6.12.42
-23b8205fe2|John Audia|Fri Aug 1 05:26:34 2025 -0400|kernel: bump 6.12 to 6.12.41
-5bdb7a5990|Felix Fietkau|Mon Aug 25 20:31:02 2025 +0200|wifi-scripts: fix reload handling with random macaddr
-5781922f33|Felix Fietkau|Mon Aug 25 20:20:49 2025 +0200|wifi-scripts: ucode: fix random mac address
-d5fa130113|Felix Fietkau|Mon Aug 25 17:31:30 2025 +0200|hostapd: fix link address of secondary MLO interfaces
-c22db9698e|Rosen Penev|Sat May 24 18:45:03 2025 -0700|ath79: araknis_an-300-ap-i-n: use led-sources
+6fbf6d0cfd|Felix Fietkau|Wed Aug 27 15:24:29 2025 +0200|mac80211: extend connection monitoring for MLO
+2760a08b40|Felix Fietkau|Wed Aug 27 13:29:27 2025 +0200|mt76: update to Git HEAD (2025-08-27)
+c1a6c85c98|Rosen Penev|Sat May 24 18:10:42 2025 -0700|ath79: qcn5502: use led-sources for WMAC
+9c895bacfb|Felix Fietkau|Tue Aug 26 22:14:21 2025 +0200|hostapd: fix wds ap on single-wiphy devices
+95c8b385e5|Felix Fietkau|Tue Aug 26 22:06:25 2025 +0200|hostapd: update to Git HEAD (2025-08-26)
+21059cb83b|Agustin Lorenzo|Sun Jul 20 23:51:50 2025 +0200|qualcommax: migrate wifi configuration (ath10k) device paths for 6.12 kernel
+44f76177d5|Paul Spooren|Tue Aug 26 13:36:54 2025 +0200|include: make APK .list files even more reproducible
 </details>

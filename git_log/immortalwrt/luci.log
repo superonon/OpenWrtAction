@@ -2,6 +2,13 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-b17ce715b0|Tianling Shen|Tue Aug 26 20:04:12 2025 +0800|luci-app-mentohust: drop legacy package
-1b77833539|Tianling Shen|Tue Aug 26 19:55:25 2025 +0800|luci-proto-minieap: move proto script to package
+c4a1236ee0|Tianling Shen|Wed Aug 27 16:41:57 2025 +0800|Merge Official Source
+983ecabe21|Hosted Weblate|Tue Aug 26 09:28:57 2025 +0200|Translated using Weblate (Persian)
+3a45003bfb|Nat Gist|Fri Aug 22 20:44:02 2025 +0000|luci-app-statistics: Adds ability to configure encrypted connections in the MQTT package
+9c7e472edb|Hannu Nyman|Sat Aug 23 20:42:15 2025 +0300|rpcd-mod-{luci,rrdns}: set cmake_minimum_required to current 3.31
+4c8cd49f70|Richard Yu|Sat Aug 23 04:59:51 2025 +0800|luci-app-frp*: Remove myself as maintainer
+4ca193d291|Hosted Weblate|Fri Aug 22 06:39:54 2025 +0200|Translated using Weblate (Portuguese)
+09372c6ddc|Stan Grishin|Mon Aug 18 20:32:52 2025 -0700|Merge pull request #7902 from stangri/master-luci-app-advanced-reboot
+ae16bb74dd|Hosted Weblate|Mon Aug 18 10:44:35 2025 +0200|Translated using Weblate (Portuguese)
+a353d15b55|Stan Grishin|Tue Aug 12 08:31:10 2025 +0000|luci-app-advanced-reboot: update to 1.1.0-1
 </details>

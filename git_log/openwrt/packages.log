@@ -2,5 +2,8 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-730cefb84|George Sapkin|Tue Aug 26 17:01:42 2025 +0300|adguardhome: bump to 0.107.65
+9022d3f53|Stan Grishin|Tue Aug 26 03:46:56 2025 +0000|adblock-fast: update to 1.1.4-r12
+4ccf3be95|Hannu Nyman|Wed Aug 27 22:26:18 2025 +0300|sing-box: Revert "sing-box: update to 1.12.3"
+11c434adb|W. Michael Petullo|Tue Aug 26 15:36:39 2025 -0500|vips: update to 8.17.1
+fc4930376|W. Michael Petullo|Tue Aug 26 14:51:53 2025 -0500|krb5: update to 1.22.1
 </details>
