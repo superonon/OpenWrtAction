@@ -1,7 +1,0 @@
-<details> <summary> <b>luci new commit log :new: </b>  </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-2a3ed43889|Stan Grishin|Wed Aug 27 17:33:36 2025 -0700|Merge pull request #7921 from stangri/master-luci-app-adblock-fast
-68f9e67432|Stan Grishin|Tue Aug 26 03:49:08 2025 +0000|luci-app-adblock-fast: update to 1.1.4-r12
-</details>
