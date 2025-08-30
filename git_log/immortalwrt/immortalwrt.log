@@ -1,0 +1,32 @@
+<details> <summary> <b>immortalwrt new commit log :new: </b>  </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+30a4bd0246|Tianling Shen|Fri Aug 29 15:15:04 2025 +0800|Merge Official Source
+a04b5fdcb6|Felix Fietkau|Thu Aug 28 14:48:42 2025 +0200|mac80211: add support for MLD AP client probing
+34e1092e88|Hauke Mehrtens|Tue Aug 26 22:58:12 2025 +0000|kernel: bump 6.6 to 6.6.102
+9fbbcd16f7|Hauke Mehrtens|Sun Aug 24 13:35:19 2025 +0000|kernel: bump 6.6 to 6.6.101
+cb4603688b|Harshal Gohel|Fri Jul 11 15:58:32 2025 +0000|realtek: rtl930x: Add support for Plasma Cloud PSX10 Switch
+e677da90d1|Harshal Gohel|Fri Jul 11 15:58:32 2025 +0000|realtek: rtl930x: Add support for Plasma Cloud PSX8 Switch
+7812d867b4|Harshal Gohel|Fri Jul 11 15:58:32 2025 +0000|realtek: Introduce Plasma Cloud sysupgrade helper
+ebb342af44|Harshal Gohel|Mon Apr 14 13:16:47 2025 +0000|realtek: rtl930x: Enable parsing of u-boot nvmem layouts
+5880f345ba|Harshal Gohel|Mon Apr 14 13:16:47 2025 +0000|realtek: Fix nvmem support for ethernet device
+664424aaeb|Igor Dyatlov|Sun Aug 3 17:20:00 2025 +0300|ath79: add calibtation variant for Xiaomi AIoT AC2350
+c42f05bf36|Igor Dyatlov|Sun Aug 3 17:02:33 2025 +0300|ipq-wifi: add entry for Xiaomi AIoT AC2350
+f43bf55b41|Felix Fietkau|Thu Aug 28 10:42:43 2025 +0200|wifi-scripts: allow configuring per-radio macaddr in shared/mlo wifi-iface
+6fbf6d0cfd|Felix Fietkau|Wed Aug 27 15:24:29 2025 +0200|mac80211: extend connection monitoring for MLO
+2760a08b40|Felix Fietkau|Wed Aug 27 13:29:27 2025 +0200|mt76: update to Git HEAD (2025-08-27)
+c1a6c85c98|Rosen Penev|Sat May 24 18:10:42 2025 -0700|ath79: qcn5502: use led-sources for WMAC
+9c895bacfb|Felix Fietkau|Tue Aug 26 22:14:21 2025 +0200|hostapd: fix wds ap on single-wiphy devices
+95c8b385e5|Felix Fietkau|Tue Aug 26 22:06:25 2025 +0200|hostapd: update to Git HEAD (2025-08-26)
+21059cb83b|Agustin Lorenzo|Sun Jul 20 23:51:50 2025 +0200|qualcommax: migrate wifi configuration (ath10k) device paths for 6.12 kernel
+44f76177d5|Paul Spooren|Tue Aug 26 13:36:54 2025 +0200|include: make APK .list files even more reproducible
+18077d22e9|Harshal Gohel|Fri Aug 8 17:31:03 2025 +0200|realtek: rtl93xx: Trap LLDP management frames
+43dbc6d4d6|Harshal Gohel|Fri Aug 8 17:31:03 2025 +0200|realtek: rtl931x: Register support for trapping management frames
+75fe6b2d0b|Harshal Gohel|Fri Aug 8 17:31:03 2025 +0200|realtek: rtl930x: Add support for trapping management frames
+1b436585a2|Harshal Gohel|Fri Aug 8 17:31:03 2025 +0200|realtek: dsa: Fix prefix for trapping functions
+f39c7e103f|John Audia|Sat Aug 23 16:04:04 2025 -0400|kernel: bump 6.12 to 6.12.43
+c6d8f2267c|John Audia|Fri Aug 15 15:22:27 2025 -0400|generic/config-6.12: add new option
+ae49895cd2|John Audia|Fri Aug 15 15:04:26 2025 -0400|kernel: bump 6.12 to 6.12.42
+23b8205fe2|John Audia|Fri Aug 1 05:26:34 2025 -0400|kernel: bump 6.12 to 6.12.41
+</details>
