@@ -1,0 +1,20 @@
+<details> <summary> <b>packages new commit log :new: </b>  </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+b84f2776c|Zheng Zhang|Sat Aug 30 22:52:07 2025 +0800|cups: disable internal stripping of cupsd executables
+005113965|zxl hhyccc|Sun Aug 31 00:24:45 2025 +0800|trojan: fix build with boost 1.89
+2d0325160|Tianling Shen|Sat Aug 30 22:20:56 2025 +0800|sendat: update to Git HEAD (2024-01-22)
+49d0328da|Tianling Shen|Sat Aug 30 22:16:07 2025 +0800|tinymembench: update mirror hash
+6c69613eb|Tianling Shen|Sat Aug 30 20:48:11 2025 +0800|Node.js: sync with upstream source
+3507135d4|Tianling Shen|Sat Aug 30 15:30:26 2025 +0800|Merge Official Source
+160519a6b|ImmortalWrt AutoUpdate Bot|Sat Aug 30 07:10:58 2025 +0000|sing-box: Update to 1.12.4
+870542320|Nate Robinson|Thu Aug 28 23:15:02 2025 -0400|lf: update to r37
+e236bede7|Wei-Ting Yang|Thu Aug 28 11:36:31 2025 +0800|django-restframework: assign PKG_CPE_ID
+e60445815|George Sapkin|Tue Aug 26 20:30:43 2025 +0300|yt-dlp: bump to 2025.08.22
+6f190b4ca|Niklas Thorild|Tue Aug 19 12:07:11 2025 +0200|telegraf: update to 1.35.4
+9022d3f53|Stan Grishin|Tue Aug 26 03:46:56 2025 +0000|adblock-fast: update to 1.1.4-r12
+4ccf3be95|Hannu Nyman|Wed Aug 27 22:26:18 2025 +0300|sing-box: Revert "sing-box: update to 1.12.3"
+11c434adb|W. Michael Petullo|Tue Aug 26 15:36:39 2025 -0500|vips: update to 8.17.1
+fc4930376|W. Michael Petullo|Tue Aug 26 14:51:53 2025 -0500|krb5: update to 1.22.1
+</details>
