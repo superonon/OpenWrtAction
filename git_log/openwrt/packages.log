@@ -2,10 +2,7 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-d52e58818|Aleksey Vasilenko|Thu Aug 28 18:58:16 2025 +0300|bc: update to 1.08.2
-973a26fc6|Roman Azarenko|Wed Aug 13 13:28:33 2025 +0200|nginx: update CPE ID
-19249742c|Dan Srebnick|Thu Apr 3 16:15:33 2025 -0400|ampr-ripd: Initial package release
-6736b2d19|John Audia|Sat Aug 30 10:23:40 2025 -0400|libtirpc: fix build for client packages
-b0a6a9147|Maxim Storchak|Tue Aug 26 20:51:55 2025 +0300|rsync: update dependencies for rrsync
-6b27cc517|Ulrich Stark|Fri Aug 29 15:08:53 2025 +0200|lsof: fix compilation issue with "libtirpc"
+7be94fac3|Tianling Shen|Sun Aug 31 14:43:02 2025 +0800|libtorrent-rasterbar: update boost dependencies
+2d05ae0b4|Gregory Gullin|Sat Jul 12 16:42:06 2025 +0300|micro: add new package
+55404adb9|Aleksey Vasilenko|Thu Aug 28 21:40:17 2025 +0300|squid: update to 7.1
 </details>
