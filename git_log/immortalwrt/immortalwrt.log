@@ -2,14 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-862144f378|Tianling Shen|Sun Aug 31 22:19:43 2025 +0800|rockchip: increase emmc speed for ariaboard photonicat
-22cffc0c76|Tianling Shen|Sun Aug 31 22:51:29 2025 +0800|rockchip: add missing dma-names for ariaboard photonicat
-524bbdff1c|Tianling Shen|Sun Aug 31 22:16:00 2025 +0800|rockchip: use fixed ifname for ariaboard photonicat
-3b0447d7fb|Tianling Shen|Sun Aug 31 20:56:55 2025 +0800|Merge Official Source
-12dff68b29|Tianling Shen|Sun Aug 31 17:53:04 2025 +0800|rkbin: bump to latest git HEAD
-e181fee6a5|Daniel Golle|Sun Aug 31 02:24:04 2025 +0100|mediatek: backport patches fixing thermal on MT7988
-cee13fc0a5|Felix Baumann|Wed Aug 27 19:12:43 2025 +0200|realtek: correct whitespace in hp dts files
-b92bab633f|John Audia|Thu Aug 28 14:53:27 2025 -0400|kernel: bump 6.12 to 6.12.44
-be88c224fa|John Audia|Sat Aug 30 07:26:03 2025 -0400|pcre2: bump to 10.46
-16ba3fc379|Felix Fietkau|Sat Aug 30 18:22:10 2025 +0200|wifi-scripts: ucode: fix starting without wpa_supplicant or hostapd
+fea5962755|gns|Mon Sep 1 18:15:13 2025 +0800|arm-trusted-firmware-mediatek: add MT7988 BL2 DDR3 RAM image
 </details>
