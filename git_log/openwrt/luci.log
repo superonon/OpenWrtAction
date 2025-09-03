@@ -1,0 +1,6 @@
+<details> <summary> <b>luci new commit log :new: </b>  </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+a2d0f5e2b3|Paul Donald|Tue Sep 2 15:14:58 2025 +0200|luci-mod-network: Change cache placeholder to internal default 150
+</details>

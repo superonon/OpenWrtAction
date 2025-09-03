@@ -1,0 +1,13 @@
+<details> <summary> <b>packages new commit log :new: </b>  </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+e41b6a885|Tianling Shen|Tue Sep 2 16:35:52 2025 +0800|sing-box: bump PKG_RELEASE
+ea1434b6c|Tianling Shen|Tue Sep 2 15:24:57 2025 +0800|Merge Official Source
+16ada8307|Van Waholtz|Mon Sep 1 01:22:20 2025 +0800|sing-box: add variant tiny
+28ac7b8dc|Anton P.|Sat Aug 30 18:36:40 2025 +0300|sing-box: Update to 1.12.4
+59880e81a|Luiz Angelo Daros de Luca|Sun Aug 31 18:46:36 2025 -0300|ruby: update to 3.3.9
+7be94fac3|Tianling Shen|Sun Aug 31 14:43:02 2025 +0800|libtorrent-rasterbar: update boost dependencies
+2d05ae0b4|Gregory Gullin|Sat Jul 12 16:42:06 2025 +0300|micro: add new package
+55404adb9|Aleksey Vasilenko|Thu Aug 28 21:40:17 2025 +0300|squid: update to 7.1
+</details>
