@@ -2,20 +2,14 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-bd831560cf|Janusz Dziedzic|Mon Sep 1 19:54:00 2025 +0200|linux-firmware: intel: kick BE200 wifi firmware
-9c82d49999|Janusz Dziedzic|Mon Sep 1 19:50:40 2025 +0200|mac80211: iwlwifi fix BE200 probe
-3dca527e6d|Christian Marangi|Mon Sep 1 18:30:27 2025 +0200|airoha: add NPU and reserved memory node for AN7581
-9d3009f426|Christian Marangi|Mon Sep 1 18:24:57 2025 +0200|airoha: major backport of Airoha Ethernet driver feature support
-354d7472d5|Christian Marangi|Mon Sep 1 18:23:58 2025 +0200|airoha: backport trivial fixes for pinctrl and ethernet driver
-0adaeff5ee|Christian Marangi|Mon Sep 1 18:19:57 2025 +0200|airoha: backport patch adding support for AN7581 Ethernet PHY
-081cfb3a24|Christian Marangi|Mon Sep 1 18:18:43 2025 +0200|generic: reintroduce Mediatek PHY patch to backport directory
-e00f77b3e7|Christian Marangi|Mon Sep 1 18:03:35 2025 +0200|firmware: Add support for Airoha EN7581 NPU firmware
-08a616b216|Christian Marangi|Sat Jul 5 13:01:21 2025 +0200|generic: backport support for Aeonsemi AS21xxx PHY
-4f34c4c453|Christian Marangi|Sat Jul 5 12:51:49 2025 +0200|firmware: Add support for Aeonsemi AS21xxx firmware
-a713260966|Christian Marangi|Sat Jul 5 12:44:03 2025 +0200|airoha: replace thermal patch with upstream version
-b082f9f60e|Jonas Jelonek|Tue Sep 2 09:38:51 2025 +0200|realtek: fix model for TP-Link TL-ST1008F v2.0
-c589fb7baf|Hauke Mehrtens|Mon Sep 1 23:11:02 2025 +0200|kernel: Fix kernel regression in local-broadcast routes
-41aceb2de8|Oldřich Jedlička|Fri Aug 1 22:38:10 2025 +0200|wifi-scripts: ucode: print unknown ssid as unknown
-1756dddb9f|Oldřich Jedlička|Mon Sep 1 23:57:33 2025 +0200|wifi-scripts: ucode: fix dynamic_vlan value handling
-2146f5c31f|Oldřich Jedlička|Tue Jul 29 10:10:58 2025 +0200|wifi-scripts: ucode: set default wildcard mac for wifi-station
+6fdff789cd|Markus Stockhausen|Sat Aug 30 13:01:06 2025 -0400|realtek: Rename ZyXEL XGS1210-12 to XGS1210-12 a1
+1a200ead4f|Markus Stockhausen|Fri Aug 22 04:43:23 2025 -0400|realtek: rt-loader: add ROM uImage lookup (aka standalone)
+908cda6943|Markus Stockhausen|Fri Aug 22 04:41:29 2025 -0400|realtek: rt-loader: memory library enhancements
+8056b13965|Tianling Shen|Mon Sep 1 16:22:04 2025 +0800|uboot-rockchip: Update to 2025.07
+b21702805f|Tianling Shen|Mon Sep 1 16:14:09 2025 +0800|arm-trusted-firmware-rockchip: Update to 2.12.6
+1df3d0c4b8|David Bauer|Mon Jul 28 03:01:37 2025 +0200|uqmi: update to latest HEAD
+d2beb6bdc4|Sven Eckelmann|Wed Aug 20 05:19:31 2025 +0200|realtek: rtl931x: Fix unsafe MAC_L2_GLOBAL_CTRL2 access
+ea5a749311|Sven Eckelmann|Wed Aug 20 05:19:31 2025 +0200|realtek: rtl931x: Add LED Sync configuration
+93113a745a|Sven Eckelmann|Wed Aug 20 05:37:37 2025 +0200|realtek: rtl931x: Readd MAC_L2_GLOBAL_CTRL2 pinmux
+9c8d634646|Sven Eckelmann|Wed Aug 20 05:19:31 2025 +0200|realtek: rtl930x: Define GPIO_SEL_CTRL pinmux node
 </details>

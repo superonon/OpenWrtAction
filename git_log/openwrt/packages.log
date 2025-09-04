@@ -2,5 +2,13 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-16ada8307|Van Waholtz|Mon Sep 1 01:22:20 2025 +0800|sing-box: add variant tiny
+b3098fe68|Satadru Pramanik, DO, MPH, MEng|Wed Sep 3 11:23:23 2025 -0400|acme-common: cleanup acme start crontab migration
+96ab3378d|Eric Fahlgren|Wed Sep 3 10:00:45 2025 -0700|owut: update to 2025.09.03
+dea6fe132|Aleksey Vasilenko|Sun Aug 31 08:03:42 2025 +0300|lksctp-tools: update to 1.0.21
+465eddb46|John Audia|Tue Sep 2 06:58:47 2025 -0400|gperftools: update to 2.17.2
+26812701e|Miroslav Lichvar|Tue Sep 2 08:14:47 2025 +0200|chrony: update to 4.8
+75a96faba|Fabian Groffen|Tue Sep 2 13:25:46 2025 +0200|mwan3: bump PKG_RELEASE
+575db9300|Fabian Groffen|Tue Sep 2 13:24:02 2025 +0200|mwan3: init.d/mwan3: fix GNU grep warning about stray \
+47fd548a7|Fabian Groffen|Tue Sep 2 13:20:13 2025 +0200|mwan3: common.sh: fix src_ip detection for ipv6-PD
+f933e028f|Fabian Groffen|Tue Sep 2 13:19:55 2025 +0200|mwan3: common.sh: fix sed syntax for GNU sed
 </details>
