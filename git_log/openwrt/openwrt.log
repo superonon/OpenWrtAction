@@ -2,14 +2,11 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-6fdff789cd|Markus Stockhausen|Sat Aug 30 13:01:06 2025 -0400|realtek: Rename ZyXEL XGS1210-12 to XGS1210-12 a1
-1a200ead4f|Markus Stockhausen|Fri Aug 22 04:43:23 2025 -0400|realtek: rt-loader: add ROM uImage lookup (aka standalone)
-908cda6943|Markus Stockhausen|Fri Aug 22 04:41:29 2025 -0400|realtek: rt-loader: memory library enhancements
-8056b13965|Tianling Shen|Mon Sep 1 16:22:04 2025 +0800|uboot-rockchip: Update to 2025.07
-b21702805f|Tianling Shen|Mon Sep 1 16:14:09 2025 +0800|arm-trusted-firmware-rockchip: Update to 2.12.6
-1df3d0c4b8|David Bauer|Mon Jul 28 03:01:37 2025 +0200|uqmi: update to latest HEAD
-d2beb6bdc4|Sven Eckelmann|Wed Aug 20 05:19:31 2025 +0200|realtek: rtl931x: Fix unsafe MAC_L2_GLOBAL_CTRL2 access
-ea5a749311|Sven Eckelmann|Wed Aug 20 05:19:31 2025 +0200|realtek: rtl931x: Add LED Sync configuration
-93113a745a|Sven Eckelmann|Wed Aug 20 05:37:37 2025 +0200|realtek: rtl931x: Readd MAC_L2_GLOBAL_CTRL2 pinmux
-9c8d634646|Sven Eckelmann|Wed Aug 20 05:19:31 2025 +0200|realtek: rtl930x: Define GPIO_SEL_CTRL pinmux node
+b4294bc980|Mieczyslaw Nalewaj|Sun Aug 31 16:53:36 2025 +0200|kernel: update and move net bridge patch to backport folder
+d8904254bc|Felix Fietkau|Thu Sep 4 23:23:44 2025 +0200|Revert "mt76: update to Git HEAD (2025-09-04)"
+2eb42969a7|Felix Fietkau|Thu Sep 4 19:30:09 2025 +0200|mt76: update to Git HEAD (2025-09-04)
+3e6d5be3d9|Felix Fietkau|Mon Jul 14 11:55:10 2025 +0200|kernel: improve mtk_eth_soc performance
+d751f1e57e|Hauke Mehrtens|Wed Sep 3 22:42:48 2025 +0200|mac80211: Fix compilation of iwlwifi driver
+350d8a0711|Hauke Mehrtens|Wed Sep 3 22:55:26 2025 +0200|mac80211: iwlwifi: Add DRIVER_11BE_SUPPORT
+a51d246e85|Hauke Mehrtens|Wed Sep 3 22:56:43 2025 +0200|mac80211: Refresh patches
 </details>
