@@ -2,15 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-2e2cc335a|Hannu Nyman|Wed Sep 3 19:36:19 2025 +0300|sing-box: Properly set only the full variant as default
-ae6fd69de|Wesley Gimenes|Tue Jun 3 23:36:52 2025 -0300|gihub: fix PR template broken URL
-fd4eafd95|Florian Eckert|Wed Sep 3 12:44:51 2025 +0200|modemmanager: bump PKG_RELEASE
-246506690|Florian Eckert|Thu Aug 7 12:22:24 2025 +0200|modemmanager: always reset the init_eps if not configured
-f49138b56|Florian Eckert|Thu Aug 7 12:08:05 2025 +0200|modemmanager: add missing ppp ifname option value
-71dbf1cc0|Florian Eckert|Mon Dec 16 15:54:23 2024 +0100|keepalived: add enabled option
-1d7943983|Florian Eckert|Mon Dec 16 15:35:12 2024 +0100|keepalived: only add content to config file if needed
-9db0eab9c|Florian Eckert|Mon Nov 11 11:22:15 2024 +0100|keepalived: enable reproducible-build
-5d8cf2466|Florian Eckert|Mon Jun 2 09:01:22 2025 +0200|stunnel: update version to 5.75
-88844e455|Florian Eckert|Mon Jun 2 08:57:02 2025 +0200|stunnel: update version to 5.74
-9d640d8da|Florian Eckert|Mon Sep 16 13:01:16 2024 +0200|stunnel: update version to 5.73
+a80cc41f2|Carl-Daniel Hailfinger|Wed Sep 3 09:55:02 2025 +0200|realtek-poe: increase version to 1.3
+50add4103|Nuno Gonçalves|Wed Sep 3 16:07:16 2025 +0100|esp2net: bump to 2025-09-02
 </details>

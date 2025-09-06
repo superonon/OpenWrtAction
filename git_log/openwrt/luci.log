@@ -2,5 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-183ab68aef|Arayuki Mago|Tue Sep 2 00:51:33 2025 +0900|luci-proto-ipv6: map: allow /128 IPv6 prefix length IPv6 prefix length is normally valid in the range 0–64. Additionally, /128 is a special case that needs to be supported.
+1631c72b8c|Hosted Weblate|Thu Sep 4 14:52:26 2025 +0200|Translated using Weblate (Catalan)
 </details>

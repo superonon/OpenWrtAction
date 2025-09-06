@@ -2,11 +2,8 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-b4294bc980|Mieczyslaw Nalewaj|Sun Aug 31 16:53:36 2025 +0200|kernel: update and move net bridge patch to backport folder
-d8904254bc|Felix Fietkau|Thu Sep 4 23:23:44 2025 +0200|Revert "mt76: update to Git HEAD (2025-09-04)"
-2eb42969a7|Felix Fietkau|Thu Sep 4 19:30:09 2025 +0200|mt76: update to Git HEAD (2025-09-04)
-3e6d5be3d9|Felix Fietkau|Mon Jul 14 11:55:10 2025 +0200|kernel: improve mtk_eth_soc performance
-d751f1e57e|Hauke Mehrtens|Wed Sep 3 22:42:48 2025 +0200|mac80211: Fix compilation of iwlwifi driver
-350d8a0711|Hauke Mehrtens|Wed Sep 3 22:55:26 2025 +0200|mac80211: iwlwifi: Add DRIVER_11BE_SUPPORT
-a51d246e85|Hauke Mehrtens|Wed Sep 3 22:56:43 2025 +0200|mac80211: Refresh patches
+79d3db7447|Felix Fietkau|Fri Sep 5 18:18:54 2025 +0200|Revert "kernel: improve mtk_eth_soc performance"
+5e231cc2f0|Aleksander Jan Bajkowski|Sun Aug 31 21:54:34 2025 +0200|kernel: add quirk for two SFP+ transceivers
+f151951a0f|Markus Stockhausen|Sat Aug 30 12:29:29 2025 -0400|realtek: drop obsolete kernel patches
+3d7b0bc5c1|Markus Stockhausen|Sat Aug 30 12:12:34 2025 -0400|realtek: drop RTL8226/RTL8221B downstream PHY driver
 </details>
