@@ -1,9 +1,0 @@
-<details> <summary> <b>openwrt new commit log :new: </b>  </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-79d3db7447|Felix Fietkau|Fri Sep 5 18:18:54 2025 +0200|Revert "kernel: improve mtk_eth_soc performance"
-5e231cc2f0|Aleksander Jan Bajkowski|Sun Aug 31 21:54:34 2025 +0200|kernel: add quirk for two SFP+ transceivers
-f151951a0f|Markus Stockhausen|Sat Aug 30 12:29:29 2025 -0400|realtek: drop obsolete kernel patches
-3d7b0bc5c1|Markus Stockhausen|Sat Aug 30 12:12:34 2025 -0400|realtek: drop RTL8226/RTL8221B downstream PHY driver
-</details>
