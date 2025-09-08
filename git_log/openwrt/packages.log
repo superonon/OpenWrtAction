@@ -2,6 +2,12 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-dd436c9f2|Michel Promonet|Sat Aug 23 12:19:55 2025 +0200|v4l2loopback: update to version 0.15.1
-69e9d5c56|Michael Heimpold|Wed Sep 3 21:12:20 2025 +0200|php8: update to 8.4.12
+a75e0a6db|John Audia|Sat Sep 6 07:42:29 2025 -0400|snort3: update to 3.9.5.0
+257e2fc38|John Audia|Fri Jul 18 09:46:45 2025 -0400|snort3: fix logic in gpertools-runtime depends
+23475cb50|Tianling Shen|Sun Sep 7 20:09:10 2025 +0800|openlist: Update to 4.1.2
+526eed02b|Tianling Shen|Sun Sep 7 20:08:16 2025 +0800|xray-core: Update to 25.9.5
+a4e99f964|Tianling Shen|Sun Sep 7 20:07:56 2025 +0800|v2ray-core: Update to 5.38.0
+3eb22bc1f|Tianling Shen|Sun Sep 7 20:07:22 2025 +0800|v2raya: Update to 2.2.7.1
+9690cb87d|Tianling Shen|Sun Sep 7 20:07:00 2025 +0800|v2ray-geodata: Update to latest version
+a8d300ad6|Rosen Penev|Thu Aug 14 12:44:08 2025 -0700|libconfig: update to 1.8.1
 </details>
