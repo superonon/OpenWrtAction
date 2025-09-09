@@ -2,6 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-0a1bb36532|Hannu Nyman|Sun Sep 7 19:52:35 2025 +0300|treewide: Sync translations - i18n
-670c5592d1|Hannu Nyman|Sun Sep 7 19:41:03 2025 +0300|build: enable packaging of Gaelic (Irish) and Tamil translations
+6c91e303fa|Sergey Ponomarev|Mon Jul 7 21:58:30 2025 +0300|luci-app-acme: DNS API: Show Options Title
+6a36e9ac50|Sergey Ponomarev|Mon Jul 7 20:28:34 2025 +0300|luci-app-acme: render DNS API fields from the Structured Info
 </details>
