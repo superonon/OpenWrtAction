@@ -1,7 +1,0 @@
-<details> <summary> <b>luci new commit log :new: </b>  </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-6c91e303fa|Sergey Ponomarev|Mon Jul 7 21:58:30 2025 +0300|luci-app-acme: DNS API: Show Options Title
-6a36e9ac50|Sergey Ponomarev|Mon Jul 7 20:28:34 2025 +0300|luci-app-acme: render DNS API fields from the Structured Info
-</details>

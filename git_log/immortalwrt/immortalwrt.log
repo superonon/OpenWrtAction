@@ -2,21 +2,14 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-39749e6b33|Tianling Shen|Mon Sep 8 22:38:13 2025 +0800|Merge Official Source
-672e45e69f|Tianling Shen|Sun Aug 31 22:32:15 2025 +0800|rockchip: increase the number of serial ports for rk35xx
-420be05d90|Jan Kardell|Mon Sep 8 08:52:40 2025 +0200|libxml2: Add abi version
-13e10bb8d3|Fabrice Fontaine|Wed Sep 3 11:31:52 2025 +0200|package/libs/gettext-full: fix license
-9a157b5d83|Fabrice Fontaine|Wed Sep 3 08:46:45 2025 +0200|package/libs/elfutils: fix license
-67345ead6c|Marcos Alano|Wed Aug 27 08:35:37 2025 -0300|build: Add compatibility with uutils' coreutils
-13db7a0708|Tianling Shen|Mon Sep 1 17:53:18 2025 +0800|rockchip: backport GATE_LINK support for RK3588
-3735317acc|Tianling Shen|Mon Sep 1 17:48:18 2025 +0800|rockchip: refresh and reorder patches
-cefb814fca|Rhnn Hur|Sun Oct 20 20:14:28 2024 +0900|mediatek: filogic: add support for ipTIME AX3000M
-ea002c077d|Aleksander Jan Bajkowski|Sat Sep 6 22:19:22 2025 +0200|zynq: disable unused Vitesse PHY
-6be2c7f651|Aleksander Jan Bajkowski|Sat Sep 6 22:18:01 2025 +0200|zynq: refresh config
-23f016cf1e|Mikhail Zhilkin|Fri Aug 29 22:24:19 2025 +0300|mediatek: CMCC RAX3000M: add RAX3000Me as alt model
-a140bcbc7c|Tianling Shen|Sun Aug 10 23:14:10 2025 +0800|kernel: add support for FudanMicro FM25S01A SPI-NAND
-ee2fae27bc|Mikhail Zhilkin|Thu Aug 14 19:15:09 2025 +0300|uboot-mediatek: add support for FudanMicro FM25S01A
-863a594d18|Mikhail Zhilkin|Wed Aug 13 22:46:54 2025 +0300|arm-trusted-firmware-mediatek: add FudanMicro manufacturer
-bf55d2fbec|Mikhail Zhilkin|Tue Aug 12 22:49:29 2025 +0300|uboot-mediatek: CMCC RAX3000M: add ddr3 build
-fa5e55153c|Mikhail Zhilkin|Tue Aug 12 22:48:13 2025 +0300|uboot-mediatek: CMCC RAX3000M: add Airoha AN8855 switch support
+9084f49725|Aviana Cruz|Tue Sep 9 05:57:22 2025 +0000|odhcpd: improve RFC 9096 compliance for lifetimes
+e2459d16a4|Tianling Shen|Tue Sep 9 17:21:56 2025 +0800|rockchip: include pcat-mgr for ariaboard photonicat by default
+b7d55cfd1d|Tianling Shen|Tue Sep 9 17:20:40 2025 +0800|Merge Official Source
+19e9772935|Felix Fietkau|Mon Jul 14 11:55:10 2025 +0200|kernel: improve mtk_eth_soc performance
+9a02069365|Andy Chiang|Mon Sep 8 01:39:53 2025 +0700|mac80211: use https instead of http
+c21d4916ae|Weijie Gao|Mon Sep 8 03:37:46 2025 +0800|loongarch64: switch to Linux 6.12 by default
+a61ab43fe7|Elbert Mai|Sat Jul 12 05:58:59 2025 -0700|bcm2712: add kmod-r8169 and kmod-usb-net-rtl8152
+cd394b420a|Zoltan HERPAI|Mon Aug 11 18:58:20 2025 +0200|sunxi: enable at24 support
+9fae84ecc9|Zoltan HERPAI|Mon Aug 11 18:59:04 2025 +0200|uboot-sunxi: randomize ethaddr on Olimex A20 boards
+35ff70e807|Christian Marangi|Mon Sep 8 20:22:09 2025 +0200|airoha: backport upstream fixes for pinctrl PHY LED and MDIO
 </details>
