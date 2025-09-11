@@ -2,14 +2,9 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-9084f49725|Aviana Cruz|Tue Sep 9 05:57:22 2025 +0000|odhcpd: improve RFC 9096 compliance for lifetimes
-e2459d16a4|Tianling Shen|Tue Sep 9 17:21:56 2025 +0800|rockchip: include pcat-mgr for ariaboard photonicat by default
-b7d55cfd1d|Tianling Shen|Tue Sep 9 17:20:40 2025 +0800|Merge Official Source
-19e9772935|Felix Fietkau|Mon Jul 14 11:55:10 2025 +0200|kernel: improve mtk_eth_soc performance
-9a02069365|Andy Chiang|Mon Sep 8 01:39:53 2025 +0700|mac80211: use https instead of http
-c21d4916ae|Weijie Gao|Mon Sep 8 03:37:46 2025 +0800|loongarch64: switch to Linux 6.12 by default
-a61ab43fe7|Elbert Mai|Sat Jul 12 05:58:59 2025 -0700|bcm2712: add kmod-r8169 and kmod-usb-net-rtl8152
-cd394b420a|Zoltan HERPAI|Mon Aug 11 18:58:20 2025 +0200|sunxi: enable at24 support
-9fae84ecc9|Zoltan HERPAI|Mon Aug 11 18:59:04 2025 +0200|uboot-sunxi: randomize ethaddr on Olimex A20 boards
-35ff70e807|Christian Marangi|Mon Sep 8 20:22:09 2025 +0200|airoha: backport upstream fixes for pinctrl PHY LED and MDIO
+e43e1e1665|Tianling Shen|Wed Sep 10 16:31:03 2025 +0800|rockchip: add missing boot flow for radxa rock 5c
+5d5b2c1071|Tianling Shen|Wed Sep 10 14:18:40 2025 +0800|Merge Official Source
+a2b0181350|Tianling Shen|Wed Sep 10 14:17:44 2025 +0800|uboot-rockchip: fix build for opi-5
+20d761cf19|Felix Fietkau|Wed Sep 10 06:29:29 2025 +0200|kernel: backport patch to allow bpf fallback to interpreter
+e401229918|Felix Fietkau|Tue Sep 9 18:30:52 2025 +0200|mt76: update to Git HEAD (2025-09-09)
 </details>

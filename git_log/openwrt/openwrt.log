@@ -2,6 +2,16 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-e401229918|Felix Fietkau|Tue Sep 9 18:30:52 2025 +0200|mt76: update to Git HEAD (2025-09-09)
-19e9772935|Felix Fietkau|Mon Jul 14 11:55:10 2025 +0200|kernel: improve mtk_eth_soc performance
+f26260c7e7|Paweł Owoc|Sun Sep 7 17:16:29 2025 +0200|mediatek: filogic: Add label wan and cpu for Zyxel EX5601-T0
+9ed4d27fbf|Paweł Owoc|Sun Sep 7 16:50:48 2025 +0200|mediatek: filogic: fix 5G MAC address for Zyxel EX5601
+5c57477358|Paweł Owoc|Sat Sep 6 20:49:04 2025 +0200|mediatek: filogic: Zyxel EX5601-T0 dts cleanup
+6cf5ba9a7d|Paweł Owoc|Sat Sep 6 20:04:09 2025 +0200|mediatek: filogic: fix fip partition size for Zyxel EX5601-T0
+97fca42507|Zhi-Jun You|Fri Sep 5 12:43:12 2025 +0800|mediatek: filogic: use NVMEM for wifi macaddr on NWA50AX Pro
+1f59ef64fa|Zhi-Jun You|Fri Sep 5 12:33:33 2025 +0800|mediatek: filogic: use NVMEM for EEPROM/precal on NWA50AX Pro
+f5655704a7|Rosen Penev|Mon Aug 18 17:46:06 2025 -0700|ramips: e390ax: remove redundant 02_network MACs
+75c4d43975|Rosen Penev|Wed Aug 13 17:22:35 2025 -0700|ramips: mt7621: set mac address in dts for DBDC
+ebd5e5fb53|Steffen Förster|Fri Apr 25 18:27:05 2025 +0200|ramips: switched TP-Link RE305 v1 to new partition layout
+5719d65064|Andy Chiang|Wed Sep 10 01:23:47 2025 +0700|kernel: r8168: add missing flags
+76cfd5b8b7|Markus Stockhausen|Tue Sep 9 02:25:00 2025 -0400|realtek: cleanup mach include
+20d761cf19|Felix Fietkau|Wed Sep 10 06:29:29 2025 +0200|kernel: backport patch to allow bpf fallback to interpreter
 </details>

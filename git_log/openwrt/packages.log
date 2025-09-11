@@ -2,12 +2,15 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-fddf1cf36|Lukas Voegl|Mon Sep 8 13:29:27 2025 +0200|libxmlb: update to 0.3.23
-d6a08b5ff|Lukas Voegl|Mon Sep 8 13:31:22 2025 +0200|libjcat: update to 0.2.3
-f7df64100|Tianling Shen|Tue Sep 9 21:14:51 2025 +0800|dufs: Update to 0.45.0
-7dee0d093|Szabolcs Hubai|Sun Aug 24 15:37:40 2025 +0200|snapcast: fix compilation with boost 1.89.0
-3aef4a36a|Szabolcs Hubai|Mon Jun 23 19:45:00 2025 +0200|snapcast: fix compilation with boost 1.88.0
-a84e684f5|Szabolcs Hubai|Fri Jan 17 22:39:10 2025 +0100|snapcast: fix compilation with boost 1.87.0
-eeb8d131f|Szabolcs Hubai|Thu Apr 18 00:23:26 2024 +0200|snapcast: add package snapserver and snapclient
-e5a64aadc|Szabolcs Hubai|Thu Apr 18 00:18:44 2024 +0200|snapcast: add Snapcast from badaix/snapos as is
+7de0c8799|Wesley Gimenes|Sat Aug 9 18:02:11 2025 -0300|dockerd: remove cgroupfs-mount dependency
+3f06a3b77|Wesley Gimenes|Tue Aug 5 15:34:32 2025 -0300|cgroupfs-mount: remove package
+95107af88|Wesley Gimenes|Tue Aug 26 17:01:14 2025 -0300|netbird: switch to profile-based configuration
+56e0fe19e|Wesley Gimenes|Sun Aug 10 22:19:57 2025 -0300|netbird: update to 0.55.1
+3ccdeef8e|Wesley Gimenes|Wed Aug 6 16:51:56 2025 -0300|netbird: update to 0.53.0 with config fix
+9ae196693|Wesley Gimenes|Tue Aug 5 10:10:21 2025 -0300|netbird: update to 0.52.2
+ca14c7e62|Wesley Gimenes|Tue Aug 5 09:53:05 2025 -0300|netbird: cleanup init script
+2bbca5dfa|John Audia|Sun Sep 7 07:28:36 2025 -0400|snort3: replace complex sed calls with patch
+87d0da8aa|John Audia|Sun Sep 7 07:05:52 2025 -0400|snort3: clean-up Makefile
+891492946|John Audia|Sun Sep 7 06:57:17 2025 -0400|snort3: switch from git proto to tarballs
+99b4fc927|Daniel Golle|Sat Sep 6 01:18:43 2025 +0100|pixman: update to version 0.46.4
 </details>
