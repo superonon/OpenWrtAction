@@ -2,16 +2,16 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-f26260c7e7|Paweł Owoc|Sun Sep 7 17:16:29 2025 +0200|mediatek: filogic: Add label wan and cpu for Zyxel EX5601-T0
-9ed4d27fbf|Paweł Owoc|Sun Sep 7 16:50:48 2025 +0200|mediatek: filogic: fix 5G MAC address for Zyxel EX5601
-5c57477358|Paweł Owoc|Sat Sep 6 20:49:04 2025 +0200|mediatek: filogic: Zyxel EX5601-T0 dts cleanup
-6cf5ba9a7d|Paweł Owoc|Sat Sep 6 20:04:09 2025 +0200|mediatek: filogic: fix fip partition size for Zyxel EX5601-T0
-97fca42507|Zhi-Jun You|Fri Sep 5 12:43:12 2025 +0800|mediatek: filogic: use NVMEM for wifi macaddr on NWA50AX Pro
-1f59ef64fa|Zhi-Jun You|Fri Sep 5 12:33:33 2025 +0800|mediatek: filogic: use NVMEM for EEPROM/precal on NWA50AX Pro
-f5655704a7|Rosen Penev|Mon Aug 18 17:46:06 2025 -0700|ramips: e390ax: remove redundant 02_network MACs
-75c4d43975|Rosen Penev|Wed Aug 13 17:22:35 2025 -0700|ramips: mt7621: set mac address in dts for DBDC
-ebd5e5fb53|Steffen Förster|Fri Apr 25 18:27:05 2025 +0200|ramips: switched TP-Link RE305 v1 to new partition layout
-5719d65064|Andy Chiang|Wed Sep 10 01:23:47 2025 +0700|kernel: r8168: add missing flags
-76cfd5b8b7|Markus Stockhausen|Tue Sep 9 02:25:00 2025 -0400|realtek: cleanup mach include
-20d761cf19|Felix Fietkau|Wed Sep 10 06:29:29 2025 +0200|kernel: backport patch to allow bpf fallback to interpreter
+3ca84b840c|Rosen Penev|Fri Aug 29 16:28:54 2025 -0700|ath79: add nvmem handling for AR9285 devices
+d13c3200ea|Rosen Penev|Mon Dec 16 14:15:08 2024 -0800|ath79: fix calibration size for AR9285
+442f91c117|Caleb James DeLisle|Mon Sep 1 10:21:10 2025 +0000|econet: Add new target TP-Link Archer VR1200v (v2)
+ef2785a2d0|Caleb James DeLisle|Mon Sep 1 10:10:56 2025 +0000|econet: Add new target SmartFiber XP8421-B
+73d0f92460|Caleb James DeLisle|Mon Sep 1 10:09:22 2025 +0000|kernel: Add new platform EcoNet MIPS
+0575c3a181|Paweł Owoc|Sat Sep 6 19:45:58 2025 +0200|uboot-envtools: use ubootenv_add_mtd function
+d76a774270|Tianling Shen|Mon Sep 8 21:54:55 2025 +0800|rockchip: add Lunzn FastRhino R66S support
+678536740e|Tianling Shen|Mon Sep 8 21:50:33 2025 +0800|uboot-rockchip: add Fastrhino R66S support
+bcfc3f01a4|Linus Kardell|Tue Sep 9 16:24:55 2025 +0200|openssl: correct PKG_LICENSE_FILES
+24ee23a8a5|Linus Kardell|Tue Sep 9 16:24:26 2025 +0200|libxml2: correct PKG_LICENSE_FILES
+689eebd8d2|Tianling Shen|Tue Sep 9 18:18:54 2025 +0800|rkbin: rename tpl-only target
+798fcd8742|Tianling Shen|Tue Sep 9 18:08:07 2025 +0800|rkbin: bump to latest git HEAD
 </details>

@@ -2,5 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-551ef4a7c|Dan Srebnick|Mon Sep 1 11:45:15 2025 -0400|ampr-ripd: script improvements and add QA script
+1ff2194d|coolsnowwolf|Fri Sep 12 03:54:41 2025 +0800|rust: switch source archive to tar.xz
 </details>
