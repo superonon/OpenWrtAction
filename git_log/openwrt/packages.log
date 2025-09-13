@@ -2,5 +2,7 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-551ef4a7c|Dan Srebnick|Mon Sep 1 11:45:15 2025 -0400|ampr-ripd: script improvements and add QA script
+6f6ad3fe1|Tianling Shen|Sat Sep 6 16:35:40 2025 +0800|arp-whisper: do not lock deps
+a5c3fd1fe|Tianling Shen|Fri Sep 5 22:03:15 2025 +0800|rust: add loongarch64 and powerpc to supported targets
+06bc7784c|Aleksey Vasilenko|Thu Sep 11 11:11:08 2025 +0300|erlang: update to 28.0.3
 </details>

@@ -2,16 +2,20 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-3ca84b840c|Rosen Penev|Fri Aug 29 16:28:54 2025 -0700|ath79: add nvmem handling for AR9285 devices
-d13c3200ea|Rosen Penev|Mon Dec 16 14:15:08 2024 -0800|ath79: fix calibration size for AR9285
-442f91c117|Caleb James DeLisle|Mon Sep 1 10:21:10 2025 +0000|econet: Add new target TP-Link Archer VR1200v (v2)
-ef2785a2d0|Caleb James DeLisle|Mon Sep 1 10:10:56 2025 +0000|econet: Add new target SmartFiber XP8421-B
-73d0f92460|Caleb James DeLisle|Mon Sep 1 10:09:22 2025 +0000|kernel: Add new platform EcoNet MIPS
-0575c3a181|Paweł Owoc|Sat Sep 6 19:45:58 2025 +0200|uboot-envtools: use ubootenv_add_mtd function
-d76a774270|Tianling Shen|Mon Sep 8 21:54:55 2025 +0800|rockchip: add Lunzn FastRhino R66S support
-678536740e|Tianling Shen|Mon Sep 8 21:50:33 2025 +0800|uboot-rockchip: add Fastrhino R66S support
-bcfc3f01a4|Linus Kardell|Tue Sep 9 16:24:55 2025 +0200|openssl: correct PKG_LICENSE_FILES
-24ee23a8a5|Linus Kardell|Tue Sep 9 16:24:26 2025 +0200|libxml2: correct PKG_LICENSE_FILES
-689eebd8d2|Tianling Shen|Tue Sep 9 18:18:54 2025 +0800|rkbin: rename tpl-only target
-798fcd8742|Tianling Shen|Tue Sep 9 18:08:07 2025 +0800|rkbin: bump to latest git HEAD
+8cbbcda1d9|Goetz Goerisch|Fri Sep 12 06:09:17 2025 +0200|kernel: bump 6.6 to 6.6.106
+67c5ec7092|Goetz Goerisch|Thu Sep 11 07:18:34 2025 +0200|kernel: bump 6.6 to 6.6.105
+7d37cb0986|Caleb James DeLisle|Fri Sep 12 06:43:21 2025 +0000|econet: Clean up kernel config and move subtarget devices into own file
+7a81397fbe|Hauke Mehrtens|Fri Sep 12 17:01:32 2025 +0200|CI: labeler: Add econet
+ecab29d875|Markus Stockhausen|Wed Sep 10 01:59:35 2025 -0400|realtek: drop HSGMII patch
+61b72cb736|Markus Stockhausen|Wed Sep 10 01:37:08 2025 -0400|realtek: drop usage of proprietary HSGMII mode
+57b2706845|Markus Stockhausen|Mon Sep 8 05:53:16 2025 -0400|realtek: dts: rearrange mdio-bus below mdio-controller
+616559b6d3|Markus Stockhausen|Mon Sep 8 05:19:30 2025 -0400|realtek: mdio: convert mdio bus to new device nodes and compatibles
+13b6c62b75|Markus Stockhausen|Mon Sep 8 01:51:21 2025 -0400|realtek: dts: add mdio controller device nodes
+69ce2eeb97|Markus Stockhausen|Sun Sep 7 08:46:16 2025 -0400|realtek: rtl931x: align SerDes access with other targets
+36d0690993|Felix Fietkau|Fri Sep 12 14:39:48 2025 +0200|kernel: mtk_eth_soc: zero-initialize PPE flow tables
+125c974bf7|Felix Fietkau|Fri Sep 12 11:29:00 2025 +0200|netifd: update to Git HEAD (2025-09-12)
+4e7914f96a|John Audia|Thu Sep 11 15:26:21 2025 -0400|ethtool: update to 6.15
+1cffb44b3c|Álvaro Fernández Rojas|Thu Sep 11 13:15:16 2025 +0200|kernel: r8127: update to v11.015.00
+27a3e5c7b7|Álvaro Fernández Rojas|Thu Sep 11 13:11:59 2025 +0200|kernel: r8126: update to v10.016.00
+2dfad04a82|Álvaro Fernández Rojas|Thu Sep 11 13:11:11 2025 +0200|kernel: r8125: update to v9.016.01
 </details>

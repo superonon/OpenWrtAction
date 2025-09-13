@@ -2,5 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-1ff2194d|coolsnowwolf|Fri Sep 12 03:54:41 2025 +0800|rust: switch source archive to tar.xz
+a1d7d75b6|Tianling Shen|Fri Sep 12 21:14:08 2025 +0800|Revert "node: fix build with gcc9"
 </details>
