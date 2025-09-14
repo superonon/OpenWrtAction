@@ -2,7 +2,16 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-6f6ad3fe1|Tianling Shen|Sat Sep 6 16:35:40 2025 +0800|arp-whisper: do not lock deps
-a5c3fd1fe|Tianling Shen|Fri Sep 5 22:03:15 2025 +0800|rust: add loongarch64 and powerpc to supported targets
-06bc7784c|Aleksey Vasilenko|Thu Sep 11 11:11:08 2025 +0300|erlang: update to 28.0.3
+188422545|David Härdeman|Sun Jul 27 22:33:38 2025 +0200|bind: fix build and bump PKG_RELEASE
+dc68b6679|David Härdeman|Sun Aug 3 22:10:53 2025 +0200|isc-dhcp: create zones using rndc
+86b84e677|David Härdeman|Sun Jul 27 03:50:50 2025 +0200|bind: update conffiles list
+7d5e90915|David Härdeman|Sun Jul 27 03:47:56 2025 +0200|bind: update init script
+2a3454aee|David Härdeman|Sun Jul 27 03:02:31 2025 +0200|bind: use default rndc control channel
+0fdb6d602|David Härdeman|Sun Jul 27 02:47:49 2025 +0200|bind: rename named.conf.example
+3e49e7728|David Härdeman|Sun Jul 27 02:34:12 2025 +0200|bind: remove bind.keys
+a70bb7468|David Härdeman|Sun Jul 27 01:27:18 2025 +0200|bind: update db.root
+3452949a0|David Härdeman|Sun Jul 27 01:12:52 2025 +0200|bind: remove obsolete zone files
+8b473c82a|David Härdeman|Sun Jul 27 00:44:15 2025 +0200|bind: update wording in Config.in
+315024234|David Härdeman|Sun Jul 27 00:39:22 2025 +0200|bind: update named.conf
+e8293e59f|David Härdeman|Sun Jul 27 00:28:26 2025 +0200|bind: bind-server depends on bind-rndc
 </details>
