@@ -2,20 +2,10 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-8196b6f719|Tianling Shen|Sun Sep 14 03:12:13 2025 +0800|Merge Official Source
-2503e5bc37|Donghyun Ko|Fri Aug 1 15:01:07 2025 +0900|mediatek: add support for ipTIME AX7800M-6E
-7203470378|Tianling Shen|Sat Sep 13 20:49:15 2025 +0800|cpufreq: do not specify cpufreq for rk3588
-9cfbd691e9|Daniel Golle|Thu Sep 11 01:43:24 2025 +0100|mediatek: add driver for HW-RNG v2
-8cbbcda1d9|Goetz Goerisch|Fri Sep 12 06:09:17 2025 +0200|kernel: bump 6.6 to 6.6.106
-67c5ec7092|Goetz Goerisch|Thu Sep 11 07:18:34 2025 +0200|kernel: bump 6.6 to 6.6.105
-7d37cb0986|Caleb James DeLisle|Fri Sep 12 06:43:21 2025 +0000|econet: Clean up kernel config and move subtarget devices into own file
-7a81397fbe|Hauke Mehrtens|Fri Sep 12 17:01:32 2025 +0200|CI: labeler: Add econet
-ecab29d875|Markus Stockhausen|Wed Sep 10 01:59:35 2025 -0400|realtek: drop HSGMII patch
-61b72cb736|Markus Stockhausen|Wed Sep 10 01:37:08 2025 -0400|realtek: drop usage of proprietary HSGMII mode
-57b2706845|Markus Stockhausen|Mon Sep 8 05:53:16 2025 -0400|realtek: dts: rearrange mdio-bus below mdio-controller
-616559b6d3|Markus Stockhausen|Mon Sep 8 05:19:30 2025 -0400|realtek: mdio: convert mdio bus to new device nodes and compatibles
-13b6c62b75|Markus Stockhausen|Mon Sep 8 01:51:21 2025 -0400|realtek: dts: add mdio controller device nodes
-69ce2eeb97|Markus Stockhausen|Sun Sep 7 08:46:16 2025 -0400|realtek: rtl931x: align SerDes access with other targets
-36d0690993|Felix Fietkau|Fri Sep 12 14:39:48 2025 +0200|kernel: mtk_eth_soc: zero-initialize PPE flow tables
-125c974bf7|Felix Fietkau|Fri Sep 12 11:29:00 2025 +0200|netifd: update to Git HEAD (2025-09-12)
+f23e7233f5|Tianling Shen|Sun Sep 14 19:05:06 2025 +0800|odhcpd: refresh patches
+d5ac2b3d2b|Tianling Shen|Sun Sep 14 17:24:08 2025 +0800|Merge Official Source
+b63a48b012|Tianling Shen|Tue Sep 9 22:20:49 2025 +0800|uboot-mediatek: update Airoha EN8811H driver
+a6da0e0d37|David Härdeman|Thu Sep 11 23:38:11 2025 +0200|odhcpd: update to Git HEAD (2025-08-26)
+d4893b816c|Markus Stockhausen|Fri Sep 12 15:51:15 2025 -0400|realtek: rtl931x: rename SerDes read/write helpers
+102d4db753|libiunc|Sun Sep 14 10:41:31 2025 +0800|kernel: refresh bpf patches
 </details>

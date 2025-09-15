@@ -2,16 +2,7 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-188422545|David Härdeman|Sun Jul 27 22:33:38 2025 +0200|bind: fix build and bump PKG_RELEASE
-dc68b6679|David Härdeman|Sun Aug 3 22:10:53 2025 +0200|isc-dhcp: create zones using rndc
-86b84e677|David Härdeman|Sun Jul 27 03:50:50 2025 +0200|bind: update conffiles list
-7d5e90915|David Härdeman|Sun Jul 27 03:47:56 2025 +0200|bind: update init script
-2a3454aee|David Härdeman|Sun Jul 27 03:02:31 2025 +0200|bind: use default rndc control channel
-0fdb6d602|David Härdeman|Sun Jul 27 02:47:49 2025 +0200|bind: rename named.conf.example
-3e49e7728|David Härdeman|Sun Jul 27 02:34:12 2025 +0200|bind: remove bind.keys
-a70bb7468|David Härdeman|Sun Jul 27 01:27:18 2025 +0200|bind: update db.root
-3452949a0|David Härdeman|Sun Jul 27 01:12:52 2025 +0200|bind: remove obsolete zone files
-8b473c82a|David Härdeman|Sun Jul 27 00:44:15 2025 +0200|bind: update wording in Config.in
-315024234|David Härdeman|Sun Jul 27 00:39:22 2025 +0200|bind: update named.conf
-e8293e59f|David Härdeman|Sun Jul 27 00:28:26 2025 +0200|bind: bind-server depends on bind-rndc
+22aa9e52f|Chris Swan|Wed Sep 10 11:07:38 2025 +0100|cjson: update to 1.7.19
+a9ac8666d|Szabolcs Hubai|Sat Sep 13 23:47:52 2025 +0200|snapcast: fix PulseAudio
+c8e1b9af9|Glenn Strauss|Fri Sep 12 18:05:57 2025 -0400|lighttpd: update to lighttpd 1.4.82 release hash
 </details>

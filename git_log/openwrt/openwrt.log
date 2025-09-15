@@ -2,6 +2,10 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-2503e5bc37|Donghyun Ko|Fri Aug 1 15:01:07 2025 +0900|mediatek: add support for ipTIME AX7800M-6E
-9cfbd691e9|Daniel Golle|Thu Sep 11 01:43:24 2025 +0100|mediatek: add driver for HW-RNG v2
+e74cd41744|Chukun Pan|Wed Aug 6 22:08:20 2025 +0800|generic: fix typo in swconfig driver patch
+3a0581adc8|Rhnn Hur|Sun Sep 14 13:36:53 2025 +0900|mediatek: add missing eeprom for ipTIME AX3000M
+20aeef1ef8|Orne Brocaar|Tue Sep 9 10:04:59 2025 +0100|bcm27xx: Add padding after writing rootfs to image.
+b63a48b012|Tianling Shen|Tue Sep 9 22:20:49 2025 +0800|uboot-mediatek: update Airoha EN8811H driver
+a6da0e0d37|David Härdeman|Thu Sep 11 23:38:11 2025 +0200|odhcpd: update to Git HEAD (2025-08-26)
+d4893b816c|Markus Stockhausen|Fri Sep 12 15:51:15 2025 -0400|realtek: rtl931x: rename SerDes read/write helpers
 </details>

@@ -1,0 +1,7 @@
+<details> <summary> <b>luci new commit log :new: </b>  </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+f0567b422e|Tianling Shen|Sun Sep 14 20:56:12 2025 +0800|luci-app-filebrowser-go: add login tips
+c817507911|Tianling Shen|Sun Sep 14 16:20:52 2025 +0800|luci-app-homeproxy: bump to latest git HEAD
+</details>
