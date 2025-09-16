@@ -2,10 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-f23e7233f5|Tianling Shen|Sun Sep 14 19:05:06 2025 +0800|odhcpd: refresh patches
-d5ac2b3d2b|Tianling Shen|Sun Sep 14 17:24:08 2025 +0800|Merge Official Source
-b63a48b012|Tianling Shen|Tue Sep 9 22:20:49 2025 +0800|uboot-mediatek: update Airoha EN8811H driver
-a6da0e0d37|David Härdeman|Thu Sep 11 23:38:11 2025 +0200|odhcpd: update to Git HEAD (2025-08-26)
-d4893b816c|Markus Stockhausen|Fri Sep 12 15:51:15 2025 -0400|realtek: rtl931x: rename SerDes read/write helpers
-102d4db753|libiunc|Sun Sep 14 10:41:31 2025 +0800|kernel: refresh bpf patches
+65804bf40e|Tianling Shen|Mon Sep 15 14:04:15 2025 +0800|odhcpd: fix setting default ra mode
 </details>
