@@ -1,0 +1,42 @@
+<details> <summary> <b>packages new commit log :new: </b>  </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+a87c5d5de|Tianling Shen|Tue Sep 16 21:43:42 2025 +0800|Merge Official Source
+c0d7a7b08|Wesley Gimenes|Mon Sep 15 21:09:28 2025 -0300|port-mirroring: remove package
+c005c4d84|Chris Swan|Mon Sep 15 16:07:09 2025 +0100|csshnpd: bump to c1.0.16 release
+dccb02008|xiao bo|Tue Sep 16 08:02:21 2025 +0800|sing-box: update to 1.12.8
+453b3604c|Findlay Feng|Tue Aug 19 14:45:38 2025 +0800|rp-pppoe: delete the file /etc/ppp/options
+7c9184315|Jianhui Zhao|Sat Sep 13 13:26:48 2025 +0800|lua-eco: update to 3.12.0
+a4577bef1|John Audia|Sun Sep 14 08:00:10 2025 -0400|nfs-kernel-server: update to v2.8.4
+22aa9e52f|Chris Swan|Wed Sep 10 11:07:38 2025 +0100|cjson: update to 1.7.19
+a9ac8666d|Szabolcs Hubai|Sat Sep 13 23:47:52 2025 +0200|snapcast: fix PulseAudio
+c8e1b9af9|Glenn Strauss|Fri Sep 12 18:05:57 2025 -0400|lighttpd: update to lighttpd 1.4.82 release hash
+188422545|David Härdeman|Sun Jul 27 22:33:38 2025 +0200|bind: fix build and bump PKG_RELEASE
+dc68b6679|David Härdeman|Sun Aug 3 22:10:53 2025 +0200|isc-dhcp: create zones using rndc
+86b84e677|David Härdeman|Sun Jul 27 03:50:50 2025 +0200|bind: update conffiles list
+7d5e90915|David Härdeman|Sun Jul 27 03:47:56 2025 +0200|bind: update init script
+2a3454aee|David Härdeman|Sun Jul 27 03:02:31 2025 +0200|bind: use default rndc control channel
+0fdb6d602|David Härdeman|Sun Jul 27 02:47:49 2025 +0200|bind: rename named.conf.example
+3e49e7728|David Härdeman|Sun Jul 27 02:34:12 2025 +0200|bind: remove bind.keys
+a70bb7468|David Härdeman|Sun Jul 27 01:27:18 2025 +0200|bind: update db.root
+3452949a0|David Härdeman|Sun Jul 27 01:12:52 2025 +0200|bind: remove obsolete zone files
+8b473c82a|David Härdeman|Sun Jul 27 00:44:15 2025 +0200|bind: update wording in Config.in
+315024234|David Härdeman|Sun Jul 27 00:39:22 2025 +0200|bind: update named.conf
+e8293e59f|David Härdeman|Sun Jul 27 00:28:26 2025 +0200|bind: bind-server depends on bind-rndc
+6f6ad3fe1|Tianling Shen|Sat Sep 6 16:35:40 2025 +0800|arp-whisper: do not lock deps
+a5c3fd1fe|Tianling Shen|Fri Sep 5 22:03:15 2025 +0800|rust: add loongarch64 and powerpc to supported targets
+06bc7784c|Aleksey Vasilenko|Thu Sep 11 11:11:08 2025 +0300|erlang: update to 28.0.3
+551ef4a7c|Dan Srebnick|Mon Sep 1 11:45:15 2025 -0400|ampr-ripd: script improvements and add QA script
+7de0c8799|Wesley Gimenes|Sat Aug 9 18:02:11 2025 -0300|dockerd: remove cgroupfs-mount dependency
+3f06a3b77|Wesley Gimenes|Tue Aug 5 15:34:32 2025 -0300|cgroupfs-mount: remove package
+95107af88|Wesley Gimenes|Tue Aug 26 17:01:14 2025 -0300|netbird: switch to profile-based configuration
+56e0fe19e|Wesley Gimenes|Sun Aug 10 22:19:57 2025 -0300|netbird: update to 0.55.1
+3ccdeef8e|Wesley Gimenes|Wed Aug 6 16:51:56 2025 -0300|netbird: update to 0.53.0 with config fix
+9ae196693|Wesley Gimenes|Tue Aug 5 10:10:21 2025 -0300|netbird: update to 0.52.2
+ca14c7e62|Wesley Gimenes|Tue Aug 5 09:53:05 2025 -0300|netbird: cleanup init script
+2bbca5dfa|John Audia|Sun Sep 7 07:28:36 2025 -0400|snort3: replace complex sed calls with patch
+87d0da8aa|John Audia|Sun Sep 7 07:05:52 2025 -0400|snort3: clean-up Makefile
+891492946|John Audia|Sun Sep 7 06:57:17 2025 -0400|snort3: switch from git proto to tarballs
+99b4fc927|Daniel Golle|Sat Sep 6 01:18:43 2025 +0100|pixman: update to version 0.46.4
+</details>
