@@ -1,0 +1,29 @@
+<details> <summary> <b>immortalwrt new commit log :new: </b>  </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+92bd6deb0c|Tianling Shen|Wed Sep 17 16:45:03 2025 +0800|Merge Official Source
+122135b964|Kenneth Kasilag|Sat Sep 13 10:47:21 2025 +0000|airoha: an7581: add support for kernel 6.12
+87f3bf704c|Kenneth Kasilag|Sat Sep 13 09:32:19 2025 +0000|kernel/airoha: Restore kernel files for v6.6
+39ae0f972d|Kenneth Kasilag|Sat Sep 13 09:32:19 2025 +0000|kernel/airoha: Create kernel files for v6.12 (from v6.6)
+86f58731ef|Robert Marko|Tue Sep 16 17:19:23 2025 +0200|ipq-wifi: update to Git HEAD (2025-09-16)
+415a0d54c9|Paweł Owoc|Fri May 16 17:53:46 2025 +0200|qualcommax: ipq807x: use label MAC to set addresses for wireless interfaces
+35a4607008|Paweł Owoc|Wed May 7 19:05:46 2025 +0200|qualcommax: ipq807x: use ascii-env driver for Linksys MX devices
+57fcb37401|Linus Walleij|Sun Jan 12 01:37:20 2025 +0100|gemini: Add module for VSC73xx switches
+b7f1f8ed3b|Linus Walleij|Sun Jan 12 01:32:35 2025 +0100|kernel: netdevices: Create Vitesse DSA switch packages
+93ac1d7d87|Daniel Golle|Mon Sep 15 17:11:20 2025 +0100|mediatek: refresh patches
+afcec128c5|Marcos Alano|Sun Sep 14 22:32:12 2025 -0300|mediatek: add support for trng on mt7988a
+468975a985|George Moussalem|Tue Aug 19 18:51:59 2025 +0400|qualcommax: ipq50xx: backport upstreamed patches for adding ipq5018 CMN PLL support
+d393c55425|George Moussalem|Tue Aug 19 18:24:19 2025 +0400|qualcommax: ipq50xx: backport upstreamed patch for adding ipq5018 crypto node
+d88ef7b012|George Moussalem|Tue Aug 19 18:14:47 2025 +0400|qualcommax: ipq50xx: backport upstreamed patch for adding ipq5018 PRNG node
+c618d9f7c9|George Moussalem|Tue Aug 19 18:05:25 2025 +0400|qualcommax: ipq50xx: backport upstreamed patch for adding ipq5018 SPI nand support
+0465daed5d|George Moussalem|Tue Aug 19 16:39:06 2025 +0400|qualcommax: ipq50xx: backport upstreamed patches for adding ipq5018 GE PHY support
+f11f4a35c9|George Moussalem|Fri Aug 15 09:30:40 2025 +0400|qualcommax: ipq50xx: backport upstreamed patch for adding ipq5018 tsens node
+b4d6b6c986|Felix Fietkau|Mon Sep 15 09:53:54 2025 +0200|mt76: update to Git HEAD (2025-09-15)
+6f2738df55|Felix Fietkau|Sun Sep 14 17:07:53 2025 +0200|ucode: ubus: simplify sharing a global connection state
+90b01086db|Felix Fietkau|Sun Sep 14 17:04:44 2025 +0200|ucode: update to Git HEAD (2025-08-26)
+73504d0b27|Linus Walleij|Sat Sep 6 22:39:05 2025 +0200|kernel: kmod-dsa-ks8995: Backport DSA patches
+e74cd41744|Chukun Pan|Wed Aug 6 22:08:20 2025 +0800|generic: fix typo in swconfig driver patch
+3a0581adc8|Rhnn Hur|Sun Sep 14 13:36:53 2025 +0900|mediatek: add missing eeprom for ipTIME AX3000M
+20aeef1ef8|Orne Brocaar|Tue Sep 9 10:04:59 2025 +0100|bcm27xx: Add padding after writing rootfs to image.
+</details>

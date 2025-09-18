@@ -2,10 +2,13 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-122135b964|Kenneth Kasilag|Sat Sep 13 10:47:21 2025 +0000|airoha: an7581: add support for kernel 6.12
-87f3bf704c|Kenneth Kasilag|Sat Sep 13 09:32:19 2025 +0000|kernel/airoha: Restore kernel files for v6.6
-39ae0f972d|Kenneth Kasilag|Sat Sep 13 09:32:19 2025 +0000|kernel/airoha: Create kernel files for v6.12 (from v6.6)
-86f58731ef|Robert Marko|Tue Sep 16 17:19:23 2025 +0200|ipq-wifi: update to Git HEAD (2025-09-16)
-415a0d54c9|Paweł Owoc|Fri May 16 17:53:46 2025 +0200|qualcommax: ipq807x: use label MAC to set addresses for wireless interfaces
-35a4607008|Paweł Owoc|Wed May 7 19:05:46 2025 +0200|qualcommax: ipq807x: use ascii-env driver for Linksys MX devices
+af3ae2ae84|John Audia|Sun Sep 14 02:16:41 2025 -0400|intel-microcode: update to 20250812
+b9339a27f9|Roy H|Tue Sep 16 10:25:36 2025 +0700|ath79: fix longdata-aps256 wan port to work in factory bootloader
+d1fed22faf|Rosen Penev|Thu Sep 11 17:31:07 2025 -0700|ath79: tiny: tplink: add nvmem and fix
+7a7ee72c4d|Markus Stockhausen|Mon Sep 15 12:08:53 2025 -0400|realtek: mdio: add SerDes driver
+60bdae3ab3|Markus Stockhausen|Fri Sep 12 07:14:25 2025 -0400|realtek: ethernet: drop open coding
+532c51c15a|Markus Stockhausen|Fri Sep 12 05:55:47 2025 -0400|realtek: Increase verbosity in rtldsa_fib4_add()/rtldsa_fib4_del()
+d62ecd6c07|Leo Barsky|Wed Sep 17 13:01:59 2025 -0300|kernel: 6.12: refresh patches for airoha/econet on 6.12.45
+e31b69d6e8|George Moussalem|Wed Sep 17 09:56:49 2025 +0400|qualcommax: ipq50xx: backport upstreamed patch for adding ipq5018 I2C node
+5b8f185e27|Felix Fietkau|Wed Sep 17 12:27:00 2025 +0200|ucode: ubus: add shared global connection to uloop
 </details>
