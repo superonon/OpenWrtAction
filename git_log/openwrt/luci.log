@@ -1,0 +1,9 @@
+<details> <summary> <b>luci new commit log :new: </b>  </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+755061bc9e|Paul Donald|Fri Sep 19 01:45:03 2025 +0200|themes: remove overflow-y property; it inhibits readonly view scrolling
+f5d7eaa94e|Paul Donald|Fri Sep 19 01:35:15 2025 +0200|luci-app-unbound: fix logic error
+77e01d3d8c|TGSAN|Sat Sep 6 19:55:09 2025 +0800|luci-base: standards compliant dropdown fix for mobile keyboards
+7723fb2ead|JimMatthew|Sun Aug 10 22:33:06 2025 -0500|luci-app-unbound: Stat Scroll Behavior
+</details>

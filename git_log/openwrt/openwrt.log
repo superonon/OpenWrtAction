@@ -2,13 +2,22 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-af3ae2ae84|John Audia|Sun Sep 14 02:16:41 2025 -0400|intel-microcode: update to 20250812
-b9339a27f9|Roy H|Tue Sep 16 10:25:36 2025 +0700|ath79: fix longdata-aps256 wan port to work in factory bootloader
-d1fed22faf|Rosen Penev|Thu Sep 11 17:31:07 2025 -0700|ath79: tiny: tplink: add nvmem and fix
-7a7ee72c4d|Markus Stockhausen|Mon Sep 15 12:08:53 2025 -0400|realtek: mdio: add SerDes driver
-60bdae3ab3|Markus Stockhausen|Fri Sep 12 07:14:25 2025 -0400|realtek: ethernet: drop open coding
-532c51c15a|Markus Stockhausen|Fri Sep 12 05:55:47 2025 -0400|realtek: Increase verbosity in rtldsa_fib4_add()/rtldsa_fib4_del()
-d62ecd6c07|Leo Barsky|Wed Sep 17 13:01:59 2025 -0300|kernel: 6.12: refresh patches for airoha/econet on 6.12.45
-e31b69d6e8|George Moussalem|Wed Sep 17 09:56:49 2025 +0400|qualcommax: ipq50xx: backport upstreamed patch for adding ipq5018 I2C node
-5b8f185e27|Felix Fietkau|Wed Sep 17 12:27:00 2025 +0200|ucode: ubus: add shared global connection to uloop
+0203ef3fc9|Hauke Mehrtens|Fri Sep 19 01:54:13 2025 +0200|uqmi: Increase PKG_RELEASE
+73e04e2464|Elwin Huang|Fri Sep 5 21:37:32 2025 +0800|mediatek: add support for AsiaRF AP7622-WH1
+cd20ae44f2|David Bauer|Sun Sep 14 11:07:38 2025 +0200|uqmi: fix data-format parsing
+9241f29c0e|Vladimir Epifantsev|Sat Sep 6 20:01:34 2025 +0300|mediatek: filogic: add Keenetic Sprinter (KN-3711) support
+c43925313e|Caleb James DeLisle|Sun Sep 14 17:23:47 2025 +0000|econet: Add basic USB support with Mass Storage
+8dd3ee205a|Nickolay Goppen|Sat Sep 6 16:40:31 2025 +0300|ramips: add support for Zbtlink ZBT-WG108
+16075e1be7|Aleksander Jan Bajkowski|Thu Sep 18 19:15:46 2025 +0200|airoha: add missing Kconfig entry on 6.12
+aa3c98f821|Hauke Mehrtens|Wed Sep 17 19:55:50 2025 +0200|openssl: Backport fix for OpenSSL 3.5.2 and 3.0.17 regression
+9939ebc7fc|Ted Hess|Thu Sep 18 13:01:14 2025 -0400|odhcpd: update to Git HEAD (2025-09-16)
+440b85f5b1|Aleksander Jan Bajkowski|Sun Sep 14 17:38:24 2025 +0200|airoha: an7581: enable uart baudrate control
+055fa9b61e|John Audia|Thu Sep 11 15:43:04 2025 -0400|kernel: bump 6.12 to 6.12.47
+221eaf1339|John Audia|Thu Sep 11 15:37:51 2025 -0400|x86: config: add CONFIG_MITIGATION_VMSCAPE=y
+2c12942e5e|John Audia|Wed Sep 10 03:53:23 2025 -0400|kernel: bump 6.12 to 6.12.46
+5edf6a4c25|Rosen Penev|Thu Sep 11 16:48:59 2025 -0700|ath79: whr-g301n: remove custon wifi LED
+beb11add8b|Rosen Penev|Thu Sep 11 16:46:53 2025 -0700|ath79: whr-g301n: use nvmem for eeprom
+e2271a1dab|Markus Stockhausen|Thu Sep 18 02:35:32 2025 -0400|realtek: mdio: register SerDes bus so it can be looked up
+bb783e8548|Markus Stockhausen|Thu Sep 18 01:53:22 2025 -0400|realtek: mdio: Simplify backing SerDes calculation
+ab49297334|Markus Stockhausen|Thu Sep 18 01:34:27 2025 -0400|realtek: mdio: fix non-debug SerDes builds
 </details>

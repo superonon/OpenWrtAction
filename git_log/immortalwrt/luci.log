@@ -1,0 +1,9 @@
+<details> <summary> <b>luci new commit log :new: </b>  </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+0be456a4ff|Tianling Shen|Fri Sep 19 00:21:28 2025 +0800|luci-app-homeproxy: fix typo error
+4250f958bc|Tianling Shen|Thu Sep 18 20:46:41 2025 +0800|luci-app-openclash: Update to 0.47.006
+4dfc1fd555|Tianling Shen|Thu Sep 18 20:19:50 2025 +0800|luci-app-argon-config: fix use of ui.changes.apply
+357e456173|Tianling Shen|Thu Sep 18 20:15:45 2025 +0800|luci-app-homeproxy: bump to latest git HEAD
+</details>
