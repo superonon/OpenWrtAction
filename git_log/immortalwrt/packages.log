@@ -1,0 +1,9 @@
+<details> <summary> <b>packages new commit log :new: </b>  </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+1b8fb4a24|Tianling Shen|Fri Sep 19 18:32:11 2025 +0800|naiveproxy: fix build for mipsel
+68cfc21c4|Tianling Shen|Fri Sep 19 17:26:57 2025 +0800|hysteria: Update to 2.6.3
+49be07ed7|Tianling Shen|Fri Sep 19 17:26:00 2025 +0800|naiveproxy: Update to 140.0.7339.123-1
+8555f7330|Tianling Shen|Fri Sep 19 17:12:21 2025 +0800|gn: update to Git HEAD (2025-09-18)
+</details>

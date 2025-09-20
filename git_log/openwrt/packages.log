@@ -2,11 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-2b99cd7d7|Biao Zhu|Sun Sep 7 20:23:25 2025 +0800|fluent-bit: update to 4.0.9
-4410c8028|Luiz Angelo Daros de Luca|Sat Feb 8 04:59:08 2025 -0300|ruby: update to 3.4.5
-60ee48581|Wesley Gimenes|Mon Sep 15 21:48:12 2025 -0300|netbird: update to 0.57.1
-7fee65754|Niklas Thorild|Thu Aug 14 12:52:09 2025 +0200|dnscrypt-proxy2: update to version 2.1.14
-2de1c720e|George Sapkin|Wed Sep 17 14:36:04 2025 +0300|adguardhome: bump to 0.107.66
-9bb9fe2a3|George Sapkin|Wed Sep 17 14:49:13 2025 +0300|yt-dlp: bump to 2025.09.05
-2391212aa|Ray Wang|Thu Sep 18 08:41:00 2025 +0800|hev-socks5-server: update to 2.10.0
+c3a4dc458|David Härdeman|Thu Sep 18 09:55:29 2025 +0200|bind: don't break IPv6 support
+4c8c41c02|Tianling Shen|Fri Sep 19 15:46:51 2025 +0800|rust: Update to 1.90.0
 </details>

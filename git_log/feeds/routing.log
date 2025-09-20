@@ -1,0 +1,7 @@
+<details> <summary> <b>routing new commit log :new: </b>  </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+4a52b25|Florian Eckert|Fri Sep 19 09:30:53 2025 +0200|vis: fix PKG_MAINTAINER name to generate a valid JSON output
+fabd399|Florian Eckert|Fri Sep 19 09:30:35 2025 +0200|batmand: fix PGK_MAINTAINER name to generate a valid JSON output
+</details>

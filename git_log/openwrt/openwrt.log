@@ -2,22 +2,9 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-0203ef3fc9|Hauke Mehrtens|Fri Sep 19 01:54:13 2025 +0200|uqmi: Increase PKG_RELEASE
-73e04e2464|Elwin Huang|Fri Sep 5 21:37:32 2025 +0800|mediatek: add support for AsiaRF AP7622-WH1
-cd20ae44f2|David Bauer|Sun Sep 14 11:07:38 2025 +0200|uqmi: fix data-format parsing
-9241f29c0e|Vladimir Epifantsev|Sat Sep 6 20:01:34 2025 +0300|mediatek: filogic: add Keenetic Sprinter (KN-3711) support
-c43925313e|Caleb James DeLisle|Sun Sep 14 17:23:47 2025 +0000|econet: Add basic USB support with Mass Storage
-8dd3ee205a|Nickolay Goppen|Sat Sep 6 16:40:31 2025 +0300|ramips: add support for Zbtlink ZBT-WG108
-16075e1be7|Aleksander Jan Bajkowski|Thu Sep 18 19:15:46 2025 +0200|airoha: add missing Kconfig entry on 6.12
-aa3c98f821|Hauke Mehrtens|Wed Sep 17 19:55:50 2025 +0200|openssl: Backport fix for OpenSSL 3.5.2 and 3.0.17 regression
-9939ebc7fc|Ted Hess|Thu Sep 18 13:01:14 2025 -0400|odhcpd: update to Git HEAD (2025-09-16)
-440b85f5b1|Aleksander Jan Bajkowski|Sun Sep 14 17:38:24 2025 +0200|airoha: an7581: enable uart baudrate control
-055fa9b61e|John Audia|Thu Sep 11 15:43:04 2025 -0400|kernel: bump 6.12 to 6.12.47
-221eaf1339|John Audia|Thu Sep 11 15:37:51 2025 -0400|x86: config: add CONFIG_MITIGATION_VMSCAPE=y
-2c12942e5e|John Audia|Wed Sep 10 03:53:23 2025 -0400|kernel: bump 6.12 to 6.12.46
-5edf6a4c25|Rosen Penev|Thu Sep 11 16:48:59 2025 -0700|ath79: whr-g301n: remove custon wifi LED
-beb11add8b|Rosen Penev|Thu Sep 11 16:46:53 2025 -0700|ath79: whr-g301n: use nvmem for eeprom
-e2271a1dab|Markus Stockhausen|Thu Sep 18 02:35:32 2025 -0400|realtek: mdio: register SerDes bus so it can be looked up
-bb783e8548|Markus Stockhausen|Thu Sep 18 01:53:22 2025 -0400|realtek: mdio: Simplify backing SerDes calculation
-ab49297334|Markus Stockhausen|Thu Sep 18 01:34:27 2025 -0400|realtek: mdio: fix non-debug SerDes builds
+b2f814fed4|Coia Prant|Tue Dec 10 23:18:13 2024 +0800|ramips: add support for Qding QC202
+f38abc0248|Coia Prant|Sat Mar 22 00:13:57 2025 +0800|kernel: add kmod-input-matrix-keypad package
+ae7fc18cf2|Elwin Huang|Fri Sep 5 09:56:29 2025 +0800|ramips: add support for AsiaRF AP7621-004 Rev. 3
+fc9cf208c5|Markus Stockhausen|Fri Sep 19 04:57:21 2025 -0400|realtek: fix dts warnings.
+41aaebad98|George Moussalem|Fri Sep 19 09:50:01 2025 +0400|qualcommax: ipq50xx: backport upstreamed patch for adding ipq5018 UART2 node
 </details>

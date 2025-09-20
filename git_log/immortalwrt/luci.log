@@ -2,8 +2,10 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-0be456a4ff|Tianling Shen|Fri Sep 19 00:21:28 2025 +0800|luci-app-homeproxy: fix typo error
-4250f958bc|Tianling Shen|Thu Sep 18 20:46:41 2025 +0800|luci-app-openclash: Update to 0.47.006
-4dfc1fd555|Tianling Shen|Thu Sep 18 20:19:50 2025 +0800|luci-app-argon-config: fix use of ui.changes.apply
-357e456173|Tianling Shen|Thu Sep 18 20:15:45 2025 +0800|luci-app-homeproxy: bump to latest git HEAD
+b0abebf256|Tianling Shen|Fri Sep 19 15:09:48 2025 +0800|Merge Official Source
+51da8e1981|SakuraFallingMad|Sat Sep 6 18:18:41 2025 +0800|luci-app-passwall: bump to 25.9.19
+755061bc9e|Paul Donald|Fri Sep 19 01:45:03 2025 +0200|themes: remove overflow-y property; it inhibits readonly view scrolling
+f5d7eaa94e|Paul Donald|Fri Sep 19 01:35:15 2025 +0200|luci-app-unbound: fix logic error
+77e01d3d8c|TGSAN|Sat Sep 6 19:55:09 2025 +0800|luci-base: standards compliant dropdown fix for mobile keyboards
+7723fb2ead|JimMatthew|Sun Aug 10 22:33:06 2025 -0500|luci-app-unbound: Stat Scroll Behavior
 </details>
