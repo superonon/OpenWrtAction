@@ -2,9 +2,13 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-b2f814fed4|Coia Prant|Tue Dec 10 23:18:13 2024 +0800|ramips: add support for Qding QC202
-f38abc0248|Coia Prant|Sat Mar 22 00:13:57 2025 +0800|kernel: add kmod-input-matrix-keypad package
-ae7fc18cf2|Elwin Huang|Fri Sep 5 09:56:29 2025 +0800|ramips: add support for AsiaRF AP7621-004 Rev. 3
-fc9cf208c5|Markus Stockhausen|Fri Sep 19 04:57:21 2025 -0400|realtek: fix dts warnings.
-41aaebad98|George Moussalem|Fri Sep 19 09:50:01 2025 +0400|qualcommax: ipq50xx: backport upstreamed patch for adding ipq5018 UART2 node
+47155fe5ed|David Andreoletti|Wed Sep 17 15:25:06 2025 +0800|libnftnl: update to 1.3.0
+94fea8ea48|David Andreoletti|Mon Sep 15 14:56:15 2025 +0800|nftables: update to 1.1.5
+e49a2192e5|Hauke Mehrtens|Sat Sep 20 00:09:29 2025 +0200|mediatek: Fix setting MAC address for some devices
+8b891001f6|Elwin Huang|Wed Sep 17 09:59:46 2025 +0000|mediatek: filogic: add support for AsiaRF AP7986-003
+fe27cce1ec|Markus Stockhausen|Wed Sep 17 14:22:25 2025 -0400|realtek: add SerDes PCS driver
+06c895f5d3|Markus Stockhausen|Thu Sep 18 05:10:50 2025 -0400|realtek: DTS: add macro for switch port with SerDes
+e31127497c|Markus Stockhausen|Fri Sep 19 15:35:05 2025 -0400|realtek: timer: replace downstream with upstream patches
+95e04234c1|Rosen Penev|Sat May 24 18:02:14 2025 -0700|ath79: tl-wdr4900-v2: set ath9k led-pin
+6555321eb2|Rosen Penev|Wed Sep 17 18:44:21 2025 -0700|treewide: remove of_gpio.h
 </details>

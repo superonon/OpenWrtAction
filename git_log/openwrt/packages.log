@@ -2,6 +2,20 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-c3a4dc458|David Härdeman|Thu Sep 18 09:55:29 2025 +0200|bind: don't break IPv6 support
-4c8c41c02|Tianling Shen|Fri Sep 19 15:46:51 2025 +0800|rust: Update to 1.90.0
+1fd9f95a3|Nate Robinson|Sat Sep 20 13:45:04 2025 -0400|lf: update to r38
+26d248de2|Stan Grishin|Wed Aug 13 20:59:26 2025 +0000|unbound: update README
+513d270e3|Luiz Angelo Daros de Luca|Fri Aug 29 16:01:54 2025 -0300|sane-backends: update to 1.4.0
+c652fb04c|Rosen Penev|Fri Aug 22 19:22:08 2025 -0700|gphoto2: update to 2.5.32
+490653e0f|Rosen Penev|Fri Aug 22 19:09:22 2025 -0700|libgphoto2: update to 2.5.32
+b121b1ddf|Fabrice Fontaine|Wed Sep 17 08:58:04 2025 +0200|net/iputils: fix PKG_CPE_ID
+7155777e2|Fabrice Fontaine|Wed Sep 17 14:17:22 2025 +0200|cjson: fix PKG_CPE_ID
+76ff404bc|Fabrice Fontaine|Wed Sep 17 08:46:56 2025 +0200|python-cryptography: fix PKG_CPE_ID
+98adfcdc0|Fabrice Fontaine|Wed Sep 17 08:41:22 2025 +0200|gnuplot: fix PKG_CPE_ID
+aeb5fcd44|Fabrice Fontaine|Wed Sep 17 08:24:11 2025 +0200|boinc: fix PKG_CPE_ID
+3000e1a42|Aleksey Vasilenko|Fri Sep 19 01:02:16 2025 +0300|sendmail: update to 8.18.1
+304a18d4b|John Audia|Thu Sep 4 16:38:22 2025 -0400|snort3: add patch to unambiguously show vectorscan
+8d81f0e2e|John Audia|Tue Sep 2 06:21:37 2025 -0400|snort3: replace hyperscan with vectorscan in deps
+cd6de3f1d|John Audia|Tue Sep 2 14:02:58 2025 -0400|hyperscan: remove package
+0d643c23d|John Audia|Tue Sep 9 19:41:00 2025 -0400|snort3: remove hyperscan specific patch
+b6b2d1e30|John Audia|Sun May 21 08:04:37 2023 -0400|vectorscan: new package for speeding up regex ops
 </details>
