@@ -2,7 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-52a5db2a3a|Tianling Shen|Sat Sep 20 15:41:07 2025 +0800|Merge Official Source
-b4965119bc|David Härdeman|Wed Sep 10 23:41:30 2025 +0200|luci-mod-network: add DNR (RFC9463) support
-2524e2c029|Paul Donald|Fri Sep 19 14:10:23 2025 +0200|treewide: string fixes
+88347c0f1c|Tianling Shen|Sun Sep 21 22:48:39 2025 +0800|luci-app-homeproxy: bump to latest git HEAD
 </details>
