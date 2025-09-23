@@ -2,8 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-7f8a6b701e|Hannu Nyman|Sun Sep 21 22:53:28 2025 +0300|luci-base: Fix weblate conflict
-8182f8704a|ZW|Sun Sep 21 17:16:43 2025 +0200|Translated using Weblate (Chinese (Traditional Han script))
-f589567483|Hannu Nyman|Sun Sep 21 22:35:57 2025 +0300|treewide: sync translations
-640f35a77d|Hosted Weblate|Sun Sep 21 08:29:18 2025 +0200|Translated using Weblate (Russian)
+19057e3760|David Härdeman|Tue Sep 16 18:27:56 2025 +0200|luci-mod-network,-status: show DHCPv6 lease IAID
 </details>
