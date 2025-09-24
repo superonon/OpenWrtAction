@@ -2,9 +2,17 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-296c15c1f|Florian Maurer|Mon Sep 15 21:22:49 2025 +0200|tunneldigger: add broker_selection option to expose load balancing capabilities
-9a9fcc465|Moritz Warning|Thu Sep 18 23:31:45 2025 +0200|zerotier: update to 1.16.0
-728dc6dd3|Tianling Shen|Mon Sep 22 17:17:09 2025 +0800|btop: Update to 1.4.5
-173eb1d16|Tianling Shen|Mon Sep 22 17:16:47 2025 +0800|cloudflared: Update to 2025.9.0
-07ca6a83a|Tianling Shen|Mon Sep 22 17:16:21 2025 +0800|openlist: Update to 4.1.3
+f03521b19|Alexandru Ardelean|Tue Sep 23 16:26:09 2025 +0300|tcpreplay: bump to version 4.5.2
+9ab19754f|Alexandru Ardelean|Mon Sep 22 12:48:56 2025 +0300|stress-ng: bump to version 0.19.04
+a1562ef77|Alexandru Ardelean|Tue Sep 23 16:22:05 2025 +0300|squashfs-tools: bump to version 4.7.2
+6408f9ef6|George Sapkin|Fri May 2 17:29:44 2025 +0300|python-atomicwrites: drop package
+4c9553706|George Sapkin|Sun Apr 27 16:28:59 2025 +0300|temperusb: drop package
+ba6776091|George Sapkin|Sun Apr 27 16:28:28 2025 +0300|dhcp-forwarder: drop package
+f62054493|George Sapkin|Sun Apr 27 16:27:54 2025 +0300|libantlr3c: drop package
+96150f55d|George Sapkin|Sun Apr 27 16:27:53 2025 +0300|intltool: drop package
+14ff7c093|George Sapkin|Sun Apr 27 16:27:05 2025 +0300|pkg-config: drop package
+5e1d07b16|Alexandru Ardelean|Mon Sep 22 09:44:01 2025 +0300|numpy: bump to version 2.3.3
+087b985e0|Alexandru Ardelean|Mon Sep 22 09:42:46 2025 +0300|openblas: backport version of fix from upstream
+5a688059e|Florian Eckert|Tue Sep 23 09:51:13 2025 +0200|Revert "afraid.org-v2-token.json: Fix 404 on update"
+1463d79bd|Paul Donald|Fri Sep 19 01:21:05 2025 +0200|ddns-scripts: stash the next check time
 </details>

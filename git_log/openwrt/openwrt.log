@@ -2,5 +2,18 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-6b681fd285|Markus Stockhausen|Sat Sep 20 16:18:33 2025 -0400|realtek: dts: add pcs-handle to switch ports
+4eae48d9dc|Rosen Penev|Wed Aug 27 17:21:44 2025 -0700|lantiq: use new ADSL nvmem support
+fa442c5010|Rosen Penev|Wed Aug 27 17:21:44 2025 -0700|ltq-ptm: add NVMEM MAC support for ADSL
+028050da69|Mikhail Zhilkin|Mon Sep 15 22:09:32 2025 +0300|mediatek: CMCC RAX3000Me: fix stability issues
+93b208434d|Mikhail Zhilkin|Mon Sep 15 23:13:04 2025 +0300|arm-trusted-firmware-mediatek: add mt7981 DDR3 1866 MHz builds
+b8c427f486|Mikhail Zhilkin|Mon Sep 15 21:53:25 2025 +0300|arm-trusted-firmware-mediatek: mt7981-ram-ddr3: reduce ddr3 freq to 1866MHz
+2fae509a8f|John Audia|Wed Sep 17 10:34:13 2025 -0400|linux-firmware: update to 20250917
+d0383bb175|Coia Prant|Sat Sep 20 17:54:10 2025 +0800|ramips: Add factory image for Qding QC202
+8e6df323af|Andreas Gnau|Sun Sep 21 19:55:56 2025 +0200|rockchip: add missing config symbols
+089827f304|Andreas Gnau|Mon Sep 22 04:41:09 2025 +0200|generic: 6.12: add missing symbol NET_DSA_KS8995
+13a22b0030|Aleksander Jan Bajkowski|Mon Sep 22 20:46:04 2025 +0200|kernel: move accepted patch to backport directory
+51e6166061|Aleksander Jan Bajkowski|Mon Sep 22 19:53:42 2025 +0200|qualcomax: dts: fix typo "disbled"
+3872e9d317|Aleksander Jan Bajkowski|Mon Sep 22 19:53:29 2025 +0200|airoha: en7581: dts: fix typo "disable"
+ae9c9d0f8e|Bjørn Mork|Fri Dec 27 12:43:18 2024 +0100|build: parsing "git log" breaks with gpg signature verification
+347d546386|Markus Stockhausen|Mon Sep 22 11:04:05 2025 -0400|realtek: remove DSA internal PCS functions
 </details>
