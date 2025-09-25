@@ -2,17 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-f03521b19|Alexandru Ardelean|Tue Sep 23 16:26:09 2025 +0300|tcpreplay: bump to version 4.5.2
-9ab19754f|Alexandru Ardelean|Mon Sep 22 12:48:56 2025 +0300|stress-ng: bump to version 0.19.04
-a1562ef77|Alexandru Ardelean|Tue Sep 23 16:22:05 2025 +0300|squashfs-tools: bump to version 4.7.2
-6408f9ef6|George Sapkin|Fri May 2 17:29:44 2025 +0300|python-atomicwrites: drop package
-4c9553706|George Sapkin|Sun Apr 27 16:28:59 2025 +0300|temperusb: drop package
-ba6776091|George Sapkin|Sun Apr 27 16:28:28 2025 +0300|dhcp-forwarder: drop package
-f62054493|George Sapkin|Sun Apr 27 16:27:54 2025 +0300|libantlr3c: drop package
-96150f55d|George Sapkin|Sun Apr 27 16:27:53 2025 +0300|intltool: drop package
-14ff7c093|George Sapkin|Sun Apr 27 16:27:05 2025 +0300|pkg-config: drop package
-5e1d07b16|Alexandru Ardelean|Mon Sep 22 09:44:01 2025 +0300|numpy: bump to version 2.3.3
-087b985e0|Alexandru Ardelean|Mon Sep 22 09:42:46 2025 +0300|openblas: backport version of fix from upstream
-5a688059e|Florian Eckert|Tue Sep 23 09:51:13 2025 +0200|Revert "afraid.org-v2-token.json: Fix 404 on update"
-1463d79bd|Paul Donald|Fri Sep 19 01:21:05 2025 +0200|ddns-scripts: stash the next check time
+bddd5e9cb|Jan Hák|Mon Sep 22 15:21:21 2025 +0200|knot: update to version 3.5.0
+d84ce3454|Aleksey Vasilenko|Tue Sep 23 08:41:56 2025 +0300|sendmail: fix build on hosts with Berkley DB installed
 </details>
