@@ -2,6 +2,14 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-bddd5e9cb|Jan Hák|Mon Sep 22 15:21:21 2025 +0200|knot: update to version 3.5.0
-d84ce3454|Aleksey Vasilenko|Tue Sep 23 08:41:56 2025 +0300|sendmail: fix build on hosts with Berkley DB installed
+b1cfb71f7|Josef Schlehofer|Mon Jun 16 11:49:34 2025 +0200|syslog-ng: update to version 4.10.0
+971a2164f|Josef Schlehofer|Thu Sep 25 23:46:44 2025 +0200|syslog-ng: add runtime test
+971672252|Linus Kardell|Wed Sep 10 11:59:17 2025 +0200|liburcu: correct licenses
+c5f0449bb|Linus Kardell|Tue Sep 9 17:13:22 2025 +0200|yaml: correct PKG_LICENSE_FILES
+fad9f018c|Linus Kardell|Tue Sep 9 17:12:52 2025 +0200|tiff: correct PKG_LICENSE_FILES
+2a1e7734e|Maxim Storchak|Thu Sep 25 12:38:21 2025 +0300|lvm2: disable readline and interactive shell
+f57605474|Christian Korber|Wed Sep 24 07:23:53 2025 +0200|ufp: update to 2025.09.23
+14bff6e90|Josef Schlehofer|Wed Sep 24 12:27:48 2025 +0200|nft-qos: drop it as it does not work
+15c969af4|Josef Schlehofer|Wed Sep 24 12:20:55 2025 +0200|dysk: drop unmaintained package here
+3aab1ef31|Josef Schlehofer|Sun Jun 15 08:37:32 2025 +0200|treewide: drop anything related to uClibc
 </details>

@@ -1,7 +1,0 @@
-<details> <summary> <b>luci new commit log :new: </b>  </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-d1af796caa|SakuraFallingMad|Tue Sep 23 08:23:20 2025 +0800|luci-app-passwall: bump to 25.9.23
-171f2f0e45|Tianling Shen|Wed Sep 24 14:27:35 2025 +0800|luci-app-unblockneteasemusic: fix reload firewall
-</details>
