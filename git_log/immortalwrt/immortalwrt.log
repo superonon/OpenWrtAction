@@ -2,26 +2,20 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-953907dcc2|Tianling Shen|Fri Sep 26 22:59:06 2025 +0800|Merge Official Source
-a142520947|Tianling Shen|Fri Sep 26 21:13:04 2025 +0800|mediatek: fix ddr3 bl2 select for cmcc rax3000me
-b4a528ecba|Elwin Huang|Fri Sep 26 15:36:53 2025 +0800|mediatek: ap7622-wh1: Enable bluetooth interface
-cced09132a|Wei-Ting Yang|Fri Sep 26 09:29:44 2025 +0800|libunwind: fix typo in patch file suffix
-84ea336097|Felix Fietkau|Fri Sep 26 09:29:39 2025 +0200|wpa_supplicant: fix ap+sta regression for non-MLD interfaces
-04f6769a4a|Christian Marangi|Fri Sep 26 09:05:21 2025 +0200|boot: Introduce support for U-Boot support for Airoha EN7581/AN7583
-c5b12fc02a|Christian Marangi|Fri Sep 26 04:55:19 2025 +0200|airoha: Introduce support for Airoha AN7583 SoC
-2470ee42ae|Christian Marangi|Fri Sep 26 04:53:43 2025 +0200|airoha: en7581: enable CPUFREQ_DT and CPU HOTPLUG kconfig
-14bc87cf76|Christian Marangi|Fri Sep 26 04:52:36 2025 +0200|airoha: en7581: Add pending ASOC driver
-c3d70b1ae5|Christian Marangi|Fri Sep 26 04:15:03 2025 +0200|airoha: en7581: Add support for external PHY
-f4fbf3e794|John Audia|Mon Sep 22 15:22:20 2025 -0400|openssl: update to 3.5.3
-7f08a9c1db|Robert Marko|Thu Sep 25 11:18:56 2025 +0200|kernel: modules: add PWM GPIO module
-0da0a6c449|Felix Fietkau|Thu Sep 25 13:02:39 2025 +0200|wifi-scripts: ucode: fix r0kh/r1kh parsing
-adb1ce158a|Felix Fietkau|Thu Sep 25 12:07:48 2025 +0200|hostapd: fix setting up MLD AP interfaces after config change
-8c37f5f2f2|Felix Fietkau|Wed Sep 24 19:46:36 2025 +0200|wpa_supplicant: fix getting phy status and setting state for MLD
-6790e1a564|Jan Hoffmann|Thu Jul 24 19:39:28 2025 +0200|realtek: support configuring SerDes auto-negotiation on RTL93xx
-c332aed2aa|Markus Stockhausen|Wed Sep 24 08:52:50 2025 -0400|realtek: drop sds property
-7d67b1022a|Markus Stockhausen|Wed Sep 24 08:28:35 2025 -0400|realtek: evaluate pcs-handle instead of sds property
-10f3f6d6d8|Andrew LaMarche|Tue Sep 23 10:15:40 2025 -0400|airoha: switch to 6.12 and drop 6.6
-ce3ab2646b|Felix Fietkau|Thu Sep 25 09:40:47 2025 +0200|wifi-scripts: ucode: add support for the legacy hwmode option
-3db08ebaa7|Andrew LaMarche|Tue Sep 23 13:26:46 2025 -0400|airoha: en7523: fix SPI patch no prototype error
-46d83193e8|Andrew LaMarche|Tue Sep 23 10:54:46 2025 -0400|airoha: en7523: add missing Kconfig entry on 6.12
+2dd9274f47|Tianling Shen|Sat Sep 27 18:43:25 2025 +0800|Merge Official Source
+ba6a07fb63|John Audia|Thu Sep 25 06:05:42 2025 -0400|kernel: bump 6.12 to 6.12.49
+605543bc7b|Rosen Penev|Thu Sep 11 17:40:55 2025 -0700|ath79: wnr200-v3: handle eeprom with nvmem
+374f065ecb|Rosen Penev|Thu Sep 11 20:27:51 2025 -0700|ath79: tiny: use nvmem for engenius devices
+761808f648|Stefan Kalscheuer|Fri Aug 15 15:13:02 2025 +0200|mvebu: use upstream DTS for Ctera C200-V2
+63e9506047|Stefan Kalscheuer|Fri Aug 15 15:05:51 2025 +0200|mvebu: use upstream DTS for Globalscale MOCHAbin
+94918e7c10|Stefan Kalscheuer|Fri Aug 15 15:02:22 2025 +0200|mvebu: use upstream DTS for GL.iNet GL-MV1000
+9852dda410|Stefan Kalscheuer|Fri Aug 15 14:51:58 2025 +0200|mvebu: move DTS diff into a patch for Methode uDPU
+6a471c9d5c|Stefan Kalscheuer|Fri Aug 15 14:35:22 2025 +0200|mvebu: use upstream DTS for Globalscale ESPRESSObin Ultra
+88ae631c0a|Stefan Kalscheuer|Fri Aug 15 13:58:33 2025 +0200|mvebu: use upstream DTS for Methode eDPU
+90f0d87632|Bjørn Mork|Thu Sep 25 09:45:08 2025 +0200|mediatek: filogic: load precal data for Unifi 6 Plus
+88bf53f5af|Bjørn Mork|Thu Sep 25 07:29:19 2025 +0200|mediatek: filogic: use nvmem for Unifi 6 Plus caldata
+78257d8fe8|Bjørn Mork|Wed Sep 24 19:18:20 2025 +0200|mediatek: filogic: use nvmem for Unifi 6 Plus WiFi mac
+f4cc539f0c|Linus Walleij|Tue Sep 16 22:43:42 2025 +0200|ixp4xx: Add back Actiontec MI424WR A/C/D
+cfb371a796|Linus Walleij|Tue Sep 16 21:27:05 2025 +0200|ixp4xx: Add some upstream patches
+86618df095|Tianling Shen|Fri Sep 26 23:02:48 2025 +0800|kernel: fix dependencies for kmod-gpio-pwm
 </details>

@@ -1,0 +1,27 @@
+<details> <summary> <b>luci new commit log :new: </b>  </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+91e480e8f7|Tianling Shen|Sat Sep 27 18:30:46 2025 +0800|luci-app-unblockneteasemusic: bump to 3.4-1
+bfe03ad34b|Tianling Shen|Sat Sep 27 18:18:20 2025 +0800|Merge Official Source
+32291faa2d|Tianling Shen|Thu Sep 25 20:29:21 2025 +0800|luci-app-unblockneteasemusic: sync with upstream source
+212d5777d5|SakuraFallingMad|Fri Sep 26 20:49:28 2025 +0800|luci-app-wechatpush: bump to 3.6.10
+ee83490203|Hannu Nyman|Thu Sep 25 18:04:06 2025 +0300|treewide: Merge translations - fix conflict
+3ee5ad317e|Paul Donald|Thu Sep 25 14:55:12 2025 +0200|luci-lib-nixio: remove unmaintained axTLS lib
+c74cf9f771|Paul Donald|Tue Sep 23 14:42:35 2025 +0200|luci-app-ddns: improve accuracy of next update and check times
+7b07b93ff9|Christian Korber|Tue Sep 9 10:51:56 2025 +0200|luci-mod-status: add vendor info in index file
+b8fcdb0dee|Christian Korber|Wed Sep 10 08:31:55 2025 +0200|luci-mod-network: add arry destructuring in render function
+70b7176fc2|Christian Korber|Wed Sep 10 08:30:22 2025 +0200|luci-mod-status,luci-mod-network: support oui to vendor resolving
+5ecbbb680f|Džiugas Januševičius|Thu Sep 25 12:10:46 2025 +0200|Translated using Weblate (Lithuanian)
+c66b69a317|Džiugas Januševičius|Thu Sep 25 11:40:45 2025 +0200|Translated using Weblate (Lithuanian)
+d3410a3442|Džiugas Januševičius|Thu Sep 25 11:50:47 2025 +0200|Translated using Weblate (Lithuanian)
+2f6bcebddc|Random|Thu Sep 25 12:54:55 2025 +0200|Translated using Weblate (Italian)
+c27c0c9874|Josef Schlehofer|Wed Sep 24 13:34:50 2025 +0200|luci-app-nft-qos: drop this application
+27823f5b53|Hosted Weblate|Wed Sep 24 23:02:05 2025 +0200|Translated using Weblate (Russian)
+f48999cb7a|Alexander Ivanov|Sun Jul 13 17:07:02 2025 +0800|luci-proto-yggdrasil: fix interface selection
+19057e3760|David Härdeman|Tue Sep 16 18:27:56 2025 +0200|luci-mod-network,-status: show DHCPv6 lease IAID
+7f8a6b701e|Hannu Nyman|Sun Sep 21 22:53:28 2025 +0300|luci-base: Fix weblate conflict
+8182f8704a|ZW|Sun Sep 21 17:16:43 2025 +0200|Translated using Weblate (Chinese (Traditional Han script))
+f589567483|Hannu Nyman|Sun Sep 21 22:35:57 2025 +0300|treewide: sync translations
+640f35a77d|Hosted Weblate|Sun Sep 21 08:29:18 2025 +0200|Translated using Weblate (Russian)
+</details>
