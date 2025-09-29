@@ -2,15 +2,9 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-6f18b30b02|Rosen Penev|Sat Feb 17 20:53:04 2024 -0800|ath79: wd,mynet-nxxx: use nvmem
-842623a4f8|Ted Hess|Sat Sep 27 17:46:18 2025 -0400|expat: Update to 2.7.3
-878f31c210|Hauke Mehrtens|Sat Sep 27 14:49:27 2025 +0200|build: remove iwinfo dependency
-a6ea2aa2b9|Rui Salvaterra|Fri Mar 21 17:10:19 2025 +0000|octeon: set kernel 6.12 as default and remove support for 6.6
-16740f623e|Rui Salvaterra|Fri Mar 21 17:08:21 2025 +0000|octeon: update Linux 6.12 kconfig
-673b48a674|Rui Salvaterra|Tue Aug 5 12:55:24 2025 +0100|octeon: fix octeon build with CONFIG_KERNEL_WERROR
-b3eac6dca5|Rui Salvaterra|Fri Mar 21 17:33:34 2025 +0000|octeon: fix command line hack for Linux 6.12
-2ecee2f31b|Rui Salvaterra|Fri Mar 21 17:06:58 2025 +0000|octeon: refresh 6.12 patches
-0b7d3f4a33|Rui Salvaterra|Wed Sep 17 20:01:27 2025 +0100|kernel/octeon: Restore kernel files for v6.6
-bc9941a0d3|Rui Salvaterra|Wed Sep 17 20:01:27 2025 +0100|kernel/octeon: Create kernel files for v6.12 (from v6.6)
-ba6a07fb63|John Audia|Thu Sep 25 06:05:42 2025 -0400|kernel: bump 6.12 to 6.12.49
+0147d213ff|Simonas Tamošaitis|Fri Sep 26 22:32:43 2025 +0300|ramips: mt76x8: fix 02_network typo
+7114446523|Goetz Goerisch|Sat Sep 27 15:40:19 2025 +0000|kernel: bump 6.6 to 6.6.108
+30b35ff5ae|Felix Fietkau|Sun Sep 28 16:25:01 2025 +0200|iwinfo: drop @!WIFI_SCRIPTS_UCODE dependency
+37770c503b|Felix Fietkau|Sun Sep 28 16:20:43 2025 +0200|wifi-scripts: force wmm_enabled to 1 in AP mode, remove option
+9b7d0c0d16|Ted Hess|Sat Sep 27 21:49:12 2025 -0400|odhcpd: update to Git HEAD (2025-09-27)
 </details>

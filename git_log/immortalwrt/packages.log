@@ -1,0 +1,53 @@
+<details> <summary> <b>packages new commit log :new: </b>  </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+06aeabd55|Tianling Shen|Sun Sep 28 16:36:21 2025 +0800|Merge Official Source
+6a8152811|Ted Hess|Sat Sep 27 17:14:55 2025 -0400|giflib: Add Gentoo patch to fix various CVEs
+29e614fa8|Eric Fahlgren|Sat Sep 27 15:37:54 2025 -0700|owut: update to 2025.09.27
+e24d11521|Ted Hess|Sat Sep 27 11:58:09 2025 -0400|expat: upgrade to 2.7.3
+bd3d6e8cc|David Yang|Sun Sep 21 13:32:25 2025 +0800|i2pd: update to 2.58.0
+69bf2443d|Josef Schlehofer|Fri Sep 26 20:21:36 2025 +0200|gperftools: make libunwind dependency conditional
+ee3b06e42|John Audia|Sun Aug 24 11:17:55 2025 -0400|nfs-kernel-server: provide a NFSv3 and NFSv4 daemon
+71709b8de|Javier Marcet|Mon Sep 22 19:00:13 2025 +0200|docker-compose: Update to version 2.39.4
+182db0ac0|Tianling Shen|Sat Sep 20 16:22:59 2025 +0800|microsocks: run as unprivileged user
+4dc36ae9f|Josef Schlehofer|Fri Sep 26 20:32:43 2025 +0200|gperftools: enable it for mips*
+c5750e13b|Peter van Dijk|Thu Sep 18 11:18:00 2025 +0200|dnsdist: update to 2.0.1
+433e8cd1a|Roc Lai|Fri Sep 26 06:37:20 2025 +0800|frp: bump to 0.65.0
+c16fdd7e2|Ray Wang|Sat Aug 23 11:33:16 2025 +0800|natmap: update to 20250924
+333169079|Othmar Truniger|Wed Sep 24 16:45:25 2025 +0200|libfmt: bump to new upstream version 12.0.0
+2cea4de17|Biao Zhu|Sat Sep 27 11:12:00 2025 +0800|fluent-bit: update to 4.1.0
+598504d89|Jan Hák|Thu Sep 25 14:09:21 2025 +0200|knot: backport patch to fix linking with libhiredis
+25fcb486b|Vladimir Kochnev|Fri Sep 26 13:59:11 2025 +0300|acme-acmesh: support TLS-ALPN-01 challenge
+cbbd2b5b3|Jan Hák|Thu Sep 25 14:09:21 2025 +0200|knot: disable redis as it was enabled since 3.5.0 by default
+3a6f31cc0|Josef Schlehofer|Fri Sep 26 09:28:09 2025 +0200|vectorscan: drop custom DEPENDS_COMMON
+90d29954d|Josef Schlehofer|Wed Sep 24 21:17:27 2025 +0200|mpack: drop package
+2a8fdf37d|Antonio Pastor|Mon Sep 15 18:38:09 2025 -0400|netatalk: update to 4.3.2
+b1cfb71f7|Josef Schlehofer|Mon Jun 16 11:49:34 2025 +0200|syslog-ng: update to version 4.10.0
+971a2164f|Josef Schlehofer|Thu Sep 25 23:46:44 2025 +0200|syslog-ng: add runtime test
+971672252|Linus Kardell|Wed Sep 10 11:59:17 2025 +0200|liburcu: correct licenses
+c5f0449bb|Linus Kardell|Tue Sep 9 17:13:22 2025 +0200|yaml: correct PKG_LICENSE_FILES
+fad9f018c|Linus Kardell|Tue Sep 9 17:12:52 2025 +0200|tiff: correct PKG_LICENSE_FILES
+2a1e7734e|Maxim Storchak|Thu Sep 25 12:38:21 2025 +0300|lvm2: disable readline and interactive shell
+f57605474|Christian Korber|Wed Sep 24 07:23:53 2025 +0200|ufp: update to 2025.09.23
+14bff6e90|Josef Schlehofer|Wed Sep 24 12:27:48 2025 +0200|nft-qos: drop it as it does not work
+15c969af4|Josef Schlehofer|Wed Sep 24 12:20:55 2025 +0200|dysk: drop unmaintained package here
+3aab1ef31|Josef Schlehofer|Sun Jun 15 08:37:32 2025 +0200|treewide: drop anything related to uClibc
+bddd5e9cb|Jan Hák|Mon Sep 22 15:21:21 2025 +0200|knot: update to version 3.5.0
+d84ce3454|Aleksey Vasilenko|Tue Sep 23 08:41:56 2025 +0300|sendmail: fix build on hosts with Berkley DB installed
+f03521b19|Alexandru Ardelean|Tue Sep 23 16:26:09 2025 +0300|tcpreplay: bump to version 4.5.2
+9ab19754f|Alexandru Ardelean|Mon Sep 22 12:48:56 2025 +0300|stress-ng: bump to version 0.19.04
+a1562ef77|Alexandru Ardelean|Tue Sep 23 16:22:05 2025 +0300|squashfs-tools: bump to version 4.7.2
+6408f9ef6|George Sapkin|Fri May 2 17:29:44 2025 +0300|python-atomicwrites: drop package
+4c9553706|George Sapkin|Sun Apr 27 16:28:59 2025 +0300|temperusb: drop package
+ba6776091|George Sapkin|Sun Apr 27 16:28:28 2025 +0300|dhcp-forwarder: drop package
+f62054493|George Sapkin|Sun Apr 27 16:27:54 2025 +0300|libantlr3c: drop package
+96150f55d|George Sapkin|Sun Apr 27 16:27:53 2025 +0300|intltool: drop package
+14ff7c093|George Sapkin|Sun Apr 27 16:27:05 2025 +0300|pkg-config: drop package
+5e1d07b16|Alexandru Ardelean|Mon Sep 22 09:44:01 2025 +0300|numpy: bump to version 2.3.3
+087b985e0|Alexandru Ardelean|Mon Sep 22 09:42:46 2025 +0300|openblas: backport version of fix from upstream
+5a688059e|Florian Eckert|Tue Sep 23 09:51:13 2025 +0200|Revert "afraid.org-v2-token.json: Fix 404 on update"
+1463d79bd|Paul Donald|Fri Sep 19 01:21:05 2025 +0200|ddns-scripts: stash the next check time
+296c15c1f|Florian Maurer|Mon Sep 15 21:22:49 2025 +0200|tunneldigger: add broker_selection option to expose load balancing capabilities
+9a9fcc465|Moritz Warning|Thu Sep 18 23:31:45 2025 +0200|zerotier: update to 1.16.0
+</details>

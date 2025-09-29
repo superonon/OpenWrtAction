@@ -2,16 +2,10 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-e24d11521|Ted Hess|Sat Sep 27 11:58:09 2025 -0400|expat: upgrade to 2.7.3
-bd3d6e8cc|David Yang|Sun Sep 21 13:32:25 2025 +0800|i2pd: update to 2.58.0
-69bf2443d|Josef Schlehofer|Fri Sep 26 20:21:36 2025 +0200|gperftools: make libunwind dependency conditional
-ee3b06e42|John Audia|Sun Aug 24 11:17:55 2025 -0400|nfs-kernel-server: provide a NFSv3 and NFSv4 daemon
-71709b8de|Javier Marcet|Mon Sep 22 19:00:13 2025 +0200|docker-compose: Update to version 2.39.4
-182db0ac0|Tianling Shen|Sat Sep 20 16:22:59 2025 +0800|microsocks: run as unprivileged user
-4dc36ae9f|Josef Schlehofer|Fri Sep 26 20:32:43 2025 +0200|gperftools: enable it for mips*
-c5750e13b|Peter van Dijk|Thu Sep 18 11:18:00 2025 +0200|dnsdist: update to 2.0.1
-433e8cd1a|Roc Lai|Fri Sep 26 06:37:20 2025 +0800|frp: bump to 0.65.0
-c16fdd7e2|Ray Wang|Sat Aug 23 11:33:16 2025 +0800|natmap: update to 20250924
-333169079|Othmar Truniger|Wed Sep 24 16:45:25 2025 +0200|libfmt: bump to new upstream version 12.0.0
-2cea4de17|Biao Zhu|Sat Sep 27 11:12:00 2025 +0800|fluent-bit: update to 4.1.0
+17ca12ae5|Stan Grishin|Tue Sep 23 22:40:30 2025 +0000|adblock-fast: update to 1.2.0
+2a202b209|Andrey Zotikov|Thu Jul 24 01:58:31 2025 +0300|fail2ban: bump to 1.1.0
+0d58d0275|Andy Chiang|Sat Sep 27 15:53:51 2025 +0700|ovpn-dco: bump version to 0.2.20250801
+33e116297|Andy Chiang|Thu Sep 11 06:16:55 2025 +0700|ovpn-dco: fix package dependencies
+6a8152811|Ted Hess|Sat Sep 27 17:14:55 2025 -0400|giflib: Add Gentoo patch to fix various CVEs
+29e614fa8|Eric Fahlgren|Sat Sep 27 15:37:54 2025 -0700|owut: update to 2025.09.27
 </details>

@@ -1,0 +1,11 @@
+<details> <summary> <b>luci new commit log :new: </b>  </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+84ad0f3d12|Stan Grishin|Sun Sep 28 11:37:34 2025 -0700|Merge pull request #7961 from stangri/master-luci-app-adblock-fast
+3f5362013d|Aditya Bhargava|Mon Sep 22 03:28:41 2025 -0400|luci-app-acme: Fix incorrect "Days until renewal" placeholder
+a610677fae|Ray Wang|Sat Aug 23 12:01:56 2025 +0800|luci-app-natmap: sync with natmap package
+f51492d610|Hannu Nyman|Sun Sep 28 09:29:49 2025 +0300|luci-app-keepalived: fix typo in option name: fail -> fall
+23b515a7e0|Hosted Weblate|Sun Sep 28 04:03:53 2025 +0200|Translated using Weblate (Russian)
+c7e9948dcb|Stan Grishin|Fri Sep 26 22:08:47 2025 +0000|luci-app-adblock-fast: update to 1.2.0
+</details>
