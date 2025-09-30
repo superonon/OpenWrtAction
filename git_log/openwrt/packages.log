@@ -2,10 +2,13 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-17ca12ae5|Stan Grishin|Tue Sep 23 22:40:30 2025 +0000|adblock-fast: update to 1.2.0
-2a202b209|Andrey Zotikov|Thu Jul 24 01:58:31 2025 +0300|fail2ban: bump to 1.1.0
-0d58d0275|Andy Chiang|Sat Sep 27 15:53:51 2025 +0700|ovpn-dco: bump version to 0.2.20250801
-33e116297|Andy Chiang|Thu Sep 11 06:16:55 2025 +0700|ovpn-dco: fix package dependencies
-6a8152811|Ted Hess|Sat Sep 27 17:14:55 2025 -0400|giflib: Add Gentoo patch to fix various CVEs
-29e614fa8|Eric Fahlgren|Sat Sep 27 15:37:54 2025 -0700|owut: update to 2025.09.27
+d6a3943cc|Daniel Golle|Mon Sep 29 16:59:57 2025 +0100|nfs-kernel-server: fix recursive Kconfig dependencies
+768d1f40a|Tianling Shen|Mon Sep 29 20:17:35 2025 +0800|v2ray-core: Update to 5.39.0
+894ae1dd0|Tianling Shen|Mon Sep 29 19:56:28 2025 +0800|cloudflared: Update to 2025.9.1
+aeb47bc70|Tianling Shen|Mon Sep 29 19:55:58 2025 +0800|rclone: Update to 1.71.1
+0af2d0ae8|Espen Jürgensen|Sun Sep 28 17:02:10 2025 +0200|owntone: update to 29.0
+2a317ac46|Mathew McBride|Mon Sep 29 17:53:16 2025 +1000|openvswitch: add missing dependency
+7b6300227|Eric Luehrsen|Mon Sep 29 00:04:12 2025 -0400|unbound: update to 1.24.0
+7c88f998e|Wesley Gimenes|Mon Sep 29 04:36:11 2025 -0300|openvpn: bump `PKG_RELEASE`
+8132d6522|Andy Chiang|Sun Sep 28 22:54:37 2025 +0700|boost: fix PKG_SOURCE_URL
 </details>

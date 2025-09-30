@@ -1,0 +1,8 @@
+<details> <summary> <b>luci new commit log :new: </b>  </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+a0c0140e93|Tianling Shen|Mon Sep 29 19:49:35 2025 +0800|luci-app-smartdns: add an option to build with WebUI support
+18cbbf388b|Tianling Shen|Mon Sep 29 15:36:16 2025 +0800|treewide: add missing luci-compat dependency to lua app
+ca6be11480|Tianling Shen|Mon Sep 29 15:24:03 2025 +0800|luci-app-smartdns: Update to 1.2025.47.2
+</details>

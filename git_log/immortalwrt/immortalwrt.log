@@ -2,16 +2,21 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-7bbb3b3611|Tianling Shen|Sun Sep 28 16:32:37 2025 +0800|Merge Official Source
-9b7d0c0d16|Ted Hess|Sat Sep 27 21:49:12 2025 -0400|odhcpd: update to Git HEAD (2025-09-27)
-6f18b30b02|Rosen Penev|Sat Feb 17 20:53:04 2024 -0800|ath79: wd,mynet-nxxx: use nvmem
-842623a4f8|Ted Hess|Sat Sep 27 17:46:18 2025 -0400|expat: Update to 2.7.3
-878f31c210|Hauke Mehrtens|Sat Sep 27 14:49:27 2025 +0200|build: remove iwinfo dependency
-a6ea2aa2b9|Rui Salvaterra|Fri Mar 21 17:10:19 2025 +0000|octeon: set kernel 6.12 as default and remove support for 6.6
-16740f623e|Rui Salvaterra|Fri Mar 21 17:08:21 2025 +0000|octeon: update Linux 6.12 kconfig
-673b48a674|Rui Salvaterra|Tue Aug 5 12:55:24 2025 +0100|octeon: fix octeon build with CONFIG_KERNEL_WERROR
-b3eac6dca5|Rui Salvaterra|Fri Mar 21 17:33:34 2025 +0000|octeon: fix command line hack for Linux 6.12
-2ecee2f31b|Rui Salvaterra|Fri Mar 21 17:06:58 2025 +0000|octeon: refresh 6.12 patches
-0b7d3f4a33|Rui Salvaterra|Wed Sep 17 20:01:27 2025 +0100|kernel/octeon: Restore kernel files for v6.6
-bc9941a0d3|Rui Salvaterra|Wed Sep 17 20:01:27 2025 +0100|kernel/octeon: Create kernel files for v6.12 (from v6.6)
+9c518bddc2|Tianling Shen|Mon Sep 29 19:34:53 2025 +0800|Merge Official Source
+75ca6bafd6|George Tsiamasiotis|Tue Sep 23 23:11:19 2025 +0300|scripts/patch-kernel.sh: do not try to check files after patch
+973cfbadf5|Felix Fietkau|Mon Sep 29 12:35:52 2025 +0200|hostapd: fix condition for re-creating MLD interfaces
+e0a0d69a63|Felix Fietkau|Mon Sep 29 09:45:45 2025 +0200|wpa_supplicant: MLO bringup order
+d761f6a5a5|Felix Fietkau|Mon Sep 29 09:28:56 2025 +0200|wifi-scripts: ucode: add start_disabled for AP mode
+80d73707b0|Felix Fietkau|Sun Sep 28 20:55:57 2025 +0200|hostapd: fix an AP+STA corner case on MLO APs
+a30daf8a0b|Aleksander Jan Bajkowski|Fri Sep 26 17:10:19 2025 +0200|airoha: fix scuclk node for an7581
+dae30d83ea|Chukun Pan|Tue Sep 16 22:05:20 2025 +0800|airoha: an7581: refresh kernel config
+646ccf6076|Chukun Pan|Fri Sep 26 23:02:15 2025 +0800|airoha: fix pinctrl driver function bug
+b125cf42dc|Chukun Pan|Thu Sep 18 22:30:18 2025 +0800|airoha: remove duplicate AN7581 PHY patch
+866c4e5cdf|Chukun Pan|Tue Sep 9 23:06:02 2025 +0800|airoha: set default DEVICE_DTS/DEVICE_DTS_DIR
+ddb0cd276c|Christian Marangi|Sun Sep 28 20:24:28 2025 +0200|kernel: rtl8261n: add support for Serdes TX swap
+65b90c2f89|Tianling Shen|Mon Sep 29 15:40:15 2025 +0800|target: remove luci-compat and kmod-nf-nathelper-extra from default packages
+0147d213ff|Simonas Tamošaitis|Fri Sep 26 22:32:43 2025 +0300|ramips: mt76x8: fix 02_network typo
+7114446523|Goetz Goerisch|Sat Sep 27 15:40:19 2025 +0000|kernel: bump 6.6 to 6.6.108
+30b35ff5ae|Felix Fietkau|Sun Sep 28 16:25:01 2025 +0200|iwinfo: drop @!WIFI_SCRIPTS_UCODE dependency
+37770c503b|Felix Fietkau|Sun Sep 28 16:20:43 2025 +0200|wifi-scripts: force wmm_enabled to 1 in AP mode, remove option
 </details>

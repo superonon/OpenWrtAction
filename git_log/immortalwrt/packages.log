@@ -2,52 +2,22 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-06aeabd55|Tianling Shen|Sun Sep 28 16:36:21 2025 +0800|Merge Official Source
-6a8152811|Ted Hess|Sat Sep 27 17:14:55 2025 -0400|giflib: Add Gentoo patch to fix various CVEs
-29e614fa8|Eric Fahlgren|Sat Sep 27 15:37:54 2025 -0700|owut: update to 2025.09.27
-e24d11521|Ted Hess|Sat Sep 27 11:58:09 2025 -0400|expat: upgrade to 2.7.3
-bd3d6e8cc|David Yang|Sun Sep 21 13:32:25 2025 +0800|i2pd: update to 2.58.0
-69bf2443d|Josef Schlehofer|Fri Sep 26 20:21:36 2025 +0200|gperftools: make libunwind dependency conditional
-ee3b06e42|John Audia|Sun Aug 24 11:17:55 2025 -0400|nfs-kernel-server: provide a NFSv3 and NFSv4 daemon
-71709b8de|Javier Marcet|Mon Sep 22 19:00:13 2025 +0200|docker-compose: Update to version 2.39.4
-182db0ac0|Tianling Shen|Sat Sep 20 16:22:59 2025 +0800|microsocks: run as unprivileged user
-4dc36ae9f|Josef Schlehofer|Fri Sep 26 20:32:43 2025 +0200|gperftools: enable it for mips*
-c5750e13b|Peter van Dijk|Thu Sep 18 11:18:00 2025 +0200|dnsdist: update to 2.0.1
-433e8cd1a|Roc Lai|Fri Sep 26 06:37:20 2025 +0800|frp: bump to 0.65.0
-c16fdd7e2|Ray Wang|Sat Aug 23 11:33:16 2025 +0800|natmap: update to 20250924
-333169079|Othmar Truniger|Wed Sep 24 16:45:25 2025 +0200|libfmt: bump to new upstream version 12.0.0
-2cea4de17|Biao Zhu|Sat Sep 27 11:12:00 2025 +0800|fluent-bit: update to 4.1.0
-598504d89|Jan Hák|Thu Sep 25 14:09:21 2025 +0200|knot: backport patch to fix linking with libhiredis
-25fcb486b|Vladimir Kochnev|Fri Sep 26 13:59:11 2025 +0300|acme-acmesh: support TLS-ALPN-01 challenge
-cbbd2b5b3|Jan Hák|Thu Sep 25 14:09:21 2025 +0200|knot: disable redis as it was enabled since 3.5.0 by default
-3a6f31cc0|Josef Schlehofer|Fri Sep 26 09:28:09 2025 +0200|vectorscan: drop custom DEPENDS_COMMON
-90d29954d|Josef Schlehofer|Wed Sep 24 21:17:27 2025 +0200|mpack: drop package
-2a8fdf37d|Antonio Pastor|Mon Sep 15 18:38:09 2025 -0400|netatalk: update to 4.3.2
-b1cfb71f7|Josef Schlehofer|Mon Jun 16 11:49:34 2025 +0200|syslog-ng: update to version 4.10.0
-971a2164f|Josef Schlehofer|Thu Sep 25 23:46:44 2025 +0200|syslog-ng: add runtime test
-971672252|Linus Kardell|Wed Sep 10 11:59:17 2025 +0200|liburcu: correct licenses
-c5f0449bb|Linus Kardell|Tue Sep 9 17:13:22 2025 +0200|yaml: correct PKG_LICENSE_FILES
-fad9f018c|Linus Kardell|Tue Sep 9 17:12:52 2025 +0200|tiff: correct PKG_LICENSE_FILES
-2a1e7734e|Maxim Storchak|Thu Sep 25 12:38:21 2025 +0300|lvm2: disable readline and interactive shell
-f57605474|Christian Korber|Wed Sep 24 07:23:53 2025 +0200|ufp: update to 2025.09.23
-14bff6e90|Josef Schlehofer|Wed Sep 24 12:27:48 2025 +0200|nft-qos: drop it as it does not work
-15c969af4|Josef Schlehofer|Wed Sep 24 12:20:55 2025 +0200|dysk: drop unmaintained package here
-3aab1ef31|Josef Schlehofer|Sun Jun 15 08:37:32 2025 +0200|treewide: drop anything related to uClibc
-bddd5e9cb|Jan Hák|Mon Sep 22 15:21:21 2025 +0200|knot: update to version 3.5.0
-d84ce3454|Aleksey Vasilenko|Tue Sep 23 08:41:56 2025 +0300|sendmail: fix build on hosts with Berkley DB installed
-f03521b19|Alexandru Ardelean|Tue Sep 23 16:26:09 2025 +0300|tcpreplay: bump to version 4.5.2
-9ab19754f|Alexandru Ardelean|Mon Sep 22 12:48:56 2025 +0300|stress-ng: bump to version 0.19.04
-a1562ef77|Alexandru Ardelean|Tue Sep 23 16:22:05 2025 +0300|squashfs-tools: bump to version 4.7.2
-6408f9ef6|George Sapkin|Fri May 2 17:29:44 2025 +0300|python-atomicwrites: drop package
-4c9553706|George Sapkin|Sun Apr 27 16:28:59 2025 +0300|temperusb: drop package
-ba6776091|George Sapkin|Sun Apr 27 16:28:28 2025 +0300|dhcp-forwarder: drop package
-f62054493|George Sapkin|Sun Apr 27 16:27:54 2025 +0300|libantlr3c: drop package
-96150f55d|George Sapkin|Sun Apr 27 16:27:53 2025 +0300|intltool: drop package
-14ff7c093|George Sapkin|Sun Apr 27 16:27:05 2025 +0300|pkg-config: drop package
-5e1d07b16|Alexandru Ardelean|Mon Sep 22 09:44:01 2025 +0300|numpy: bump to version 2.3.3
-087b985e0|Alexandru Ardelean|Mon Sep 22 09:42:46 2025 +0300|openblas: backport version of fix from upstream
-5a688059e|Florian Eckert|Tue Sep 23 09:51:13 2025 +0200|Revert "afraid.org-v2-token.json: Fix 404 on update"
-1463d79bd|Paul Donald|Fri Sep 19 01:21:05 2025 +0200|ddns-scripts: stash the next check time
-296c15c1f|Florian Maurer|Mon Sep 15 21:22:49 2025 +0200|tunneldigger: add broker_selection option to expose load balancing capabilities
-9a9fcc465|Moritz Warning|Thu Sep 18 23:31:45 2025 +0200|zerotier: update to 1.16.0
+2de544755|Tianling Shen|Mon Sep 29 22:03:19 2025 +0800|smartdns: add rust-bindgen as build dependency
+4d292ec8f|Tianling Shen|Mon Sep 29 22:03:03 2025 +0800|rust-bindgen: add new package
+0ce4c4374|Tianling Shen|Mon Sep 29 20:18:09 2025 +0800|Merge Official Source
+768d1f40a|Tianling Shen|Mon Sep 29 20:17:35 2025 +0800|v2ray-core: Update to 5.39.0
+894ae1dd0|Tianling Shen|Mon Sep 29 19:56:28 2025 +0800|cloudflared: Update to 2025.9.1
+aeb47bc70|Tianling Shen|Mon Sep 29 19:55:58 2025 +0800|rclone: Update to 1.71.1
+fac7ed010|Tianling Shen|Mon Sep 29 19:15:22 2025 +0800|smartdns: add webui support
+0af2d0ae8|Espen Jürgensen|Sun Sep 28 17:02:10 2025 +0200|owntone: update to 29.0
+2a317ac46|Mathew McBride|Mon Sep 29 17:53:16 2025 +1000|openvswitch: add missing dependency
+7b6300227|Eric Luehrsen|Mon Sep 29 00:04:12 2025 -0400|unbound: update to 1.24.0
+ecf98de5d|Tianling Shen|Mon Sep 29 15:51:15 2025 +0800|smartdns: add missing libatomic dependency for i386
+7c88f998e|Wesley Gimenes|Mon Sep 29 04:36:11 2025 -0300|openvpn: bump `PKG_RELEASE`
+8132d6522|Andy Chiang|Sun Sep 28 22:54:37 2025 +0700|boost: fix PKG_SOURCE_URL
+e612399cf|Tianling Shen|Mon Sep 29 15:13:42 2025 +0800|smartdns: Update to 47
+17ca12ae5|Stan Grishin|Tue Sep 23 22:40:30 2025 +0000|adblock-fast: update to 1.2.0
+2a202b209|Andrey Zotikov|Thu Jul 24 01:58:31 2025 +0300|fail2ban: bump to 1.1.0
+0d58d0275|Andy Chiang|Sat Sep 27 15:53:51 2025 +0700|ovpn-dco: bump version to 0.2.20250801
+33e116297|Andy Chiang|Thu Sep 11 06:16:55 2025 +0700|ovpn-dco: fix package dependencies
 </details>
