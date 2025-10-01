@@ -2,10 +2,7 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-ae9f03c5ac|Paul Donald|Mon Sep 29 22:59:54 2025 +0200|luci-mod-network: add IPv6 PXE options to DHCP->PXE
-62b66a98e6|Paul Donald|Mon Sep 29 21:07:54 2025 +0200|luci-mod-network: adjust IPv6 options for most recent odhcpd updates
-39637490ae|Anya Lin|Fri Sep 26 00:59:01 2025 +0800|luci-mod-network: Correctly encode/decode ech field in HTTPS record
-d42dce3ea2|Coia Prant|Fri Aug 1 11:49:50 2025 +0000|luci-mod-battstatus: preparing for other devices
-65c1075b86|Dávid Benko|Sat Aug 23 18:00:33 2025 +0200|themes: scale down icons for network interfaces
-f53e99d229|Paul Donald|Mon Sep 29 16:00:57 2025 +0200|luci-mod-status: fix syslog warning (4) log level filter
+bad9c56541|Paul Donald|Tue Sep 30 19:44:49 2025 +0200|luci-mod-network: move referenced checkbox below its reference
+325286a3b9|Paul Donald|Tue Sep 30 19:43:08 2025 +0200|luci-mod-network: add RFC details for NAT64 option
+2c0730c966|Paul Donald|Tue Sep 30 19:29:31 2025 +0200|luci-mod-network: expose IPv6 RA reachability and retransmission timers
 </details>

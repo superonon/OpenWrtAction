@@ -2,7 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-a0c0140e93|Tianling Shen|Mon Sep 29 19:49:35 2025 +0800|luci-app-smartdns: add an option to build with WebUI support
-18cbbf388b|Tianling Shen|Mon Sep 29 15:36:16 2025 +0800|treewide: add missing luci-compat dependency to lua app
-ca6be11480|Tianling Shen|Mon Sep 29 15:24:03 2025 +0800|luci-app-smartdns: Update to 1.2025.47.2
+ee5422e239|Tianling Shen|Tue Sep 30 19:19:13 2025 +0800|luci-app-homeproxy: fix use of china-dns tag
+0b30fb1e4c|Tianling Shen|Tue Sep 30 19:15:57 2025 +0800|luci-app-homeproxy: bump to latest git HEAD
 </details>
