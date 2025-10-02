@@ -2,6 +2,14 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-c4a23ca99|Josef Schlehofer|Tue Sep 30 08:45:04 2025 +0200|umurmur: update to version 0.3.1
-c48ddeb5a|Ted Hess|Mon Sep 29 08:03:16 2025 -0400|xmlrpc-c: [Security] Remove obsolete "-internal" variant
+be1bdc2ac|Josef Schlehofer|Wed Oct 1 00:12:13 2025 +0200|gitlab-runner: drop unmaintained package here
+fde2ee445|Josef Schlehofer|Wed Oct 1 00:09:34 2025 +0200|elektra: drop package
+48b26e446|Wesley Gimenes|Fri Sep 26 13:29:25 2025 -0300|netbird: update to 0.58.2
+a5da0e757|Niklas Thorild|Mon Sep 29 23:27:23 2025 +0200|telegraf: update to 1.36.2
+2ba11a2da|Josef Schlehofer|Tue Sep 30 17:12:26 2025 +0200|syslog-ng: update to version 4.10.1
+28adfd3d1|Josef Schlehofer|Wed Oct 1 10:19:53 2025 +0200|apache: update to version 2.4.65
+c488e1297|Josef Schlehofer|Wed Oct 1 00:22:08 2025 +0200|msmtp: update to version 1.8.31
+9d141eb9d|Josef Schlehofer|Wed Oct 1 01:04:50 2025 +0200|mariadb: update to version 11.4.8
+4d521dfbe|Josef Schlehofer|Wed Oct 1 00:57:57 2025 +0200|python-hatchling: update to version 1.27.0
+266a8ca49|Sandro Jäckel|Wed Oct 1 01:57:45 2025 +0200|tailscale: update to 1.88.3
 </details>

@@ -2,6 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-ee5422e239|Tianling Shen|Tue Sep 30 19:19:13 2025 +0800|luci-app-homeproxy: fix use of china-dns tag
-0b30fb1e4c|Tianling Shen|Tue Sep 30 19:15:57 2025 +0800|luci-app-homeproxy: bump to latest git HEAD
+ee83114863|Tianling Shen|Wed Oct 1 19:21:39 2025 +0800|luci-app-openclash: Update to 0.47.009
 </details>

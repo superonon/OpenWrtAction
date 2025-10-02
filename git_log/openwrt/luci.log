@@ -1,8 +1,0 @@
-<details> <summary> <b>luci new commit log :new: </b>  </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-bad9c56541|Paul Donald|Tue Sep 30 19:44:49 2025 +0200|luci-mod-network: move referenced checkbox below its reference
-325286a3b9|Paul Donald|Tue Sep 30 19:43:08 2025 +0200|luci-mod-network: add RFC details for NAT64 option
-2c0730c966|Paul Donald|Tue Sep 30 19:29:31 2025 +0200|luci-mod-network: expose IPv6 RA reachability and retransmission timers
-</details>

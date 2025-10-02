@@ -2,24 +2,18 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-27ce352a11|Tianling Shen|Tue Sep 30 18:28:34 2025 +0800|Merge Official Source
-6157a2aeb9|Rosen Penev|Thu Jun 13 17:19:07 2024 -0700|ath79: replace various mtd_get_mac_text
-cbdc2b851e|Rosen Penev|Sat Jun 15 13:48:27 2024 -0700|ath79: dir-8x5: use nvmem
-bd2e17c180|Rosen Penev|Fri Jun 14 12:04:21 2024 -0700|ath79: dir-505: use nvmem
-6c20daed13|Rosen Penev|Fri Jun 14 10:59:16 2024 -0700|ath79: tew-673gru: use nvmem
-b49f9d9804|Markus Stockhausen|Mon Sep 29 14:33:08 2025 -0400|realtek: backport ECC driver
-36d8d19993|Issam Hamdi|Wed Sep 3 14:19:38 2025 +0200|realtek: rtl931x: set hash_msb based on VLAN ID when adding a new L2 entry
-8c82e2dc93|Sven Eckelmann|Fri Sep 26 11:57:20 2025 +0200|realtek: Switch booleans in rtl838x_l2_entry to single bits
-d22b57e1e4|Bjørn Mork|Sun Sep 28 21:15:23 2025 +0200|realtek: add phy-handle for Zyxel GS1900-10HP SFP slots
-e2dad927a8|Bjørn Mork|Mon Sep 29 08:13:19 2025 +0200|realtek: fix Zyxel GS1900-10HP SFP slots
-318f07c231|Daniel Golle|Tue Sep 23 17:44:35 2025 +0100|ath79: mikrotik: check RouterBOOT version matching sysupgrade image
-502e6253a1|John Thomson|Thu Oct 27 20:56:05 2022 +1000|ath79: mikrotik: generate a RouterBOOT v7 NOR compatible sysupgrade
-7276e28e47|John Thomson|Mon Jan 23 07:16:04 2023 +1000|ramips: mikrotik: generate a RouterBOOT v7 NOR compatible sysupgrade
-99cfba0721|John Thomson|Mon Jan 23 07:16:04 2023 +1000|ipq40xx: mikrotik: generate a RouterBOOT v7 NOR compatible sysupgrade
-097049552a|John Thomson|Thu May 16 10:16:53 2024 +1000|image: adapt mikrotik yafut to allow switch to bootimage YAFFS path
-f473d15816|John Thomson|Sun Jan 22 21:34:43 2023 +1000|build: add Mikrotik NOR RouterBOOT v7 image build
-c5ece837a3|Daniel Golle|Tue Sep 23 23:30:03 2025 +0100|firmware-utils: update to git HEAD
-2f6a467f6c|Felix Fietkau|Mon Sep 29 14:08:08 2025 +0200|ucode: update to Git HEAD (2025-09-29)
-1545173ec1|Christian Marangi|Mon Sep 29 13:56:15 2025 +0200|kernel: netdevices: fix typo for Aeonsemi AS21xxx description
-0f56141c6c|Felix Fietkau|Mon Sep 29 13:40:08 2025 +0200|hostapd: add new ubus method for performig channel switch
+b32d9665ab|Tianling Shen|Thu Oct 2 02:29:09 2025 +0800|qualcommax: fix extract caldata for xiaomi ax9000 stock layout
+fc82e422bc|Tianling Shen|Wed Oct 1 20:20:42 2025 +0800|Merge Official Source
+a60bc69acd|Felix Fietkau|Wed Oct 1 10:08:44 2025 +0200|netifd: update to Git HEAD (2025-09-30)
+3d8d525b21|Felix Fietkau|Wed Oct 1 10:02:37 2025 +0200|wifi-scripts: ucode: add support for setting Multi-AP profile/vlanid
+d32e051b69|Felix Fietkau|Wed Oct 1 06:06:43 2025 +0200|wpa_supplicant: report interface events and support querying interface status
+f6fd18eb60|Felix Fietkau|Wed Oct 1 06:06:15 2025 +0200|wpa_supplicant: include multi-ap status in interface state
+5e7113b3db|Felix Fietkau|Wed Oct 1 05:33:52 2025 +0200|wpa_supplicant: do not wait for notify completion
+263721dd0a|Sven Eckelmann|Mon Sep 29 17:48:00 2025 +0200|realtek: rtl930x: Fix Plasma Cloud PSX8/PSX10 copper phy-mode
+4481e0c91d|Sven Eckelmann|Tue Sep 30 09:06:57 2025 +0200|realtek: Work around missing 10g-qxgmii PHY mode
+657b61be2e|Sven Eckelmann|Wed Jul 30 07:39:32 2025 +0200|realtek: rtl931x: Enable REALTEK_PHY for RTL8224 support
+1a79345b5d|Felix Fietkau|Tue Sep 30 16:44:01 2025 +0200|hostapd: skip add call on already present MLD interfaces
+996e4cb506|Chuanhong Guo|Tue Sep 30 21:04:51 2025 +0800|uboot-mediatek: rax3000m: use ddr3-1866mhz built in the dependency
+16416782f1|Paul Spooren|Tue Sep 30 14:17:11 2025 +0200|include: make APK packing mtime reproducible
+c68a41818e|Daniel Golle|Tue Sep 30 12:38:54 2025 +0100|rpcd: update to git HEAD
 </details>
