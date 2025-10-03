@@ -1,0 +1,12 @@
+<details> <summary> <b>luci new commit log :new: </b>  </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+7911cefc45|Hosted Weblate|Wed Oct 1 21:58:27 2025 +0200|Translated using Weblate (Italian)
+a30c8d8872|Paul Donald|Thu Oct 2 15:24:56 2025 +0200|luci-base: update sys.uc conntrack_list to use /usr/sbin/conntrack
+c62117c665|jpfox156|Fri Feb 25 23:27:36 2022 +1000|luci-lua-runtime: Update sys.net.conntrack() to use to conntrack tool
+18786c56a8|jpfox156|Fri Feb 25 23:25:58 2022 +1000|luci-mod-status: amend luci-bwc.c to use conntrack tool
+788e47034b|Christian Marangi|Tue Nov 21 21:54:10 2023 +0100|luci-mod-status: add support to show/hide index cards
+874752bcc4|Christian Marangi|Tue Nov 21 21:43:43 2023 +0100|luci-mod-status: reorganize include load function for status page
+b92c7f696e|Christian Marangi|Tue Nov 21 21:37:43 2023 +0100|luci-mod-status: reorganize poll function for index page
+</details>

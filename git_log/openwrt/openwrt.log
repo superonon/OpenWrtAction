@@ -2,14 +2,21 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-ab50b9a561|Florian Maurer|Mon Sep 29 00:38:03 2025 +0200|mac80211: ath: improve ath10k "failed to flush transmit queue" errors
-fca63d04b5|Josef Schlehofer|Fri Sep 26 20:11:29 2025 +0200|libunwind: enable it to all targets
-1e00160a8f|Josef Schlehofer|Fri Sep 26 20:09:22 2025 +0200|libunwind: avoid using $(PKG_NAME) in PKG_SOURCE_URL
-be6567276c|Josef Schlehofer|Fri Sep 26 20:08:33 2025 +0200|libunwind: update to version 1.8.3
-8f4f7cce76|Daniel Golle|Wed Oct 1 16:42:58 2025 +0100|firmware-utils: revert commit breaking x86 MBR images
-a60bc69acd|Felix Fietkau|Wed Oct 1 10:08:44 2025 +0200|netifd: update to Git HEAD (2025-09-30)
-3d8d525b21|Felix Fietkau|Wed Oct 1 10:02:37 2025 +0200|wifi-scripts: ucode: add support for setting Multi-AP profile/vlanid
-d32e051b69|Felix Fietkau|Wed Oct 1 06:06:43 2025 +0200|wpa_supplicant: report interface events and support querying interface status
-f6fd18eb60|Felix Fietkau|Wed Oct 1 06:06:15 2025 +0200|wpa_supplicant: include multi-ap status in interface state
-5e7113b3db|Felix Fietkau|Wed Oct 1 05:33:52 2025 +0200|wpa_supplicant: do not wait for notify completion
+17b7af8cba|Tianling Shen|Sat Sep 13 19:49:36 2025 +0800|rockchip: add Radxa ROCK 4D support
+24eb59779a|Tianling Shen|Sat Sep 13 19:49:36 2025 +0800|uboot-rockchip: add Radxa ROCK 4D support
+355528e427|Tianling Shen|Sat Sep 13 19:49:36 2025 +0800|uboot-rockchip: backport RK3576 support
+3c8f6e33df|Tianling Shen|Sat Sep 13 19:49:35 2025 +0800|rkbin: pack rk3576 tpl blob
+f3ce00558e|Tianling Shen|Sat Sep 13 19:49:35 2025 +0800|arm-trusted-firmware-rockchip: Update to 2.13
+3a35a2cff1|Tianling Shen|Sat Sep 13 19:49:35 2025 +0800|rockchip: backport dts updates for rk3576
+0a6ed6db26|Tianling Shen|Sat Sep 13 19:49:35 2025 +0800|rockchip: backport driver updates for rk3576
+cf4365e767|Tianling Shen|Sat Sep 13 19:49:35 2025 +0800|rockchip: use per-SoC defined kernel loadaddr
+5c724939c3|Tianling Shen|Thu Sep 18 22:26:51 2025 +0800|rockchip: add DEVICE_DTS_DIR definition
+272a392fe1|Jonas Jelonek|Fri Sep 12 19:33:18 2025 +0000|realtek: rtl93xx: replace pending I2C patches with upstreamed patches
+727d8b27ab|Felix Fietkau|Thu Oct 2 13:29:57 2025 +0200|wifi-scripts: retry setup of wireless devices that show up late
+915a57ccd9|Felix Fietkau|Thu Oct 2 11:04:36 2025 +0200|netifd: send event after running wireless handler
+42b5cf24a8|Felix Fietkau|Thu Oct 2 11:04:10 2025 +0200|procd: update to Git HEAD (2025-10-02)
+8c399b4905|Felix Fietkau|Thu Oct 2 10:46:43 2025 +0200|wifi-scripts: ucode: only set a hostapd config if it has interfaces
+4b7323e3bf|Felix Fietkau|Thu Oct 2 10:33:29 2025 +0200|netifd: always call setup for disabled radios
+3adb820779|Sven Eckelmann|Wed Oct 1 14:47:09 2025 +0200|realtek: rtl931x: Add SPI_CTRL0 as pinmux
+50c51504fd|Felix Fietkau|Fri Aug 8 18:55:03 2025 +0200|mediatek: fix polarity of user button on openwrt-one
 </details>

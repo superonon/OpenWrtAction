@@ -2,18 +2,16 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-b32d9665ab|Tianling Shen|Thu Oct 2 02:29:09 2025 +0800|qualcommax: fix extract caldata for xiaomi ax9000 stock layout
-fc82e422bc|Tianling Shen|Wed Oct 1 20:20:42 2025 +0800|Merge Official Source
-a60bc69acd|Felix Fietkau|Wed Oct 1 10:08:44 2025 +0200|netifd: update to Git HEAD (2025-09-30)
-3d8d525b21|Felix Fietkau|Wed Oct 1 10:02:37 2025 +0200|wifi-scripts: ucode: add support for setting Multi-AP profile/vlanid
-d32e051b69|Felix Fietkau|Wed Oct 1 06:06:43 2025 +0200|wpa_supplicant: report interface events and support querying interface status
-f6fd18eb60|Felix Fietkau|Wed Oct 1 06:06:15 2025 +0200|wpa_supplicant: include multi-ap status in interface state
-5e7113b3db|Felix Fietkau|Wed Oct 1 05:33:52 2025 +0200|wpa_supplicant: do not wait for notify completion
-263721dd0a|Sven Eckelmann|Mon Sep 29 17:48:00 2025 +0200|realtek: rtl930x: Fix Plasma Cloud PSX8/PSX10 copper phy-mode
-4481e0c91d|Sven Eckelmann|Tue Sep 30 09:06:57 2025 +0200|realtek: Work around missing 10g-qxgmii PHY mode
-657b61be2e|Sven Eckelmann|Wed Jul 30 07:39:32 2025 +0200|realtek: rtl931x: Enable REALTEK_PHY for RTL8224 support
-1a79345b5d|Felix Fietkau|Tue Sep 30 16:44:01 2025 +0200|hostapd: skip add call on already present MLD interfaces
-996e4cb506|Chuanhong Guo|Tue Sep 30 21:04:51 2025 +0800|uboot-mediatek: rax3000m: use ddr3-1866mhz built in the dependency
-16416782f1|Paul Spooren|Tue Sep 30 14:17:11 2025 +0200|include: make APK packing mtime reproducible
-c68a41818e|Daniel Golle|Tue Sep 30 12:38:54 2025 +0100|rpcd: update to git HEAD
+b7a94cf25c|Tianling Shen|Thu Oct 2 19:24:34 2025 +0800|Merge Official Source
+915a57ccd9|Felix Fietkau|Thu Oct 2 11:04:36 2025 +0200|netifd: send event after running wireless handler
+42b5cf24a8|Felix Fietkau|Thu Oct 2 11:04:10 2025 +0200|procd: update to Git HEAD (2025-10-02)
+8c399b4905|Felix Fietkau|Thu Oct 2 10:46:43 2025 +0200|wifi-scripts: ucode: only set a hostapd config if it has interfaces
+4b7323e3bf|Felix Fietkau|Thu Oct 2 10:33:29 2025 +0200|netifd: always call setup for disabled radios
+3adb820779|Sven Eckelmann|Wed Oct 1 14:47:09 2025 +0200|realtek: rtl931x: Add SPI_CTRL0 as pinmux
+50c51504fd|Felix Fietkau|Fri Aug 8 18:55:03 2025 +0200|mediatek: fix polarity of user button on openwrt-one
+ab50b9a561|Florian Maurer|Mon Sep 29 00:38:03 2025 +0200|mac80211: ath: improve ath10k "failed to flush transmit queue" errors
+fca63d04b5|Josef Schlehofer|Fri Sep 26 20:11:29 2025 +0200|libunwind: enable it to all targets
+1e00160a8f|Josef Schlehofer|Fri Sep 26 20:09:22 2025 +0200|libunwind: avoid using $(PKG_NAME) in PKG_SOURCE_URL
+be6567276c|Josef Schlehofer|Fri Sep 26 20:08:33 2025 +0200|libunwind: update to version 1.8.3
+8f4f7cce76|Daniel Golle|Wed Oct 1 16:42:58 2025 +0100|firmware-utils: revert commit breaking x86 MBR images
 </details>
