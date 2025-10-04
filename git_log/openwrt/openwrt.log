@@ -2,21 +2,32 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-17b7af8cba|Tianling Shen|Sat Sep 13 19:49:36 2025 +0800|rockchip: add Radxa ROCK 4D support
-24eb59779a|Tianling Shen|Sat Sep 13 19:49:36 2025 +0800|uboot-rockchip: add Radxa ROCK 4D support
-355528e427|Tianling Shen|Sat Sep 13 19:49:36 2025 +0800|uboot-rockchip: backport RK3576 support
-3c8f6e33df|Tianling Shen|Sat Sep 13 19:49:35 2025 +0800|rkbin: pack rk3576 tpl blob
-f3ce00558e|Tianling Shen|Sat Sep 13 19:49:35 2025 +0800|arm-trusted-firmware-rockchip: Update to 2.13
-3a35a2cff1|Tianling Shen|Sat Sep 13 19:49:35 2025 +0800|rockchip: backport dts updates for rk3576
-0a6ed6db26|Tianling Shen|Sat Sep 13 19:49:35 2025 +0800|rockchip: backport driver updates for rk3576
-cf4365e767|Tianling Shen|Sat Sep 13 19:49:35 2025 +0800|rockchip: use per-SoC defined kernel loadaddr
-5c724939c3|Tianling Shen|Thu Sep 18 22:26:51 2025 +0800|rockchip: add DEVICE_DTS_DIR definition
-272a392fe1|Jonas Jelonek|Fri Sep 12 19:33:18 2025 +0000|realtek: rtl93xx: replace pending I2C patches with upstreamed patches
-727d8b27ab|Felix Fietkau|Thu Oct 2 13:29:57 2025 +0200|wifi-scripts: retry setup of wireless devices that show up late
-915a57ccd9|Felix Fietkau|Thu Oct 2 11:04:36 2025 +0200|netifd: send event after running wireless handler
-42b5cf24a8|Felix Fietkau|Thu Oct 2 11:04:10 2025 +0200|procd: update to Git HEAD (2025-10-02)
-8c399b4905|Felix Fietkau|Thu Oct 2 10:46:43 2025 +0200|wifi-scripts: ucode: only set a hostapd config if it has interfaces
-4b7323e3bf|Felix Fietkau|Thu Oct 2 10:33:29 2025 +0200|netifd: always call setup for disabled radios
-3adb820779|Sven Eckelmann|Wed Oct 1 14:47:09 2025 +0200|realtek: rtl931x: Add SPI_CTRL0 as pinmux
-50c51504fd|Felix Fietkau|Fri Aug 8 18:55:03 2025 +0200|mediatek: fix polarity of user button on openwrt-one
+6f32c657db|Andreas Gnau|Fri Oct 3 10:59:42 2025 +0200|tools/ccache: same behaviour for local and CI builds
+88fe81bb0c|Christian Marangi|Sat Oct 4 00:08:56 2025 +0200|ubus: update to Git HEAD (2025-10-04)
+b2d2d94137|Christian Marangi|Sat Oct 4 00:08:50 2025 +0200|procd: update to Git HEAD (2025-10-04)
+bc7a6d1c36|Christian Marangi|Sat Oct 4 00:08:44 2025 +0200|libubox: update to Git HEAD (2025-10-04)
+46ea169578|Christian Marangi|Sat Oct 4 00:04:06 2025 +0200|uci: update to Git HEAD (2025-10-04)
+3531322a4a|Christian Marangi|Fri Oct 3 23:59:44 2025 +0200|mt76: update to Git HEAD (2025-10-03)
+a6e4dc84fd|Christian Marangi|Fri Oct 3 23:59:10 2025 +0200|libnl-tiny: update to Git HEAD (2025-10-03)
+f979cab5ce|Christian Marangi|Fri Oct 3 23:58:38 2025 +0200|uclient: update to Git HEAD (2025-10-03)
+f3d8bea3d7|Christian Marangi|Fri Oct 3 23:58:22 2025 +0200|udebug: update to Git HEAD (2025-09-28)
+5bfb5ee68f|Christian Marangi|Fri Oct 3 23:58:06 2025 +0200|ustream-ssl: update to Git HEAD (2025-10-03)
+f2cf1c0f35|Christian Marangi|Fri Oct 3 23:57:50 2025 +0200|odhcp6c: update to Git HEAD (2025-10-03)
+d439e391e3|Christian Marangi|Fri Oct 3 23:57:30 2025 +0200|uhttpd: update to Git HEAD (2025-10-03)
+def473853c|Christian Marangi|Fri Oct 3 23:57:23 2025 +0200|unetd: update to Git HEAD (2025-10-03)
+cc0e9d0877|Christian Marangi|Fri Oct 3 23:56:46 2025 +0200|fstools: update to Git HEAD (2025-10-03)
+67a7e9a9c4|Christian Marangi|Fri Oct 3 23:56:29 2025 +0200|fwtool: update to Git HEAD (2025-10-03)
+5e1c63d6d4|Christian Marangi|Fri Oct 3 23:56:14 2025 +0200|procd: update to Git HEAD (2025-10-03)
+40116d8766|Christian Marangi|Fri Oct 3 23:55:57 2025 +0200|rpcd: update to Git HEAD (2025-10-03)
+146d74a260|Christian Marangi|Fri Oct 3 23:55:41 2025 +0200|ubox: update to Git HEAD (2025-10-03)
+360e8bc1a1|Christian Marangi|Fri Oct 3 23:55:09 2025 +0200|ucert: update to Git HEAD (2025-10-03)
+21d0803655|Christian Marangi|Fri Oct 3 23:54:41 2025 +0200|urngd: update to Git HEAD (2025-10-03)
+285d20cf07|Christian Marangi|Fri Oct 3 23:54:34 2025 +0200|usign: update to Git HEAD (2025-10-03)
+4522a1d914|Christian Marangi|Fri Oct 3 23:54:26 2025 +0200|ugps: update to Git HEAD (2025-10-03)
+0d6b7fb56e|Issam Hamdi|Tue Sep 9 15:32:29 2025 +0200|realtek: rtl93xx: Ignore STP for per port TX
+be84bb3a78|Sharadanand Karanjkar|Tue Jul 15 19:48:05 2025 +0200|realtek: rtl93xx: dsa: Add support for port based mirroring
+8e2284857d|Sven Eckelmann|Tue Jul 15 19:48:05 2025 +0200|realtek: dsa: Keep HW specific mirror code in SoC helper
+0160ae8635|Hauke Mehrtens|Fri Oct 3 14:15:40 2025 +0200|realtek: Refresh kernel patches
+06be7f5928|Paul Spooren|Wed Oct 1 15:22:38 2025 +0200|package: generate sha256sums by default
+71e057bac0|Til Kaiser|Thu Oct 2 15:01:35 2025 +0200|kernel: modules: fix mlxreg dependency to avoid deferred probe
 </details>

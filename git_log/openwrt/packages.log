@@ -2,17 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-4c35b8933|Paul Donald|Thu Oct 2 14:24:38 2025 +0200|clamav: all; init; add only non-empty parameters
-10ac81b9a|Ben Kibbey|Mon Sep 29 20:20:09 2025 -0700|openvpn: add peer-fingerprint support
-9bfc5a2a7|Josef Schlehofer|Wed Oct 1 00:53:08 2025 +0200|tor: update to version 0.4.8.18
-3bf64e39b|Josef Schlehofer|Wed Oct 1 00:33:08 2025 +0200|gzip: update to version 1.14
-5eaf0e6c0|Nikita Solianik|Tue Sep 30 19:34:12 2025 +0200|uwsgi: update to version 2.0.30
-6a13be222|Vladimir Kochnev|Wed Oct 1 20:48:02 2025 +0300|acme-acme.sh: support listen_port option
-893576cec|Vladimir Kochnev|Wed Oct 1 20:48:02 2025 +0300|acme-acme.sh: declare staging_moved variable
-9f4e7726e|Vladimir Kochnev|Wed Oct 1 20:48:01 2025 +0300|acme-common: support listen_port option
-acb95630d|George Sapkin|Wed Oct 1 19:34:22 2025 +0300|adguardhome: bump to 0.107.67
-b6535dff7|Hannu Nyman|Wed Oct 1 19:35:15 2025 +0300|libcbor: update to 0.13.0
-c6ba0ce29|Wei-Ting Yang|Sat Aug 23 18:49:18 2025 +0800|python-urllib3: update to 2.5.0
-7289cb011|Wei-Ting Yang|Fri Sep 5 10:59:45 2025 +0800|python-packaging: update to 25.0
-97e8ac4f6|George Sapkin|Wed Oct 1 19:48:29 2025 +0300|syncthing: bump to 2.0.10
+c7253f97a|Josef Schlehofer|Wed Oct 1 00:07:27 2025 +0200|yt-dlp: update to version 2025.9.26
+d856cb45e|George Sapkin|Fri Oct 3 02:07:39 2025 +0300|python-trove-classifiers: bump to 2025.9.11.17
 </details>
