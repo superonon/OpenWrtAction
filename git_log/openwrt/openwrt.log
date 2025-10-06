@@ -2,34 +2,13 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-18bdeda011|Andrea Pesaresi|Fri Sep 26 20:01:17 2025 +0200|kernel: ksmbd: revert upstream limit repeated connection
-ebd45615d9|Andrii Kuiukoff|Wed Oct 1 17:00:45 2025 +0300|mediatek: CreatLentem clt-r30b1: Add Livinet Li228 as alt vendor model
-1e6ee26691|Markus Gothe|Thu Sep 25 10:32:58 2025 +0200|base-files: commit and sync before removing defaults script.
-5263c4b993|Rosen Penev|Wed Oct 1 20:07:37 2025 -0700|ath79: asus: convert to nvmem for calibration
-2dae098d69|Rosen Penev|Mon Sep 29 11:45:23 2025 -0700|tools/ninja: update to 1.13.1
-c7c54f3134|Sven Eckelmann (Plasma Cloud)|Thu Oct 12 13:57:32 2023 +0200|ramips: add support for Plasma Cloud PAX1800-Lite
-6733b9ab7c|Sven Eckelmann (Plasma Cloud)|Wed Jul 2 17:00:03 2025 +0200|mt76: mt7915: add bf backoff limit table support
-7dc498dc9f|Sven Eckelmann (Plasma Cloud)|Mon Jun 30 16:39:37 2025 +0200|mt76: Fix DTS power-limits on little endian systems
-5cb0ccfc8b|Pavlo Samko|Wed Oct 1 16:48:46 2025 +0300|nilfs-utils: update to 2.2.12
-c907c7c9b3|Coia Prant|Wed Oct 1 17:09:32 2025 +0800|ramips: Fix Hongdian H7920 v40 mac address
-44c79d094f|Coia Prant|Wed Oct 1 15:55:57 2025 +0800|ramips: Fix Hongdian H7920 v40 pinctrl default state
-e99ee3ad9c|John Audia|Thu Oct 2 08:24:22 2025 -0400|openssl: update to 3.5.4
-bb1779cdc5|Goetz Goerisch|Thu Oct 2 14:47:12 2025 +0200|kernel: bump 6.6 to 6.6.109
-dbd3cffa67|John Audia|Thu Oct 2 12:53:55 2025 -0400|kernel: bump 6.12 to 6.12.50
-4231a731dd|Sven Eckelmann|Wed Oct 1 14:35:49 2025 +0200|realtek: drop source-only from rtl931x target
-ce8ea739eb|Harshal Gohel|Mon Jul 14 18:00:58 2025 +0200|realtek: rtl931x: Add support for Plasma Cloud ESX28 Switch
-2b5555c195|Harshal Gohel|Mon Jul 14 18:00:58 2025 +0200|realtek: rtl931x: Add support for Plasma Cloud PSX28 Switch
-746ccc5be6|Sven Eckelmann|Mon Apr 14 13:16:47 2025 +0000|realtek: rtl931x: Enable parsing of u-boot nvmem layouts
-b81b576556|Tianling Shen|Fri Oct 3 16:02:10 2025 +0800|rockchip: make use of OpenWrt compiled dtbs
-eea52f3a82|Hauke Mehrtens|Sat Oct 4 13:40:56 2025 +0200|omcproxy: update to Git HEAD (2025-10-04)
-c89ac7503e|Hauke Mehrtens|Sat Oct 4 13:38:44 2025 +0200|relayd: update to Git HEAD (2025-10-04)
-709b61adae|Hauke Mehrtens|Sat Oct 4 13:35:29 2025 +0200|umbim: update to Git HEAD (2025-10-04)
-22d36e452e|Hauke Mehrtens|Sat Oct 4 13:33:28 2025 +0200|usbmode: update to Git HEAD (2025-10-04)
-db54dc67e1|Hauke Mehrtens|Sat Oct 4 13:31:37 2025 +0200|umdns: update to Git HEAD (2025-10-04)
-d39f313918|Hauke Mehrtens|Sat Oct 4 12:22:52 2025 +0200|firmware-utils: update to Git HEAD (2025-10-01)
-b00fcf3614|Hauke Mehrtens|Sat Oct 4 12:12:52 2025 +0200|ubus: update to Git HEAD (2025-10-04)
-32a6168dc4|Hauke Mehrtens|Sat Oct 4 12:09:32 2025 +0200|libubox: update to Git HEAD (2025-10-04)
-eadb0df58d|Hauke Mehrtens|Sat Oct 4 12:04:17 2025 +0200|firewall: update to Git HEAD (2025-10-03)
-c2e6e6785c|Hauke Mehrtens|Sat Oct 4 12:02:55 2025 +0200|jsonfilter: update to Git HEAD (2025-10-04)
-2f2b9c2f1b|Andy Chiang|Fri Oct 3 04:12:12 2025 +0700|iptables: fix breaking packing
+ea79b5875a|Álvaro Fernández Rojas|Thu Oct 2 15:53:39 2025 +0200|odhcpd: update to Git HEAD (2025-10-02)
+11a7c77fcb|Christian Marangi|Sun Oct 5 14:34:57 2025 +0200|uci: update to Git HEAD (2025-10-05)
+c18476d0c5|Markus Stockhausen|Fri Oct 3 11:18:42 2025 -0400|realtek: RTL931x: disable USXGMII SerDes setup
+8916b26a66|Markus Stockhausen|Wed Oct 1 02:20:07 2025 -0400|realtek: drop source-only from NAND targets
+f88135b7cd|Markus Stockhausen|Wed Oct 1 02:19:19 2025 -0400|realtek: add support for Linksys LGS352C
+853d73f9d1|Markus Stockhausen|Wed Oct 1 02:06:43 2025 -0400|realtek: add support for Linksys LGS328C
+af7a74bad1|Markus Stockhausen|Wed Oct 1 02:01:48 2025 -0400|realtek: Enhance MTD/ECC kernel configuration for NAND targets
+a64db95a23|Felix Fietkau|Sun Oct 5 11:30:48 2025 +0200|ucode: fix parsing \xHH and \0OOO escape sequences
+7b2c9f6799|Felix Fietkau|Fri Oct 3 15:32:25 2025 +0200|hostapd: skip dynamic reconfiguration while not in enabled state
 </details>
