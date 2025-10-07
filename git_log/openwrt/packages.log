@@ -2,11 +2,9 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-209070b5c|Hauke Mehrtens|Sat Oct 4 13:45:34 2025 +0200|cgi-io: update to Git HEAD (2025-10-04)
-2e1269024|Hauke Mehrtens|Sat Oct 4 13:44:07 2025 +0200|usteer: update to Git HEAD (2025-10-04)
-47f1bfa71|Andrea Pesaresi|Sun Oct 5 12:00:30 2025 +0200|ksmbd-tools: bump to 3.5.4
-d50b5e583|Michal Hrusecky|Thu Oct 2 09:08:42 2025 +0200|mariadb: add unconditional dependency on libaio
-ababcfd7a|Sven Eckelmann|Sat Sep 27 20:15:10 2025 +0200|poemgr: update to latest HEAD
-4474f539b|Josef Schlehofer|Fri Oct 3 11:34:46 2025 +0200|multi-arch-test-build: run it only after the Formality check succeeds
-126364e10|Josef Schlehofer|Wed Sep 24 10:03:13 2025 +0200|snort3: refactor architecture-specific dependencies and CMake options
+63b450175|Michal Hrusecky|Mon Oct 6 15:53:48 2025 +0200|mariadb: update to 11.8.3
+57596d983|Etienne Champetier|Mon Oct 6 16:08:22 2025 -0400|phantap: bump minimum cmake version to 3.10
+33ecb6416|Jianhui Zhao|Mon Oct 6 20:16:50 2025 +0800|lua-eco: update to 3.13.0
+212213d77|Javier Marcet|Sat Oct 4 17:25:50 2025 +0200|docker-compose: Update to version 2.40.0
+00310cf88|Dominic Greenberg|Sat Oct 4 00:32:27 2025 +0200|ddns-scripts-cloudflare: document API Token auth in comments adjust comments documenting the already supported API Token auth adjust comments with URLs that changed in the meantime adjust comment regarding CF API documentation URL, points to the scripts relevant DNS section
 </details>

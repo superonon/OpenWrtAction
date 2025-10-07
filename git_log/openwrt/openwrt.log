@@ -2,13 +2,23 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-ea79b5875a|Álvaro Fernández Rojas|Thu Oct 2 15:53:39 2025 +0200|odhcpd: update to Git HEAD (2025-10-02)
-11a7c77fcb|Christian Marangi|Sun Oct 5 14:34:57 2025 +0200|uci: update to Git HEAD (2025-10-05)
-c18476d0c5|Markus Stockhausen|Fri Oct 3 11:18:42 2025 -0400|realtek: RTL931x: disable USXGMII SerDes setup
-8916b26a66|Markus Stockhausen|Wed Oct 1 02:20:07 2025 -0400|realtek: drop source-only from NAND targets
-f88135b7cd|Markus Stockhausen|Wed Oct 1 02:19:19 2025 -0400|realtek: add support for Linksys LGS352C
-853d73f9d1|Markus Stockhausen|Wed Oct 1 02:06:43 2025 -0400|realtek: add support for Linksys LGS328C
-af7a74bad1|Markus Stockhausen|Wed Oct 1 02:01:48 2025 -0400|realtek: Enhance MTD/ECC kernel configuration for NAND targets
-a64db95a23|Felix Fietkau|Sun Oct 5 11:30:48 2025 +0200|ucode: fix parsing \xHH and \0OOO escape sequences
-7b2c9f6799|Felix Fietkau|Fri Oct 3 15:32:25 2025 +0200|hostapd: skip dynamic reconfiguration while not in enabled state
+133c91823c|Thomas Martitz|Wed Sep 24 14:49:07 2025 +0200|realtek: rtl930x: add XGS1250-12 B1 device
+9f5e43b8da|Harshal Gohel|Tue Jul 15 19:53:07 2025 +0200|realtek: rtl931x: Allow to overwrite LED portmask
+254c9ac40b|Harshal Gohel|Tue Jul 15 19:53:07 2025 +0200|realtek: rtl931x: Cleanup LED set initialization
+38d35f413d|Sven Eckelmann|Tue Jul 15 19:53:07 2025 +0200|realtek: rtl931x: Add support for active-low LEDs
+546722f95e|Sven Eckelmann|Tue Jul 15 19:53:07 2025 +0200|realtek: rtl931x: Switch LED init to dev_* message helper
+21d56eeefa|Sven Eckelmann|Tue Jul 15 19:53:07 2025 +0200|realtek: rtl930x: Clean up LED set initialization
+fb01b901e7|Sven Eckelmann|Tue Jul 15 19:53:07 2025 +0200|realtek: rtl930x: Fix out-of-bounds check in LED set configuration
+ebb79d0f84|Harshal Gohel|Fri Jul 11 14:50:37 2025 +0000|realtek: rtl930x: Allow to overwrite LED portmask
+78df0493d3|Zoltan HERPAI|Thu May 29 18:24:46 2025 +0000|pistachio: enable hash offload engine
+2730d1186a|George Tsiamasiotis|Thu Oct 2 22:04:51 2025 +0300|iproute2: enable automatic color output by default
+4153205022|George Tsiamasiotis|Thu Oct 2 21:00:22 2025 +0300|iproute2: split iproute2 configure and compile logic
+2069b83ec6|George Tsiamasiotis|Thu Oct 2 21:37:58 2025 +0300|iproute2: stop writing unused snapshot information
+badf145f11|Til Kaiser|Sat Oct 12 18:32:45 2024 +0200|x86: rename and configure Mellanox Spectrum interfaces
+055d877a20|Til Kaiser|Fri Nov 22 15:20:10 2024 +0100|base-files: add ucidef_set_interface_netdev_range function
+8edcd772db|Til Kaiser|Mon Dec 16 19:26:20 2024 +0100|kernel: modules: add Mellanox Spectrum hotplug renaming script
+f22f533ebc|Til Kaiser|Sat Oct 12 18:32:08 2024 +0200|kernel: modules: load e1000e driver during pre-init stage
+515a86b895|Daniel Tang|Sun Oct 5 08:21:36 2025 +0000|realtek: dts: rearrange mdio-bus for tplink_sg2xxx
+3ec468ff4f|Zoltan HERPAI|Fri May 30 21:30:38 2025 +0000|sunxi: add F1C100 (arm926ej-s) support
+09ae2daa7c|Felix Fietkau|Mon Oct 6 09:55:58 2025 +0200|netifd: update to Git HEAD (2025-10-06)
 </details>

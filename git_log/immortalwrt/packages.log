@@ -2,10 +2,43 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-fdc66015d|Tianling Shen|Sun Oct 5 20:15:03 2025 +0800|sing-box: backport tproxy ipv6 fix
-79b3c6ca1|Tianling Shen|Sun Oct 5 20:08:10 2025 +0800|sing-box: rollback to 1.12.4
-185922782|Tianling Shen|Sun Oct 5 19:17:12 2025 +0800|msd_lite: comment out default uci options
-b80403a36|Tianling Shen|Sun Oct 5 19:09:23 2025 +0800|msd_lite: increase default ringBufSize to 4096 for 4K channels
-08f401b5a|Tianling Shen|Sun Oct 5 19:00:04 2025 +0800|sing-box: Update to 1.12.9
-b3661dd07|Interesting Gang|Sun Oct 5 12:07:15 2025 +0800|hysteria: update to 2.6.4
+b38d17792|Tianling Shen|Mon Oct 6 16:47:20 2025 +0800|smartdns: remove redundant dependencies
+ee2e95799|Tianling Shen|Mon Oct 6 16:37:53 2025 +0800|Merge Official Source
+212213d77|Javier Marcet|Sat Oct 4 17:25:50 2025 +0200|docker-compose: Update to version 2.40.0
+00310cf88|Dominic Greenberg|Sat Oct 4 00:32:27 2025 +0200|ddns-scripts-cloudflare: document API Token auth in comments adjust comments documenting the already supported API Token auth adjust comments with URLs that changed in the meantime adjust comment regarding CF API documentation URL, points to the scripts relevant DNS section
+209070b5c|Hauke Mehrtens|Sat Oct 4 13:45:34 2025 +0200|cgi-io: update to Git HEAD (2025-10-04)
+2e1269024|Hauke Mehrtens|Sat Oct 4 13:44:07 2025 +0200|usteer: update to Git HEAD (2025-10-04)
+47f1bfa71|Andrea Pesaresi|Sun Oct 5 12:00:30 2025 +0200|ksmbd-tools: bump to 3.5.4
+d50b5e583|Michal Hrusecky|Thu Oct 2 09:08:42 2025 +0200|mariadb: add unconditional dependency on libaio
+ababcfd7a|Sven Eckelmann|Sat Sep 27 20:15:10 2025 +0200|poemgr: update to latest HEAD
+4474f539b|Josef Schlehofer|Fri Oct 3 11:34:46 2025 +0200|multi-arch-test-build: run it only after the Formality check succeeds
+126364e10|Josef Schlehofer|Wed Sep 24 10:03:13 2025 +0200|snort3: refactor architecture-specific dependencies and CMake options
+c7253f97a|Josef Schlehofer|Wed Oct 1 00:07:27 2025 +0200|yt-dlp: update to version 2025.9.26
+d856cb45e|George Sapkin|Fri Oct 3 02:07:39 2025 +0300|python-trove-classifiers: bump to 2025.9.11.17
+4c35b8933|Paul Donald|Thu Oct 2 14:24:38 2025 +0200|clamav: all; init; add only non-empty parameters
+10ac81b9a|Ben Kibbey|Mon Sep 29 20:20:09 2025 -0700|openvpn: add peer-fingerprint support
+9bfc5a2a7|Josef Schlehofer|Wed Oct 1 00:53:08 2025 +0200|tor: update to version 0.4.8.18
+3bf64e39b|Josef Schlehofer|Wed Oct 1 00:33:08 2025 +0200|gzip: update to version 1.14
+5eaf0e6c0|Nikita Solianik|Tue Sep 30 19:34:12 2025 +0200|uwsgi: update to version 2.0.30
+6a13be222|Vladimir Kochnev|Wed Oct 1 20:48:02 2025 +0300|acme-acme.sh: support listen_port option
+893576cec|Vladimir Kochnev|Wed Oct 1 20:48:02 2025 +0300|acme-acme.sh: declare staging_moved variable
+9f4e7726e|Vladimir Kochnev|Wed Oct 1 20:48:01 2025 +0300|acme-common: support listen_port option
+acb95630d|George Sapkin|Wed Oct 1 19:34:22 2025 +0300|adguardhome: bump to 0.107.67
+b6535dff7|Hannu Nyman|Wed Oct 1 19:35:15 2025 +0300|libcbor: update to 0.13.0
+c6ba0ce29|Wei-Ting Yang|Sat Aug 23 18:49:18 2025 +0800|python-urllib3: update to 2.5.0
+7289cb011|Wei-Ting Yang|Fri Sep 5 10:59:45 2025 +0800|python-packaging: update to 25.0
+97e8ac4f6|George Sapkin|Wed Oct 1 19:48:29 2025 +0300|syncthing: bump to 2.0.10
+be1bdc2ac|Josef Schlehofer|Wed Oct 1 00:12:13 2025 +0200|gitlab-runner: drop unmaintained package here
+fde2ee445|Josef Schlehofer|Wed Oct 1 00:09:34 2025 +0200|elektra: drop package
+48b26e446|Wesley Gimenes|Fri Sep 26 13:29:25 2025 -0300|netbird: update to 0.58.2
+a5da0e757|Niklas Thorild|Mon Sep 29 23:27:23 2025 +0200|telegraf: update to 1.36.2
+2ba11a2da|Josef Schlehofer|Tue Sep 30 17:12:26 2025 +0200|syslog-ng: update to version 4.10.1
+28adfd3d1|Josef Schlehofer|Wed Oct 1 10:19:53 2025 +0200|apache: update to version 2.4.65
+c488e1297|Josef Schlehofer|Wed Oct 1 00:22:08 2025 +0200|msmtp: update to version 1.8.31
+9d141eb9d|Josef Schlehofer|Wed Oct 1 01:04:50 2025 +0200|mariadb: update to version 11.4.8
+4d521dfbe|Josef Schlehofer|Wed Oct 1 00:57:57 2025 +0200|python-hatchling: update to version 1.27.0
+266a8ca49|Sandro Jäckel|Wed Oct 1 01:57:45 2025 +0200|tailscale: update to 1.88.3
+c4a23ca99|Josef Schlehofer|Tue Sep 30 08:45:04 2025 +0200|umurmur: update to version 0.3.1
+c48ddeb5a|Ted Hess|Mon Sep 29 08:03:16 2025 -0400|xmlrpc-c: [Security] Remove obsolete "-internal" variant
+d6a3943cc|Daniel Golle|Mon Sep 29 16:59:57 2025 +0100|nfs-kernel-server: fix recursive Kconfig dependencies
 </details>

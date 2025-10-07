@@ -1,8 +1,0 @@
-<details> <summary> <b>luci new commit log :new: </b>  </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-7e8c98ddd3|Tianling Shen|Sun Oct 5 19:36:35 2025 +0800|luci-app-msd_lite: add loglevel option
-4d9ec1ef05|Tianling Shen|Sun Oct 5 19:13:02 2025 +0800|luci-app-msd_lite: increase default ringBufSize to 4096 for 4K channels
-dc93eba881|Tianling Shen|Sun Oct 5 17:48:02 2025 +0800|luci-app-homeproxy: bump to latest git HEAD
-</details>
