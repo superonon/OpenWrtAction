@@ -2,9 +2,11 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-63b450175|Michal Hrusecky|Mon Oct 6 15:53:48 2025 +0200|mariadb: update to 11.8.3
-57596d983|Etienne Champetier|Mon Oct 6 16:08:22 2025 -0400|phantap: bump minimum cmake version to 3.10
-33ecb6416|Jianhui Zhao|Mon Oct 6 20:16:50 2025 +0800|lua-eco: update to 3.13.0
-212213d77|Javier Marcet|Sat Oct 4 17:25:50 2025 +0200|docker-compose: Update to version 2.40.0
-00310cf88|Dominic Greenberg|Sat Oct 4 00:32:27 2025 +0200|ddns-scripts-cloudflare: document API Token auth in comments adjust comments documenting the already supported API Token auth adjust comments with URLs that changed in the meantime adjust comment regarding CF API documentation URL, points to the scripts relevant DNS section
+f09845f8d|Etienne Champetier|Mon Oct 6 18:11:41 2025 -0400|cjson: bump minimum cmake version to 3.10
+8a87d20fd|Hannu Nyman|Tue Oct 7 19:07:47 2025 +0300|lzo: adjust for cmake 4.x compatibility
+983d7181c|Hannu Nyman|Tue Oct 7 18:51:49 2025 +0300|nlbwmon: adjust for cmake 4.x compatibility
+104aabdd5|David Andreoletti|Tue Sep 30 12:51:00 2025 +0800|ddns-scripts: fixed ovh dns record update
+a1e500827|Christian Lachner|Tue Oct 7 09:46:01 2025 +0200|haproxy: update to v3.2.6
+9ba287e7f|Maxim Storchak|Tue Sep 23 18:00:00 2025 +0300|sqlite3: fix line editing in sqlite3-cli
+485fa4041|Maxim Storchak|Sun Oct 5 00:03:51 2025 +0300|linenoise: add package
 </details>

@@ -2,23 +2,8 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-133c91823c|Thomas Martitz|Wed Sep 24 14:49:07 2025 +0200|realtek: rtl930x: add XGS1250-12 B1 device
-9f5e43b8da|Harshal Gohel|Tue Jul 15 19:53:07 2025 +0200|realtek: rtl931x: Allow to overwrite LED portmask
-254c9ac40b|Harshal Gohel|Tue Jul 15 19:53:07 2025 +0200|realtek: rtl931x: Cleanup LED set initialization
-38d35f413d|Sven Eckelmann|Tue Jul 15 19:53:07 2025 +0200|realtek: rtl931x: Add support for active-low LEDs
-546722f95e|Sven Eckelmann|Tue Jul 15 19:53:07 2025 +0200|realtek: rtl931x: Switch LED init to dev_* message helper
-21d56eeefa|Sven Eckelmann|Tue Jul 15 19:53:07 2025 +0200|realtek: rtl930x: Clean up LED set initialization
-fb01b901e7|Sven Eckelmann|Tue Jul 15 19:53:07 2025 +0200|realtek: rtl930x: Fix out-of-bounds check in LED set configuration
-ebb79d0f84|Harshal Gohel|Fri Jul 11 14:50:37 2025 +0000|realtek: rtl930x: Allow to overwrite LED portmask
-78df0493d3|Zoltan HERPAI|Thu May 29 18:24:46 2025 +0000|pistachio: enable hash offload engine
-2730d1186a|George Tsiamasiotis|Thu Oct 2 22:04:51 2025 +0300|iproute2: enable automatic color output by default
-4153205022|George Tsiamasiotis|Thu Oct 2 21:00:22 2025 +0300|iproute2: split iproute2 configure and compile logic
-2069b83ec6|George Tsiamasiotis|Thu Oct 2 21:37:58 2025 +0300|iproute2: stop writing unused snapshot information
-badf145f11|Til Kaiser|Sat Oct 12 18:32:45 2024 +0200|x86: rename and configure Mellanox Spectrum interfaces
-055d877a20|Til Kaiser|Fri Nov 22 15:20:10 2024 +0100|base-files: add ucidef_set_interface_netdev_range function
-8edcd772db|Til Kaiser|Mon Dec 16 19:26:20 2024 +0100|kernel: modules: add Mellanox Spectrum hotplug renaming script
-f22f533ebc|Til Kaiser|Sat Oct 12 18:32:08 2024 +0200|kernel: modules: load e1000e driver during pre-init stage
-515a86b895|Daniel Tang|Sun Oct 5 08:21:36 2025 +0000|realtek: dts: rearrange mdio-bus for tplink_sg2xxx
-3ec468ff4f|Zoltan HERPAI|Fri May 30 21:30:38 2025 +0000|sunxi: add F1C100 (arm926ej-s) support
-09ae2daa7c|Felix Fietkau|Mon Oct 6 09:55:58 2025 +0200|netifd: update to Git HEAD (2025-10-06)
+b64fdedeac|Aleksander Jan Bajkowski|Mon Oct 6 20:46:12 2025 +0200|iw: bump to 6.17
+7a793724b1|Goetz Goerisch|Mon Oct 6 18:48:33 2025 +0200|kernel: bump 6.6 to 6.6.110
+2b7fffa963|Marcin Leksmark|Tue Sep 23 18:37:25 2025 +0200|ramips: add support for Cudy C200P
+11820ef801|Erik Karlsson|Mon Oct 6 15:46:36 2025 +0200|rules.mk: do not set CCACHE_NOHASHDIR
 </details>
