@@ -2,8 +2,16 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-b64fdedeac|Aleksander Jan Bajkowski|Mon Oct 6 20:46:12 2025 +0200|iw: bump to 6.17
-7a793724b1|Goetz Goerisch|Mon Oct 6 18:48:33 2025 +0200|kernel: bump 6.6 to 6.6.110
-2b7fffa963|Marcin Leksmark|Tue Sep 23 18:37:25 2025 +0200|ramips: add support for Cudy C200P
-11820ef801|Erik Karlsson|Mon Oct 6 15:46:36 2025 +0200|rules.mk: do not set CCACHE_NOHASHDIR
+7418c2d89b|Felix Fietkau|Wed Oct 8 19:50:20 2025 +0200|ucode: fix reusing the current environment in uloop.process()
+987b1484a6|Rosen Penev|Mon Oct 6 13:42:05 2025 -0700|mediatek: fix wrong reset_gpio
+a4ace63b7c|Rosen Penev|Mon Oct 6 13:38:22 2025 -0700|ipq40xx: clkreq-gpio to clkreg-gpios
+c09211d7cf|Rosen Penev|Mon Oct 6 13:37:16 2025 -0700|ipq40xx: wake-gpio to wake-gpios
+c72a6fa339|Rosen Penev|Mon Oct 6 13:34:42 2025 -0700|treewide: perst-gpio to perst-gpios
+1ab12d5d8c|Rosen Penev|Mon Oct 6 13:28:44 2025 -0700|treewide: enable-gpio to enable-gpios
+c186d17fa5|Rosen Penev|Sat Sep 20 21:11:32 2025 -0700|treewide: replace numbers with GPIO_ACTIVE
+3a79019664|Rosen Penev|Thu Sep 18 16:50:21 2025 -0700|treewide: reset-gpio to reset-gpios
+5572d35f77|Rosen Penev|Sat Sep 20 21:19:03 2025 -0700|treewide: gpio to gpios
+4bef775c70|Paul Spooren|Sat Oct 4 20:53:51 2025 +0200|packages: bump APK to improve reproducibility
+5b1cb76a01|Goetz Goerisch|Tue Oct 7 15:53:56 2025 +0200|odhcpd: update to Git HEAD (2025-10-07)
+1a3f05eb2b|Rosen Penev|Mon Oct 6 17:39:54 2025 -0700|ipq806x: fix wifi node
 </details>

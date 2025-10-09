@@ -2,25 +2,7 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-715f41e4c1|Paul Donald|Wed Oct 8 01:03:39 2025 +0200|luci-app-dawn: add pot i18n base
-6c5f78ffd2|Sergey Ponomarev|Sat Oct 4 16:19:56 2025 +0300|luci-base: form.js, luci.js, network.js: fix typos and add articles
-ebfb4f73ec|Sergey Ponomarev|Sat Oct 4 15:38:24 2025 +0300|luci-base: form.js depends(): make value optional
-721369b8bf|Hannu Nyman|Tue Oct 7 18:56:21 2025 +0300|lucihttp: adjust to cmake 4.x compatibility
-a2fce95248|James Haggerty|Mon Apr 8 02:37:42 2024 +0000|luci-base: don't render until luci-loaded is done
-9924970dce|Sergey Ponomarev|Sat Oct 4 11:16:34 2025 +0300|luci-app-acme: validation_method alpn and listen_port
-09cef4b673|Sergey Ponomarev|Sat Oct 4 11:12:22 2025 +0300|luci-app-acme: validation_method options: add challenge type code HTTP-01 and DNS-01
-e676928067|Sergey Ponomarev|Sat Oct 4 11:02:31 2025 +0300|luci-app-acme: validation_method options: use the same string as tab names
-b3cb2c479a|Sergey Ponomarev|Sat Oct 4 10:58:50 2025 +0300|luci-app-acme: show _dns_options_alt only for validation_method: dns
-ad29e7594a|Sergey Ponomarev|Sat Sep 6 16:19:58 2025 +0300|luci-app-acme: fix review problems
-65d4b48710|Sergey Ponomarev|Sat Jun 1 22:30:37 2024 +0300|luci-app-acme: Add Log reader
-8eb81267f0|Sergey Ponomarev|Sat Jun 1 22:00:28 2024 +0300|luci-app-acme: Import domains from DDNS
-c4e38e2656|Sergey Ponomarev|Sat Jun 1 20:19:41 2024 +0300|luci-app-acme: Guess the system domain and pre-fill it to domains.
-170c8e5f19|Sergey Ponomarev|Sat Jun 1 19:45:57 2024 +0300|luci-app-acme: show button "Install package acme-acmesh-dnsapi" if DNS mode is used
-13da425262|Sergey Ponomarev|Sat Jun 1 18:47:50 2024 +0300|luci-app-acme: Validate domains
-69d7840c25|Sergey Ponomarev|Sun Jun 2 18:45:03 2024 +0300|luci-app-acme: Set default validation_method to standalone
-081f1790c7|Sergey Ponomarev|Sat Jun 1 18:42:19 2024 +0300|luci-app-acme: put validation_method above domains
-72e62c027c|Sergey Ponomarev|Mon Jun 3 14:42:41 2024 +0300|luci-app-acme: option staging: show the flag only for letsencrypt
-35cfeaa52d|Sergey Ponomarev|Sat Jun 1 17:42:13 2024 +0300|luci-app-acme: option acme_server: add "See more" link
-478c0e51f0|Sergey Ponomarev|Sat Jun 1 17:51:50 2024 +0300|luci-app-acme: introduction: add link to OpenWrt Wiki
-e65f854c08|Sergey Ponomarev|Sat Jun 1 14:44:48 2024 +0300|luci-app-acme: Add dns_wait option
+d0ebc63e67|Stan Grishin|Wed Oct 8 12:10:10 2025 -0700|Merge pull request #7989 from stangri/master-luci-app-adblock-fast
+cae84bbb18|Hosted Weblate|Wed Oct 8 00:44:54 2025 +0200|Translated using Weblate (Spanish)
+b9c9b470ec|Stan Grishin|Tue Oct 7 22:37:15 2025 +0000|luci-app-adblock-fast: update to 1.2.0-r20
 </details>

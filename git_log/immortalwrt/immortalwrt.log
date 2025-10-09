@@ -1,7 +1,0 @@
-<details> <summary> <b>immortalwrt new commit log :new: </b>  </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-902c3b5995|Tianling Shen|Tue Oct 7 22:43:42 2025 +0800|rockchip: configure ETH LED for Radxa ROCK 5C/Lite
-db54542203|Tianling Shen|Tue Oct 7 22:36:05 2025 +0800|rockchip: lower sdmmc speed for Radxa ROCK 5C/Lite
-</details>
