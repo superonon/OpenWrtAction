@@ -2,16 +2,17 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-7418c2d89b|Felix Fietkau|Wed Oct 8 19:50:20 2025 +0200|ucode: fix reusing the current environment in uloop.process()
-987b1484a6|Rosen Penev|Mon Oct 6 13:42:05 2025 -0700|mediatek: fix wrong reset_gpio
-a4ace63b7c|Rosen Penev|Mon Oct 6 13:38:22 2025 -0700|ipq40xx: clkreq-gpio to clkreg-gpios
-c09211d7cf|Rosen Penev|Mon Oct 6 13:37:16 2025 -0700|ipq40xx: wake-gpio to wake-gpios
-c72a6fa339|Rosen Penev|Mon Oct 6 13:34:42 2025 -0700|treewide: perst-gpio to perst-gpios
-1ab12d5d8c|Rosen Penev|Mon Oct 6 13:28:44 2025 -0700|treewide: enable-gpio to enable-gpios
-c186d17fa5|Rosen Penev|Sat Sep 20 21:11:32 2025 -0700|treewide: replace numbers with GPIO_ACTIVE
-3a79019664|Rosen Penev|Thu Sep 18 16:50:21 2025 -0700|treewide: reset-gpio to reset-gpios
-5572d35f77|Rosen Penev|Sat Sep 20 21:19:03 2025 -0700|treewide: gpio to gpios
-4bef775c70|Paul Spooren|Sat Oct 4 20:53:51 2025 +0200|packages: bump APK to improve reproducibility
-5b1cb76a01|Goetz Goerisch|Tue Oct 7 15:53:56 2025 +0200|odhcpd: update to Git HEAD (2025-10-07)
-1a3f05eb2b|Rosen Penev|Mon Oct 6 17:39:54 2025 -0700|ipq806x: fix wifi node
+17badf6099|John Audia|Mon Oct 6 06:11:18 2025 -0400|kernel: bump 6.12 to 6.12.51
+1949fb996a|Mikhail Kshevetskiy|Sat Oct 4 03:02:28 2025 +0300|boot: airoha: apply network driver fixes
+e06725222e|Mikhail Kshevetskiy|Sat Oct 4 02:54:24 2025 +0300|boot: airoha: snfi: remove dirty hack required for both u-boot & linux
+e67ba973d2|Mikhail Kshevetskiy|Sat Oct 4 02:48:43 2025 +0300|boot: airoha: speed up spinand flash operations using dma
+a406e38077|Mikhail Kshevetskiy|Sat Oct 4 09:36:32 2025 +0300|airoha: spi: remove snfi driver dirty hack
+5ff0e70930|Mikhail Kshevetskiy|Sat Oct 4 09:22:16 2025 +0300|airoha: spi: snfi driver fixes & improvements
+32229a4bb7|Mikhail Kshevetskiy|Sat Oct 4 09:17:33 2025 +0300|kernel: mtd: spinand: continuous mode fixes
+8a8bfcc7fe|Petr Štetiar|Mon Oct 6 19:41:03 2025 +0000|ppp: fix PKG_MIRROR_HASH
+7d4edb21b6|Petr Štetiar|Mon Oct 6 19:41:03 2025 +0000|ebtables: fix PKG_MIRROR_HASH
+8c030a3b13|Petr Štetiar|Mon Oct 6 19:41:03 2025 +0000|tools: xxhash: fix PKG_MIRROR_HASH
+5d2994a73e|Shubham Vishwakarma|Wed Jul 30 15:51:22 2025 +0530|qualcommax: ipq50xx: Add support for Yuncore AX850
+084697eb62|Paul Spooren|Wed Oct 8 11:42:51 2025 +0200|package: do not sign individual APK packages
+ad6df8a3c8|Felix Fietkau|Thu Oct 9 09:56:10 2025 +0200|ucode: add patches that make it easier to deal with non-blocking fds
 </details>

@@ -2,9 +2,7 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-3b9bbcf40|Stan Grishin|Sat Oct 4 03:46:51 2025 +0000|adblock-fast: update to 1.2.0-r20
-a1537c4d2|Aditya Bhargava|Sat Oct 4 19:29:36 2025 -0400|acme: version bump
-fbf38647f|Aditya Bhargava|Mon Sep 29 18:05:19 2025 -0400|acme.sh: add `abort` service command and improve interactive messages
-76b676e4e|Aditya Bhargava|Mon Sep 22 03:56:17 2025 -0400|acme.sh: move to procd to ensure logging gets to syslog
-e4bdefe1c|John Audia|Sun Oct 5 07:34:07 2025 -0400|snort3: depend on libtirpc only for musl builds
+759f30389|Etienne Champetier|Thu Oct 9 14:31:35 2025 -0400|lua-cjson: bump minimum cmake version to 3.10
+ad2477e10|Stan Grishin|Tue Oct 7 16:38:50 2025 +0000|https-dns-proxy: update to 2025.10.07-r1
+0d939af40|Antonio Pastor|Wed Oct 8 21:21:33 2025 -0400|netatalk: fix config/uci files handling in all variants
 </details>

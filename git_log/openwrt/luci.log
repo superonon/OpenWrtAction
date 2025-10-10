@@ -2,7 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-d0ebc63e67|Stan Grishin|Wed Oct 8 12:10:10 2025 -0700|Merge pull request #7989 from stangri/master-luci-app-adblock-fast
-cae84bbb18|Hosted Weblate|Wed Oct 8 00:44:54 2025 +0200|Translated using Weblate (Spanish)
-b9c9b470ec|Stan Grishin|Tue Oct 7 22:37:15 2025 +0000|luci-app-adblock-fast: update to 1.2.0-r20
+ed87672098|Stan Grishin|Thu Oct 9 11:26:44 2025 -0700|Merge pull request #7993 from stangri/master-luci-app-https-dns-proxy
+3101545acf|Stan Grishin|Tue Oct 7 22:42:40 2025 +0000|luci-app-https-dns-proxy: update to 2025.10.07-r1
 </details>

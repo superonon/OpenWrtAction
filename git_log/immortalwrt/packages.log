@@ -1,0 +1,22 @@
+<details> <summary> <b>packages new commit log :new: </b>  </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+0f1595e91|Tianling Shen|Thu Oct 9 20:32:01 2025 +0800|Merge Official Source
+0d939af40|Antonio Pastor|Wed Oct 8 21:21:33 2025 -0400|netatalk: fix config/uci files handling in all variants
+3b9bbcf40|Stan Grishin|Sat Oct 4 03:46:51 2025 +0000|adblock-fast: update to 1.2.0-r20
+a1537c4d2|Aditya Bhargava|Sat Oct 4 19:29:36 2025 -0400|acme: version bump
+fbf38647f|Aditya Bhargava|Mon Sep 29 18:05:19 2025 -0400|acme.sh: add `abort` service command and improve interactive messages
+76b676e4e|Aditya Bhargava|Mon Sep 22 03:56:17 2025 -0400|acme.sh: move to procd to ensure logging gets to syslog
+e4bdefe1c|John Audia|Sun Oct 5 07:34:07 2025 -0400|snort3: depend on libtirpc only for musl builds
+f09845f8d|Etienne Champetier|Mon Oct 6 18:11:41 2025 -0400|cjson: bump minimum cmake version to 3.10
+8a87d20fd|Hannu Nyman|Tue Oct 7 19:07:47 2025 +0300|lzo: adjust for cmake 4.x compatibility
+983d7181c|Hannu Nyman|Tue Oct 7 18:51:49 2025 +0300|nlbwmon: adjust for cmake 4.x compatibility
+104aabdd5|David Andreoletti|Tue Sep 30 12:51:00 2025 +0800|ddns-scripts: fixed ovh dns record update
+a1e500827|Christian Lachner|Tue Oct 7 09:46:01 2025 +0200|haproxy: update to v3.2.6
+9ba287e7f|Maxim Storchak|Tue Sep 23 18:00:00 2025 +0300|sqlite3: fix line editing in sqlite3-cli
+485fa4041|Maxim Storchak|Sun Oct 5 00:03:51 2025 +0300|linenoise: add package
+63b450175|Michal Hrusecky|Mon Oct 6 15:53:48 2025 +0200|mariadb: update to 11.8.3
+57596d983|Etienne Champetier|Mon Oct 6 16:08:22 2025 -0400|phantap: bump minimum cmake version to 3.10
+33ecb6416|Jianhui Zhao|Mon Oct 6 20:16:50 2025 +0800|lua-eco: update to 3.13.0
+</details>

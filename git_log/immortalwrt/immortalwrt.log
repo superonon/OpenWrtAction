@@ -1,0 +1,58 @@
+<details> <summary> <b>immortalwrt new commit log :new: </b>  </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+7fe15f84c7|Tianling Shen|Thu Oct 9 21:21:48 2025 +0800|mediatek: switch to lzma compression for konka komi-a31
+cf47182247|Tianling Shen|Thu Oct 9 20:47:30 2025 +0800|odhcpd: reset PKG_RELEASE
+5b5fc760b9|Tianling Shen|Thu Oct 9 20:27:50 2025 +0800|Merge Official Source
+8a8bfcc7fe|Petr Štetiar|Mon Oct 6 19:41:03 2025 +0000|ppp: fix PKG_MIRROR_HASH
+7d4edb21b6|Petr Štetiar|Mon Oct 6 19:41:03 2025 +0000|ebtables: fix PKG_MIRROR_HASH
+8c030a3b13|Petr Štetiar|Mon Oct 6 19:41:03 2025 +0000|tools: xxhash: fix PKG_MIRROR_HASH
+5d2994a73e|Shubham Vishwakarma|Wed Jul 30 15:51:22 2025 +0530|qualcommax: ipq50xx: Add support for Yuncore AX850
+084697eb62|Paul Spooren|Wed Oct 8 11:42:51 2025 +0200|package: do not sign individual APK packages
+ad6df8a3c8|Felix Fietkau|Thu Oct 9 09:56:10 2025 +0200|ucode: add patches that make it easier to deal with non-blocking fds
+7418c2d89b|Felix Fietkau|Wed Oct 8 19:50:20 2025 +0200|ucode: fix reusing the current environment in uloop.process()
+987b1484a6|Rosen Penev|Mon Oct 6 13:42:05 2025 -0700|mediatek: fix wrong reset_gpio
+a4ace63b7c|Rosen Penev|Mon Oct 6 13:38:22 2025 -0700|ipq40xx: clkreq-gpio to clkreg-gpios
+c09211d7cf|Rosen Penev|Mon Oct 6 13:37:16 2025 -0700|ipq40xx: wake-gpio to wake-gpios
+c72a6fa339|Rosen Penev|Mon Oct 6 13:34:42 2025 -0700|treewide: perst-gpio to perst-gpios
+1ab12d5d8c|Rosen Penev|Mon Oct 6 13:28:44 2025 -0700|treewide: enable-gpio to enable-gpios
+c186d17fa5|Rosen Penev|Sat Sep 20 21:11:32 2025 -0700|treewide: replace numbers with GPIO_ACTIVE
+3a79019664|Rosen Penev|Thu Sep 18 16:50:21 2025 -0700|treewide: reset-gpio to reset-gpios
+5572d35f77|Rosen Penev|Sat Sep 20 21:19:03 2025 -0700|treewide: gpio to gpios
+4bef775c70|Paul Spooren|Sat Oct 4 20:53:51 2025 +0200|packages: bump APK to improve reproducibility
+5b1cb76a01|Goetz Goerisch|Tue Oct 7 15:53:56 2025 +0200|odhcpd: update to Git HEAD (2025-10-07)
+1a3f05eb2b|Rosen Penev|Mon Oct 6 17:39:54 2025 -0700|ipq806x: fix wifi node
+b64fdedeac|Aleksander Jan Bajkowski|Mon Oct 6 20:46:12 2025 +0200|iw: bump to 6.17
+7a793724b1|Goetz Goerisch|Mon Oct 6 18:48:33 2025 +0200|kernel: bump 6.6 to 6.6.110
+2b7fffa963|Marcin Leksmark|Tue Sep 23 18:37:25 2025 +0200|ramips: add support for Cudy C200P
+11820ef801|Erik Karlsson|Mon Oct 6 15:46:36 2025 +0200|rules.mk: do not set CCACHE_NOHASHDIR
+133c91823c|Thomas Martitz|Wed Sep 24 14:49:07 2025 +0200|realtek: rtl930x: add XGS1250-12 B1 device
+9f5e43b8da|Harshal Gohel|Tue Jul 15 19:53:07 2025 +0200|realtek: rtl931x: Allow to overwrite LED portmask
+254c9ac40b|Harshal Gohel|Tue Jul 15 19:53:07 2025 +0200|realtek: rtl931x: Cleanup LED set initialization
+38d35f413d|Sven Eckelmann|Tue Jul 15 19:53:07 2025 +0200|realtek: rtl931x: Add support for active-low LEDs
+546722f95e|Sven Eckelmann|Tue Jul 15 19:53:07 2025 +0200|realtek: rtl931x: Switch LED init to dev_* message helper
+21d56eeefa|Sven Eckelmann|Tue Jul 15 19:53:07 2025 +0200|realtek: rtl930x: Clean up LED set initialization
+fb01b901e7|Sven Eckelmann|Tue Jul 15 19:53:07 2025 +0200|realtek: rtl930x: Fix out-of-bounds check in LED set configuration
+ebb79d0f84|Harshal Gohel|Fri Jul 11 14:50:37 2025 +0000|realtek: rtl930x: Allow to overwrite LED portmask
+78df0493d3|Zoltan HERPAI|Thu May 29 18:24:46 2025 +0000|pistachio: enable hash offload engine
+2730d1186a|George Tsiamasiotis|Thu Oct 2 22:04:51 2025 +0300|iproute2: enable automatic color output by default
+4153205022|George Tsiamasiotis|Thu Oct 2 21:00:22 2025 +0300|iproute2: split iproute2 configure and compile logic
+2069b83ec6|George Tsiamasiotis|Thu Oct 2 21:37:58 2025 +0300|iproute2: stop writing unused snapshot information
+badf145f11|Til Kaiser|Sat Oct 12 18:32:45 2024 +0200|x86: rename and configure Mellanox Spectrum interfaces
+055d877a20|Til Kaiser|Fri Nov 22 15:20:10 2024 +0100|base-files: add ucidef_set_interface_netdev_range function
+8edcd772db|Til Kaiser|Mon Dec 16 19:26:20 2024 +0100|kernel: modules: add Mellanox Spectrum hotplug renaming script
+f22f533ebc|Til Kaiser|Sat Oct 12 18:32:08 2024 +0200|kernel: modules: load e1000e driver during pre-init stage
+515a86b895|Daniel Tang|Sun Oct 5 08:21:36 2025 +0000|realtek: dts: rearrange mdio-bus for tplink_sg2xxx
+3ec468ff4f|Zoltan HERPAI|Fri May 30 21:30:38 2025 +0000|sunxi: add F1C100 (arm926ej-s) support
+09ae2daa7c|Felix Fietkau|Mon Oct 6 09:55:58 2025 +0200|netifd: update to Git HEAD (2025-10-06)
+ea79b5875a|Álvaro Fernández Rojas|Thu Oct 2 15:53:39 2025 +0200|odhcpd: update to Git HEAD (2025-10-02)
+11a7c77fcb|Christian Marangi|Sun Oct 5 14:34:57 2025 +0200|uci: update to Git HEAD (2025-10-05)
+c18476d0c5|Markus Stockhausen|Fri Oct 3 11:18:42 2025 -0400|realtek: RTL931x: disable USXGMII SerDes setup
+8916b26a66|Markus Stockhausen|Wed Oct 1 02:20:07 2025 -0400|realtek: drop source-only from NAND targets
+f88135b7cd|Markus Stockhausen|Wed Oct 1 02:19:19 2025 -0400|realtek: add support for Linksys LGS352C
+853d73f9d1|Markus Stockhausen|Wed Oct 1 02:06:43 2025 -0400|realtek: add support for Linksys LGS328C
+af7a74bad1|Markus Stockhausen|Wed Oct 1 02:01:48 2025 -0400|realtek: Enhance MTD/ECC kernel configuration for NAND targets
+a64db95a23|Felix Fietkau|Sun Oct 5 11:30:48 2025 +0200|ucode: fix parsing \xHH and \0OOO escape sequences
+7b2c9f6799|Felix Fietkau|Fri Oct 3 15:32:25 2025 +0200|hostapd: skip dynamic reconfiguration while not in enabled state
+</details>
