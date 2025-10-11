@@ -2,7 +2,9 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-759f30389|Etienne Champetier|Thu Oct 9 14:31:35 2025 -0400|lua-cjson: bump minimum cmake version to 3.10
-ad2477e10|Stan Grishin|Tue Oct 7 16:38:50 2025 +0000|https-dns-proxy: update to 2025.10.07-r1
-0d939af40|Antonio Pastor|Wed Oct 8 21:21:33 2025 -0400|netatalk: fix config/uci files handling in all variants
+cb37034ad|Stan Grishin|Fri Oct 10 23:27:06 2025 +0000|adblock-fast: bugfixes
+62cc35aca|Stan Grishin|Fri Oct 10 23:30:41 2025 +0000|https-dns-proxy: bugfix: remove IPKG_INSTROOT check
+de224a558|Stan Grishin|Tue Oct 7 22:31:41 2025 +0000|pbr: update to 1.2.0-r2
+e52a80937|Josef Schlehofer|Thu Oct 9 08:54:51 2025 +0200|gperftools: include headers in the staging_dir
+02f78bc30|Josef Schlehofer|Wed Oct 8 21:47:02 2025 +0200|snort3: enable/disable options based on package availability
 </details>
