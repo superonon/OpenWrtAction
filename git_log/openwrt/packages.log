@@ -2,9 +2,10 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-cb37034ad|Stan Grishin|Fri Oct 10 23:27:06 2025 +0000|adblock-fast: bugfixes
-62cc35aca|Stan Grishin|Fri Oct 10 23:30:41 2025 +0000|https-dns-proxy: bugfix: remove IPKG_INSTROOT check
-de224a558|Stan Grishin|Tue Oct 7 22:31:41 2025 +0000|pbr: update to 1.2.0-r2
-e52a80937|Josef Schlehofer|Thu Oct 9 08:54:51 2025 +0200|gperftools: include headers in the staging_dir
-02f78bc30|Josef Schlehofer|Wed Oct 8 21:47:02 2025 +0200|snort3: enable/disable options based on package availability
+a503ffe6b|John Audia|Mon Oct 6 14:35:46 2025 -0400|openssh: update to 10.1p1
+4e41b9234|Josef Schlehofer|Wed Oct 1 00:37:55 2025 +0200|base16384: update to version 2.3.2
+f24c97fff|Daniel Golle|Fri Oct 10 02:15:39 2025 +0100|gnunet: update to version 0.25.1
+261d1b094|Josef Schlehofer|Thu Oct 9 11:37:43 2025 +0200|snort3: update dependencies after package renames
+8a3c7a69e|Josef Schlehofer|Thu Oct 9 11:35:27 2025 +0200|vectorscan: remove vectorscan-headers package and add ABI version
+404bcec4c|Josef Schlehofer|Thu Oct 9 11:18:22 2025 +0200|gperftools: remove gperftools-headers package
 </details>

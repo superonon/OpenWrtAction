@@ -2,12 +2,9 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-011ba05fd3|Daniel Golle|Wed Oct 8 18:57:16 2025 +0100|uboot-mediatek: update to U-Boot v2025.10
-292cca0e5c|Tianling Shen|Tue Oct 7 21:49:29 2025 +0800|uboot-rockchip: Update to 2025.10
-5b527704b1|Jonas Jelonek|Wed Oct 8 19:37:30 2025 +0000|realtek: pcs: add setup_serdes callback to rtpcs_cfg
-3cf04d2e0b|Jonas Jelonek|Wed Oct 8 08:19:25 2025 +0000|realtek: pcs: add more SerDes access helpers
-74f74edfe1|Patrick Oppenlander|Thu Oct 9 13:35:21 2025 +1100|x86/64: enable 8250_DW
-a626b7e74d|Mikhail Kshevetskiy|Fri Oct 10 03:15:42 2025 +0300|airoha: spi: use airoha snfi driver for EN7523
-25c48519cd|Mikhail Kshevetskiy|Fri Oct 10 03:24:28 2025 +0300|airoha: clk: add support of reset controller
-fe31e5c82a|Mikhail Kshevetskiy|Fri Oct 10 03:15:42 2025 +0300|airoha: net: fix building for en7523
+112f594042|Florian Eckert|Tue Sep 30 14:48:36 2025 +0200|kernel: add missing cpe id for linux
+875e0bf791|Tianling Shen|Sat Oct 11 12:38:22 2025 +0800|uboot-rockchip: add u-boot device tree back for Radxa ROCK 4D
+8c952afd91|Stefan Kalscheuer|Sat Oct 11 11:45:34 2025 +0200|uboot-mvebu: update to version 2025.10
+50e4d4f4ba|Stefan Kalscheuer|Sat Oct 11 17:54:34 2025 +0200|tools/mkimage: update to version 2025.10
+cf498325f1|Stefan Kalscheuer|Sat Oct 11 13:01:34 2025 +0200|uboot-tools: update to version 2025.10
 </details>

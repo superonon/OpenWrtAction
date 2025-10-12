@@ -2,15 +2,8 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-c97256949d|Stan Grishin|Fri Oct 10 16:35:12 2025 -0700|Merge pull request #7991 from stangri/master-luci-app-pbr
-90f10d6980|David Härdeman|Fri Oct 10 14:54:11 2025 +0200|luci-base: add odhcpd feature detection
-e6dc9ac18c|Paul Donald|Fri Oct 10 18:39:19 2025 +0200|luci-mod-status: Fix call params to routes.js functions
-987fdc2cc0|Sergey Ponomarev|Mon Jun 23 20:33:49 2025 +0300|luci-app-privoxy: add PKG_MAINTAINER
-fa1e4dc7d0|Sergey Ponomarev|Sun Dec 1 14:14:15 2024 +0200|luci-app-lldpd: add PKG_MAINTAINER
-7e7461542e|Richard Muzik|Wed Jul 2 07:40:43 2025 +0200|luci-app-lxc: make regex for templates less strict
-ac2638ccf9|Roc Lai|Thu Aug 14 15:31:59 2025 +0800|luci-app-frp: support QUIC protocol and Dashboard TLS
-b7aae6aca7|Florian Eckert|Fri Oct 10 10:55:40 2025 +0200|Merge pull request #7999 from AndyChiang888/interfaces.js
-3bdc28dba5|Andy Chiang|Fri Oct 10 15:21:42 2025 +0700|luci-mod-network: fix brackets in interfaces.js
-eee5cbb6c4|Hosted Weblate|Fri Oct 10 07:16:01 2025 +0200|Translated using Weblate (Romanian)
-dc279c566d|Stan Grishin|Tue Oct 7 22:40:15 2025 +0000|luci-app-pbr: update to 1.2.0-r2
+dc0bdc9ff7|Andy Chiang|Fri Oct 10 16:58:19 2025 +0700|luci-mod-status: add source/gateway display for ipv4/ipv6
+be482f5097|tuvokyang|Sat Sep 20 15:05:23 2025 +0800|luci-mod-network: resolve authentication issues during 802.1X Wi-Fi connection
+01b4cf0864|Liangbin Lian|Wed Aug 6 12:13:06 2025 +0800|luci-app-ddns: fix toggle button not working
+5425cc9e5f|Andy Chiang|Sat Oct 11 13:57:43 2025 +0700|build: fix Traditional Chinese name
 </details>
