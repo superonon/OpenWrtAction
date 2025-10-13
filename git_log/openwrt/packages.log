@@ -2,10 +2,9 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-a503ffe6b|John Audia|Mon Oct 6 14:35:46 2025 -0400|openssh: update to 10.1p1
-4e41b9234|Josef Schlehofer|Wed Oct 1 00:37:55 2025 +0200|base16384: update to version 2.3.2
-f24c97fff|Daniel Golle|Fri Oct 10 02:15:39 2025 +0100|gnunet: update to version 0.25.1
-261d1b094|Josef Schlehofer|Thu Oct 9 11:37:43 2025 +0200|snort3: update dependencies after package renames
-8a3c7a69e|Josef Schlehofer|Thu Oct 9 11:35:27 2025 +0200|vectorscan: remove vectorscan-headers package and add ABI version
-404bcec4c|Josef Schlehofer|Thu Oct 9 11:18:22 2025 +0200|gperftools: remove gperftools-headers package
+e9b710181|Rosen Penev|Wed Oct 8 19:05:53 2025 -0700|lrzsz: fix compilation with gcc15
+da5a55a35|Rosen Penev|Wed Oct 8 19:13:39 2025 -0700|lcdproc: fiz compilation with gcc15
+7cd42ff94|Florian Eckert|Fri Oct 11 14:44:53 2024 +0200|lm-sensors: packaging isaset and isadump
+f8d25a0b0|Andris PE|Mon Oct 6 07:27:49 2025 +0000|stubby: reduce idle_timeout as recommended upstream
+ece701bc5|董昊 (Dong, Hao)|Sun Oct 12 18:16:16 2025 +0400|fish: update to 4.1.2
 </details>

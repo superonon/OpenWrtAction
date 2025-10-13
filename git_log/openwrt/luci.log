@@ -2,8 +2,8 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-dc0bdc9ff7|Andy Chiang|Fri Oct 10 16:58:19 2025 +0700|luci-mod-status: add source/gateway display for ipv4/ipv6
-be482f5097|tuvokyang|Sat Sep 20 15:05:23 2025 +0800|luci-mod-network: resolve authentication issues during 802.1X Wi-Fi connection
-01b4cf0864|Liangbin Lian|Wed Aug 6 12:13:06 2025 +0800|luci-app-ddns: fix toggle button not working
-5425cc9e5f|Andy Chiang|Sat Oct 11 13:57:43 2025 +0700|build: fix Traditional Chinese name
+ad6591fb4b|Paul Donald|Sun Oct 12 19:51:29 2025 +0200|luci-mod-status: routes; refactor and add routesj page for ip -j output
+89ae891462|Paul Donald|Sun Oct 12 18:37:57 2025 +0200|luci-mod-status: routes; refactor and add routesj page for ip -j output
+cbaeb5e300|Paul Donald|Fri Oct 3 23:49:54 2025 +0200|luci-mod-status: handle vmaps in nftables
+4617b9fd2e|Paul Donald|Sun Oct 12 18:31:10 2025 +0200|github: update workflow actions
 </details>
