@@ -2,9 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-e9b710181|Rosen Penev|Wed Oct 8 19:05:53 2025 -0700|lrzsz: fix compilation with gcc15
-da5a55a35|Rosen Penev|Wed Oct 8 19:13:39 2025 -0700|lcdproc: fiz compilation with gcc15
-7cd42ff94|Florian Eckert|Fri Oct 11 14:44:53 2024 +0200|lm-sensors: packaging isaset and isadump
-f8d25a0b0|Andris PE|Mon Oct 6 07:27:49 2025 +0000|stubby: reduce idle_timeout as recommended upstream
-ece701bc5|董昊 (Dong, Hao)|Sun Oct 12 18:16:16 2025 +0400|fish: update to 4.1.2
+20f0c74de|Biao Zhu|Mon Oct 13 20:15:24 2025 +0800|fluent-bit: update to 4.1.1
 </details>
