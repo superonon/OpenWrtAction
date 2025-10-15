@@ -2,13 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-f3bacd45ad|Andy Chiang|Tue Oct 14 02:02:11 2025 +0700|luci-mod-status: fix ipv4 source
-40232e89ff|Paul Donald|Mon Oct 13 20:28:06 2025 +0200|luci-mod-status: routes; refactor and add routesj page for ip -j output
-850867b6e4|Paul Donald|Mon Oct 13 14:33:23 2025 +0200|luci-mod-system: minor code fixes for repokeys and sshkeys
-a773103476|Andy Chiang|Mon Oct 13 12:48:03 2025 +0700|luci-mod-status: fix luci-bwc segfault
-8d89aa1edb|Florian Eckert|Mon Oct 13 07:58:52 2025 +0200|Merge pull request #8002 from TDT-AG/pr/20251010-luci-mod-network
-b4d5ca66e9|Florian Eckert|Tue Oct 7 14:08:11 2025 +0200|luci-mod-network: show stop button if interface start is pending
-7b6b0d0139|Florian Eckert|Tue Oct 7 10:43:14 2025 +0200|luci-base: add getPending ubus function call
-5710d594f1|Florian Eckert|Tue Oct 7 10:42:19 2025 +0200|luci-mod-network: clean up btn1 and btn2 disable
-ed2c7f8965|Florian Eckert|Mon Oct 6 13:05:10 2025 +0200|luci-mod-network: make state of interface more clear
+4b49999f93|Dirk Brenken|Tue Oct 14 22:14:47 2025 +0200|luci-app-travelmate: sync with release 2.2.0
 </details>

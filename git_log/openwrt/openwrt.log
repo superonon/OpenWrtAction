@@ -2,8 +2,30 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-297057f0f2|Christian Marangi|Mon Oct 13 02:32:44 2025 +0200|sdk: set package as the root directory for base feed
-e112fd8e59|Christian Marangi|Mon Oct 13 01:59:52 2025 +0200|scripts/feeds: implement support for --root option
-6a68c2fef0|Zhi-Jun You|Wed Oct 8 14:55:06 2025 +0800|wifi-scripts: ucode: fix airtime_mode with hostapd-mini
-255d999783|Felix Fietkau|Fri Oct 10 14:19:58 2025 +0200|ucode: add fs.mkdtemp function
+2a44808374|Christoph Krapp|Thu Sep 25 09:30:27 2025 +0200|ath79: add calibtation variant for TP-Link Archer C59 v1
+8ea1396fd2|Christoph Krapp|Thu Sep 25 09:29:22 2025 +0200|ipq-wifi: Add entry for TP-Link Archer C59 v1
+e408030cec|Christian Marangi|Tue Oct 14 17:15:07 2025 +0200|apk-tools: fix compilation warning from downstream full print patch
+0b116e9d73|Christian Marangi|Sun Oct 12 14:23:53 2025 +0200|tools/meson: add pending patch to improve binary reproducibility
+7dd62db9a9|Felix Fietkau|Tue Oct 14 11:03:11 2025 +0000|ucode: revert a broken commit
+3632c0d3ce|Felix Fietkau|Mon Oct 13 13:03:48 2025 +0200|kernel: backport mediatek WED DMA mask fixes
+bef0bf8efc|Robert Marko|Tue Oct 14 13:17:43 2025 +0200|ipq-wifi: update to Git HEAD (2025-10-14)
+c035447afd|George Moussalem|Tue Oct 14 13:36:17 2025 +0400|qualcommax: ipq50xx: fix XO board clock rate for Yuncore AX850
+296f1cfe88|air jinkela|Tue Oct 14 13:10:57 2025 +0800|mediatek: flogic: platform.sh fix typo
+b1299c2fcf|Koen Vandeputte|Tue Oct 14 12:25:25 2025 +0200|ath79: fix broken MikroTik upgrade
+902f739817|Christian Marangi|Tue Oct 14 01:12:34 2025 +0200|generic: 6.12: add pending patch to address PCI sysfs creation entry race
+0344477547|Christian Marangi|Tue Oct 14 01:07:02 2025 +0200|ipq806x: 6.12: adapt OPP patch with upstream changes
+1f4681f82a|Shiji Yang|Sat May 31 23:51:29 2025 +0800|ipq806x: enable 6.12 testing kernel
+ae70dbc267|Shiji Yang|Wed Jun 18 19:50:39 2025 +0800|ipq806x: migrate wifi configuration device paths for 6.12 kernel
+41fe3aabad|Shiji Yang|Sun Jun 1 14:52:22 2025 +0800|ipq806x: dts: correct PCIe device node name
+a4c654b27c|Shiji Yang|Sun Jun 1 12:56:09 2025 +0800|ipq806x: dts: rework PCIe nodes for Chromium OnHub
+b56c773176|Shiji Yang|Sun Jun 1 12:36:06 2025 +0800|ipq806x: dts: reuse default PCIe bridge nodes
+6bc9ebc31d|Shiji Yang|Sat May 31 23:56:40 2025 +0800|ipq806x: dts: fix 6.12 kernel pinmux conflicts
+7d2fd7d590|Shiji Yang|Sun Jun 1 12:35:22 2025 +0800|ipq806x: add PCIe bridge node reference labels for ipq8064.dtsi
+1125d07cf4|Shiji Yang|Sun Jun 1 00:41:31 2025 +0800|ipq806x: fix build errors on 6.12 kernel
+1a76ae3269|Shiji Yang|Sat May 31 23:51:04 2025 +0800|ipq806x: refresh 6.12 kernel config files
+621d480e0e|Shiji Yang|Sat May 31 23:36:16 2025 +0800|ipq806x: refresh 6.12 kernel patches
+a33d59f7af|Shiji Yang|Sat May 31 23:13:10 2025 +0800|ipq806x: restore kernel 6.6 config files and patches
+15fa59c41f|Shiji Yang|Sat May 31 23:11:46 2025 +0800|ipq806x: rename patchset and kernel configs to 6.12
+da57f9b6a4|Shiji Yang|Sat May 31 23:09:58 2025 +0800|ipq806x: refresh kernel symbol configs
+e82d113c39|Shiji Yang|Mon May 19 21:56:58 2025 +0800|ipq806x: fix dtc warnings for Linksys E8350 V1
 </details>

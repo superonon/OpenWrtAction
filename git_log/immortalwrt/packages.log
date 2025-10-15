@@ -2,11 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-7afd3b94d|Tianling Shen|Mon Oct 13 18:14:52 2025 +0800|Node.js: sync with upstream source
-4a215f8cc|Tianling Shen|Mon Oct 13 18:07:56 2025 +0800|Merge Official Source
-e9b710181|Rosen Penev|Wed Oct 8 19:05:53 2025 -0700|lrzsz: fix compilation with gcc15
-da5a55a35|Rosen Penev|Wed Oct 8 19:13:39 2025 -0700|lcdproc: fiz compilation with gcc15
-7cd42ff94|Florian Eckert|Fri Oct 11 14:44:53 2024 +0200|lm-sensors: packaging isaset and isadump
-f8d25a0b0|Andris PE|Mon Oct 6 07:27:49 2025 +0000|stubby: reduce idle_timeout as recommended upstream
-ece701bc5|董昊 (Dong, Hao)|Sun Oct 12 18:16:16 2025 +0400|fish: update to 4.1.2
+380add16f|ImmortalWrt AutoUpdate Bot|Wed Oct 15 02:27:33 2025 +0800|sing-box: Update to 1.12.10
 </details>
