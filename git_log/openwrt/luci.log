@@ -2,5 +2,10 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-4b49999f93|Dirk Brenken|Tue Oct 14 22:14:47 2025 +0200|luci-app-travelmate: sync with release 2.2.0
+6f7fdff041|David Härdeman|Wed Oct 15 20:05:27 2025 +0200|luci-mod-status: remove superfluous argument
+50abd15e88|David Härdeman|Wed Oct 15 15:07:32 2025 +0200|luci-mod-status,-network: remove checkUfpInstalled
+3ed815fe4a|Paul Donald|Wed Oct 15 15:23:19 2025 +0200|luci-mod-status: handle ct helpers in nftables
+45a3a476b6|Florian Eckert|Wed Oct 15 12:49:35 2025 +0200|Merge pull request #8003 from TDT-AG/pr/20251011-luci-mod-network
+de87029e6c|Florian Eckert|Tue Oct 7 10:44:18 2025 +0200|luci-mod-network: add carrier info to interface page
+791da4c62d|Hosted Weblate|Tue Oct 14 23:10:19 2025 +0200|Translated using Weblate (Latvian)
 </details>

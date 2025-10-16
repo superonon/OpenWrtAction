@@ -2,9 +2,14 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-a46dd4cf3|Dirk Brenken|Tue Oct 14 22:12:33 2025 +0200|travelmate: release 2.2.0
-2ebf07e4d|Tianling Shen|Wed Oct 15 02:35:51 2025 +0800|v2ray-geodata: Update to latest version
-e6cd0b7c9|Goetz Goerisch|Sat Sep 6 16:25:01 2025 +0200|jool: update package flags to build `nonshared`
-efdc7ba1f|Rosen Penev|Sun Oct 12 13:51:59 2025 -0700|lttng-tools: update to 2.13.15
-89cbbf6f2|Luiz Angelo Daros de Luca|Mon Oct 13 19:34:30 2025 -0300|ruby: update to 3.4.6
+e7c79208f|Tianling Shen|Wed Oct 15 22:13:54 2025 +0800|v2ray-core: Update to 5.41.0
+256d9459f|Tianling Shen|Wed Oct 15 22:13:22 2025 +0800|xray-core: Update to 25.10.15
+7eaaae53e|Florian Eckert|Tue Sep 2 12:51:34 2025 +0200|kea: update boost dependencies
+91d0c3f05|Florian Eckert|Tue Sep 2 12:51:24 2025 +0200|i2pd: update boost dependencies
+54e58a849|Florian Eckert|Tue Sep 2 12:51:49 2025 +0200|domoticz: update boost dependencies
+185cfc0f9|Tianling Shen|Wed Oct 15 13:17:24 2025 +0800|cloudflared: Update to 2025.10.0
+adbfae95f|Tianling Shen|Wed Oct 15 13:17:00 2025 +0800|openlist: Update to 4.1.4
+5dbb37873|Tianling Shen|Wed Oct 15 13:16:42 2025 +0800|v2rayA: Update to 2.2.7.3
+d1e1dc4cc|Tianling Shen|Wed Oct 15 13:15:53 2025 +0800|v2ray-core: Update to 5.40.0
+8b2ea2b16|Tianling Shen|Wed Oct 15 13:15:19 2025 +0800|yq: Update to 4.48.1
 </details>
