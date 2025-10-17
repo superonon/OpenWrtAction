@@ -2,14 +2,10 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-e7c79208f|Tianling Shen|Wed Oct 15 22:13:54 2025 +0800|v2ray-core: Update to 5.41.0
-256d9459f|Tianling Shen|Wed Oct 15 22:13:22 2025 +0800|xray-core: Update to 25.10.15
-7eaaae53e|Florian Eckert|Tue Sep 2 12:51:34 2025 +0200|kea: update boost dependencies
-91d0c3f05|Florian Eckert|Tue Sep 2 12:51:24 2025 +0200|i2pd: update boost dependencies
-54e58a849|Florian Eckert|Tue Sep 2 12:51:49 2025 +0200|domoticz: update boost dependencies
-185cfc0f9|Tianling Shen|Wed Oct 15 13:17:24 2025 +0800|cloudflared: Update to 2025.10.0
-adbfae95f|Tianling Shen|Wed Oct 15 13:17:00 2025 +0800|openlist: Update to 4.1.4
-5dbb37873|Tianling Shen|Wed Oct 15 13:16:42 2025 +0800|v2rayA: Update to 2.2.7.3
-d1e1dc4cc|Tianling Shen|Wed Oct 15 13:15:53 2025 +0800|v2ray-core: Update to 5.40.0
-8b2ea2b16|Tianling Shen|Wed Oct 15 13:15:19 2025 +0800|yq: Update to 4.48.1
+dd9c6ecd3|Michael Heimpold|Sat Sep 27 12:25:37 2025 +0200|php8: update to 8.4.13
+73c94594a|Rosen Penev|Sat Oct 11 13:36:28 2025 -0700|kea: fix compilation with boost 1.89
+ffbb8ff70|Rosen Penev|Sat Oct 11 13:29:14 2025 -0700|schroot: fix compilation with boost 1.89
+d77623843|Rosen Penev|Thu Oct 9 11:31:10 2025 -0700|acsccid: fix compilation with GCC15
+dbe5e0477|Rosen Penev|Sun Oct 12 13:34:46 2025 -0700|hamlib: update to 4.6.5
+67f59576e|Rosen Penev|Sun Oct 12 14:34:29 2025 -0700|hplip: update to 3.25.6
 </details>
