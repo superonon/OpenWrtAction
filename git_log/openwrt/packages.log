@@ -2,10 +2,11 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-dd9c6ecd3|Michael Heimpold|Sat Sep 27 12:25:37 2025 +0200|php8: update to 8.4.13
-73c94594a|Rosen Penev|Sat Oct 11 13:36:28 2025 -0700|kea: fix compilation with boost 1.89
-ffbb8ff70|Rosen Penev|Sat Oct 11 13:29:14 2025 -0700|schroot: fix compilation with boost 1.89
-d77623843|Rosen Penev|Thu Oct 9 11:31:10 2025 -0700|acsccid: fix compilation with GCC15
-dbe5e0477|Rosen Penev|Sun Oct 12 13:34:46 2025 -0700|hamlib: update to 4.6.5
-67f59576e|Rosen Penev|Sun Oct 12 14:34:29 2025 -0700|hplip: update to 3.25.6
+69117bf2d|John Audia|Wed Sep 10 17:06:30 2025 -0400|snort3: run as regular user rather than as root
+9fe9b952f|Jan Hák|Thu Oct 16 15:23:29 2025 +0200|knot: update to version 3.5.1
+a7d51c511|Andrea Pesaresi|Wed Oct 15 20:55:02 2025 +0200|ksmbd-tools: update to 3.5.5
+4845aca6a|John Audia|Wed Oct 15 08:29:11 2025 -0400|openssh: update to 10.2p1
+950e2856e|John Audia|Sun Oct 5 06:24:21 2025 -0400|snort3: inform user of optional dependencies
+41e25e864|John Audia|Tue Oct 7 17:04:56 2025 -0400|snort3: update to 3.9.6.0
+39f829545|John Audia|Thu Oct 16 08:09:24 2025 -0400|snort3: fix typo preventing vectorscan detection
 </details>

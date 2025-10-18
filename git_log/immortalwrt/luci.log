@@ -1,0 +1,9 @@
+<details> <summary> <b>luci new commit log :new: </b>  </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+c0148c138a|Tianling Shen|Fri Oct 17 16:57:25 2025 +0800|Merge Official Source
+6f7fdff041|David Härdeman|Wed Oct 15 20:05:27 2025 +0200|luci-mod-status: remove superfluous argument
+50abd15e88|David Härdeman|Wed Oct 15 15:07:32 2025 +0200|luci-mod-status,-network: remove checkUfpInstalled
+3ed815fe4a|Paul Donald|Wed Oct 15 15:23:19 2025 +0200|luci-mod-status: handle ct helpers in nftables
+</details>

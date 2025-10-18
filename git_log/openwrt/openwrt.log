@@ -2,12 +2,11 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-f21e8158fb|Pawel Dembicki|Tue Oct 14 11:36:01 2025 +0200|mpc85xx: p1010: kernel: add missing symbol
-1817e0751f|John Audia|Wed Oct 15 08:51:08 2025 -0400|linux-firmware: update to 20251011
-c19ad8db1b|Tianling Shen|Thu Sep 4 02:46:38 2025 +0800|rockchip: add FriendlyElec NanoPi R76S support
-d1f281a534|Tianling Shen|Thu Aug 8 02:41:47 2024 +0800|mac80211: realtek: rtw88: add RTL8822CS support
-2d067b0dd5|Felix Fietkau|Thu Oct 16 18:57:51 2025 +0000|ucode: fix EOF detection in the non-blocking read patch
-84b7057fe3|Sven Eckelmann|Thu Oct 16 11:06:08 2025 +0200|realtek: dsa: rtl931x: Fix port L2 table flushing
-9b48cf6d94|Andrew Sim|Mon Oct 6 06:58:44 2025 +0200|mediatek: filogic: rename eth1 to wan in led setup for zyxel-ex5601-t0
-2930c9dd2a|Harshal Gohel|Fri Aug 8 17:31:03 2025 +0200|realtek: rtl93xx: Trap BPDU management frames
+010c08ceb5|Kenneth Kasilag|Fri Oct 17 02:07:25 2025 +0000|kernel: rtl8261n: allow selection as package
+478fcd8fe6|Kenneth Kasilag|Fri Oct 17 02:11:58 2025 +0000|kernel: rtl8261n: fix kernel module name
+eb370a7d02|Magnus Kroken|Thu Oct 16 16:11:11 2025 +0200|mbedtls: update to 3.6.5
+2a76abc544|Hauke Mehrtens|Tue Oct 14 00:32:26 2025 +0200|ltq-ptm: Fix unprivileged local user memory read and write
+4b907e69ea|Felix Fietkau|Fri Oct 17 13:28:52 2025 +0200|ubus: update to Git HEAD (2025-10-17)
+231fe4cd0f|Robert Marko|Fri Oct 17 12:09:40 2025 +0200|ipq-wifi: update to Git HEAD (2025-10-17)
+f6e0f57be0|Eric Fahlgren|Wed Oct 8 09:42:21 2025 -0700|targetwide: imagebuilder: add explicit guards around initramfs rules
 </details>

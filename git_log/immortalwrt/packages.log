@@ -2,7 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-48a148193|Tianling Shen|Thu Oct 16 21:41:07 2025 +0800|CI: pass `--allow-untrusted` when install apk package
-787c8c78f|Jeffery To|Thu Jun 5 23:47:23 2025 +0800|CI: add local APK feed
-4c4198bee|Tianling Shen|Thu Oct 16 18:24:18 2025 +0800|smartdns: fix npm build due to unlocked dependencies
+002624bf4|Tianling Shen|Fri Oct 17 16:53:09 2025 +0800|sing-box: reset PKG_RELEASE
 </details>
