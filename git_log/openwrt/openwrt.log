@@ -2,11 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-010c08ceb5|Kenneth Kasilag|Fri Oct 17 02:07:25 2025 +0000|kernel: rtl8261n: allow selection as package
-478fcd8fe6|Kenneth Kasilag|Fri Oct 17 02:11:58 2025 +0000|kernel: rtl8261n: fix kernel module name
-eb370a7d02|Magnus Kroken|Thu Oct 16 16:11:11 2025 +0200|mbedtls: update to 3.6.5
-2a76abc544|Hauke Mehrtens|Tue Oct 14 00:32:26 2025 +0200|ltq-ptm: Fix unprivileged local user memory read and write
-4b907e69ea|Felix Fietkau|Fri Oct 17 13:28:52 2025 +0200|ubus: update to Git HEAD (2025-10-17)
-231fe4cd0f|Robert Marko|Fri Oct 17 12:09:40 2025 +0200|ipq-wifi: update to Git HEAD (2025-10-17)
-f6e0f57be0|Eric Fahlgren|Wed Oct 8 09:42:21 2025 -0700|targetwide: imagebuilder: add explicit guards around initramfs rules
+0535d615f6|Felix Fietkau|Sat Oct 18 19:58:45 2025 +0000|hostapd: increase netlink buffer size
+9d531c0c5b|John Thomson|Sun Oct 5 13:45:41 2025 +1000|ipq40xx: mikrotik: kernel: pet watchdog during kernel uncompress
 </details>

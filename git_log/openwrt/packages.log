@@ -2,11 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-69117bf2d|John Audia|Wed Sep 10 17:06:30 2025 -0400|snort3: run as regular user rather than as root
-9fe9b952f|Jan Hák|Thu Oct 16 15:23:29 2025 +0200|knot: update to version 3.5.1
-a7d51c511|Andrea Pesaresi|Wed Oct 15 20:55:02 2025 +0200|ksmbd-tools: update to 3.5.5
-4845aca6a|John Audia|Wed Oct 15 08:29:11 2025 -0400|openssh: update to 10.2p1
-950e2856e|John Audia|Sun Oct 5 06:24:21 2025 -0400|snort3: inform user of optional dependencies
-41e25e864|John Audia|Tue Oct 7 17:04:56 2025 -0400|snort3: update to 3.9.6.0
-39f829545|John Audia|Thu Oct 16 08:09:24 2025 -0400|snort3: fix typo preventing vectorscan detection
+a38196f15|Dirk Brenken|Sat Oct 18 22:00:49 2025 +0200|travelmate: release 2.2.1
+ebed27867|Anari Jalakas|Sat Oct 18 02:31:33 2025 +0300|sms-tool: update to 2025-08-23
 </details>
