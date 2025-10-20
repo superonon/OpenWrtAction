@@ -2,6 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-a38196f15|Dirk Brenken|Sat Oct 18 22:00:49 2025 +0200|travelmate: release 2.2.1
-ebed27867|Anari Jalakas|Sat Oct 18 02:31:33 2025 +0300|sms-tool: update to 2025-08-23
+65b935cb5|Dirk Brenken|Sun Oct 19 20:20:02 2025 +0200|travelmate: update 2.2.1-2
+00feb1244|Ralph Siemsen|Fri Oct 17 16:09:21 2025 -0400|znc: do not watch znc.conf for changes
 </details>

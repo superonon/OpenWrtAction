@@ -2,23 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-8640ed2b6b|David Härdeman|Wed Oct 15 19:54:49 2025 +0200|luci-mod-network: remove unused permissions from dns
-88f86a3fba|David Härdeman|Wed Oct 15 19:40:36 2025 +0200|luci-mod-network: remove unused code from dhcp/dns
-e1cdccbccd|David Härdeman|Wed Oct 15 19:28:56 2025 +0200|luci-mod-network: retitle dhcp/dns views
-09eac9485c|David Härdeman|Wed Oct 15 19:12:19 2025 +0200|luci-mod-network: organize "pxe_tftp" tab in dhcp/dns views
-87329d12e2|David Härdeman|Wed Oct 15 19:08:31 2025 +0200|luci-mod-network: organize "relay" tab in dhcp/dns views
-aa5e89ab5a|David Härdeman|Wed Oct 15 19:05:22 2025 +0200|luci-mod-network: organize "ipsets" tab in dhcp/dns views
-dac2f40115|David Härdeman|Wed Oct 15 19:02:30 2025 +0200|luci-mod-network: organize "leases" tab in dhcp/dns views
-c901bbcdd0|David Härdeman|Wed Oct 15 18:56:51 2025 +0200|luci-mod-network: organize "files" tab in dhcp/dns views
-744a0b3758|David Härdeman|Wed Oct 15 18:50:11 2025 +0200|luci-mod-network: organize "logging" tab in dhcp/dns views
-8a502e1755|David Härdeman|Wed Oct 15 18:43:03 2025 +0200|luci-mod-network: organize "limits" tab in dhcp/dns views
-15dfb9f089|David Härdeman|Wed Oct 15 18:40:25 2025 +0200|luci-mod-network: organize "forward" tab in dhcp/dns views
-f56371878c|David Härdeman|Wed Oct 15 18:35:42 2025 +0200|luci-mod-network: organize "filteropts" tab in dhcp/dns views
-45eac368f0|David Härdeman|Wed Oct 15 18:29:53 2025 +0200|luci-mod-network: organize "dnssec" tab in dhcp/dns views
-0992ef407d|David Härdeman|Wed Oct 15 18:21:58 2025 +0200|luci-mod-network: organize "dnsrecords" tab in dhcp/dns views
-d289436fbb|David Härdeman|Wed Oct 15 18:02:21 2025 +0200|luci-mod-network: organize "devices" tab in dhcp/dns views
-1d3cad675b|David Härdeman|Wed Oct 15 17:58:10 2025 +0200|luci-mod-network: organize "cache" tab in dhcp/dns views
-fa9b8df86a|David Härdeman|Wed Oct 15 17:35:42 2025 +0200|luci-mod-network: organize "general" tab in dhcp/dns views
-babd189670|David Härdeman|Wed Oct 15 17:18:07 2025 +0200|luci-mod-network: split dhcp and dns into separate views
-7405bb1770|Dirk Brenken|Sat Oct 18 22:02:58 2025 +0200|luci-app-travelmate: sync with release 2.2.1
+2f000b5e15|David Härdeman|Fri Oct 10 10:16:35 2025 +0200|luci-mod-network: add global DUID cfg option
+f67c6769ed|Dirk Brenken|Sun Oct 19 20:23:36 2025 +0200|luci-app-travelmate: sync with update 2.2.1-2
 </details>

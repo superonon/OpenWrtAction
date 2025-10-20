@@ -2,6 +2,62 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-0535d615f6|Felix Fietkau|Sat Oct 18 19:58:45 2025 +0000|hostapd: increase netlink buffer size
-9d531c0c5b|John Thomson|Sun Oct 5 13:45:41 2025 +1000|ipq40xx: mikrotik: kernel: pet watchdog during kernel uncompress
+df950f4cfd|Rosen Penev|Mon Sep 29 12:14:48 2025 -0700|prereq: use staging_dir's compiler
+ab805ec316|Chukun Pan|Fri Aug 29 23:10:06 2025 +0800|generic: add missing squashfs config
+001981ce1d|Chukun Pan|Thu Aug 28 22:30:08 2025 +0800|sunxi: cortexa53: refresh kernel config
+920fa6f061|Chukun Pan|Tue Aug 26 20:05:27 2025 +0800|sunxi: enable pinctrl driver in subtarget
+a54c511140|Chukun Pan|Wed Aug 27 20:27:28 2025 +0800|sunxi: 6.12: refresh common kernel config
+b6d59d21fd|Chukun Pan|Sat Aug 30 20:06:25 2025 +0800|uboot-sunxi: remove earlyprintk for arm64
+f889f0de6d|Chukun Pan|Mon Aug 25 19:38:09 2025 +0800|sunxi: use correct CPU erratum for Cortex-A53
+65215e6d46|Luis Mita|Sat Oct 11 10:48:46 2025 -0400|ramips: mt76x8: add support for Cudy RE1200 Outdoor v1
+1035615731|Aleksander Jan Bajkowski|Sat May 17 10:01:27 2025 +0200|wifi-scripts: ucode: export HE and EHT operation in scan results
+c2e5bded8d|Shiji Yang|Mon Sep 1 09:17:49 2025 +0800|treewide: dts: fix spi-gpio chip select GPIO polarity
+b291e0ded4|Shiji Yang|Sun Aug 24 21:00:06 2025 +0800|qualcommax: dts: remove useless SPI cs-gpios property
+2196089867|Shiji Yang|Sun Aug 24 20:59:53 2025 +0800|mediatek: dts: remove useless SPI cs-gpios property
+2a709d108e|Shiji Yang|Sun Aug 24 20:57:18 2025 +0800|ipq806x: dts: fix SPI chip select GPIO polarity
+dd7087aa17|Shiji Yang|Sun Aug 24 20:56:54 2025 +0800|ipq40xx: dts: fix SPI chip select GPIO polarity
+160a3a2fd7|Shiji Yang|Sun Aug 24 20:56:32 2025 +0800|ath79: dts: remove SPI num-cs property
+ea2c2ca2ae|Agustin Lorenzo|Mon Oct 13 02:03:51 2025 +0200|mac80211: ath11k: backport of the latest changes applied for ath11k in 6.16.12
+9295b5a436|Agustin Lorenzo|Mon Oct 13 01:54:38 2025 +0200|mac80211: ath11k: reordered the patches 906 and 907 and refreshed, no functional changes
+f596ae7b85|Hauke Mehrtens|Mon Oct 20 00:16:11 2025 +0200|tools: firmware-utils: update to Git HEAD (2025-10-20)
+13dc286814|Christoph Krapp|Mon Oct 13 21:41:36 2025 +0200|ramips: mt7621: add support for D-Link DIR-X1860 B1 / DIR-X1550 A1
+29cc0b6ccf|Jonas Jelonek|Wed Oct 8 19:07:06 2025 +0000|realtek: dsa: rtl931x: remove enabling MAC from phylink_mac_config
+4a5de35dba|Jonas Jelonek|Wed Oct 8 14:21:57 2025 +0000|realtek: dsa,pcs: rtl931x: let PCS driver setup SerDes
+8bdc3d1b56|Jonas Jelonek|Wed Oct 8 19:44:31 2025 +0000|realtek: pcs: rtl931x: quit setup_serdes early on USXGMII mode
+a89d8acb5b|Jonas Jelonek|Fri Oct 10 09:40:26 2025 +0000|realtek: pcs: rtl931x: adjust SerDes page numbers
+1089e3c696|Jonas Jelonek|Thu Oct 16 16:51:23 2025 +0000|realtek: pcs: rtl931x: use regmap for register access calls
+ddf94f7489|Jonas Jelonek|Wed Oct 8 11:11:10 2025 +0000|realtek: pcs: rtl931x: import SerDes setup code from PHY driver
+61d50c2e49|Aleksander Jan Bajkowski|Sat Oct 18 11:23:02 2025 +0200|airoha: disable RTL8261N PHY driver
+a926c5518e|Shiji Yang|Sun Feb 2 16:50:25 2025 +0800|ramips: drop unsupported fit image option with-initrd
+79c84867fb|Shiji Yang|Sun Feb 2 16:50:04 2025 +0800|airoha: drop unsupported fit image option with-initrd
+4193422377|Christian Weiske|Sun Oct 5 13:41:34 2025 +0200|ramips: add support for Zyxel NWA90AX access point
+1cd3660bee|Caleb James DeLisle|Tue Oct 7 19:50:20 2025 +0000|econet: Add Nokia G-240G-E and EN751221 recovery image
+c91b536676|Rosen Penev|Sat Oct 4 12:05:31 2025 -0700|ath79: buffalo: use nvmem for calibration
+b372aeea0e|Shiji Yang|Mon May 19 21:56:59 2025 +0800|ramips: dts: explicitly set the partition reg size for Ruijie RG-EW1200G
+286a5678f9|Shiji Yang|Mon May 19 21:56:59 2025 +0800|ramips: dts: correct WiFi band node reg size for Gemtek WVRTM-130ACN
+3ecef3d965|Shiji Yang|Mon May 19 21:56:58 2025 +0800|qualcommax: fix switch node dtc warnings for Asus RT-AX89X
+a6c093fb0d|Shiji Yang|Mon May 19 21:56:58 2025 +0800|qoriq: dts: add missing reg property for WatchGuard Firebox M300
+b5fb6be45a|Shiji Yang|Mon May 19 21:56:58 2025 +0800|mvebu: dts: fix unit name leading 0s warnings
+9025072317|Shiji Yang|Mon May 19 21:56:58 2025 +0800|mvebu: fix partition node dtc warnings for Synology DS213j
+a06c79212a|Shiji Yang|Mon May 19 21:56:58 2025 +0800|mvebu: fix usb node dtc warnings for Ctera C200 V2
+9fa076aa33|Shiji Yang|Mon May 19 21:56:58 2025 +0800|kirkwood: dts: explicitly set the partition reg size for Blackarmor NAS220
+9741af31f1|Shiji Yang|Sat May 31 18:02:01 2025 +0800|bmips: fix dtc warnings for D-Link DSL-2750B
+6ad145d13b|Shiji Yang|Mon May 19 21:56:58 2025 +0800|ath79: dts: fix wifi node name for Fortinet FAP-221-C
+73b198869a|Shiji Yang|Mon May 19 21:56:58 2025 +0800|apm821xx: dts: explicitly set the partition reg size for Netgear WNDR4700
+7dee632bee|David Härdeman|Fri Oct 10 11:43:11 2025 +0200|odhcp6c: use the global DHCP DUID for DHCPv6
+9151c7015e|David Härdeman|Fri Oct 10 11:38:36 2025 +0200|netifd: use the global DHCP DUID for DHCPv4
+a660a076db|David Härdeman|Thu Oct 9 16:16:53 2025 +0200|base-files: generate a global DHCP DUID
+86b6b31247|Shiji Yang|Sat Oct 18 19:59:06 2025 +0800|ipq806x: add missing semicolons for 10_fix_wifi_mac
+70dd565590|Josh Bendavid|Thu Sep 25 11:31:14 2025 +0200|realtek: add xgs1210-12 b1 and switch to rt-loader
+b442ca0d4e|Christoph Krapp|Sun Oct 19 13:52:31 2025 +0200|ipq40xx: add device alias for Linksys VLP01
+b926ae0856|Andrii Kuiukoff|Sat Oct 18 01:21:19 2025 +0300|leds.mk: fix leds-group-multicolor  name
+217e3320f2|Paul Donald|Fri Oct 17 21:33:13 2025 +0200|lldpd: bump to 1.0.20
+03045951ee|Hal Martin|Sun Oct 19 12:15:19 2025 +0200|ipq40xx: add support for Cisco Meraki MR30H
+11f7aa122a|Hal Martin|Sun Oct 19 12:13:54 2025 +0200|ipq40xx: add support for Cisco Meraki Go GX20
+60bbf46930|Hal Martin|Sun Oct 19 12:12:51 2025 +0200|ipq40xx: add support for Cisco Meraki Z3
+84b2a987fc|Goetz Goerisch|Fri Oct 10 07:32:41 2025 +0200|bcm53xx: modify 180-usb-xhci-add-support-for-performing-fake-doorbell.patch
+5d1d68a7db|Christian Marangi|Sun Oct 19 13:54:32 2025 +0200|libiwinfo: update to Git HEAD (2025-10-19)
+1fecbaf3d8|Christoph Krapp|Sat Oct 18 00:58:37 2025 +0200|ipq40xx: fix Linksys WHW0x sorting
+1afe4ba623|Christoph Krapp|Sat Oct 18 00:43:10 2025 +0200|ipq40xx: add led aliases for Linksys WHW01
+deca8fd24b|Christoph Krapp|Sat Oct 18 00:23:35 2025 +0200|ipq40xx: add label-mac-device alias for Linksys WHW01
 </details>
