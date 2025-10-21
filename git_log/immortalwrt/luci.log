@@ -1,0 +1,6 @@
+<details> <summary> <b>luci new commit log :new: </b>  </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+e7567cfa15|Tianling Shen|Mon Oct 20 21:06:14 2025 +0800|luci-app-netdata: rewrite into JS
+</details>
