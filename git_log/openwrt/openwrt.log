@@ -2,12 +2,9 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-0408c5dfe6|Felix Fietkau|Mon Oct 20 19:10:26 2025 +0000|kernel: port page pool release fix to 6.12
-13c30c2e58|Felix Fietkau|Mon Oct 20 16:10:08 2025 +0200|mt76: update to Git HEAD (2025-10-20)
-330d17f52d|Christian Marangi|Sun Oct 19 20:43:09 2025 +0200|build: handle --root feeds script feature
-b91b99ec18|Felix Fietkau|Mon Oct 20 12:51:42 2025 +0200|kernel: mtk_eth_soc: do use skb_gso_segment to handle tunnel GSO skbs
-a1f42ab3c7|Felix Fietkau|Mon Oct 20 10:49:10 2025 +0200|wifi-scripts: ucode: add missing bssid for adhoc interfaces
-6797cabb79|Felix Fietkau|Mon Oct 20 10:42:40 2025 +0200|wifi-scripts: ucode: prefer basic rates from iface over device
-94fb40941b|Felix Fietkau|Mon Oct 20 10:40:40 2025 +0200|wifi-scripts: ucode: fix issues in mesh setup without supplicant
-fb366956c8|Mark Mentovai|Sun Oct 19 23:30:11 2025 -0400|ipq806x: restore recent changes made to 6.6 dts files
+843e8a47e2|Harshal Gohel|Tue Jul 15 20:20:00 2025 +0200|realtek: rtl930x: Disable L3 offloading
+5faf91ab8d|Harshal Gohel|Mon Jul 7 17:00:43 2025 +0000|realtek: rtl931x: Disable callbacks for l3 hw routing
+f5fd7ef888|Eric Fahlgren|Sun Oct 19 16:33:26 2025 -0700|targetwide: imagebuilder: add explicit guards around initramfs rules
+d924a0cff8|Felix Fietkau|Tue Oct 21 08:23:30 2025 +0000|hostapd: fix a use-after-free bug when interfaces are removed during a scan
+4c50648f72|Felix Fietkau|Tue Oct 21 07:24:46 2025 +0200|netifd: update to Git HEAD (2025-10-20)
 </details>

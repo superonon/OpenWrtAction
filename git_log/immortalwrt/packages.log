@@ -1,0 +1,28 @@
+<details> <summary> <b>packages new commit log :new: </b>  </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+f7ff4d08c|Tianling Shen|Tue Oct 21 13:42:49 2025 +0800|Merge Official Source
+d93d55d28|Tianling Shen|Tue Oct 21 13:41:40 2025 +0800|openlist: Update to 4.1.5
+073b460cb|Petr Štetiar|Wed May 21 18:48:30 2025 +0000|lvm2: install: fix "Argument list too long" error when copying symlinks
+6552887ae|Yuxi Yang|Mon Oct 13 21:31:12 2025 +0800|nebula: bump version to 1.9.7
+e164d3bbf|Javier Marcet|Sat Oct 18 17:10:04 2025 +0200|docker-compose: Update to version 2.40.1
+23c3d208e|Tianling Shen|Wed Oct 15 13:22:24 2025 +0800|golang: Update to 1.25.3
+65b935cb5|Dirk Brenken|Sun Oct 19 20:20:02 2025 +0200|travelmate: update 2.2.1-2
+00feb1244|Ralph Siemsen|Fri Oct 17 16:09:21 2025 -0400|znc: do not watch znc.conf for changes
+a38196f15|Dirk Brenken|Sat Oct 18 22:00:49 2025 +0200|travelmate: release 2.2.1
+ebed27867|Anari Jalakas|Sat Oct 18 02:31:33 2025 +0300|sms-tool: update to 2025-08-23
+69117bf2d|John Audia|Wed Sep 10 17:06:30 2025 -0400|snort3: run as regular user rather than as root
+9fe9b952f|Jan Hák|Thu Oct 16 15:23:29 2025 +0200|knot: update to version 3.5.1
+a7d51c511|Andrea Pesaresi|Wed Oct 15 20:55:02 2025 +0200|ksmbd-tools: update to 3.5.5
+4845aca6a|John Audia|Wed Oct 15 08:29:11 2025 -0400|openssh: update to 10.2p1
+950e2856e|John Audia|Sun Oct 5 06:24:21 2025 -0400|snort3: inform user of optional dependencies
+41e25e864|John Audia|Tue Oct 7 17:04:56 2025 -0400|snort3: update to 3.9.6.0
+39f829545|John Audia|Thu Oct 16 08:09:24 2025 -0400|snort3: fix typo preventing vectorscan detection
+dd9c6ecd3|Michael Heimpold|Sat Sep 27 12:25:37 2025 +0200|php8: update to 8.4.13
+73c94594a|Rosen Penev|Sat Oct 11 13:36:28 2025 -0700|kea: fix compilation with boost 1.89
+ffbb8ff70|Rosen Penev|Sat Oct 11 13:29:14 2025 -0700|schroot: fix compilation with boost 1.89
+d77623843|Rosen Penev|Thu Oct 9 11:31:10 2025 -0700|acsccid: fix compilation with GCC15
+dbe5e0477|Rosen Penev|Sun Oct 12 13:34:46 2025 -0700|hamlib: update to 4.6.5
+67f59576e|Rosen Penev|Sun Oct 12 14:34:29 2025 -0700|hplip: update to 3.25.6
+</details>

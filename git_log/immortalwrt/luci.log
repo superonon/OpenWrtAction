@@ -2,5 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-e7567cfa15|Tianling Shen|Mon Oct 20 21:06:14 2025 +0800|luci-app-netdata: rewrite into JS
+6099aeb9ff|Tianling Shen|Tue Oct 21 16:39:51 2025 +0800|luci-app-homeproxy: bump to latest git HEAD
 </details>

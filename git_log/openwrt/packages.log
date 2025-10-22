@@ -2,8 +2,7 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-073b460cb|Petr Štetiar|Wed May 21 18:48:30 2025 +0000|lvm2: install: fix "Argument list too long" error when copying symlinks
-6552887ae|Yuxi Yang|Mon Oct 13 21:31:12 2025 +0800|nebula: bump version to 1.9.7
-e164d3bbf|Javier Marcet|Sat Oct 18 17:10:04 2025 +0200|docker-compose: Update to version 2.40.1
-23c3d208e|Tianling Shen|Wed Oct 15 13:22:24 2025 +0800|golang: Update to 1.25.3
+7ef10e036|Robert Marko|Tue Oct 21 14:25:38 2025 +0200|mhz: update to latest version
+49dbbf0dc|Tianling Shen|Tue Oct 21 13:49:06 2025 +0800|dos2unix: Update to 7.5.3
+d93d55d28|Tianling Shen|Tue Oct 21 13:41:40 2025 +0800|openlist: Update to 4.1.5
 </details>

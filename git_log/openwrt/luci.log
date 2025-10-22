@@ -2,16 +2,9 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-fd830434cb|Paul Donald|Mon Oct 20 13:11:05 2025 +0200|luci-app-*: migrate LogreadBox consumers to use new permission ACLs
-b59e51a831|Paul Donald|Mon Oct 20 13:10:59 2025 +0200|luci-mod-status: update syslog viewer to use the remodeled CBILogreadBox
-0a6180d1cc|Paul Donald|Mon Oct 20 21:11:10 2025 +0200|luci-base: remodel the LogreadBox after the syslog viewer
-523b3ea372|Paul Donald|Mon Oct 20 21:10:54 2025 +0200|luci-mod-*: initialize default values
-91a94ce360|Andy Chiang|Fri Oct 17 20:43:36 2025 +0700|luci-theme-bootstrap: add width for localtime
-71ea35fc7f|Andy Chiang|Thu Oct 16 00:48:55 2025 +0700|luci-mod-dashboard: use localized time
-b0004ad39c|Andy Chiang|Thu Oct 16 00:48:45 2025 +0700|luci-mod-system: use localized time
-e67465da5e|Andy Chiang|Thu Oct 16 00:48:26 2025 +0700|luci-mod-status: use localized time
-edb481a1ac|Andy Chiang|Mon Oct 20 15:43:01 2025 +0700|luci-mod-status: remove redundant  spaces
-d9a087e48c|Paul Donald|Mon Oct 20 14:38:12 2025 +0200|luci-base: use zone names without spaces
-f36f014229|Paul Donald|Mon Oct 20 14:36:52 2025 +0200|build: stop zoneinfo builder scripts changing '_' -> ' '
-b47c94cabb|Andy Chiang|Mon Oct 20 08:22:11 2025 +0700|luci-mod-system: fix JSMIN Error
+3aefa56473|Paul Donald|Wed Oct 22 01:22:04 2025 +0200|luci-mod-status: routes: prevent null error if the commands don't resolve
+6e263428bd|Paul Donald|Tue Oct 21 16:25:18 2025 +0200|luci-mod-status: partial revert of styling changes
+2acb1ec14d|Hosted Weblate|Mon Oct 20 08:48:33 2025 +0200|Translated using Weblate (Chinese (Simplified Han script))
+f83fe35dae|Andy Chiang|Tue Oct 21 04:18:35 2025 +0700|modules: fix default values
+2382578209|Paul Donald|Tue Oct 21 13:03:38 2025 +0200|luci-app-acme: fix ACL JSON
 </details>
