@@ -2,9 +2,21 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-843e8a47e2|Harshal Gohel|Tue Jul 15 20:20:00 2025 +0200|realtek: rtl930x: Disable L3 offloading
-5faf91ab8d|Harshal Gohel|Mon Jul 7 17:00:43 2025 +0000|realtek: rtl931x: Disable callbacks for l3 hw routing
-f5fd7ef888|Eric Fahlgren|Sun Oct 19 16:33:26 2025 -0700|targetwide: imagebuilder: add explicit guards around initramfs rules
-d924a0cff8|Felix Fietkau|Tue Oct 21 08:23:30 2025 +0000|hostapd: fix a use-after-free bug when interfaces are removed during a scan
-4c50648f72|Felix Fietkau|Tue Oct 21 07:24:46 2025 +0200|netifd: update to Git HEAD (2025-10-20)
+3faa3a04bb|Rosen Penev|Wed Oct 1 13:22:33 2025 -0700|ath79: enterasys,ws-ap3805i: use nvmem
+a10e957c56|Rosen Penev|Sat Feb 17 20:58:33 2024 -0800|ath79: enterasys,ws-ap3705i: use nvmem
+8a7de107d8|Tianling Shen|Thu Oct 9 21:31:22 2025 +0800|mediatek: add Konka KOMI A31 support
+aa01ca3ec8|Stijn Segers|Sat Oct 18 12:49:15 2025 +0200|realtek: switch XGS1250-12 to rt-loader
+855f65d6d0|John Audia|Sun Oct 19 15:49:48 2025 -0400|kernel: bump 6.12 to 6.12.54
+d0e3320040|Edoardo Pinci|Wed Oct 15 21:44:25 2025 +0200|kernel: bump 6.12 to 6.12.53
+eee5035a52|Edoardo Pinci|Tue Oct 14 19:46:29 2025 +0200|kernel: bump 6.12 to 6.12.52
+c586558b55|Leo Barsky|Wed Oct 22 10:24:07 2025 -0400|qualcommbe: drop duplicated patches
+01e1c86f68|Thomas Richard|Mon Oct 20 14:23:18 2025 +0200|stm32: drop kernel 6.6 support
+6529ac4a31|Thomas Richard|Mon Oct 20 14:20:22 2025 +0200|stm32: use kernel 6.12 by default
+7e7977afb5|Felix Fietkau|Wed Oct 22 13:42:37 2025 +0200|bridger: fix mirror download hash
+46a454fb9b|Christian Marangi|Tue Oct 21 23:12:07 2025 +0200|airoha: backport upstream patch for AN7583 Ethernet support
+813ecda1f3|Christian Marangi|Mon Oct 20 01:36:34 2025 +0200|generic: backport phylink patches for PCS/PHY caps OPs
+0636e89e10|Christoph Krapp|Thu Sep 25 12:26:45 2025 +0200|ath79: add calibration variant for TP-Link Archer C60 v2
+943c39d172|Christoph Krapp|Thu Sep 25 12:26:15 2025 +0200|ipq-wifi: Add entry for TP-Link Archer C60 v2
+b2de62b4ed|Robert Marko|Wed Oct 22 11:36:14 2025 +0200|ipq-wifi: update to Git HEAD (2025-10-22)
+daf811064b|Felix Fietkau|Wed Oct 22 07:57:16 2025 +0000|bridger: update to Git HEAD (2025-10-21)
 </details>
