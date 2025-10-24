@@ -2,6 +2,7 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-a8ed0af2f|coolsnowwolf|Wed Oct 22 12:26:52 2025 +0800|kernel: bump 6.x to latest HEAD
-59d183d29|coolsnowwolf|Wed Oct 22 12:07:57 2025 +0800|mt76: mark mt7925e/mt7996e 11BE capable
+1afbdb86f|Internet1235|Thu Oct 23 15:13:50 2025 +0800|opkg: Bump to Git HEAD 2024-10-16 (#13766)
+da7fa8c3b|Internet1235|Thu Oct 23 15:13:37 2025 +0800|apk: bump to Git HEAD 2025-10-18 (#13767)
+2104002f0|coolsnowwolf|Thu Oct 23 16:31:28 2025 +0800|amlogic: add linux 6.1 support for Phicomm N1
 </details>
