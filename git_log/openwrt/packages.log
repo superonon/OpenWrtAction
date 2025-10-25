@@ -1,0 +1,6 @@
+<details> <summary> <b>packages new commit log :new: </b>  </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+0201efd63|Fabian Zimmermann|Wed Oct 22 11:50:57 2025 +0200|ddns-script: removes linefeed which causes 401 err
+</details>

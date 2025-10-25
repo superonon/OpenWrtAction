@@ -2,20 +2,21 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-0211ecf682|John Audia|Wed Oct 22 15:44:07 2025 -0400|linux-firmware: update to 20251021
-c6f84b4377|Jonas Jelonek|Wed Oct 22 07:21:09 2025 +0000|realtek: phy: rtl931x: remove SerDes code from PHY driver
-5a42ed1138|Christian Marangi|Wed Oct 22 02:45:50 2025 +0200|image: move mkits.sh outside lock section
-c70894c855|Christian Marangi|Thu Oct 23 15:31:46 2025 +0200|scripts/mkits.sh: move out .pagesync generation for RootFS blob
-3de1bbd5ae|Christian Marangi|Wed Oct 22 02:17:25 2025 +0200|image: fix race between mkits.sh and mkimage in .itb squashfs generation
-cdf891052d|Christian Marangi|Wed Oct 22 14:18:07 2025 +0200|e2fsprogs: add pending patch that improve reproducibility
-c700f8fd8a|Christian Marangi|Wed Oct 22 14:16:11 2025 +0200|e2fsprogs: drop redundant patch for host build
-8b4adfbb87|Christian Marangi|Thu Oct 23 16:52:53 2025 +0200|airoha: backport additional upstream patch for NPU support for AN7583
-5a949cb5f9|Paul Donald|Tue Oct 21 16:54:23 2025 +0200|odhcpd: set procd expected variable for odhcpd update script
-8758b58f25|Christian Marangi|Thu Oct 23 16:23:42 2025 +0200|airoha: an7583: add NPU nodes and enable kernel config
-a7964f0893|Christian Marangi|Thu Oct 23 15:42:21 2025 +0200|airoha: an7583: drop bootloader artifacts entry and add default pkg
-6fe65d404b|Christian Marangi|Thu Oct 23 15:38:36 2025 +0200|airoha: an7583: Add missing DTS for EMMC RFB board
-ea850b5a18|Christian Marangi|Thu Oct 23 15:37:00 2025 +0200|airoha: an7583: add additional comments on EVB board
-9089b716be|Hal Martin|Wed Oct 22 18:16:00 2025 +0200|ipq40xx: meraki: convert to nvmem for calibration
-28bb40caaf|Álvaro Fernández Rojas|Wed Oct 22 18:29:24 2025 +0200|odhcpd: update to Git HEAD (2025-10-22)
-86c876d5b4|Álvaro Fernández Rojas|Wed Oct 22 18:23:14 2025 +0200|odhcp6c: update to Git HEAD (2025-10-21)
+8103b79776|Zxl hhyccc|Fri Oct 24 23:56:59 2025 +0800|kernel: bump 6.6 to 6.6.114
+d1d8febc42|Zxl hhyccc|Mon Oct 20 22:57:35 2025 +0800|kernel: bump 6.6 to 6.6.113
+32062152a8|Zxl hhyccc|Sat Oct 18 01:55:10 2025 +0800|kernel: bump 6.6 to 6.6.112
+70df331a8e|Zxl hhyccc|Sat Oct 18 00:24:09 2025 +0800|kernel: bump 6.6 to 6.6.111
+48df382797|John Audia|Thu Oct 23 15:00:15 2025 -0400|kernel: bump 6.12 to 6.12.55
+24d2ac6d3a|Brian Norris|Mon Oct 20 22:44:25 2025 -0700|ipq806x: chromium: Pull OnHub caldata directly from VPD
+c3c75d0e68|Christian Marangi|Fri Oct 24 12:16:11 2025 +0200|airoha: backport fix for Airoha offload support with airoha_hw_init fail
+2f3ea18f91|Christian Marangi|Fri Oct 24 12:15:27 2025 +0200|airoha: backport cleanup patch for Airoha Ethernet driver
+927fe598db|Christian Marangi|Fri Oct 24 11:51:40 2025 +0200|airoha: add pending patch to fix Aeonsemi AS21xxx PHY
+26da4bf552|Christian Marangi|Fri Oct 24 11:48:13 2025 +0200|airoha: an7581: add Aeonsemi AS21xxx PHY to RFB eMMC board
+87fa17a91e|Peter Meiser|Sun Jul 6 13:04:49 2025 +0200|odhcp6c: change dhcpv6.sh config option "ifaceid" to "ip6ifaceid"
+d6d90566d1|Rosen Penev|Fri Jun 14 11:30:31 2024 -0700|ath79: engenius,eXXX: use nvmem
+5983bc3136|Christoph Krapp|Thu Oct 23 19:45:54 2025 +0200|ipq40xx: fix sorting in base-files
+26d2485f54|Christoph Krapp|Thu Oct 23 19:07:20 2025 +0200|ipq40xx: merge duplicated cases in base-files
+f53bbd54f8|Christoph Krapp|Thu Oct 23 11:08:53 2025 +0200|ipq40xx: use tabs instead of spaces in base-files
+324c5026d0|Christoph Krapp|Thu Oct 23 11:01:44 2025 +0200|ipq40xx: remove trailing whitespaces in base-files
+17cb69fe7f|Christian Marangi|Fri Oct 24 09:49:57 2025 +0200|airoha: an7581: add BL2 and BL31+U-Boot Artifacts for RFB board
 </details>

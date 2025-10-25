@@ -2,6 +2,27 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-545de2a4b5|David Härdeman|Wed Oct 22 23:22:14 2025 +0200|luci-base: add ability to hide section titles
-1b8564ead6|Roc Lai|Tue Oct 21 23:19:44 2025 +0800|luci-app-frpc: Add the bind_addr & bind_port options to the visitor role.
+ddb569074e|Paul Donald|Sat Oct 25 02:19:33 2025 +0200|luci-mod-network: prevent double key for menu JSON
+1ad47ed6a6|Hannu Nyman|Fri Oct 24 22:32:15 2025 +0300|treewide: Sync translations
+7c51530679|Hosted Weblate|Thu Oct 23 17:10:52 2025 +0200|Translated using Weblate (Indonesian)
+85cb4bbd82|David Härdeman|Sun Oct 5 13:27:29 2025 +0200|luci-mod-status: support DUID%IAID for static leases
+431787af0c|David Härdeman|Sun Oct 5 11:52:36 2025 +0200|rpcd-mod-luci,luci-mod-network: suggest DUID%IAID values
+5c1d12a079|David Härdeman|Sun Oct 5 08:50:30 2025 +0200|luci-mod-network: add initial support for multi-DUIDs
+b5ee911ee5|David Härdeman|Sun Oct 5 08:43:58 2025 +0200|luci-mod-network: consistent language in static cfg
+46daebe715|David Härdeman|Sun Oct 5 08:36:17 2025 +0200|luci-mod-network: simplify multi-MAC help text
+6b92594605|David Härdeman|Sun Oct 5 08:22:15 2025 +0200|luci-mod-network: change IPv6 suffix to token
+0a8a41f4cf|David Härdeman|Sun Oct 5 07:51:23 2025 +0200|luci-mod-network,-status: update DHCPv6 lease headers
+a52db00cab|Paul Donald|Fri Oct 24 17:40:03 2025 +0200|luci-app-olsr: fix const reassignment to let
+d3cbf6e685|Paul Donald|Fri Oct 24 17:30:39 2025 +0200|luci-base: widgets: fix const -> let variable which is later reassigned
+985d454eaf|David Härdeman|Wed Oct 22 02:08:35 2025 +0200|luci-mod-network: create separate tabs in dhcp.js
+dfb4e3233a|David Härdeman|Tue Oct 21 23:53:29 2025 +0200|luci-mod-network: split PXE into dnsmasq/odhcpd functions in dhcp.js
+000ba488d8|David Härdeman|Tue Oct 21 23:43:15 2025 +0200|luci-mod-network: add a odhcpd tab to dhcp.js
+fef09faa72|David Härdeman|Tue Oct 21 23:06:07 2025 +0200|luci-mod-network: move leases cfg to own function in dhcp.js
+2e8aebcbdb|David Härdeman|Tue Oct 21 22:56:00 2025 +0200|luci-mod-network: move dnsmasq cfg to own function in dhcp.js
+40642e453e|David Härdeman|Tue Oct 21 22:20:39 2025 +0200|luci-mod-network: reorder tabs in dhcp.js
+57afc27d2d|David Härdeman|Tue Oct 21 22:15:56 2025 +0200|luci-mod-network: simplify cbi_update_table in dhcp.js
+495380a926|David Härdeman|Tue Oct 21 22:03:29 2025 +0200|luci-mod-network: remove customi18n() from dhcp.js
+2ec14910dd|David Härdeman|Tue Oct 21 21:58:26 2025 +0200|luci-mod-network: remove firewall loading in dhcp.js
+7626b810be|David Härdeman|Mon Oct 20 23:46:22 2025 +0200|luci-mod-network: move var ipaddrs in dhcp.js
+7e1b545bfa|Paul Donald|Fri Oct 24 15:36:09 2025 +0200|luci-mod-network: change && to || for DHCP tab predicates
 </details>
