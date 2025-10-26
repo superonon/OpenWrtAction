@@ -2,21 +2,10 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-8103b79776|Zxl hhyccc|Fri Oct 24 23:56:59 2025 +0800|kernel: bump 6.6 to 6.6.114
-d1d8febc42|Zxl hhyccc|Mon Oct 20 22:57:35 2025 +0800|kernel: bump 6.6 to 6.6.113
-32062152a8|Zxl hhyccc|Sat Oct 18 01:55:10 2025 +0800|kernel: bump 6.6 to 6.6.112
-70df331a8e|Zxl hhyccc|Sat Oct 18 00:24:09 2025 +0800|kernel: bump 6.6 to 6.6.111
-48df382797|John Audia|Thu Oct 23 15:00:15 2025 -0400|kernel: bump 6.12 to 6.12.55
-24d2ac6d3a|Brian Norris|Mon Oct 20 22:44:25 2025 -0700|ipq806x: chromium: Pull OnHub caldata directly from VPD
-c3c75d0e68|Christian Marangi|Fri Oct 24 12:16:11 2025 +0200|airoha: backport fix for Airoha offload support with airoha_hw_init fail
-2f3ea18f91|Christian Marangi|Fri Oct 24 12:15:27 2025 +0200|airoha: backport cleanup patch for Airoha Ethernet driver
-927fe598db|Christian Marangi|Fri Oct 24 11:51:40 2025 +0200|airoha: add pending patch to fix Aeonsemi AS21xxx PHY
-26da4bf552|Christian Marangi|Fri Oct 24 11:48:13 2025 +0200|airoha: an7581: add Aeonsemi AS21xxx PHY to RFB eMMC board
-87fa17a91e|Peter Meiser|Sun Jul 6 13:04:49 2025 +0200|odhcp6c: change dhcpv6.sh config option "ifaceid" to "ip6ifaceid"
-d6d90566d1|Rosen Penev|Fri Jun 14 11:30:31 2024 -0700|ath79: engenius,eXXX: use nvmem
-5983bc3136|Christoph Krapp|Thu Oct 23 19:45:54 2025 +0200|ipq40xx: fix sorting in base-files
-26d2485f54|Christoph Krapp|Thu Oct 23 19:07:20 2025 +0200|ipq40xx: merge duplicated cases in base-files
-f53bbd54f8|Christoph Krapp|Thu Oct 23 11:08:53 2025 +0200|ipq40xx: use tabs instead of spaces in base-files
-324c5026d0|Christoph Krapp|Thu Oct 23 11:01:44 2025 +0200|ipq40xx: remove trailing whitespaces in base-files
-17cb69fe7f|Christian Marangi|Fri Oct 24 09:49:57 2025 +0200|airoha: an7581: add BL2 and BL31+U-Boot Artifacts for RFB board
+93f86627c4|Hauke Mehrtens|Sun Oct 5 23:30:17 2025 +0200|build: Add _FORTIFY_SOURCE=3 support
+6268692bd2|Hauke Mehrtens|Sun Oct 5 23:29:04 2025 +0200|toolchain: fortify-headers: Update to version 2.3.3
+3e6c3bf5a3|Hauke Mehrtens|Sat Oct 25 17:09:10 2025 +0200|tools: b43-tools: Update to latest HEAD
+363e07dfa2|Hauke Mehrtens|Sat Oct 25 14:27:00 2025 +0200|uboot-sifiveu: fix build with swig 4.3.0
+cc410a18eb|Hauke Mehrtens|Sat Oct 25 00:34:04 2025 +0200|valgrind: Update to version 3.26.0
+8026644020|Jonas Jelonek|Fri Oct 24 21:40:44 2025 +0000|realtek: fix SFP GPIOs for XikeStor SKS8310-8X
 </details>

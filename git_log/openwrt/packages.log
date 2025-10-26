@@ -2,5 +2,23 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-0201efd63|Fabian Zimmermann|Wed Oct 22 11:50:57 2025 +0200|ddns-script: removes linefeed which causes 401 err
+657f326b3|Michael Heimpold|Sat Oct 25 13:46:00 2025 +0200|php8: update to 8.4.14
+4151ca2ef|John Audia|Sat Oct 25 08:02:47 2025 -0400|nfs-kernel-server: disable kerberos and ldap
+cd609b6f6|Nick Hainke|Tue May 13 21:44:08 2025 +0200|flent: update to 2.2.0
+236f9fadb|Tan Zien|Sun Jul 6 06:52:37 2025 +0800|open-vm-tools: update to 13.0.0
+af9abf95c|Nathaniel Wesley Filardo|Sun Mar 30 16:02:56 2025 +0100|cqueues: lua-5.3, 5.4 variants
+1e60fd049|Nathaniel Wesley Filardo|Sun Mar 30 16:03:12 2025 +0100|luaossl: lua-5.3, 5.4 variants
+06aff2bb4|Vladimir Ermakov|Thu Jul 24 14:18:28 2025 +0200|qemu: update to 10.1.0
+74172f6c5|Peiying Huang|Tue Aug 12 14:12:00 2025 +0800|postgresql: fix fails to start on mounted data directories
+eec8d422d|David Woodhouse|Mon Oct 20 20:28:31 2025 +0100|domoticz: update to 2025.2 and add jwt-cpp dependency
+906b9248e|Jan-Niklas Burfeind|Fri Oct 10 16:01:27 2025 +0200|uradvd: implement test.sh
+7096816e2|Jan-Niklas Burfeind|Tue Oct 7 16:24:08 2025 +0200|uradvd: update to r26-1e64364d
+b08d9d5a3|Jan-Niklas Burfeind|Fri Oct 10 15:09:12 2025 +0200|uradvd: use INSTALL_CONF for confguration
+96965400e|Rosen Penev|Fri Oct 17 14:48:11 2025 -0700|digitemp: fix compilation with gcc15
+c44e9acc0|Rosen Penev|Fri Oct 17 14:33:00 2025 -0700|libmpeg2: fix compilation with gcc15
+38bfe2552|Chris Swan|Fri Oct 24 13:40:44 2025 +0100|csshnpd: bump to c1.0.17 release
+fb51c8ec2|George Sapkin|Fri Oct 24 12:52:17 2025 +0300|yt-dlp: bump to 2025.10.22
+53bda392c|Paul Donald|Sun Oct 19 02:03:48 2025 +0200|ripgrep: bump to 15.0.0
+ba5bc1a43|Gregory Gullin|Fri Oct 24 19:07:41 2025 +0300|sing-box: update to 1.12.11
+904ad4a24|Eric Fahlgren|Fri Oct 24 14:54:24 2025 -0700|owut: update to 2025.10.24
 </details>
