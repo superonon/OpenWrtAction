@@ -1,0 +1,7 @@
+<details> <summary> <b>telephony new commit log :new: </b>  </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+0d58243|Christian Marangi|Sat Nov 8 11:41:57 2025 +0100|signalwire-client-c: bump to 2.0.3 and drop codeload usage
+e8322b2|Christian Marangi|Wed Nov 5 22:05:14 2025 +0100|sofia-sip: backport patch fixing support for GCC 14
+</details>
