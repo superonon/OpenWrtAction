@@ -2,6 +2,7 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-0d58243|Christian Marangi|Sat Nov 8 11:41:57 2025 +0100|signalwire-client-c: bump to 2.0.3 and drop codeload usage
-e8322b2|Christian Marangi|Wed Nov 5 22:05:14 2025 +0100|sofia-sip: backport patch fixing support for GCC 14
+502eddc|Christian Marangi|Mon Nov 10 01:08:56 2025 +0100|bcg729: backport fixes patch for CMake version
+5b32ed8|Christian Marangi|Mon Nov 10 00:51:24 2025 +0100|spandsp3: update to Git HEAD (2025-07-07)
+fdc05d4|Christian Marangi|Sun Nov 9 21:28:14 2025 +0100|sipp: bump to 3.7.5 and add fixup for Fortify Source headers
 </details>

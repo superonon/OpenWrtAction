@@ -2,86 +2,38 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-bc6ea2b4b|Milinda Brantini|Sat Nov 8 13:36:54 2025 +0800|q: Update to 0.19.10
-c4dcfda0b|Tianling Shen|Fri Nov 7 21:32:13 2025 +0800|Merge Official Source
-4300254ea|Sandro Jäckel|Fri Nov 7 01:44:01 2025 +0100|tailscale: update to 1.90.6
-b8486bd71|Dirk Brenken|Thu Nov 6 23:43:17 2025 +0100|travelmate: update 2.2.1-4
-9b15e3ed5|Othmar Truniger|Thu Nov 6 11:42:53 2025 +0100|libfmt: bump to 12.1.0
-eb5cf43be|Anari Jalakas|Wed Nov 5 18:21:05 2025 +0200|libtiff: update to 4.7.1
-19f955f95|Goetz Goerisch|Wed Nov 5 14:35:46 2025 +0100|uacme: bump to 1.7.6
-4f84f78b4|Ray Wang|Wed Nov 5 21:10:15 2025 +0800|hev-socks5-tunnel: update to 2.14.0
-a3acb2f4c|Ray Wang|Wed Nov 5 21:08:33 2025 +0800|hev-socks5-tproxy: update to 2.10.0
-ea11a81f6|Ray Wang|Wed Nov 5 21:06:26 2025 +0800|hev-socks5-server: update to 2.11.0
-9a62f4f67|George Sapkin|Thu Nov 6 01:13:18 2025 +0200|sqlite3: bump to 3.51.0
-0c3c63055|Mark Mentovai|Wed Nov 5 11:34:07 2025 -0500|libftdi1: require cmake >= 3.10 due to removed legacy support
-b68f1c8c0|Akihiro Nagai|Wed Nov 5 20:20:56 2025 +0900|cloudflared: improve init script for tunnel management
-74e6bcc01|Gagan Deep|Tue Nov 4 15:42:26 2025 +0000|openwisp-monitoring: upgrade to 0.3.0
-65ffe49d6|Tianling Shen|Wed Nov 5 22:06:07 2025 +0800|zerotier: fw4: fix generate forward rules
-9959178f1|Eneas U de Queiroz|Wed Nov 5 09:31:57 2025 -0300|afalg_engine: bump to v1.2.2
-61a81ccc7|Gagan Deep|Tue Nov 4 12:36:24 2025 +0000|openwisp-config: upgrade to 1.2.0
-bc9840b41|George Sapkin|Tue Nov 4 14:44:40 2025 +0200|syncthing: bump to 2.0.11
-b228b5ee4|Tianling Shen|Tue Nov 4 14:18:37 2025 +0800|cloudflared: Update to 2025.10.1
-321bae228|Tianling Shen|Tue Nov 4 14:17:37 2025 +0800|Merge Official Source
-1a466498e|Michael Heimpold|Sat Nov 1 18:21:39 2025 +0100|php8-pecl-http: update to 4.3.1
-f2242be28|Michael Heimpold|Sat Nov 1 17:33:29 2025 +0100|php8-pecl-xdebug: update to 3.4.7
-1727af343|Alice H.|Fri Sep 19 10:35:14 2025 +0100|earlyoom: add new package
-3b802d28f|Anton P.|Sat Nov 1 23:15:27 2025 +0300|sing-box: update to 1.12.12
-5d28efd32|Rosen Penev|Wed Oct 22 13:01:21 2025 -0700|fish: fix compilation with mips64
-dcb010bb4|Josef Schlehofer|Fri Oct 31 13:01:26 2025 +0100|strongswan: add build dependency for python and explicitly use python3
-c50103078|George Sapkin|Fri Oct 31 15:43:33 2025 +0200|adguardhome: refactor config loading and migration
-d047b4c05|George Sapkin|Sat Nov 1 02:38:10 2025 +0200|syncthing: fix maxprocs config option name
-e04e9eda6|George Sapkin|Sat Nov 1 02:36:21 2025 +0200|syncthing: improve argument handling readability
-10a1f2d89|Niklas Thorild|Wed Oct 22 19:04:35 2025 +0200|telegraf: use uci-defaults for config generation
-b69c93eba|Niklas Thorild|Wed Oct 22 19:02:41 2025 +0200|telegraf: don't call Build/Prepare/Default
-5da74ca4a|Niklas Thorild|Tue Oct 21 15:42:46 2025 +0200|telegraf: update to 1.36.3
-717cc91f9|Tianling Shen|Fri Oct 31 21:28:17 2025 +0800|pandownload-fake-server: drop useless package
-997051c23|ImmortalWrt AutoUpdate Bot|Fri Oct 31 19:21:03 2025 +0800|ddns-go: Update to 6.13.2
-5a9763dea|Josef Schlehofer|Wed Oct 22 02:49:54 2025 +0200|bigclown-gateway: backport pending patch to fix JSON dumps
-15121d222|Josef Schlehofer|Wed Oct 22 02:48:47 2025 +0200|bigclown-gateway: update to version 1.17.0
-7f64f6c0c|Josef Schlehofer|Wed Oct 22 01:50:30 2025 +0200|python-calver: update to version 2025.10.20
-69539619b|Josef Schlehofer|Wed Oct 22 00:40:38 2025 +0200|python-markupsafe: update to version 3.0.3
-182156cfa|Josef Schlehofer|Wed Oct 22 00:24:03 2025 +0200|python-wheel: update to 0.45.1
-7f233be4c|Josef Schlehofer|Wed Oct 22 00:05:35 2025 +0200|python-cython: update to version 3.1.5
-9bf59d5f6|Josef Schlehofer|Tue Oct 21 23:46:28 2025 +0200|python-setuptools: update to version 80.9.0
-f4395c5d3|Josef Schlehofer|Tue Oct 21 23:42:45 2025 +0200|python-uci: drop patches due to newer setuptools
-ef509da52|Josef Schlehofer|Tue Oct 21 23:30:19 2025 +0200|python3: update to version 3.11.4
-b03e655bf|Josef Schlehofer|Thu Oct 30 10:04:23 2025 +0100|umurmur: Use example config and add own init script
-3d6be64ea|Josef Schlehofer|Wed Oct 29 07:48:02 2025 +0100|umurmur: move config file to its default location
-febba7e16|Javier Marcet|Thu Oct 30 22:51:03 2025 +0100|docker-compose: Update to version 2.40.3
-4ab47f22c|George Sapkin|Thu Oct 30 18:35:43 2025 +0200|adguardhome: bump to 0.107.69
-6db7b1c27|Szabolcs Hubai|Sun Oct 5 12:08:26 2025 +0200|snapcast: remove leftover "libavahi-client" dependency
-0d36834ba|Szabolcs Hubai|Thu Sep 25 21:53:26 2025 +0200|snapcast: show snapweb placeholder
-4845c9563|Tianling Shen|Wed Oct 29 21:29:06 2025 +0800|rclone: Update to 1.71.2
-fd49afd66|Tianling Shen|Wed Oct 29 21:28:28 2025 +0800|Merge Official Source
-8fcf45d05|Josef Schlehofer|Tue Oct 28 11:42:28 2025 +0100|syslog-ng: add dependency for ivykis
-c92d12069|Josef Schlehofer|Thu Oct 2 09:54:42 2025 +0200|ivykis: add new package
-333a1e534|Sandro Jäckel|Sun Oct 26 23:26:05 2025 +0100|tailscale: update to 1.90.2
-c5318b500|Javier Marcet|Sun Oct 26 09:51:18 2025 +0100|docker-compose: Update to version 2.40.2
-4ba2c1487|Josef Schlehofer|Wed Oct 22 02:05:19 2025 +0200|python-build: update to version 1.3.0
-caed16983|Josef Schlehofer|Wed Oct 22 02:02:40 2025 +0200|python-flit-core: update to version 3.12.0
-9c563686e|John Audia|Tue Jul 15 05:00:41 2025 -0400|avahi: fix implementation of avahi user
-76365de0f|ImmortalWrt AutoUpdate Bot|Tue Oct 28 03:49:19 2025 +0800|sing-box: Update to 1.12.12
-1274846dc|Tianling Shen|Tue Oct 28 03:55:23 2025 +0800|Merge Official Source
-816a80df2|Martin Schiller|Tue Oct 7 07:38:14 2025 +0200|xl2tpd: add UCI support
-b9cd720d2|Martin Schiller|Tue Oct 7 07:35:51 2025 +0200|xl2tpd: add support to set own hostname in proto handler
-728e9e107|Rosen Penev|Mon Oct 20 15:42:19 2025 -0700|kea: update to 3.0.1
-657f326b3|Michael Heimpold|Sat Oct 25 13:46:00 2025 +0200|php8: update to 8.4.14
-4151ca2ef|John Audia|Sat Oct 25 08:02:47 2025 -0400|nfs-kernel-server: disable kerberos and ldap
-cd609b6f6|Nick Hainke|Tue May 13 21:44:08 2025 +0200|flent: update to 2.2.0
-236f9fadb|Tan Zien|Sun Jul 6 06:52:37 2025 +0800|open-vm-tools: update to 13.0.0
-af9abf95c|Nathaniel Wesley Filardo|Sun Mar 30 16:02:56 2025 +0100|cqueues: lua-5.3, 5.4 variants
-1e60fd049|Nathaniel Wesley Filardo|Sun Mar 30 16:03:12 2025 +0100|luaossl: lua-5.3, 5.4 variants
-06aff2bb4|Vladimir Ermakov|Thu Jul 24 14:18:28 2025 +0200|qemu: update to 10.1.0
-74172f6c5|Peiying Huang|Tue Aug 12 14:12:00 2025 +0800|postgresql: fix fails to start on mounted data directories
-eec8d422d|David Woodhouse|Mon Oct 20 20:28:31 2025 +0100|domoticz: update to 2025.2 and add jwt-cpp dependency
-906b9248e|Jan-Niklas Burfeind|Fri Oct 10 16:01:27 2025 +0200|uradvd: implement test.sh
-7096816e2|Jan-Niklas Burfeind|Tue Oct 7 16:24:08 2025 +0200|uradvd: update to r26-1e64364d
-b08d9d5a3|Jan-Niklas Burfeind|Fri Oct 10 15:09:12 2025 +0200|uradvd: use INSTALL_CONF for confguration
-96965400e|Rosen Penev|Fri Oct 17 14:48:11 2025 -0700|digitemp: fix compilation with gcc15
-c44e9acc0|Rosen Penev|Fri Oct 17 14:33:00 2025 -0700|libmpeg2: fix compilation with gcc15
-38bfe2552|Chris Swan|Fri Oct 24 13:40:44 2025 +0100|csshnpd: bump to c1.0.17 release
-fb51c8ec2|George Sapkin|Fri Oct 24 12:52:17 2025 +0300|yt-dlp: bump to 2025.10.22
-53bda392c|Paul Donald|Sun Oct 19 02:03:48 2025 +0200|ripgrep: bump to 15.0.0
-ba5bc1a43|Gregory Gullin|Fri Oct 24 19:07:41 2025 +0300|sing-box: update to 1.12.11
-904ad4a24|Eric Fahlgren|Fri Oct 24 14:54:24 2025 -0700|owut: update to 2025.10.24
+7b593ee5c|Tianling Shen|Sun Nov 9 21:30:01 2025 +0800|CI: speed up dependencies setup
+c7ce48573|Tianling Shen|Sun Nov 9 21:28:47 2025 +0800|naiveproxy: Update to 140.0.7339.123-3
+547469a38|Tianling Shen|Sun Nov 9 21:25:03 2025 +0800|gn: update to Git HEAD (2025-11-07)
+204d61aa0|Tianling Shen|Sun Nov 9 21:18:35 2025 +0800|Merge Official Source
+e1b49dc03|Tianling Shen|Sun Nov 9 21:16:46 2025 +0800|cloudflared: Update to 2025.11.0
+29af05bd2|Tianling Shen|Sun Nov 9 21:16:07 2025 +0800|openlist: Update to 4.1.6
+3730618d4|Hannu Nyman|Sun Nov 9 09:03:05 2025 +0200|libyaml-cpp: Add cmake 4.x compatibility
+031906a2c|Hannu Nyman|Sun Nov 9 08:42:47 2025 +0200|libmad: add compatibility with cmake 4.x
+026302c6b|Hannu Nyman|Sun Nov 9 08:36:33 2025 +0200|libsoxr: Add cmake 4.x compatibility
+ab8ed3776|Hannu Nyman|Sun Nov 9 08:27:10 2025 +0200|libssh: Add compatibility with cmake 4.x, remove absent maintainer
+d29215e6b|Albrecht Lohofener|Sat Nov 8 20:22:04 2025 +0100|tini: add patches for minimal cmake version "2.8.12...3.10"
+2fab8e34c|Rosen Penev|Fri Oct 17 15:06:06 2025 -0700|libextractor: fix compilation with gcc15
+6d57246e4|Javier Marcet|Sun Nov 2 15:40:22 2025 +0100|luajit2: update to v2.1-20251030
+87618e378|Javier Marcet|Wed Oct 29 19:06:25 2025 +0100|luajit2: update to v2.1-20250826
+96d59ae7c|Hannu Nyman|Sat Nov 8 19:58:34 2025 +0200|protobuf: add cmake 4.x compatibility, remove maintainer
+574070c3e|Hannu Nyman|Sat Nov 8 19:22:05 2025 +0200|mosquitto: upgrade to version 2.0.22
+7a64ae9da|Albrecht Lohofener|Sat Nov 8 19:22:05 2025 +0200|libwebsockets: bump to version 4.4.1
+d82e2db28|Andrea Pesaresi|Fri Nov 7 11:30:10 2025 +0100|qrencode: cmake minimum required version to 3.10
+ca4abc649|Marcin Maj|Fri Nov 7 01:58:18 2025 +0100|libvorbis: require cmake >= 3.10 due to removed legacy support
+f08c7993b|George Sapkin|Sat Nov 8 15:59:34 2025 +0200|check-autorelease-deprecation: drop workflow
+ae76b4fdb|Marcin Maj|Fri Nov 7 07:29:05 2025 +0100|libid3tag: require cmake >= 3.10 due to removed legacy support
+9e5831ed4|George Sapkin|Thu Nov 6 18:30:35 2025 +0200|golang: bump to 1.25.4
+3e61a5e05|Alexandru Ardelean|Sat Nov 8 12:37:00 2025 +0200|python3: add libatomic as dependency
+7ada8de6b|Alexandru Ardelean|Fri Nov 7 13:02:15 2025 +0200|django: bump to version 5.2.8
+9a5f1dc8a|Alexandru Ardelean|Tue Dec 24 16:18:16 2024 +0200|python-installer: patch behavior for when script file exists
+545e926fd|Alexandru Ardelean|Fri Nov 7 12:24:54 2025 +0200|python-asgiref: add use python-setuptools/host for pkg build
+97a92f2e7|Alexandru Ardelean|Sun Nov 24 10:59:27 2024 +0200|python3: bump to version 3.13.9
+e3a1f5b0b|Alexandru Ardelean|Fri Nov 7 12:23:24 2025 +0200|python-setuptools: add host-build
+38da2ccc4|Akihiro Nagai|Fri Nov 7 23:41:06 2025 +0900|cloudflared: fix argument order for tunnel command
+4fb8ba34b|Ivan Pavlov|Fri Nov 7 09:32:53 2025 +0300|xxhash: update to 0.8.3
+facfe9536|John Audia|Fri Nov 7 03:57:59 2025 -0500|snort3: update to 3.9.7.0
+0eda5d933|John Audia|Fri Nov 7 03:53:55 2025 -0500|libdaq3: update to 3.0.22
+c1a2d0bf2|Til Kaiser|Fri Nov 7 10:31:53 2025 +0100|mstflint: update to 4.34.0
+f9c132b3c|Dirk Brenken|Fri Nov 7 17:29:02 2025 +0100|travelmate: update 2.2.1-5
 </details>
