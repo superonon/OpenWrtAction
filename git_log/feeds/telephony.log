@@ -2,7 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-502eddc|Christian Marangi|Mon Nov 10 01:08:56 2025 +0100|bcg729: backport fixes patch for CMake version
-5b32ed8|Christian Marangi|Mon Nov 10 00:51:24 2025 +0100|spandsp3: update to Git HEAD (2025-07-07)
-fdc05d4|Christian Marangi|Sun Nov 9 21:28:14 2025 +0100|sipp: bump to 3.7.5 and add fixup for Fortify Source headers
+f6d8ae5|Christian Marangi|Mon Nov 10 02:06:26 2025 +0100|miax: add patch fixing compilation warning
 </details>

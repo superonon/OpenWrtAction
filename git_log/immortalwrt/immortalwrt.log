@@ -2,41 +2,16 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-aaf17ba784|Tianling Shen|Mon Nov 10 03:21:14 2025 +0800|Merge Official Source
-b33df7ba33|Andrii Kuiukoff|Wed Oct 8 21:40:46 2025 +0300|mediatek: add support for COMFAST CF-WR632AX
-8fb644e9e8|Luis Mita|Wed Oct 1 18:42:58 2025 -0400|ramips: mt7621: add support for Cudy AP1300 Outdoor v1
-b10663c428|Jonas Jelonek|Tue Oct 28 22:18:34 2025 +0000|realtek: pcs: allow to configure SerDes polarity
-56e9a73d0b|Jonas Jelonek|Tue Nov 4 21:27:07 2025 +0000|realtek: pcs: rtl93xx: provide proper SerDes polarity configuration
-627a0e7da0|Shiji Yang|Sun Nov 9 15:25:16 2025 +0800|kernel: mtdsplit_fit: always return 0 when partition can't be split
-7079e456ad|Andy Chiang|Tue Sep 9 07:37:09 2025 +0700|ppp: add reqprefix norelease ac_mac
-52b64f2f43|Tianling Shen|Sun Nov 9 21:14:47 2025 +0800|Merge Official Source
-231bbe528d|Christian Marangi|Sun Nov 9 12:55:18 2025 +0100|bcm53xx: use -ENOENT error for TRX parser workaround patch
-29db35d14e|Tianling Shen|Sun Nov 9 18:28:24 2025 +0800|rockchip: enable HDMI and vop for cyber 3588 aib
-98612369ed|Tianling Shen|Sun Nov 9 18:26:56 2025 +0800|rockchip: backport regulator support for RK3588 GPU
-71ebc54d2a|Dirk Buchwalder|Fri Oct 10 21:51:07 2025 +0200|mediatek: filogic: add support for TP-LINK BE450
-5212866508|John Audia|Sun Oct 26 08:17:07 2025 -0400|pcre2: bump to 10.47
-5aab294726|INAGAKI Hiroshi|Sat Nov 8 14:35:30 2025 +0900|kernel: generic: mtdsplit_seil: return 0 instead of -ENODEV
-0334564ea6|Hauke Mehrtens|Sun Oct 26 00:03:29 2025 +0200|util-linux: Update to version 2.41.2
-6665089e94|Hauke Mehrtens|Sun Oct 26 00:02:12 2025 +0200|tools: util-linux: Update to version 2.41.2
-28aaaf3c82|Hauke Mehrtens|Sat Oct 25 17:00:55 2025 +0200|e2fsprogs: Update to version 1.47.3
-1a71840512|Hauke Mehrtens|Sat Oct 25 17:00:18 2025 +0200|tools: e2fsprogs: Update to version 1.47.3
-6d04c7b6dc|Hauke Mehrtens|Sat Oct 25 23:32:40 2025 +0200|iproute2: Update to version 6.17
-b4a8ba2e88|Hauke Mehrtens|Sat Oct 25 22:44:22 2025 +0200|wireless-regdb: Update to version 2025.10.07
-92f07864c1|Hauke Mehrtens|Sun Oct 26 00:18:44 2025 +0200|wolfssl: Update to version 5.8.2
-6ad9daf99a|Hauke Mehrtens|Sat Oct 25 15:50:36 2025 +0200|mtd-utils: Update to version 2.3.0
-52c0e90bdc|Hauke Mehrtens|Sat Oct 25 14:40:21 2025 +0200|tools: mtd-utils: Update to version 2.3.0
-a646a8e3e8|Hauke Mehrtens|Sat Oct 25 22:49:53 2025 +0200|gdb: Update to version 16.3
-7f989ecb03|Hauke Mehrtens|Sat Oct 25 22:49:02 2025 +0200|toolchain: gdb: Update to version 16.3
-b1255c4a32|Hauke Mehrtens|Sun Oct 26 00:48:04 2025 +0200|trace-cmd: Update to version 3.3.3
-b6d2ab85ef|Daniel Golle|Sat Nov 8 18:28:39 2025 +0000|mediatek: remove non-existent package mt798x-2p5g-phy-firmware-internal
-010575c617|Alice H.|Sat Nov 8 04:39:42 2025 +0000|base-files: correct global DHCP DUID generation
-412bc7e1d8|Aleksander Jan Bajkowski|Fri Nov 7 21:01:34 2025 +0100|rpcd: update to Git HEAD (2025-11-07)
-4c5df354df|Rany Hany|Fri Nov 7 20:51:57 2025 +0000|wifi-scripts: ucode: add SAE support for wifi-station and PPSK
-c996ae7602|Aleksander Jan Bajkowski|Fri Nov 7 20:45:32 2025 +0100|libiwinfo: update to Git HEAD (2025-11-07)
-b872421795|Rosen Penev|Fri Nov 7 11:43:37 2025 -0800|tools/util-linux: remove automake dep
-372fc5419c|Rany Hany|Mon Oct 27 14:36:51 2025 +0000|wifi-scripts: ucode: fix setting tx_queue_data2_burst in config
-8e457b69a2|Rany Hany|Thu Oct 30 12:43:14 2025 +0000|wifi-scripts: add sae_track_password option
-bcdb29f78f|Rany Hany|Thu Oct 30 12:33:38 2025 +0000|wifi-scripts: add na_mcast_to_ucast option
-f84371ddb5|Harshal Gohel|Mon Apr 14 13:16:47 2025 +0000|realtek: rtl930x: Add support for Plasma Cloud MCX3 Media Converter
-ed3f84e091|Eneas U de Queiroz|Mon Nov 3 17:03:07 2025 -0300|wifi-scripts: ucode: fix hostapd_bss_options
+2ccf8a48dc|Tianling Shen|Mon Nov 10 18:17:35 2025 +0800|rockchip: add phy led configuration for linkease easepi r1
+8231157009|Tianling Shen|Mon Nov 10 17:25:46 2025 +0800|ipq806x: fix pinctrl conflict for rg mtfi m520
+e2efb85f2a|Tianling Shen|Mon Nov 10 17:07:33 2025 +0800|Merge Official Source
+d97e529f1f|Joe Holden|Sat Aug 30 21:54:51 2025 +0000|realtek: RTL838x: make u-boot-env writeable ZyXEL GS1900
+8ca4caacd0|Liangbin Lian|Wed Sep 24 20:08:13 2025 +0800|rockchip: Add support for RK3568 LinkEase EasePi R1
+ef093299db|Liangbin Lian|Wed Sep 24 19:49:26 2025 +0800|uboot-rockchip: add support for LinkEase EasePi R1
+887cab883b|Thibaut VARÈNE|Fri Oct 24 11:27:59 2025 +0200|mediatek/filogic: fix Cudy WR3000H ethernet port order
+71b5de61ae|Trix Taiclet|Mon Nov 3 10:37:05 2025 +0100|uboot-d1: fix build with swig 4.3.0
+ef93221841|Pawel Dembicki|Thu Nov 6 12:55:04 2025 +0100|kirkwood: kernel: remove 6.6 version support
+c5b75d6cde|Pawel Dembicki|Thu Nov 6 12:50:07 2025 +0100|kirkwood: kernel: switch to 6.12 version
+64432358e0|Shiji Yang|Fri Nov 7 20:45:25 2025 +0800|tools/squashfs4: update to 4.7.3
+1f1db75432|FUKAUMI Naoki|Fri Oct 31 12:14:48 2025 +0000|rockchip: make NIC name predictable for Radxa E52C/ROCK 5 ITX/ROCK 5T
 </details>

@@ -1,0 +1,7 @@
+<details> <summary> <b>routing new commit log :new: </b>  </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+03a1371|Josef Schlehofer|Mon Jun 16 22:40:05 2025 +0200|treewide: install configs with INSTALL_CONF (0600)
+58070aa|Josef Schlehofer|Mon Nov 10 09:17:42 2025 +0100|oonf-*: remove oonf packages such as init scripts, proxy, radio, olsrd2
+</details>

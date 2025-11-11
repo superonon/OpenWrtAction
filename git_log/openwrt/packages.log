@@ -2,23 +2,8 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-002bdc4c8|Hannu Nyman|Sun Nov 9 19:45:18 2025 +0200|swanmon: adjust for cmake 4.x compatibility
-d0e364fd6|Hannu Nyman|Sun Nov 9 19:27:34 2025 +0200|libtins: adjust for cmake 4.x, remove absent maintainer
-64a9dc691|Hannu Nyman|Sun Nov 9 19:16:09 2025 +0200|hidapi: upgrade to 0.15.0 for cmake 4.x compatibility
-1593a823e|Hannu Nyman|Sun Nov 9 18:55:46 2025 +0200|portaudio: adjust for cmake 4.0 compatibility
-937c14953|Hannu Nyman|Sun Nov 9 18:44:05 2025 +0200|libuecc: backport patch for cmake 4.x compatibility
-d93b43763|Nick Hainke|Sun Nov 9 17:09:39 2025 +0100|libssh: bump to 0.11.3
-3f31860ae|Nick Hainke|Sun Nov 9 16:42:49 2025 +0100|tunneldigger: add cmake 4.x compatibility
-e4323a5ff|Nick Hainke|Sun Nov 9 14:30:22 2025 +0100|dawn: bump to 2025-11-07
-0c37af528|Alexandru Ardelean|Sat Nov 8 15:26:52 2025 +0200|python-cython: add python-setuptools/host as dep
-e60b7674d|Alexandru Ardelean|Sat Nov 8 12:51:37 2025 +0200|python-requests: bump to version 2.32.5
-f62be41f4|Alexandru Ardelean|Sat Nov 8 12:50:01 2025 +0200|lxml: bump to version 6.0.2
-4474c5fba|Alexandru Ardelean|Sat Nov 8 12:48:48 2025 +0200|numpy: bump to version 2.3.4
-bfd5e0e89|George Sapkin|Sun Nov 2 00:27:22 2025 +0200|golang: set GOARM64 based on CONFIG_CPU_TYPE
-e1b49dc03|Tianling Shen|Sun Nov 9 21:16:46 2025 +0800|cloudflared: Update to 2025.11.0
-29af05bd2|Tianling Shen|Sun Nov 9 21:16:07 2025 +0800|openlist: Update to 4.1.6
-3730618d4|Hannu Nyman|Sun Nov 9 09:03:05 2025 +0200|libyaml-cpp: Add cmake 4.x compatibility
-031906a2c|Hannu Nyman|Sun Nov 9 08:42:47 2025 +0200|libmad: add compatibility with cmake 4.x
-026302c6b|Hannu Nyman|Sun Nov 9 08:36:33 2025 +0200|libsoxr: Add cmake 4.x compatibility
-ab8ed3776|Hannu Nyman|Sun Nov 9 08:27:10 2025 +0200|libssh: Add compatibility with cmake 4.x, remove absent maintainer
+8d8f49bad|Hannu Nyman|Mon Nov 10 22:55:46 2025 +0200|leptonica: update to 1.86.0 for cmake4, remove absent maintainer
+5d89b68ce|Hannu Nyman|Mon Nov 10 22:36:24 2025 +0200|libsndfile: adjust for cmake 4.x, remove absent maintainer
+137a710fc|Bohdan Chubuk|Mon Nov 10 00:14:28 2025 +0200|cloudflared: fix duplicate "run" command argument
+d8456186e|Andy Chiang|Mon Nov 10 08:26:56 2025 +0700|libnatpmp: adjust for cmake 4.x compatibility
 </details>

@@ -2,38 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-7b593ee5c|Tianling Shen|Sun Nov 9 21:30:01 2025 +0800|CI: speed up dependencies setup
-c7ce48573|Tianling Shen|Sun Nov 9 21:28:47 2025 +0800|naiveproxy: Update to 140.0.7339.123-3
-547469a38|Tianling Shen|Sun Nov 9 21:25:03 2025 +0800|gn: update to Git HEAD (2025-11-07)
-204d61aa0|Tianling Shen|Sun Nov 9 21:18:35 2025 +0800|Merge Official Source
-e1b49dc03|Tianling Shen|Sun Nov 9 21:16:46 2025 +0800|cloudflared: Update to 2025.11.0
-29af05bd2|Tianling Shen|Sun Nov 9 21:16:07 2025 +0800|openlist: Update to 4.1.6
-3730618d4|Hannu Nyman|Sun Nov 9 09:03:05 2025 +0200|libyaml-cpp: Add cmake 4.x compatibility
-031906a2c|Hannu Nyman|Sun Nov 9 08:42:47 2025 +0200|libmad: add compatibility with cmake 4.x
-026302c6b|Hannu Nyman|Sun Nov 9 08:36:33 2025 +0200|libsoxr: Add cmake 4.x compatibility
-ab8ed3776|Hannu Nyman|Sun Nov 9 08:27:10 2025 +0200|libssh: Add compatibility with cmake 4.x, remove absent maintainer
-d29215e6b|Albrecht Lohofener|Sat Nov 8 20:22:04 2025 +0100|tini: add patches for minimal cmake version "2.8.12...3.10"
-2fab8e34c|Rosen Penev|Fri Oct 17 15:06:06 2025 -0700|libextractor: fix compilation with gcc15
-6d57246e4|Javier Marcet|Sun Nov 2 15:40:22 2025 +0100|luajit2: update to v2.1-20251030
-87618e378|Javier Marcet|Wed Oct 29 19:06:25 2025 +0100|luajit2: update to v2.1-20250826
-96d59ae7c|Hannu Nyman|Sat Nov 8 19:58:34 2025 +0200|protobuf: add cmake 4.x compatibility, remove maintainer
-574070c3e|Hannu Nyman|Sat Nov 8 19:22:05 2025 +0200|mosquitto: upgrade to version 2.0.22
-7a64ae9da|Albrecht Lohofener|Sat Nov 8 19:22:05 2025 +0200|libwebsockets: bump to version 4.4.1
-d82e2db28|Andrea Pesaresi|Fri Nov 7 11:30:10 2025 +0100|qrencode: cmake minimum required version to 3.10
-ca4abc649|Marcin Maj|Fri Nov 7 01:58:18 2025 +0100|libvorbis: require cmake >= 3.10 due to removed legacy support
-f08c7993b|George Sapkin|Sat Nov 8 15:59:34 2025 +0200|check-autorelease-deprecation: drop workflow
-ae76b4fdb|Marcin Maj|Fri Nov 7 07:29:05 2025 +0100|libid3tag: require cmake >= 3.10 due to removed legacy support
-9e5831ed4|George Sapkin|Thu Nov 6 18:30:35 2025 +0200|golang: bump to 1.25.4
-3e61a5e05|Alexandru Ardelean|Sat Nov 8 12:37:00 2025 +0200|python3: add libatomic as dependency
-7ada8de6b|Alexandru Ardelean|Fri Nov 7 13:02:15 2025 +0200|django: bump to version 5.2.8
-9a5f1dc8a|Alexandru Ardelean|Tue Dec 24 16:18:16 2024 +0200|python-installer: patch behavior for when script file exists
-545e926fd|Alexandru Ardelean|Fri Nov 7 12:24:54 2025 +0200|python-asgiref: add use python-setuptools/host for pkg build
-97a92f2e7|Alexandru Ardelean|Sun Nov 24 10:59:27 2024 +0200|python3: bump to version 3.13.9
-e3a1f5b0b|Alexandru Ardelean|Fri Nov 7 12:23:24 2025 +0200|python-setuptools: add host-build
-38da2ccc4|Akihiro Nagai|Fri Nov 7 23:41:06 2025 +0900|cloudflared: fix argument order for tunnel command
-4fb8ba34b|Ivan Pavlov|Fri Nov 7 09:32:53 2025 +0300|xxhash: update to 0.8.3
-facfe9536|John Audia|Fri Nov 7 03:57:59 2025 -0500|snort3: update to 3.9.7.0
-0eda5d933|John Audia|Fri Nov 7 03:53:55 2025 -0500|libdaq3: update to 3.0.22
-c1a2d0bf2|Til Kaiser|Fri Nov 7 10:31:53 2025 +0100|mstflint: update to 4.34.0
-f9c132b3c|Dirk Brenken|Fri Nov 7 17:29:02 2025 +0100|travelmate: update 2.2.1-5
+cd08b9da6|Fanx|Mon Nov 10 09:58:51 2025 +0800|smartdns: bump to Release47.1
 </details>
