@@ -2,30 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-2e22430442|Paul Donald|Mon Nov 10 21:30:36 2025 +0100|luci-app-chrony: let 'allow' sections 'interface' choose multiple entries
-e6b02ef1e4|Paul Donald|Mon Nov 10 16:11:47 2025 +0100|luci-app-attendedsysupgrade: amend maintainers to include @efahl
-6f454d00ec|Hannu Nyman|Mon Nov 10 07:22:01 2025 +0200|treewide: Fix weblate conficts in translation
-8262d2abe6|vanapro1|Sun Nov 9 21:17:42 2025 +0100|Translated using Weblate (Russian)
-f986af3361|Edgars Andersons|Sun Nov 9 10:24:05 2025 +0100|Translated using Weblate (Latvian)
-b0d86e2e06|Aindriú Mac Giolla Eoin|Sun Nov 9 18:07:48 2025 +0100|Translated using Weblate (Irish)
-1d0aca9eda|Aindriú Mac Giolla Eoin|Sun Nov 9 18:09:29 2025 +0100|Translated using Weblate (Irish)
-1518489b3b|Aindriú Mac Giolla Eoin|Sun Nov 9 18:13:56 2025 +0100|Translated using Weblate (Irish)
-f9ab0e3d51|Aindriú Mac Giolla Eoin|Sun Nov 9 18:09:29 2025 +0100|Translated using Weblate (Irish)
-bccc46ab5c|Aindriú Mac Giolla Eoin|Sun Nov 9 18:16:05 2025 +0100|Translated using Weblate (Irish)
-d770ddff41|vanapro1|Sun Nov 9 21:11:55 2025 +0100|Translated using Weblate (Russian)
-baaf6bc060|Pavel Borecki|Sun Nov 9 10:30:03 2025 +0100|Translated using Weblate (Czech)
-edaaf629a9|Ettore Atalan|Sun Nov 9 19:57:23 2025 +0100|Translated using Weblate (German)
-c4cb854083|vanapro1|Sun Nov 9 21:14:16 2025 +0100|Translated using Weblate (Russian)
-66e3e8f42b|vanapro1|Sun Nov 9 21:13:46 2025 +0100|Translated using Weblate (Russian)
-60222b3dbd|vanapro1|Sun Nov 9 21:14:17 2025 +0100|Translated using Weblate (Russian)
-da025e6407|vanapro1|Sun Nov 9 21:14:17 2025 +0100|Translated using Weblate (Russian)
-a8efce6f5c|vanapro1|Sun Nov 9 21:17:42 2025 +0100|Translated using Weblate (Russian)
-8d8f5da976|vanapro1|Sun Nov 9 21:17:03 2025 +0100|Translated using Weblate (Russian)
-59b1d9d64d|Pavel Borecki|Sun Nov 9 10:42:14 2025 +0100|Translated using Weblate (Czech)
-b1653dca20|Pavel Borecki|Sun Nov 9 10:40:23 2025 +0100|Translated using Weblate (Czech)
-e4ed8db2b0|Pavel Borecki|Sun Nov 9 10:41:53 2025 +0100|Translated using Weblate (Czech)
-826cbc685e|Pavel Borecki|Sun Nov 9 10:33:46 2025 +0100|Translated using Weblate (Czech)
-7fb4768067|Pavel Borecki|Sun Nov 9 10:40:23 2025 +0100|Translated using Weblate (Czech)
-03c5757449|Pavel Borecki|Sun Nov 9 10:42:58 2025 +0100|Translated using Weblate (Czech)
-f5ed35c7e7|Hosted Weblate|Sun Nov 9 08:28:22 2025 +0100|Translated using Weblate (Japanese)
+fb3b96ec65|Andy Chiang|Mon Oct 20 00:52:53 2025 +0700|luci-proto-ppp: add ac_mac and IPv6-PD options
+684d508b67|Hosted Weblate|Tue Nov 11 10:37:10 2025 +0100|Translated using Weblate (Portuguese)
 </details>

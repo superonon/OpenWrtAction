@@ -2,8 +2,20 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-8d8f49bad|Hannu Nyman|Mon Nov 10 22:55:46 2025 +0200|leptonica: update to 1.86.0 for cmake4, remove absent maintainer
-5d89b68ce|Hannu Nyman|Mon Nov 10 22:36:24 2025 +0200|libsndfile: adjust for cmake 4.x, remove absent maintainer
-137a710fc|Bohdan Chubuk|Mon Nov 10 00:14:28 2025 +0200|cloudflared: fix duplicate "run" command argument
-d8456186e|Andy Chiang|Mon Nov 10 08:26:56 2025 +0700|libnatpmp: adjust for cmake 4.x compatibility
+e36234b9a|Christian Marangi|Wed Nov 12 00:19:31 2025 +0100|libuhttpd: backport upstream CMake patch
+af48bd0a3|Vladimir Ermakov|Thu Sep 25 12:53:37 2025 +0200|go2rtc: update to 1.9.11
+a7fa5af5c|Vladimir Ermakov|Thu Aug 21 11:01:55 2025 +0200|go2rtc: jail service, add uci config
+6c5ace844|Lucian CRISTIAN|Tue Nov 11 22:08:13 2025 +0200|libyang: update to 3.13.6
+8722dc9f8|Tianling Shen|Wed Nov 12 01:32:38 2025 +0800|perl-ack: Update to 3.9.0
+c24ce0213|Tianling Shen|Wed Nov 12 01:27:35 2025 +0800|msgpack-c: Update to 6.1.0
+cf6b78846|Christian Marangi|Tue Nov 11 18:23:14 2025 +0100|yajl: add pending patch to handle CMake 4.0 support
+00680030b|Hirokazu MORIKAWA|Tue Nov 11 21:02:16 2025 +0900|icu: bump to 78.1
+bf05b3645|Cedric CHEDALEUX|Fri Feb 28 13:25:06 2025 +0100|yajl: add host build
+9d334da77|Cedric CHEDALEUX|Mon Feb 24 15:45:11 2025 +0100|libcap-ng: add host build
+fb1a0ebbf|Richard Muzik|Mon Nov 10 14:29:51 2025 +0100|librespeed-cli: fix speedtest when server not available
+5c14cecb0|Richard Muzik|Mon Nov 10 14:25:16 2025 +0100|librespeed-cli: update to version 1.0.12
+c03f36212|Tianling Shen|Tue Nov 11 15:30:56 2025 +0800|v2raya: Update to 2.2.7.4
+590447dcc|Tianling Shen|Tue Nov 11 15:30:36 2025 +0800|openlist: Update to 4.1.7
+5a122342d|Wesley Gimenes|Wed Nov 5 16:36:58 2025 -0300|netbird: update to 0.59.12
+784fd7e9d|Philip Prindeville|Mon Nov 10 18:57:10 2025 -0700|strongswan: Update to 6.0.3
 </details>
