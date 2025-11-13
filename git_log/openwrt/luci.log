@@ -2,6 +2,7 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-fb3b96ec65|Andy Chiang|Mon Oct 20 00:52:53 2025 +0700|luci-proto-ppp: add ac_mac and IPv6-PD options
-684d508b67|Hosted Weblate|Tue Nov 11 10:37:10 2025 +0100|Translated using Weblate (Portuguese)
+9717162fd0|Eric Fahlgren|Wed Nov 12 11:11:57 2025 -0800|luci-base: improve docs for uci.get_bool
+8c2b57588b|Paul Donald|Wed Nov 12 17:23:35 2025 +0100|luci-mod-status: ES6 treatment
+cbd1b7a19a|Paul Donald|Wed Nov 12 16:59:39 2025 +0100|luci-mod-status: hide disabled interfaces and show SSIDs
 </details>

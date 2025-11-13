@@ -2,13 +2,19 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-b29cf08a1e|Christian Marangi|Tue Nov 11 23:58:54 2025 +0100|openssl: add MODULES_DIR MACRO for provider
-c552564642|Hauke Mehrtens|Tue Nov 11 00:37:17 2025 +0100|firmware-utils: update to Git HEAD (2025-11-11)
-98bea87773|Hauke Mehrtens|Tue Nov 11 00:39:00 2025 +0100|tools: firmware-utils: update to Git HEAD (2025-11-11)
-985394bf26|Hauke Mehrtens|Mon Nov 10 00:42:32 2025 +0100|ucode: update to Git HEAD (2025-11-07)
-6af5b8033c|Tomasz Maciej Nowak|Tue Nov 11 19:39:50 2025 +0100|tegra: promote kernel 6.12 as default
-7656e74a95|Alexandru Gagniuc|Sun Nov 9 17:36:33 2025 -0600|qualcommbe: support 10g-qxgmii in QCA8084 PHY driver
-bd7f5b32a6|Christian Marangi|Tue Nov 11 17:18:39 2025 +0100|airoha: replace AN7583 pinctrl patch with upstream version
-4daff067d7|Florian Bomers|Mon Nov 10 18:39:34 2025 +0100|kernel: sound: add support for MIDI 2.0 and UMP
-6f99711b1b|Christoph Krapp|Tue Nov 11 00:01:17 2025 +0100|ipq40xx: fix unit-address of Netgear LBR20 ubi partition
+8d679ff5dd|David Bauer|Wed Nov 12 19:38:29 2025 +0100|mpc85xx: make kernel 6.12 the default kernel
+daca63ac8f|Pawel Dembicki|Thu Nov 6 11:37:44 2025 +0100|mpc85xx: kernel: 6.12: fix issue with ifc nodes in P1010
+8358e594c6|David Bauer|Fri May 9 21:43:27 2025 +0200|mpc85xx: introduce 6.12 testing kernel
+57bdd90b83|David Bauer|Sat May 10 21:46:51 2025 +0200|mpc85xx: refresh kernel config
+710c7d9be3|David Bauer|Sat May 10 11:00:57 2025 +0200|mpc85xx: use strscpy instead of strlcpy
+af69ad3898|David Bauer|Fri May 9 21:49:14 2025 +0200|mpc85xx: refresh kernel 6.12 patches
+3ae3accd89|Pawel Dembicki|Tue Oct 28 06:20:44 2025 +0100|kernel/mpc85xx: Restore kernel files for v6.6
+314ce20aa8|Pawel Dembicki|Tue Oct 28 06:20:44 2025 +0100|kernel/mpc85xx: Create kernel files for v6.12 (from v6.6)
+5ab6e6011f|Chang Liu|Fri Nov 7 14:50:28 2025 +0800|qualcommax: ipq50xx: Add support for CMCC PZ-L8
+26ddab47d9|Liangbin Lian|Wed May 8 12:57:11 2024 +0800|imagebuilder: fix repeated generation of package index when signing is enabled
+00e881451a|Andy Chiang|Sun Oct 26 07:29:30 2025 +0700|wifi-scripts: ucode: fix start failed
+cc3e211264|Paweł Owoc|Fri Nov 7 11:59:12 2025 +0100|wifi-scripts: use stationary_ap conf for AX mode
+0ad0955214|Felix Fietkau|Wed Nov 12 11:07:17 2025 +0000|kernel: fix mtk_eth_soc handling of fraglist packets without GSO_FRAGLIST
+ba041eb451|Kacper Ludwinski|Mon Nov 10 00:48:19 2025 +0000|prereq-build: add Python 3.13 support
+fd7e43d429|Ernestas Kulik|Wed Nov 12 10:16:30 2025 +0200|scripts: feeds: Don’t hardcode IS_TTY
 </details>

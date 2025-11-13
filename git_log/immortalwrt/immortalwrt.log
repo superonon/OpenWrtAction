@@ -2,37 +2,19 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-45e69ca242|Tianling Shen|Tue Nov 11 19:19:09 2025 +0800|Merge Official Source
-4daff067d7|Florian Bomers|Mon Nov 10 18:39:34 2025 +0100|kernel: sound: add support for MIDI 2.0 and UMP
-6f99711b1b|Christoph Krapp|Tue Nov 11 00:01:17 2025 +0100|ipq40xx: fix unit-address of Netgear LBR20 ubi partition
-356acef794|Sven Eckelmann|Sun Nov 9 09:45:39 2025 +0100|realtek: dsa: Clarify meaning of secondary lag member variable
-f82da653fd|Sven Eckelmann|Sun Nov 9 09:38:48 2025 +0100|realtek: DSA: Document meaning of lag priv variables
-14095ab268|Sven Eckelmann|Sun Nov 9 09:32:03 2025 +0100|realtek: dsa: Drop LAG checks already handled by DSA handlers
-e9bb1debb7|Sven Eckelmann|Sun Nov 9 09:30:52 2025 +0100|realtek: dsa: Use DSA allocated LAG ids
-ca014cfd72|Sven Eckelmann|Sun Nov 9 09:26:27 2025 +0100|realtek: dsa: Drop secondary LAG configuration handler
-108381e5a1|Sven Eckelmann|Sun Nov 9 09:23:48 2025 +0100|realtek: dsa: Fix LAG id allocation
-23211b196c|Hauke Mehrtens|Mon Nov 10 00:44:05 2025 +0100|udebug: update to Git HEAD (2025-10-21)
-1f21cc9600|Hauke Mehrtens|Mon Nov 10 00:41:24 2025 +0100|uci: update to Git HEAD (2025-11-03)
-c0a30370f9|Hauke Mehrtens|Mon Nov 10 00:40:51 2025 +0100|ubus: update to Git HEAD (2025-11-03)
-825dbed09a|Hauke Mehrtens|Mon Nov 10 00:40:12 2025 +0100|ubox: update to Git HEAD (2025-10-30)
-56eb74960d|Hauke Mehrtens|Mon Nov 10 00:36:17 2025 +0100|libnl-tiny: update to Git HEAD (2025-11-03)
-e0b6fa2216|Hauke Mehrtens|Mon Nov 10 00:36:48 2025 +0100|libubox: update to Git HEAD (2025-11-03)
-fefd50ec00|Tianling Shen|Mon Nov 10 17:12:27 2025 +0800|rockchip: add missing KERNEL_LOADADDR for LinkEase EasePi R1
-d720ad5254|Tianling Shen|Mon Nov 10 17:09:43 2025 +0800|rockchip: fix assign IRQ SMP affinity for Radxa E52C
-14d3ea43ab|Sven Eckelmann|Fri Nov 7 15:08:17 2025 +0100|realtek: dsa: rtl93xx: Keep mgmt recv action functions local
-fa8ac8e562|Sven Eckelmann|Fri Nov 7 15:08:17 2025 +0100|realtek: dsa: rtl931x: Sync mgmt recv action code with RTL930x
-0c6fa6edce|Hauke Mehrtens|Mon Nov 10 00:33:22 2025 +0100|odhcp6c: update to Git HEAD (2025-11-09)
-3169ffa4c7|Christian Marangi|Mon Nov 10 19:27:11 2025 +0100|airoha: backport patch fixing out of order DMA for ethernet driver
-cce81ed05b|Christian Marangi|Mon Nov 10 19:16:01 2025 +0100|uboot-airoha: drop HIDDEN option
-eedc7b3b79|Christian Marangi|Mon Nov 10 18:24:16 2025 +0100|airona: an7583: fix typo for CONFIG_PHY_AIROHA_USB
-4ad22d0342|Andy Chiang|Mon Oct 27 08:34:13 2025 +0700|firewall: config: add dest addr restrictions for DHCPv6 rules
-df338d67d4|Rany Hany|Sat Sep 6 11:06:15 2025 +0000|wifi-scripts: allow sae_password_file to be configured
-631d535282|Andy Chiang|Sat Oct 4 17:38:41 2025 +0700|toplevel.mk: use relative path for feeds/base symlink
-a88a19982d|David Härdeman|Wed Nov 5 10:22:56 2025 +0100|odhcpd: update Makefile description
-002e22b069|David Härdeman|Wed Nov 5 10:05:36 2025 +0100|odhcpd: update Makefile, remove homenet
-781b04a84f|David Härdeman|Wed Nov 5 09:54:51 2025 +0100|odhcpd: reload on change to service/network cfg
-9be4970581|David Härdeman|Wed Nov 5 09:46:31 2025 +0100|odhcpd: remove legacy option
-0b9111301b|Eneas U de Queiroz|Fri Nov 7 11:21:26 2025 -0300|wifi-scripts: ucode: iwinfo: expand AKM display
-988b2ed515|Eneas U de Queiroz|Fri Nov 7 14:24:33 2025 -0300|wifi-scripts: ucode: iwinfo: escape control chars
-e50703d033|Eneas U de Queiroz|Thu Nov 6 11:57:26 2025 -0300|wifi-scripts: ucode: iwinfo: show ESSID in scan
+2048a2e8ac|Tianling Shen|Wed Nov 12 21:36:37 2025 +0800|Merge Official Source
+5ab6e6011f|Chang Liu|Fri Nov 7 14:50:28 2025 +0800|qualcommax: ipq50xx: Add support for CMCC PZ-L8
+26ddab47d9|Liangbin Lian|Wed May 8 12:57:11 2024 +0800|imagebuilder: fix repeated generation of package index when signing is enabled
+00e881451a|Andy Chiang|Sun Oct 26 07:29:30 2025 +0700|wifi-scripts: ucode: fix start failed
+cc3e211264|Paweł Owoc|Fri Nov 7 11:59:12 2025 +0100|wifi-scripts: use stationary_ap conf for AX mode
+0ad0955214|Felix Fietkau|Wed Nov 12 11:07:17 2025 +0000|kernel: fix mtk_eth_soc handling of fraglist packets without GSO_FRAGLIST
+ba041eb451|Kacper Ludwinski|Mon Nov 10 00:48:19 2025 +0000|prereq-build: add Python 3.13 support
+fd7e43d429|Ernestas Kulik|Wed Nov 12 10:16:30 2025 +0200|scripts: feeds: Don’t hardcode IS_TTY
+b29cf08a1e|Christian Marangi|Tue Nov 11 23:58:54 2025 +0100|openssl: add MODULES_DIR MACRO for provider
+c552564642|Hauke Mehrtens|Tue Nov 11 00:37:17 2025 +0100|firmware-utils: update to Git HEAD (2025-11-11)
+98bea87773|Hauke Mehrtens|Tue Nov 11 00:39:00 2025 +0100|tools: firmware-utils: update to Git HEAD (2025-11-11)
+985394bf26|Hauke Mehrtens|Mon Nov 10 00:42:32 2025 +0100|ucode: update to Git HEAD (2025-11-07)
+6af5b8033c|Tomasz Maciej Nowak|Tue Nov 11 19:39:50 2025 +0100|tegra: promote kernel 6.12 as default
+7656e74a95|Alexandru Gagniuc|Sun Nov 9 17:36:33 2025 -0600|qualcommbe: support 10g-qxgmii in QCA8084 PHY driver
+bd7f5b32a6|Christian Marangi|Tue Nov 11 17:18:39 2025 +0100|airoha: replace AN7583 pinctrl patch with upstream version
 </details>

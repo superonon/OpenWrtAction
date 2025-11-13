@@ -1,7 +1,0 @@
-<details> <summary> <b>luci new commit log :new: </b>  </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-ae52368f74|Tianling Shen|Tue Nov 11 20:01:32 2025 +0800|luci-theme-argon: sync with upstream source
-0ccbd6c254|Tianling Shen|Mon Nov 10 18:43:33 2025 +0800|luci-app-smartdns: sync with upstream
-</details>

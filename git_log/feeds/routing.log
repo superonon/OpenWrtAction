@@ -2,5 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-0f3cd1e|Josef Schlehofer|Mon Nov 10 20:24:03 2025 +0100|luci-app-olsrd2: remove it as oonf-olsrd2 was dropped
+2dbcc5b|Josef Schlehofer|Mon Nov 10 13:52:56 2025 +0100|minimalist-pcproxy: remove this package
 </details>
