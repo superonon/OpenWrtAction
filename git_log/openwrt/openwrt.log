@@ -2,19 +2,11 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-8d679ff5dd|David Bauer|Wed Nov 12 19:38:29 2025 +0100|mpc85xx: make kernel 6.12 the default kernel
-daca63ac8f|Pawel Dembicki|Thu Nov 6 11:37:44 2025 +0100|mpc85xx: kernel: 6.12: fix issue with ifc nodes in P1010
-8358e594c6|David Bauer|Fri May 9 21:43:27 2025 +0200|mpc85xx: introduce 6.12 testing kernel
-57bdd90b83|David Bauer|Sat May 10 21:46:51 2025 +0200|mpc85xx: refresh kernel config
-710c7d9be3|David Bauer|Sat May 10 11:00:57 2025 +0200|mpc85xx: use strscpy instead of strlcpy
-af69ad3898|David Bauer|Fri May 9 21:49:14 2025 +0200|mpc85xx: refresh kernel 6.12 patches
-3ae3accd89|Pawel Dembicki|Tue Oct 28 06:20:44 2025 +0100|kernel/mpc85xx: Restore kernel files for v6.6
-314ce20aa8|Pawel Dembicki|Tue Oct 28 06:20:44 2025 +0100|kernel/mpc85xx: Create kernel files for v6.12 (from v6.6)
-5ab6e6011f|Chang Liu|Fri Nov 7 14:50:28 2025 +0800|qualcommax: ipq50xx: Add support for CMCC PZ-L8
-26ddab47d9|Liangbin Lian|Wed May 8 12:57:11 2024 +0800|imagebuilder: fix repeated generation of package index when signing is enabled
-00e881451a|Andy Chiang|Sun Oct 26 07:29:30 2025 +0700|wifi-scripts: ucode: fix start failed
-cc3e211264|Paweł Owoc|Fri Nov 7 11:59:12 2025 +0100|wifi-scripts: use stationary_ap conf for AX mode
-0ad0955214|Felix Fietkau|Wed Nov 12 11:07:17 2025 +0000|kernel: fix mtk_eth_soc handling of fraglist packets without GSO_FRAGLIST
-ba041eb451|Kacper Ludwinski|Mon Nov 10 00:48:19 2025 +0000|prereq-build: add Python 3.13 support
-fd7e43d429|Ernestas Kulik|Wed Nov 12 10:16:30 2025 +0200|scripts: feeds: Don’t hardcode IS_TTY
+05feabfd09|Felix Fietkau|Thu Nov 13 13:23:07 2025 +0000|kernel: mtk_eth_soc: fix encapsulation check for GSO fraglist packets
+92445cc982|Felix Fietkau|Thu Nov 13 12:41:30 2025 +0000|wifi-scripts: respect rsn_override=0 in mixed modes
+ff44aa490a|Felix Fietkau|Thu Nov 13 12:25:50 2025 +0000|wifi-scripts: only enable RSN override when parameters differ
+e81936f5bc|Felix Fietkau|Thu Nov 13 12:02:43 2025 +0000|hostapd: fix phy parameter in iface_update_supplicant_macaddr
+75791ea634|Felix Fietkau|Thu Nov 13 11:52:47 2025 +0000|wifi-scripts: fix MLO AP setup with disabled radios
+2fb3cbda58|Felix Fietkau|Thu Nov 13 05:14:35 2025 +0000|wpa_supplicant: fix MAC address assignment for MLD interfaces
+d619ff6872|Felix Fietkau|Wed Nov 12 16:16:45 2025 +0000|wifi-scripts: fix wds client mode with MLO
 </details>

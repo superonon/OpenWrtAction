@@ -2,5 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-2dbcc5b|Josef Schlehofer|Mon Nov 10 13:52:56 2025 +0100|minimalist-pcproxy: remove this package
+a700d52|Christian Marangi|Thu Nov 13 16:14:25 2025 +0100|ohybridproxy: add pending patch for CMake >= 4.0 support
+11fc6a2|Christian Marangi|Thu Nov 13 16:00:29 2025 +0100|pimbd: add pending patch for warning and CMake >= 4.0
 </details>

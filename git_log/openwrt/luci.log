@@ -1,8 +1,0 @@
-<details> <summary> <b>luci new commit log :new: </b>  </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-9717162fd0|Eric Fahlgren|Wed Nov 12 11:11:57 2025 -0800|luci-base: improve docs for uci.get_bool
-8c2b57588b|Paul Donald|Wed Nov 12 17:23:35 2025 +0100|luci-mod-status: ES6 treatment
-cbd1b7a19a|Paul Donald|Wed Nov 12 16:59:39 2025 +0100|luci-mod-status: hide disabled interfaces and show SSIDs
-</details>
