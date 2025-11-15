@@ -2,44 +2,23 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-1c267cd8c|Tianling Shen|Thu Nov 13 23:27:52 2025 +0800|Merge Official Source
-a863fe3d7|Rui Salvaterra|Thu Nov 13 12:10:19 2025 +0000|tor: add myself as package maintainer
-87ed4d7d1|Rui Salvaterra|Wed Nov 12 13:54:35 2025 +0000|tor: update to 0.4.8.20 stable
-92c7d7845|Tianling Shen|Thu Nov 13 21:17:57 2025 +0800|mbpoll: add cmake 4.x compatibility
-ab19a033f|Alexandru Ardelean|Thu Nov 13 12:42:24 2025 +0200|python-calver: add python-setuptools/host as dep to HostBuild
-1d1dbae89|Alexandru Ardelean|Sun Nov 9 20:27:34 2025 +0200|python-setuptools-scm: bump to version 9.2.2
-974dc9753|Alexandru Ardelean|Sun Nov 9 19:19:09 2025 +0200|python-automat: bump to version 25.4.16
-dbc8106ec|Vladimir Ermakov|Thu Nov 13 10:54:00 2025 +0100|python-toml: fix build dependency on python-setuptools
-7c41b63f9|Vladimir Ermakov|Thu Nov 13 10:50:32 2025 +0100|libyang: add dependency on libxxhash
-63656f59e|Aleksander Jan Bajkowski|Sun Sep 7 19:24:07 2025 +0200|mdio-tools: backport segfault fix
-259059411|Alexandru Ardelean|Wed Nov 12 19:34:47 2025 +0200|python-cffi: bump to version 2.0.0
-fabcdb58c|Alexandru Ardelean|Tue Nov 11 12:02:39 2025 +0200|python3: remove lib2to3 dep from 'python3-package-dev'
-0ae94ee36|Alexandru Ardelean|Tue Nov 11 09:54:53 2025 +0200|python-setuptools: fix host deps
-bf0fc7ba7|Alexandru Ardelean|Mon Nov 10 21:49:32 2025 +0200|python-markupsafe: add python-setuptools/host to HostBuild dep
-2b1fb50b8|Alexandru Ardelean|Mon Nov 10 17:39:14 2025 +0200|python-pyproject-hooks: bump to version 1.2.0
-256f9d30f|Alexandru Ardelean|Mon Nov 10 15:28:09 2025 +0200|python-semantic-version: add python-setuptools/host dep to HostBuild
-5ab2317cc|Alexandru Ardelean|Mon Nov 10 15:26:07 2025 +0200|python-ply: add python-setuptools/host dep to HostBuild & pkg build
-1c88e9fc8|Alexandru Ardelean|Sun Nov 9 18:03:08 2025 +0200|pymysql: bump to version 1.1.2
-f10ff694d|Alexandru Ardelean|Sun Nov 9 16:47:42 2025 +0200|pyproject-metadata: bump to 0.9.1 & add python-setuptools/host dep for HostBuild
-23ee8f59b|Tianling Shen|Wed Nov 12 17:41:49 2025 +0800|canutils: Update to 2025.01
-26d588fb9|Tianling Shen|Wed Nov 12 17:25:37 2025 +0800|cereal: Update to 1.3.2
-45254df57|Paul Donald|Wed Nov 12 01:26:20 2025 +0100|cshark: drop package
-6b87dad19|Nuno Gonçalves|Wed Nov 12 00:00:43 2025 +0000|nmap: add build depedency on python-setuptools (fixes #27833)
-036868c66|Lucian CRISTIAN|Tue Nov 11 22:57:49 2025 +0200|frr: update to 10.4.1
-6af94b1fa|Christian Marangi|Tue Nov 11 23:46:35 2025 +0100|softethervpn5: disable OQS module
-0c871e018|Christian Marangi|Tue Nov 11 23:30:22 2025 +0100|softethervpn5: bump to version 5.2.5188
-f8f392471|George Sapkin|Sun Nov 9 20:00:45 2025 +0200|less: bump to 685
-36b62e50f|George Sapkin|Sun Nov 9 19:59:41 2025 +0200|less: add CI test script
-e36234b9a|Christian Marangi|Wed Nov 12 00:19:31 2025 +0100|libuhttpd: backport upstream CMake patch
-af48bd0a3|Vladimir Ermakov|Thu Sep 25 12:53:37 2025 +0200|go2rtc: update to 1.9.11
-a7fa5af5c|Vladimir Ermakov|Thu Aug 21 11:01:55 2025 +0200|go2rtc: jail service, add uci config
-6c5ace844|Lucian CRISTIAN|Tue Nov 11 22:08:13 2025 +0200|libyang: update to 3.13.6
-8722dc9f8|Tianling Shen|Wed Nov 12 01:32:38 2025 +0800|perl-ack: Update to 3.9.0
-c24ce0213|Tianling Shen|Wed Nov 12 01:27:35 2025 +0800|msgpack-c: Update to 6.1.0
-cf6b78846|Christian Marangi|Tue Nov 11 18:23:14 2025 +0100|yajl: add pending patch to handle CMake 4.0 support
-00680030b|Hirokazu MORIKAWA|Tue Nov 11 21:02:16 2025 +0900|icu: bump to 78.1
-bf05b3645|Cedric CHEDALEUX|Fri Feb 28 13:25:06 2025 +0100|yajl: add host build
-9d334da77|Cedric CHEDALEUX|Mon Feb 24 15:45:11 2025 +0100|libcap-ng: add host build
-fb1a0ebbf|Richard Muzik|Mon Nov 10 14:29:51 2025 +0100|librespeed-cli: fix speedtest when server not available
-5c14cecb0|Richard Muzik|Mon Nov 10 14:25:16 2025 +0100|librespeed-cli: update to version 1.0.12
+196d62ef4|Tianling Shen|Fri Nov 14 19:11:59 2025 +0800|Merge Official Source
+f872c8970|Javier Marcet|Mon Jun 24 21:29:56 2024 +0200|python-docker: fix pyproject.toml issues
+ac191fb6f|Javier Marcet|Sun May 26 23:54:46 2024 +0200|python-docker: Update to 7.1.0
+974e8404c|Josef Schlehofer|Sun Nov 2 17:36:12 2025 +0100|python-ruamel-yaml: update to version 0.18.16
+63aa7856b|Josef Schlehofer|Sun Nov 2 17:30:38 2025 +0100|python-yaml: update to version 6.0.3
+ff9c11a9d|Josef Schlehofer|Sun Nov 2 17:49:04 2025 +0100|python-flask-socketio: update to version 5.5.1
+03303c362|Josef Schlehofer|Sun Nov 2 17:47:43 2025 +0100|python-flask-session: update to version 0.8.0
+f02c36834|Josef Schlehofer|Sun Nov 2 17:45:48 2025 +0100|python-flask-seasurf: update to 2.0.0
+0655f4ed3|Josef Schlehofer|Sun Nov 2 17:44:21 2025 +0100|python-flask-login: update to version 0.6.3
+fc34a02cc|Josef Schlehofer|Sun Nov 2 17:25:02 2025 +0100|Flask: update to version 3.1.2
+ae904f900|Josef Schlehofer|Sun Nov 2 17:29:01 2025 +0100|python-werkzeug: update to version 3.1.3
+45ef59b3e|Josef Schlehofer|Sun Nov 2 17:23:37 2025 +0100|python-jinja2: update to version 3.1.6
+1a6bb0a1a|Alexandru Ardelean|Thu Nov 13 16:03:21 2025 +0200|python-markupsafe: add python-setuptools/host as build dep for targer package
+26ffbb95f|Alexandru Ardelean|Thu Nov 13 15:56:11 2025 +0200|python-babel: upgrade to version 2.17.0
+1f70e73e5|Alexandru Ardelean|Thu Nov 13 15:50:19 2025 +0200|python-pynacl: upgrade to version 1.6.1
+909b2ee5a|Alexandru Ardelean|Thu Nov 13 15:49:20 2025 +0200|python-hatchling: add python-setuptools/host as dep
+92899d631|George Sapkin|Thu Nov 13 16:34:54 2025 +0200|quickjs: add new package
+d727cb105|Tianling Shen|Thu Nov 13 21:36:35 2025 +0800|openelp: Update to 0.9.3
+d543522db|Hannu Nyman|Thu Nov 13 18:01:20 2025 +0200|nano: update to version 8.7
 </details>

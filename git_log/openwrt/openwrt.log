@@ -2,11 +2,7 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-05feabfd09|Felix Fietkau|Thu Nov 13 13:23:07 2025 +0000|kernel: mtk_eth_soc: fix encapsulation check for GSO fraglist packets
-92445cc982|Felix Fietkau|Thu Nov 13 12:41:30 2025 +0000|wifi-scripts: respect rsn_override=0 in mixed modes
-ff44aa490a|Felix Fietkau|Thu Nov 13 12:25:50 2025 +0000|wifi-scripts: only enable RSN override when parameters differ
-e81936f5bc|Felix Fietkau|Thu Nov 13 12:02:43 2025 +0000|hostapd: fix phy parameter in iface_update_supplicant_macaddr
-75791ea634|Felix Fietkau|Thu Nov 13 11:52:47 2025 +0000|wifi-scripts: fix MLO AP setup with disabled radios
-2fb3cbda58|Felix Fietkau|Thu Nov 13 05:14:35 2025 +0000|wpa_supplicant: fix MAC address assignment for MLD interfaces
-d619ff6872|Felix Fietkau|Wed Nov 12 16:16:45 2025 +0000|wifi-scripts: fix wds client mode with MLO
+971c058cf5|Daniel Golle|Wed Nov 12 14:09:30 2025 +0000|mediatek: add mt7987-2p5g-phy-firmware to MT7987 devices
+60fc2918dc|Daniel Golle|Wed Nov 12 14:08:11 2025 +0000|linux-firmware: package mt7987-2p5g-phy-firmware
+c887694358|Daniel Golle|Wed Nov 12 14:05:27 2025 +0000|linux-firmware: update to 20251111
 </details>

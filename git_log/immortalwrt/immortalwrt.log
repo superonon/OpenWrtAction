@@ -1,0 +1,25 @@
+<details> <summary> <b>immortalwrt new commit log :new: </b>  </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+406326a54f|Tianling Shen|Fri Nov 14 20:04:53 2025 +0800|uboot-rockchip: enable good-state big cluster 2 for rk3582
+42af512b42|Tianling Shen|Fri Nov 14 17:50:08 2025 +0800|Merge Official Source
+971c058cf5|Daniel Golle|Wed Nov 12 14:09:30 2025 +0000|mediatek: add mt7987-2p5g-phy-firmware to MT7987 devices
+60fc2918dc|Daniel Golle|Wed Nov 12 14:08:11 2025 +0000|linux-firmware: package mt7987-2p5g-phy-firmware
+c887694358|Daniel Golle|Wed Nov 12 14:05:27 2025 +0000|linux-firmware: update to 20251111
+05feabfd09|Felix Fietkau|Thu Nov 13 13:23:07 2025 +0000|kernel: mtk_eth_soc: fix encapsulation check for GSO fraglist packets
+92445cc982|Felix Fietkau|Thu Nov 13 12:41:30 2025 +0000|wifi-scripts: respect rsn_override=0 in mixed modes
+ff44aa490a|Felix Fietkau|Thu Nov 13 12:25:50 2025 +0000|wifi-scripts: only enable RSN override when parameters differ
+e81936f5bc|Felix Fietkau|Thu Nov 13 12:02:43 2025 +0000|hostapd: fix phy parameter in iface_update_supplicant_macaddr
+75791ea634|Felix Fietkau|Thu Nov 13 11:52:47 2025 +0000|wifi-scripts: fix MLO AP setup with disabled radios
+2fb3cbda58|Felix Fietkau|Thu Nov 13 05:14:35 2025 +0000|wpa_supplicant: fix MAC address assignment for MLD interfaces
+d619ff6872|Felix Fietkau|Wed Nov 12 16:16:45 2025 +0000|wifi-scripts: fix wds client mode with MLO
+8d679ff5dd|David Bauer|Wed Nov 12 19:38:29 2025 +0100|mpc85xx: make kernel 6.12 the default kernel
+daca63ac8f|Pawel Dembicki|Thu Nov 6 11:37:44 2025 +0100|mpc85xx: kernel: 6.12: fix issue with ifc nodes in P1010
+8358e594c6|David Bauer|Fri May 9 21:43:27 2025 +0200|mpc85xx: introduce 6.12 testing kernel
+57bdd90b83|David Bauer|Sat May 10 21:46:51 2025 +0200|mpc85xx: refresh kernel config
+710c7d9be3|David Bauer|Sat May 10 11:00:57 2025 +0200|mpc85xx: use strscpy instead of strlcpy
+af69ad3898|David Bauer|Fri May 9 21:49:14 2025 +0200|mpc85xx: refresh kernel 6.12 patches
+3ae3accd89|Pawel Dembicki|Tue Oct 28 06:20:44 2025 +0100|kernel/mpc85xx: Restore kernel files for v6.6
+314ce20aa8|Pawel Dembicki|Tue Oct 28 06:20:44 2025 +0100|kernel/mpc85xx: Create kernel files for v6.12 (from v6.6)
+</details>
