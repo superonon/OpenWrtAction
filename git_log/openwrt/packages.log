@@ -2,14 +2,14 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-1a1c0d07a|Dirk Brenken|Fri Nov 14 22:00:14 2025 +0100|travelmate: update 2.2.1-6
-b22fce152|Tianling Shen|Thu Nov 13 21:23:45 2025 +0800|ecdsautils: add cmake 4.x compatibility
-1d9dad85a|George Sapkin|Wed Nov 12 21:47:37 2025 +0200|yt-dlp: bump to 2025.11.12
-36deed27b|Eneas U de Queiroz|Fri Nov 14 08:52:10 2025 -0300|gost_engine: fix and improve CI test
-c139d95e9|Eneas U de Queiroz|Fri Nov 14 08:42:39 2025 -0300|afalg_engine: CI: use apk
-e3d582c0a|Tianling Shen|Thu Nov 13 21:10:13 2025 +0800|uci2: Update to 2.0.0
-f872c8970|Javier Marcet|Mon Jun 24 21:29:56 2024 +0200|python-docker: fix pyproject.toml issues
-ac191fb6f|Javier Marcet|Sun May 26 23:54:46 2024 +0200|python-docker: Update to 7.1.0
-974e8404c|Josef Schlehofer|Sun Nov 2 17:36:12 2025 +0100|python-ruamel-yaml: update to version 0.18.16
-63aa7856b|Josef Schlehofer|Sun Nov 2 17:30:38 2025 +0100|python-yaml: update to version 6.0.3
+fa1dd531e|George Sapkin|Sat Nov 15 04:57:17 2025 +0200|mjpg-streamer: add cmake 4.x compatibility
+767073249|Tianling Shen|Sat Nov 15 20:36:42 2025 +0800|czmq: remove absent maintainer
+c5bb72a22|Tianling Shen|Sat Nov 15 17:38:29 2025 +0800|czmq: add cmake 4.x compatibility
+79313818a|Tianling Shen|Sat Nov 15 18:11:59 2025 +0800|zlog: remove absent maintainer
+ecce493e5|Tianling Shen|Sat Nov 15 18:00:03 2025 +0800|zlog: add cmake 4.x compatibility
+8efcd79a6|Tianling Shen|Thu Nov 13 22:11:39 2025 +0800|luv: Update to 1.51.0-1
+13ea3654c|Philip Prindeville|Fri Nov 14 19:27:51 2025 -0700|isc-dhcp: Missing trailing dot on SRV RRs
+98391be84|George Sapkin|Sat Nov 15 04:43:55 2025 +0200|zmq: add cmake 4.x compatibility
+ae8e14e8c|Josef Schlehofer|Fri Nov 14 09:27:31 2025 +0100|msmtp: update to version 1.8.32
+9813aded1|John Audia|Fri Nov 14 19:18:32 2025 -0500|iperf3: update to 3.20
 </details>

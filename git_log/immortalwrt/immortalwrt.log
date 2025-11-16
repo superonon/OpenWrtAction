@@ -2,24 +2,18 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-406326a54f|Tianling Shen|Fri Nov 14 20:04:53 2025 +0800|uboot-rockchip: enable good-state big cluster 2 for rk3582
-42af512b42|Tianling Shen|Fri Nov 14 17:50:08 2025 +0800|Merge Official Source
-971c058cf5|Daniel Golle|Wed Nov 12 14:09:30 2025 +0000|mediatek: add mt7987-2p5g-phy-firmware to MT7987 devices
-60fc2918dc|Daniel Golle|Wed Nov 12 14:08:11 2025 +0000|linux-firmware: package mt7987-2p5g-phy-firmware
-c887694358|Daniel Golle|Wed Nov 12 14:05:27 2025 +0000|linux-firmware: update to 20251111
-05feabfd09|Felix Fietkau|Thu Nov 13 13:23:07 2025 +0000|kernel: mtk_eth_soc: fix encapsulation check for GSO fraglist packets
-92445cc982|Felix Fietkau|Thu Nov 13 12:41:30 2025 +0000|wifi-scripts: respect rsn_override=0 in mixed modes
-ff44aa490a|Felix Fietkau|Thu Nov 13 12:25:50 2025 +0000|wifi-scripts: only enable RSN override when parameters differ
-e81936f5bc|Felix Fietkau|Thu Nov 13 12:02:43 2025 +0000|hostapd: fix phy parameter in iface_update_supplicant_macaddr
-75791ea634|Felix Fietkau|Thu Nov 13 11:52:47 2025 +0000|wifi-scripts: fix MLO AP setup with disabled radios
-2fb3cbda58|Felix Fietkau|Thu Nov 13 05:14:35 2025 +0000|wpa_supplicant: fix MAC address assignment for MLD interfaces
-d619ff6872|Felix Fietkau|Wed Nov 12 16:16:45 2025 +0000|wifi-scripts: fix wds client mode with MLO
-8d679ff5dd|David Bauer|Wed Nov 12 19:38:29 2025 +0100|mpc85xx: make kernel 6.12 the default kernel
-daca63ac8f|Pawel Dembicki|Thu Nov 6 11:37:44 2025 +0100|mpc85xx: kernel: 6.12: fix issue with ifc nodes in P1010
-8358e594c6|David Bauer|Fri May 9 21:43:27 2025 +0200|mpc85xx: introduce 6.12 testing kernel
-57bdd90b83|David Bauer|Sat May 10 21:46:51 2025 +0200|mpc85xx: refresh kernel config
-710c7d9be3|David Bauer|Sat May 10 11:00:57 2025 +0200|mpc85xx: use strscpy instead of strlcpy
-af69ad3898|David Bauer|Fri May 9 21:49:14 2025 +0200|mpc85xx: refresh kernel 6.12 patches
-3ae3accd89|Pawel Dembicki|Tue Oct 28 06:20:44 2025 +0100|kernel/mpc85xx: Restore kernel files for v6.6
-314ce20aa8|Pawel Dembicki|Tue Oct 28 06:20:44 2025 +0100|kernel/mpc85xx: Create kernel files for v6.12 (from v6.6)
+5b10c31524|Tianling Shen|Sat Nov 15 22:23:01 2025 +0800|Merge Official Source
+bc9e03d582|Tianling Shen|Sat Nov 15 20:45:25 2025 +0800|armbian-firmware: update nvram link for 9tripod x3568-v4
+2afe6a18ba|Tianling Shen|Sat Nov 15 20:42:34 2025 +0800|rockchip: backport upstreamed dts for 9Tripod X3568 v4
+00bb18b851|Roland Reinl|Thu Nov 30 17:16:41 2023 +0100|ipq40xx: Add support for Linksys MR6350
+0db1b11073|Christoph Krapp|Sat Nov 8 22:47:07 2025 +0100|ipq40xx: add support for Netgear RBS20
+251d551fa6|Christoph Krapp|Thu Oct 23 09:10:31 2025 +0200|ipq40xx: add support for Netgear RBR20
+14446b3201|Robert Marko|Sat Nov 15 11:23:07 2025 +0100|ipq-wifi: update to Git HEAD (2025-11-15)
+22178914c6|Issam Hamdi|Tue Jul 15 20:10:34 2025 +0200|realtek: dsa: rtl93xx: Configure default QoS prioritization
+d78a2a6597|Sven Eckelmann|Sat Nov 8 08:29:27 2025 +0100|realtek: rtl93xx: Send per port packets on physical port
+993a44b24c|Sven Eckelmann|Sat Nov 8 08:29:27 2025 +0100|realtek: dsa: Add non-primary LAG ports to port matrix
+203b8886bd|Jonas Jelonek|Thu Nov 13 11:25:44 2025 +0000|realtek: pcs: rtl93xx: fix SerDes polarity configuration for RTL931X
+e811e6480a|Daniel Golle|Fri Nov 14 11:44:40 2025 +0000|ath79: fix MAC addresses on MikroTik RB962UiGS-5HacT2HnT
+6df060ba4a|Rany Hany|Fri Nov 14 16:22:08 2025 +0000|wifi-scripts: ucode: create wpa_psk_file and sae_password_file when needed
+27c9b706e7|Álvaro Fernández Rojas|Sat Nov 15 08:17:30 2025 +0100|libubox: update to Git HEAD (2025-11-14)
 </details>
