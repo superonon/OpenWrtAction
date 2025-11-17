@@ -2,48 +2,7 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-501f4edb04|Sven Eckelmann|Wed Nov 5 09:43:36 2025 +0100|realtek: dsa: Clarify statistic port iterator variable
-e20ab65281|Sven Eckelmann|Mon Nov 3 18:19:14 2025 +0100|realtek: dsa: rtl931x: Reduce HW counters polling interval
-e76ed39f3b|Sven Eckelmann|Mon Nov 3 18:19:14 2025 +0100|realtek: dsa: Refresh link_stats in .get_stats64
-bd78eeb53f|Sven Eckelmann|Mon Nov 3 18:19:14 2025 +0100|realtek: dsa: Select counter lock based on sleeping behavior
-3c95a60e33|Harshal Gohel|Wed Aug 13 13:44:12 2025 +0000|realtek: dsa: rtl931x: add ethtool statistics support
-fdc424c1e3|Sharadanand Karanjkar|Thu Aug 14 15:48:14 2025 +0000|realtek: dsa: add table-based statistics infrastructure
-ac6bd8473d|Sharadanand Karanjkar|Wed Aug 13 13:28:32 2025 +0000|realtek: dsa: rework MIB read locking and polling
-38ed1510db|Pawel Dembicki|Wed Nov 12 22:33:24 2025 +0100|mac80211: mwl8k: inject DSSS Parameter Set element into beacons if missing
-787c1106d5|Aleksander Jan Bajkowski|Sun Nov 2 16:11:08 2025 +0100|kernel: backport upstream realtek PHY patches
-35a86267e9|Marcin Leksmark|Wed Nov 12 21:39:56 2025 +0100|ramips: fix support for Cudy r700
-2f184801c3|Tianling Shen|Sat Oct 11 19:31:21 2025 +0800|rockchip: add Radxa ROCK 2A/F support
-b400ef9dbc|Tianling Shen|Wed Oct 29 22:57:02 2025 +0800|uboot-rockchip: add ROCK 2A/2F support
-da08958a30|Tianling Shen|Sat Oct 11 17:04:08 2025 +0800|rockchip: add Radxa E20C support
-9aca1216d1|Tianling Shen|Sat Oct 11 17:04:08 2025 +0800|uboot-rockchip: add Radxa E20C support
-decaf4cc7a|Tianling Shen|Sun Nov 2 17:32:52 2025 +0800|uboot-rockchip: backport updates for RK3528
-bdb269c163|Tianling Shen|Wed Oct 29 21:43:28 2025 +0800|rockchip: unset KERNEL_LOADADDR in default profile
-9483f4459f|Tianling Shen|Sat Oct 11 17:04:07 2025 +0800|rkbin: pack rk3528 atf/tpl blobs
-221e6c845c|Tianling Shen|Sat Oct 11 17:04:07 2025 +0800|rockchip: backport pending driver/dts updates for rk3528
-97b90c5951|Tianling Shen|Sat Oct 11 17:04:07 2025 +0800|rockchip: backport dts updates for rk3528
-c7a26da60d|Tianling Shen|Sat Oct 11 17:04:07 2025 +0800|rockchip: backport driver updates for rk3528
-d7530c1e54|Liangbin Lian|Fri Nov 14 14:06:10 2025 +0800|rockchip: make NIC name predictable for LinkEase EasePi R1
-7ea377ed71|Zhi-Jun You|Thu Nov 13 18:00:17 2025 +0800|wifi-scripts: ucode: fix init value of config.ht_capab under 20MHz
-c4986bf921|John Audia|Thu Nov 13 16:20:19 2025 -0500|intel-microcode: update to 2025111
-4b1c2fb270|Álvaro Fernández Rojas|Sat Nov 15 08:29:52 2025 +0100|odhcp6c: update to Git HEAD (2025-11-14)
-44976dcac4|Sven Eckelmann|Mon Oct 27 17:19:24 2025 +0100|realtek: dsa: Add MSTI to HW MST ID mapping
-6c15c5d5eb|Issam Hamdi|Tue Jul 15 20:22:26 2025 +0200|realtek: dsa: rtl93xx: Support multi spanning tree states
-5e77a81877|Sven Eckelmann|Mon Oct 27 17:19:24 2025 +0100|realtek: dsa: Sync CIST with MSTI state for unbridged ports
-5d36445dc1|Sven Eckelmann|Tue Oct 28 08:55:38 2025 +0100|realtek: dsa: Adjust MSTP states after joining/leaving bridge
-2d14c1008e|Sven Eckelmann|Tue Oct 28 08:55:38 2025 +0100|realtek: dsa: Automatically return lost VLANs to CIST
-280cf19cdb|Sven Eckelmann|Mon Oct 27 15:29:01 2025 +0100|realtek: dsa: Record number of supported MSTs
-9c2e8d6cef|Issam Hamdi|Tue Jul 15 19:41:13 2025 +0200|realtek: dsa: rtl93xx: Implement vlan fast age flushing
-6236291cb4|Issam Hamdi|Fri Dec 20 16:24:53 2024 +0100|realtek: dsa: rtl93xx: Switch to MSTP compatible STP mode
-337557a158|Andy Chiang|Sat Nov 15 20:19:02 2025 +0700|download: use reasonable timeout and retry parameters
-00bb18b851|Roland Reinl|Thu Nov 30 17:16:41 2023 +0100|ipq40xx: Add support for Linksys MR6350
-0db1b11073|Christoph Krapp|Sat Nov 8 22:47:07 2025 +0100|ipq40xx: add support for Netgear RBS20
-251d551fa6|Christoph Krapp|Thu Oct 23 09:10:31 2025 +0200|ipq40xx: add support for Netgear RBR20
-14446b3201|Robert Marko|Sat Nov 15 11:23:07 2025 +0100|ipq-wifi: update to Git HEAD (2025-11-15)
-22178914c6|Issam Hamdi|Tue Jul 15 20:10:34 2025 +0200|realtek: dsa: rtl93xx: Configure default QoS prioritization
-d78a2a6597|Sven Eckelmann|Sat Nov 8 08:29:27 2025 +0100|realtek: rtl93xx: Send per port packets on physical port
-993a44b24c|Sven Eckelmann|Sat Nov 8 08:29:27 2025 +0100|realtek: dsa: Add non-primary LAG ports to port matrix
-203b8886bd|Jonas Jelonek|Thu Nov 13 11:25:44 2025 +0000|realtek: pcs: rtl93xx: fix SerDes polarity configuration for RTL931X
-e811e6480a|Daniel Golle|Fri Nov 14 11:44:40 2025 +0000|ath79: fix MAC addresses on MikroTik RB962UiGS-5HacT2HnT
-6df060ba4a|Rany Hany|Fri Nov 14 16:22:08 2025 +0000|wifi-scripts: ucode: create wpa_psk_file and sae_password_file when needed
-27c9b706e7|Álvaro Fernández Rojas|Sat Nov 15 08:17:30 2025 +0100|libubox: update to Git HEAD (2025-11-14)
+97256a28fe|Andrii Kuiukoff|Tue Oct 14 15:05:37 2025 +0300|ramips: add support for EDUP EP-RT2960S
+59ecc11ccf|Matthias Van Parys|Wed Oct 8 14:42:42 2025 +0200|hostapd: pass global linker options to CLI tools
+8afdc50092|Jonathan Luijsmans|Tue Nov 4 17:01:11 2025 +0100|lua5.3: Add TARGET_LDFLAGS to MYLDFLAGS
 </details>

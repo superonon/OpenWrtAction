@@ -2,5 +2,7 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-fc3bf008bd|Hosted Weblate|Sat Nov 15 11:09:28 2025 +0100|Translated using Weblate (Chinese (Simplified Han script))
+fa319cfe95|Dirk Brenken|Sun Nov 16 19:21:30 2025 +0100|luci-app-adblock: sync with adblock 4.4.3-1
+3034f05d65|Eric Fahlgren|Sat Nov 15 14:08:11 2025 -0800|luci-app-attendedsysupgrade: rework logic in check-for-new-firmware
+67cca0ebf6|Paul Donald|Sun Nov 16 04:04:12 2025 +0100|luci-app-widgets: require the correct widgets file at load time
 </details>

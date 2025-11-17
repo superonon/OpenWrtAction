@@ -1,0 +1,6 @@
+<details> <summary> <b>routing new commit log :new: </b>  </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+0bf1ec3|Christian Marangi|Sun Nov 16 20:27:29 2025 +0100|cjdns: disable error for calloc-transposed-args for GCC14 support
+</details>

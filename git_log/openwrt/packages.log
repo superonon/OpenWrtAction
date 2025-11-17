@@ -2,14 +2,10 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-fa1dd531e|George Sapkin|Sat Nov 15 04:57:17 2025 +0200|mjpg-streamer: add cmake 4.x compatibility
-767073249|Tianling Shen|Sat Nov 15 20:36:42 2025 +0800|czmq: remove absent maintainer
-c5bb72a22|Tianling Shen|Sat Nov 15 17:38:29 2025 +0800|czmq: add cmake 4.x compatibility
-79313818a|Tianling Shen|Sat Nov 15 18:11:59 2025 +0800|zlog: remove absent maintainer
-ecce493e5|Tianling Shen|Sat Nov 15 18:00:03 2025 +0800|zlog: add cmake 4.x compatibility
-8efcd79a6|Tianling Shen|Thu Nov 13 22:11:39 2025 +0800|luv: Update to 1.51.0-1
-13ea3654c|Philip Prindeville|Fri Nov 14 19:27:51 2025 -0700|isc-dhcp: Missing trailing dot on SRV RRs
-98391be84|George Sapkin|Sat Nov 15 04:43:55 2025 +0200|zmq: add cmake 4.x compatibility
-ae8e14e8c|Josef Schlehofer|Fri Nov 14 09:27:31 2025 +0100|msmtp: update to version 1.8.32
-9813aded1|John Audia|Fri Nov 14 19:18:32 2025 -0500|iperf3: update to 3.20
+65c403a54|Dirk Brenken|Sun Nov 16 19:19:39 2025 +0100|adblock: release 4.4.3-1 * support TLDs in feeds and local block-/allowlist, e.g. to block all 'de' domains with a single entry * add active feed domains (of the feed download URLs) automatically to the local allowlist, to prevent download erros * update the feed categories of 1hosts * update and change the feed categories of hagezi: new categories are 'abusetlds',  'social', 'urlshortener' and   'nrd' (newly registered domains). The latter one required download URL changes.   Please note: if you use hagezi than remove and re-add the categories in LuCI feed selection after the updae * Add an external adblock test (https://adblock.turtlecute.org/) on the DNS reporting tab, itprovides a simple   way to check whether your current adblock setup is working as expected * readme update
+2fa5ae764|Tianling Shen|Mon Nov 17 01:03:37 2025 +0800|yq: Update to 4.48.2
+0c908eed8|Alexandru Ardelean|Sat Nov 15 22:25:53 2025 +0200|python-hatch-vcs: upgrade to version 0.5.0
+085c2eb58|Alexandru Ardelean|Fri Nov 14 18:45:50 2025 +0200|python-greenlet: upgrade to version 3.2.4
+33d013e51|Alexandru Ardelean|Fri Nov 14 18:41:03 2025 +0200|python-markdown: upgrade to version 3.10
+e3024cc5b|Alexandru Ardelean|Fri Nov 14 12:35:11 2025 +0200|python-eventlet: bump to version 0.40.3
 </details>
