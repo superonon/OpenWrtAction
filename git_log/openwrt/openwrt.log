@@ -2,7 +2,17 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-97256a28fe|Andrii Kuiukoff|Tue Oct 14 15:05:37 2025 +0300|ramips: add support for EDUP EP-RT2960S
-59ecc11ccf|Matthias Van Parys|Wed Oct 8 14:42:42 2025 +0200|hostapd: pass global linker options to CLI tools
-8afdc50092|Jonathan Luijsmans|Tue Nov 4 17:01:11 2025 +0100|lua5.3: Add TARGET_LDFLAGS to MYLDFLAGS
+9d2882f3c0|Stefan Kalscheuer|Thu Sep 25 14:47:32 2025 +0200|bcm4908: add 6.12 testing kernel
+705f7adb34|Stefan Kalscheuer|Thu Sep 25 14:47:12 2025 +0200|bcm4908: 6.12: refresh kernel config
+aec7153f14|Stefan Kalscheuer|Thu Sep 25 14:43:36 2025 +0200|bcm4908: 6.12: refresh patches
+8a8fb241f7|Stefan Kalscheuer|Tue Nov 4 19:57:17 2025 +0100|kernel/bcm4908: Restore kernel files for v6.6
+8967a34385|Stefan Kalscheuer|Tue Nov 4 19:57:17 2025 +0100|kernel/bcm4908: Create kernel files for v6.12 (from v6.6)
+08c8beec8c|Kyle Hendry|Sat Aug 2 15:42:44 2025 -0700|bcm47xx: 6:12: refresh patches
+e61b1523bb|Kyle Hendry|Sat Aug 2 15:12:33 2025 -0700|bcm47xx: enable 6.12 testing kernel
+602f12d053|Kyle Hendry|Sat Aug 2 14:52:28 2025 -0700|kernel/bcm47xx: Restore kernel files for v6.6
+389653947c|Kyle Hendry|Sat Aug 2 14:52:28 2025 -0700|kernel/bcm47xx: Create kernel files for v6.12 (from v6.6)
+2cce634a9e|Shiji Yang|Sun Oct 26 17:30:29 2025 +0800|ramips: disable build TP-Link EAP235-Wall
+e2d823d068|Shiji Yang|Thu Oct 23 08:56:47 2025 +0800|ramips: fix LZMA decompression error for TP-Link EAP615-Wall
+583e401abb|Shiji Yang|Thu Oct 23 09:56:16 2025 +0800|ramips: enable LZMA loader for ZIO FREEZIO
+acdf8a6291|Álvaro Fernández Rojas|Sat Nov 15 08:25:32 2025 +0100|odhcpd: update to Git HEAD (2025-11-14)
 </details>
