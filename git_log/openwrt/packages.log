@@ -2,10 +2,11 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-e53d613de|Til Kaiser|Mon Nov 17 13:43:43 2025 +0100|mstflint: update to 4.34.0-2
-6dc9500bc|Niklas Thorild|Mon Nov 17 18:30:49 2025 +0100|telegraf: update to 1.36.4
-1cf22809e|Martin Kennedy|Sun Nov 16 19:34:19 2025 -0500|realtek-poe: increase version to v1.3.1
-312b66a4b|Alexandru Ardelean|Mon Nov 17 08:55:37 2025 +0200|python-pynacl: fix typo in PKG_BUILD_DEPENDS
-7eebedcdf|Alexandru Ardelean|Sun Nov 16 12:02:03 2025 +0200|lua: move Lua packages under lang/lua sub-folder
-1545e6510|Eric Fahlgren|Sun Nov 16 20:15:55 2025 -0800|owut: update to 2025.11.16
+645e534de|Christian Marangi|Tue Nov 18 14:34:30 2025 +0100|oqs-provider: fix recursive dependency
+70802c9b8|Christian Marangi|Tue Nov 18 13:51:37 2025 +0100|telldus-core: fix support for CMake >= 4.0 and move to libftdi1
+e3fc64111|Eneas U de Queiroz|Thu Nov 13 18:08:06 2025 -0300|oqs-provider: add CI test
+a0ddc9055|Christian Marangi|Tue Nov 11 23:53:50 2025 +0100|oqs-provider: add quantum-safe cryptography (QSC) provider
+4cf68081d|Christian Marangi|Tue Nov 11 23:52:23 2025 +0100|liboqs: Add library for quantum-safe cryptographic algorithms
+077036010|Vladimir Ermakov|Sun Nov 16 18:26:09 2025 +0100|go2rtc: update to 1.9.12
+0c79e46f4|Jianhui Zhao|Tue Nov 18 10:06:19 2025 +0800|lua-eco: update to 3.14.0
 </details>

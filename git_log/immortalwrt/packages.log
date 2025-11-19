@@ -2,21 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-65df5109b|Tianling Shen|Mon Nov 17 20:26:52 2025 +0800|RPi.GPIO: fix wheel name
-10b34242d|Tianling Shen|Mon Nov 17 18:58:54 2025 +0800|node: move Node.js packages under lang/node sub-folder
-383b517a1|Tianling Shen|Mon Nov 17 18:57:30 2025 +0800|Merge Official Source
-898cba196|Tianling Shen|Mon Nov 17 18:56:19 2025 +0800|RPi.GPIO: add python-setuptools/host as build dependency
-1cf22809e|Martin Kennedy|Sun Nov 16 19:34:19 2025 -0500|realtek-poe: increase version to v1.3.1
-312b66a4b|Alexandru Ardelean|Mon Nov 17 08:55:37 2025 +0200|python-pynacl: fix typo in PKG_BUILD_DEPENDS
-7eebedcdf|Alexandru Ardelean|Sun Nov 16 12:02:03 2025 +0200|lua: move Lua packages under lang/lua sub-folder
-7ca18e3a7|Tianling Shen|Mon Nov 17 14:17:05 2025 +0800|libharu: Update to 2.4.5
-9c56b776c|Tianling Shen|Mon Nov 17 14:08:29 2025 +0800|subconverter: add cmake 4.x compatibility
-7514d14cc|Tianling Shen|Mon Nov 17 14:00:51 2025 +0800|libdouble-conversion: Update to 3.3.1
-1545e6510|Eric Fahlgren|Sun Nov 16 20:15:55 2025 -0800|owut: update to 2025.11.16
-65c403a54|Dirk Brenken|Sun Nov 16 19:19:39 2025 +0100|adblock: release 4.4.3-1 * support TLDs in feeds and local block-/allowlist, e.g. to block all 'de' domains with a single entry * add active feed domains (of the feed download URLs) automatically to the local allowlist, to prevent download erros * update the feed categories of 1hosts * update and change the feed categories of hagezi: new categories are 'abusetlds',  'social', 'urlshortener' and   'nrd' (newly registered domains). The latter one required download URL changes.   Please note: if you use hagezi than remove and re-add the categories in LuCI feed selection after the updae * Add an external adblock test (https://adblock.turtlecute.org/) on the DNS reporting tab, itprovides a simple   way to check whether your current adblock setup is working as expected * readme update
-2fa5ae764|Tianling Shen|Mon Nov 17 01:03:37 2025 +0800|yq: Update to 4.48.2
-0c908eed8|Alexandru Ardelean|Sat Nov 15 22:25:53 2025 +0200|python-hatch-vcs: upgrade to version 0.5.0
-085c2eb58|Alexandru Ardelean|Fri Nov 14 18:45:50 2025 +0200|python-greenlet: upgrade to version 3.2.4
-33d013e51|Alexandru Ardelean|Fri Nov 14 18:41:03 2025 +0200|python-markdown: upgrade to version 3.10
-e3024cc5b|Alexandru Ardelean|Fri Nov 14 12:35:11 2025 +0200|python-eventlet: bump to version 0.40.3
+dbc70f69b|Milinda Brantini|Tue Nov 18 12:12:35 2025 +0800|q: Update to 0.19.11
 </details>
