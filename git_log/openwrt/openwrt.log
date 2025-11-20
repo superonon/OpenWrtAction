@@ -2,41 +2,19 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-a2a78c04f8|Hauke Mehrtens|Thu Nov 6 23:08:04 2025 +0100|build: Add support for linking with DT_RELR
-08997df475|Hauke Mehrtens|Sun Nov 16 23:35:44 2025 +0100|lua: Forward LDFLAGS
-18cad16f5b|Hauke Mehrtens|Sun Nov 16 23:25:19 2025 +0100|wireless-tools: Forward LDFLAGS
-51ab518bf9|Hauke Mehrtens|Sun Nov 16 23:14:35 2025 +0100|zyxel-bootconfig: Forward LDFLAGS
-ef2c544f04|Hauke Mehrtens|Sun Nov 16 23:13:44 2025 +0100|bzip2: Forward LDFLAGS
-2fc6a143a7|Hauke Mehrtens|Sun Nov 16 23:12:50 2025 +0100|resolveip: Forward LDFLAGS
-f95fd36a2e|Hauke Mehrtens|Sun Nov 16 23:12:11 2025 +0100|comgt: Forward LDFLAGS
-f5fade5fbf|Hauke Mehrtens|Sun Nov 16 23:11:06 2025 +0100|ead: Forward LDFLAGS
-4afaacdd7f|David Bauer|Wed Nov 12 19:51:13 2025 +0100|mpc85xx: relocate AP3825i simpleImage loader
-d91d4b0a74|David Bauer|Tue Nov 18 21:41:13 2025 +0100|mpc85xx: drop Kernel 6.6
-80ba925d02|David Bauer|Sun Sep 28 17:10:01 2025 +0200|mediatek: add uqmi to RUTC50 default packages
-68f0988205|David Senoner|Tue May 20 17:07:19 2025 +0200|ramips: Add support for TP-Link Archer A5 v6 (EU)
-e867131a20|Nick Hainke|Thu May 1 18:14:10 2025 +0200|qoriq: enable 6.12 testing kernel
-0853ffc7f1|Nick Hainke|Thu May 1 18:18:20 2025 +0200|qoriq: refresh 6.12 kernel config files
-0f198be3bf|Nick Hainke|Thu May 1 16:30:39 2025 +0200|kernel/qoriq: Restore kernel files for v6.6
-21fcb093a6|Nick Hainke|Thu May 1 16:30:39 2025 +0200|kernel/qoriq: Create kernel files for v6.12 (from v6.6)
-0ccb7c9100|Tianling Shen|Fri Nov 14 18:37:40 2025 +0800|rockchip: backport eMMC CQE support
-5d85657f6d|Eric Fahlgren|Sat Nov 15 08:32:00 2025 -0800|apk-tools: implement compression of on-device scripts.tar
-dc420acc77|Rosen Penev|Tue Jul 15 15:44:25 2025 -0700|apm821xx: fix pcie node numbers
-66a7e04e9e|Rosen Penev|Wed Sep 11 15:44:30 2024 -0700|apm821xx: rename pciex to pcie
-e5ad92c588|Christian Marangi|Tue Nov 18 13:07:59 2025 +0100|kernel: mtdsplit: rework and make use of -ENOENT error
-1db7ed390d|Christian Marangi|Tue Nov 18 12:53:24 2025 +0100|Revert "kernel: mtdsplit_fit: always return 0 when partition can't be split"
-39aa7c77f9|Christian Marangi|Tue Nov 18 12:51:58 2025 +0100|airoha: refresh kernel patches
-b7aa0aa9bf|Christian Marangi|Tue Nov 18 12:50:50 2025 +0100|airoha: backport patch fixing offload support with GDM2 present
-bcae238390|Stefan Kalscheuer|Thu Sep 25 13:45:11 2025 +0200|bcm53xx: add 6.12 testing kernel
-9fc6c0317e|Stefan Kalscheuer|Thu Sep 25 13:44:50 2025 +0200|bcm53xx: 6.12: refresh kernel config
-ce058f2c7b|Stefan Kalscheuer|Thu Sep 25 13:43:09 2025 +0200|bcm53xx: 6.12: refresh patches
-9e3c242992|Stefan Kalscheuer|Sun Nov 9 13:30:51 2025 +0100|kernel/bcm53xx: Restore kernel files for v6.6
-fc6cdb7ba1|Stefan Kalscheuer|Sun Nov 9 13:30:51 2025 +0100|kernel/bcm53xx: Create kernel files for v6.12 (from v6.6)
-2434ad8b08|Christian Marangi|Mon Nov 17 21:40:52 2025 +0100|generic: 6.12: backport fix for mtd parser error handling
-23f9fa72b2|Stefan Kalscheuer|Thu Sep 25 12:52:19 2025 +0200|zynq: add 6.12 testing kernel
-ef25e165cf|Stefan Kalscheuer|Thu Sep 25 12:51:40 2025 +0200|zynq: 6.12: refresh kernel config
-ef49247b54|Stefan Kalscheuer|Thu Sep 25 10:20:36 2025 +0200|kernel/zynq: Restore kernel files for v6.6
-c55173ac54|Stefan Kalscheuer|Thu Sep 25 10:20:36 2025 +0200|kernel/zynq: Create kernel files for v6.12 (from v6.6)
-28a710885e|Lorenzo Bianconi|Fri Oct 24 14:44:03 2025 +0200|airoha: backport kernel part of WiFi MT76 offload patch
-1c3b32c45a|Daniel Golle|Tue Nov 18 11:17:39 2025 +0000|mediatek: fix uart clocks in MT7987 infracfg clock driver
-93cfbc7d1f|Andy Chiang|Sat Nov 15 18:49:19 2025 +0700|mediatek: add support for EROFS
+e73c4a72f4|Zhu Yujie|Wed Nov 19 16:46:07 2025 +0800|siflower: add support for Linux 6.12
+fc53b04160|Zhu Yujie|Wed Nov 19 19:46:32 2025 +0800|siflower: 6.12: change .remove_new callback to .remove
+25c6c2678e|Zhu Yujie|Wed Nov 19 17:09:52 2025 +0800|siflower: 6.12: apply trivial driver fixes
+c5e8ee681b|Zhu Yujie|Wed Nov 19 16:48:11 2025 +0800|siflower: sf21: update config-6.12
+31cb99491e|Zhu Yujie|Fri Nov 14 15:19:13 2025 +0800|siflower: spi: replace 'master' with 'controller' in driver
+5866f9b024|Zhu Yujie|Fri Nov 14 15:15:44 2025 +0800|siflower: 6.12: refresh patches
+11565a298e|Zhu Yujie|Fri Nov 14 14:57:36 2025 +0800|siflower: 6.12: drop upstreamed patches
+dc9436728a|Zhu Yujie|Sun Jul 27 03:05:33 2025 +0000|kernel/siflower: Restore kernel files for v6.6
+e67017d489|Zhu Yujie|Sun Jul 27 03:05:33 2025 +0000|kernel/siflower: Create kernel files for v6.12 (from v6.6)
+a7790ce410|Rany Hany|Sat Nov 15 20:25:59 2025 +0000|wifi-scripts: bump reassociation_deadline default to 20000
+b947064db4|Rany Hany|Sun Nov 16 21:04:54 2025 +0000|wifi-scripts: allow rssi_reject_assoc_timeout to be configured
+f4ff823435|Robert Marko|Wed Nov 19 13:46:29 2025 +0100|include: rootfs: fix APK compressed scripts tarball support
+9359fc9376|Andy Chiang|Sun Nov 16 13:05:39 2025 +0700|tools: erofs-utils: update to 1.8.10
+79d418eed8|Lorenzo Bianconi|Sun Nov 16 15:17:32 2025 +0100|mt76: Enable NPU support for Airoha AN7581 SoC
+00a166d065|Christian Marangi|Wed Nov 19 11:25:23 2025 +0100|siflower: switch to .remove_new for downstream driver
 </details>

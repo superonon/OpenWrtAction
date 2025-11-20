@@ -2,11 +2,8 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-645e534de|Christian Marangi|Tue Nov 18 14:34:30 2025 +0100|oqs-provider: fix recursive dependency
-70802c9b8|Christian Marangi|Tue Nov 18 13:51:37 2025 +0100|telldus-core: fix support for CMake >= 4.0 and move to libftdi1
-e3fc64111|Eneas U de Queiroz|Thu Nov 13 18:08:06 2025 -0300|oqs-provider: add CI test
-a0ddc9055|Christian Marangi|Tue Nov 11 23:53:50 2025 +0100|oqs-provider: add quantum-safe cryptography (QSC) provider
-4cf68081d|Christian Marangi|Tue Nov 11 23:52:23 2025 +0100|liboqs: Add library for quantum-safe cryptographic algorithms
-077036010|Vladimir Ermakov|Sun Nov 16 18:26:09 2025 +0100|go2rtc: update to 1.9.12
-0c79e46f4|Jianhui Zhao|Tue Nov 18 10:06:19 2025 +0800|lua-eco: update to 3.14.0
+b3daeff0b|Stijn Tintel|Tue Nov 18 17:17:03 2025 +0200|vallumd: backport upstream patch to fix buildbot
+eb7a8acba|Rudy Andram|Tue Nov 18 14:54:11 2025 +0000|i2c-tools: fix Backend 'setuptools.build_meta:__legacy__'
+a7381fa91|Christian Marangi|Tue Nov 18 13:43:57 2025 +0100|libftdi: drop package
+b1d8defe8|Jan Hák|Tue Nov 18 12:57:44 2025 +0100|liburcu: update to version 0.15.5
 </details>
