@@ -1,0 +1,49 @@
+<details> <summary> <b>immortalwrt new commit log :new: </b>  </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+7faf147e7a|Tianling Shen|Fri Nov 21 18:24:19 2025 +0800|Merge Official Source
+7f5c7b8626|Janusz Dziedzic|Mon Nov 17 11:42:30 2025 +0000|mac80211: fix netns crash
+de0b9b6252|Myoung Ha, Ji|Wed Oct 29 16:29:48 2025 +0900|ramips: add support for ipTIME AX2002MESH
+2462b36f0c|Jahidul Islam|Thu Nov 13 00:32:31 2025 +0600|mediatek: add support for Imou HX21
+2f17e44c69|Radek Dostál|Sun Nov 9 18:38:15 2025 +0100|ath79: re-enable build of TP-Link RE355 v1, RE450 v1 and RE450 v2
+e768731dc8|Radek Dostál|Sun Nov 9 18:31:47 2025 +0100|ath79: switch TP-Link RE355 v1, RE450 v1 and RE450 v2 to mtd-concat
+a03bd9d9a8|Radek Dostál|Sun Nov 9 17:35:51 2025 +0100|ath79: reduce config partition size for RE450 v1 and RE355 v1 to 0x20000
+485f9b0d31|Marcin Leksmark|Thu Sep 11 16:40:20 2025 +0200|ramips: add support for D-Link DIR-2660 A2
+f9eaa1cf1f|Christian Marangi|Thu Nov 20 23:41:30 2025 +0100|kernel: mtdsplit_minor: use -ENOENT instead of -ENODEV
+91a9fb7460|Christian Marangi|Thu Nov 20 23:40:00 2025 +0100|Revert "kernel: mtdsplit_minor: return 0 if not fatal"
+d21262edcf|Christian Marangi|Thu Nov 20 23:30:32 2025 +0100|kernel: mtdsplit_uimage: use -ENOENT instead of -ENODEV
+8e6c6928da|Christian Marangi|Thu Nov 20 23:28:44 2025 +0100|Revert "kernel: mtdsplit_uimage: return 0 if not fatal"
+2acf18bf4d|Christian Marangi|Thu Nov 20 23:24:01 2025 +0100|kernel: mtdsplit_h3c_vfs: use -ENOENT instead of -ENODEV
+728ca2bc39|Christian Marangi|Thu Nov 20 23:22:30 2025 +0100|Revert "kernel: mtdsplit_h3c_vfs: return 0 for non-fatal errors"
+e9ae6b19f0|Christian Marangi|Thu Nov 20 23:19:24 2025 +0100|kernel: generic: mtdsplit_seil: use -ENOENT instead of -ENODEV
+730b3872fe|Christian Marangi|Thu Nov 20 23:18:08 2025 +0100|Revert "kernel: generic: mtdsplit_seil: return 0 instead of -ENODEV"
+d2fa070f70|Tianling Shen|Thu Nov 13 21:41:30 2025 +0800|mediatek: fix ubi size for zbtlink zbt z8102ax v2
+2cc8d3e382|James Davis|Thu Nov 13 08:51:49 2025 -0700|mediatek: add Zyxel NWA90AX PRO model identifier
+05a597efd6|Donghyun Ko|Thu Nov 13 05:02:47 2025 +0900|mediatek: add support for ipTIME AX3000SE
+b8742b1ae0|Mikhail Kshevetskiy|Mon Oct 13 07:43:31 2025 +0300|uboot-airoha: update to v2025.10
+6e3867e5b1|Mikhail Kshevetskiy|Sun Oct 12 15:00:13 2025 +0300|airoha: spi: update en7523 airoha snfi patches & dts
+a19ccd9d15|Ziyang Huang|Sun Oct 19 20:26:32 2025 +0800|airoha: an7581: enable NPU by default
+c7d6692bd8|Balázs Triszka|Wed Nov 12 00:00:27 2025 +0100|airoha: fix PHY_DETACH_NO_HW_RESET patch panic
+69f0ee5baf|Chukun Pan|Wed Nov 12 23:18:09 2025 +0800|airoha: backport and fix pinctrl driver
+db51030324|Chukun Pan|Mon Nov 3 23:01:28 2025 +0800|airoha: reorder I2C and UART patches
+e6a5ca0da7|Liangbin Lian|Thu Nov 13 15:26:03 2025 +0800|rockchip: LinkEase EasePi R1 use dedicated uboot
+5dff7b45d3|Liangbin Lian|Thu Nov 13 15:17:57 2025 +0800|uboot-rockchip: add dedicated uboot for LinkEase EasePi R1
+738876e76b|gongzi miao|Fri Nov 14 12:27:56 2025 +0800|kernel: bump 6.12 to 6.12.58
+e62ff2eb2b|Nick Hainke|Thu Nov 20 07:56:46 2025 +0100|toolchain: nasm: update to 3.01
+9b7ffed9eb|Konstantin Demin|Thu Sep 4 15:36:56 2025 +0300|base-files: allow to skip unwanted scripts
+eb71d10009|Konstantin Demin|Thu Sep 4 15:36:56 2025 +0300|base-files: split /etc/profile
+f7d6e73d59|Andy Chiang|Thu Nov 20 17:24:45 2025 +0700|kernel: fix build of kmod-udptunnel4 and kmod-udptunnel6
+075ec5501a|Nick Hainke|Thu Nov 20 08:06:40 2025 +0100|tools/ccache: update to 4.12.1
+15fb19cdb3|Álvaro Fernández Rojas|Thu Nov 20 10:26:07 2025 +0100|mpc85xx: refresh kernel patch
+e73c4a72f4|Zhu Yujie|Wed Nov 19 16:46:07 2025 +0800|siflower: add support for Linux 6.12
+fc53b04160|Zhu Yujie|Wed Nov 19 19:46:32 2025 +0800|siflower: 6.12: change .remove_new callback to .remove
+25c6c2678e|Zhu Yujie|Wed Nov 19 17:09:52 2025 +0800|siflower: 6.12: apply trivial driver fixes
+c5e8ee681b|Zhu Yujie|Wed Nov 19 16:48:11 2025 +0800|siflower: sf21: update config-6.12
+31cb99491e|Zhu Yujie|Fri Nov 14 15:19:13 2025 +0800|siflower: spi: replace 'master' with 'controller' in driver
+5866f9b024|Zhu Yujie|Fri Nov 14 15:15:44 2025 +0800|siflower: 6.12: refresh patches
+11565a298e|Zhu Yujie|Fri Nov 14 14:57:36 2025 +0800|siflower: 6.12: drop upstreamed patches
+dc9436728a|Zhu Yujie|Sun Jul 27 03:05:33 2025 +0000|kernel/siflower: Restore kernel files for v6.6
+e67017d489|Zhu Yujie|Sun Jul 27 03:05:33 2025 +0000|kernel/siflower: Create kernel files for v6.12 (from v6.6)
+a7790ce410|Rany Hany|Sat Nov 15 20:25:59 2025 +0000|wifi-scripts: bump reassociation_deadline default to 20000
+</details>

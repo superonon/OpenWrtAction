@@ -2,6 +2,11 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-ba6b05dce3|Hosted Weblate|Thu Nov 20 21:23:23 2025 +0100|Translated using Weblate (Hebrew)
-fdac3c0100|Andy Chiang|Thu Nov 20 16:03:28 2025 +0700|luci-mod-system: add translation string for language
+fa2945a2e2|Dirk Brenken|Fri Nov 21 21:55:05 2025 +0100|luci-app-adblock: remove obsolete ACLs
+7d348dd14f|Dirk Brenken|Fri Nov 21 19:05:22 2025 +0100|luci-app-adblock: sync with adblock 4.4.4-1
+67919b296f|Florian Eckert|Fri Nov 21 13:56:51 2025 +0100|Merge pull request #8092 from eamonxg/feature_es6
+0096cef2b3|Eamon Xiong|Mon Nov 17 20:51:47 2025 +0800|luci-theme-openwrt-2020: use arrow function
+8df4e465a3|Eamon Xiong|Mon Nov 17 20:50:51 2025 +0800|luci-theme-openwrt: use arrow function
+53548203fd|Eamon Xiong|Mon Nov 17 20:49:32 2025 +0800|luci-theme-material: use arrow function
+8a8e4d53a7|Eamon Xiong|Mon Nov 17 20:39:15 2025 +0800|luci-theme-bootstrap: use ES6 syntax
 </details>

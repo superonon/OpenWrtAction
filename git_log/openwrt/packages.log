@@ -2,9 +2,11 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-9d17d2ec4|Jakov Smolić|Thu Nov 20 00:15:05 2025 +0100|libnetconf2: Remove myself from maintainers
-98f7f35c3|Jakov Smolić|Thu Nov 20 00:14:34 2025 +0100|libyang: Remove myself from maintainers
-726ef9070|Jakov Smolić|Thu Nov 20 00:14:10 2025 +0100|netopeer2: Remove myself from maintainers
-ef4e5299f|Jakov Smolić|Thu Nov 20 00:13:07 2025 +0100|sysrepo: Remove myself from maintainers
-24f2c18c9|Christian Marangi|Thu Nov 20 17:02:28 2025 +0100|libtiff: add HostBuild define
+b5bc74273|Christian Marangi|Fri Nov 21 20:55:10 2025 +0100|quectel-timesync: update to Git HEAD (2025-11-19)
+2ec48cb02|Dirk Brenken|Fri Nov 21 19:00:06 2025 +0100|adblock: release 4.4.4-1
+d97294e7a|Rosen Penev|Thu Nov 20 20:04:12 2025 -0800|liblo: update to 0.34
+bdadcb58c|Maxim Storchak|Tue Nov 18 13:12:48 2025 +0200|tgt: update to 1.0.97
+3f43dfdb9|Rosen Penev|Thu Nov 20 20:10:55 2025 -0800|spawn-fcgi: update to 1.6.6
+e8eabdd77|Tianling Shen|Mon Nov 17 20:54:43 2025 +0800|libmraa: add Python 3.13 compatibility
+d65d9620b|Tianling Shen|Mon Nov 17 20:01:27 2025 +0800|libmraa: add cmake 4.x compatibility
 </details>

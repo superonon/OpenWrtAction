@@ -1,0 +1,18 @@
+<details> <summary> <b>luci new commit log :new: </b>  </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+534452526b|Tianling Shen|Fri Nov 21 18:47:46 2025 +0800|Merge Official Source
+ba6b05dce3|Hosted Weblate|Thu Nov 20 21:23:23 2025 +0100|Translated using Weblate (Hebrew)
+fdac3c0100|Andy Chiang|Thu Nov 20 16:03:28 2025 +0700|luci-mod-system: add translation string for language
+6cb0bebf5f|David Härdeman|Sun Nov 9 11:36:03 2025 +0100|luci-mod-status: improve detection of static cfg
+4a651d591b|David Härdeman|Mon Nov 17 19:07:59 2025 +0100|luci-mod-status: optional MAC for static lease
+a345e036c1|David Härdeman|Sun Nov 9 10:16:02 2025 +0100|luci-mod-status: store static DHCPv6 lease DUID as list
+2a2f2d4dbd|Marko Zajc|Wed Sep 24 17:44:35 2025 +0200|luci-mod-network: Add flag for address_as_local
+91b3950112|Stan Grishin|Tue Aug 12 20:34:25 2025 +0000|luci-base: remove reset button from sysauth
+fa319cfe95|Dirk Brenken|Sun Nov 16 19:21:30 2025 +0100|luci-app-adblock: sync with adblock 4.4.3-1
+3034f05d65|Eric Fahlgren|Sat Nov 15 14:08:11 2025 -0800|luci-app-attendedsysupgrade: rework logic in check-for-new-firmware
+67cca0ebf6|Paul Donald|Sun Nov 16 04:04:12 2025 +0100|luci-app-widgets: require the correct widgets file at load time
+fc3bf008bd|Hosted Weblate|Sat Nov 15 11:09:28 2025 +0100|Translated using Weblate (Chinese (Simplified Han script))
+d36c0f4f0b|Dirk Brenken|Fri Nov 14 22:03:43 2025 +0100|luci-app-travelmate: sync with travelmate update 2.2.1-6
+</details>
