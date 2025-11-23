@@ -2,7 +2,12 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-5df3464|Christian Marangi|Fri Nov 21 20:39:46 2025 +0100|freeswitch: fix various compilation error
-92e14ad|Christian Marangi|Fri Nov 21 16:02:24 2025 +0100|rtpproxy: add missing dependency for libsrtp2
-f4c73b0|Christian Marangi|Fri Nov 21 15:44:10 2025 +0100|rtpengine: add patch fixing compilation error for pthread tid
+6e2a8b3|Christian Marangi|Sat Nov 22 19:44:29 2025 +0100|freeswitch: add missing depoendency for conference module
+efee987|Christian Marangi|Sat Nov 22 19:43:56 2025 +0100|freeswitch: backport patch fixing compilation error for perl module
+cb6a45e|Daniel Golle|Mon Jun 23 02:01:32 2025 +0100|asterisk: update to version 20.14.1
+8d03e61|Fabrice Fontaine|Wed Sep 17 10:19:35 2025 +0200|net/sngrep: assign PKG_CPE_ID
+bfbf9a4|Fabrice Fontaine|Wed Sep 17 10:16:23 2025 +0200|net/rtpproxy: assign PKG_CPE_ID
+9eaacb4|Fabrice Fontaine|Wed Sep 17 10:12:07 2025 +0200|net/kamailio: assign PKG_CPE_ID
+7b5be1c|Fabrice Fontaine|Wed Sep 17 10:05:38 2025 +0200|libs/sofia-sip: assign PKG_CPE_ID
+74b71c2|Fabrice Fontaine|Wed Sep 17 09:55:46 2025 +0200|libs/libsrtp: assign PKG_CPE_ID
 </details>
