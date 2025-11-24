@@ -2,15 +2,20 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-fc902d689|Christian Marangi|Sat Nov 22 21:53:47 2025 +0100|bluld: add patch fixing CMake >= 4.0 support
-aeec6c6ce|Christian Marangi|Sat Nov 22 11:48:44 2025 +0100|privoxy: bump to version 4.0.0
-0d384d4b8|George Sapkin|Thu Nov 20 15:51:23 2025 +0200|sqlite3: don't install ABI-less library
-7ff8ef148|George Sapkin|Thu Nov 20 16:36:51 2025 +0200|sqlite3: set correct SPDX license identifiers
-91d21b4ea|Yanase Yuki|Sat Nov 22 20:07:48 2025 +0900|libgabe: remove package
-f24b634ea|Yanase Yuki|Sat Nov 22 19:58:42 2025 +0900|gnunet-reclaim: drop libgabe and libpbc
-c888beafb|Alexandru Ardelean|Fri Nov 21 12:55:49 2025 +0200|python-sqlalchemy: bump to version 2.0.44
-9218d6ee4|Josef Schlehofer|Sun Nov 2 17:40:03 2025 +0100|python-zope-event: update to version 6.1
-ff71f6449|Andrew Yong|Sat Nov 8 01:38:07 2025 +0800|nanomq: add new package
-3a204f515|Toni Uhlig|Wed Nov 19 20:06:28 2025 +0100|libndpi: update to version 5.0
-fd9aad288|Christian Lachner|Fri Nov 21 08:17:12 2025 +0100|haproxy: update to v3.2.9
+1e1cc2d13|Christian Marangi|Sun Nov 23 23:47:47 2025 +0100|lzmq: add patch for CMake >= 4.0 support
+b39eb4ca4|Andy Chiang|Mon Nov 24 01:31:59 2025 +0700|python-sqlalchemy: fix typo
+7b0f7cf70|Christian Marangi|Sun Nov 23 15:16:25 2025 +0100|lualanes: bump to version 3.17.2 and backport CMake >= 4.0 support
+1175938e3|Christian Marangi|Sun Nov 23 14:58:05 2025 +0100|libuwsc: add patch for CMake >= 4.0 support
+e78f4c6fe|Christian Marangi|Sun Nov 23 14:45:48 2025 +0100|libupm: add pending patch for CMake >= 4.0 support
+7787b51c2|Christian Marangi|Sun Nov 23 14:02:50 2025 +0100|libroxml: add pending patch for CMake >= 4.0 support
+3daa877dd|Christian Marangi|Sun Nov 23 12:47:50 2025 +0100|libndpi: fix wrong hash and drop PCRE2 patch
+424395d1b|Christian Marangi|Sun Nov 23 12:36:29 2025 +0100|gammu: add patch fixing CMake >= 4.0 support
+0e02dced1|Carsten Schuette|Sun Aug 24 15:29:10 2025 +0200|btrfs-progs: Add no-mold to build flags
+58fdabe4c|Marcin Maj|Fri Nov 14 01:25:29 2025 +0100|mc: update to 4.8.33
+e58ea6de4|Biao Zhu|Sun Nov 23 12:23:29 2025 +0800|fluent-bit: update to 4.2.0
+9ea17111f|Yanase Yuki|Sat Nov 22 20:19:28 2025 +0900|libyubikey: remove package
+6552ecbef|Yanase Yuki|Sat Nov 22 20:15:50 2025 +0900|ykpers: remove packages
+63637c3a4|Yanase Yuki|Sat Nov 22 20:12:57 2025 +0900|yubico-pam: remove package
+f34ff524b|Christian Marangi|Sat Nov 22 20:00:58 2025 +0100|apfree-wifidog: backport patch fixing CMake >= 4.0 support
+405bac066|Christian Marangi|Sat Nov 22 21:41:11 2025 +0100|augeas: add pending patch fixing compilation error
 </details>
