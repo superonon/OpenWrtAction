@@ -2,26 +2,49 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-6c3eea4cfe|Aleksander Jan Bajkowski|Sun Jul 27 19:19:42 2025 +0200|mediatek: filogic: increase flash speed on ASUS TUF AX6000
-fccf75eb03|Jan Hoffmann|Thu Nov 20 18:24:44 2025 +0100|mediatek: filogic: add factory image for Asus TUF-AX4200
-05cddcd12a|Mikhail Zhilkin|Sat Nov 22 19:18:36 2025 +0300|kernel: add support for Fudan Micro FM25S01BI3 SPI-NAND
-40fc91be6e|Mikhail Zhilkin|Sat Nov 22 19:05:52 2025 +0300|kernel: fix QE bit for Fudan Micro FM25S01A SPI-NAND
-46ab9f3f1c|Jascha Sundaresan|Thu Sep 18 22:32:41 2025 +0400|filogic: add support for Netgear EAX17
-1748ce8295|Qing W.|Sun Nov 23 01:03:37 2025 -0500|mediatek: add support for WAVLINK WL-WN536AX6 Rev a
-9bdf723476|Nick Hainke|Sun Nov 23 12:18:13 2025 +0100|libunistring: update to 1.4.1
-86003e0b79|Nick Hainke|Sun Nov 23 12:15:26 2025 +0100|jansson: update to 2.14.1
-d74dce45ef|Nick Hainke|Sun Nov 23 12:05:53 2025 +0100|mpfr: update to 4.2.2
-b6c274bf0f|Nick Hainke|Sun Nov 23 11:57:39 2025 +0100|nettle: update to 3.10.2
-c476870174|Nick Hainke|Sun Nov 23 12:01:56 2025 +0100|libusb: update to 1.0.29
-2c667f2df4|Donghyun Ko|Sun Nov 23 19:01:21 2025 +0900|mediatek: use dt-bindings drive strength macros for ipTIME AX7800M-6E
-6e094232db|Sven Eckelmann|Sun Nov 23 11:29:11 2025 +0100|realtek: Cleanup tab vs spaces for indentation
-223cc6e1aa|Nick Hainke|Sun Nov 23 10:46:30 2025 +0100|gperf: update to 3.3
-04013941ee|Nick Hainke|Sun Nov 23 10:05:45 2025 +0100|libbpf: update to 1.6.2
-2833a26a5e|Nick Hainke|Sun Nov 23 09:41:25 2025 +0100|libtool: update to 2.5.4
-749d54fea8|Álvaro Fernández Rojas|Sun Nov 23 17:07:05 2025 +0100|busybox: backport hexdump fix for Big Endian systems
-671898c7d2|Christian Lachner|Sun Nov 23 10:48:47 2025 +0100|libpcre2: Default enable JIT support for aarch64
-557c174a3c|Nick Hainke|Wed May 10 03:53:34 2023 +0200|toolchain: gcc: add fanalyzer config option
-57e8eb6208|Nick Hainke|Sat Nov 22 08:20:50 2025 +0100|refpolicy: update to 2.20250923
-08be1ef1a1|Nick Hainke|Sat Nov 22 08:11:34 2025 +0100|selinux-policy: update to 2.8.3
-dadfca0559|Nick Hainke|Sat Nov 22 07:58:55 2025 +0100|dtc: update to 1.7.2
+31f5fc8fea|Caleb James DeLisle|Tue Oct 28 18:15:33 2025 +0000|econet: New device: Zyxel PMG5617GA
+8d8990a07e|Paweł Owoc|Sat Nov 8 22:08:18 2025 +0100|mtd: add dump command help
+693db5945b|Paweł Owoc|Sun Nov 9 11:21:37 2025 +0100|mtd: allow to use dump and verify on read-only devices
+7ea659503a|Rany Hany|Sun Nov 23 23:21:29 2025 +0000|wifi-scripts: ucode: add missing config.auth_type assignment for psk2
+29a9c3feb1|Sven Eckelmann|Sun Nov 23 17:31:35 2025 +0100|realtek: Fix alignment of parameters
+0aa4f6a2f2|Sven Eckelmann|Sun Nov 23 17:28:40 2025 +0100|realtek: Fix typo "mutli"
+07e4b82da5|Sven Eckelmann|Sun Nov 23 17:04:41 2025 +0100|realtek: Fix typo "intialization"
+53fee72216|Sven Eckelmann|Sun Nov 23 17:26:03 2025 +0100|realtek: Drop space after casts
+4bd1cb66df|Sven Eckelmann|Sun Nov 23 17:21:41 2025 +0100|realtek: Drop unnecessary newlines
+583807806c|Sven Eckelmann|Sun Nov 23 17:17:55 2025 +0100|realtek: Use BIT(x) helper instead of manual shift
+70563e6aa2|Sven Eckelmann|Sun Nov 23 17:16:04 2025 +0100|realtek: Switch to kernel integer types
+612f1e6afb|Sven Eckelmann|Sun Nov 23 17:04:21 2025 +0100|realtek: Don't reinitialize static variables to 0
+6eb46033eb|Sven Eckelmann|Sun Nov 23 17:03:03 2025 +0100|realtek: Use short name for "unsigned long int"
+20fd6c9d10|Sven Eckelmann|Sun Nov 23 17:01:34 2025 +0100|realtek: Keep return statements on new line
+281c90cb1b|Sven Eckelmann|Sun Nov 23 17:00:04 2025 +0100|realtek: Drop repeated words in comments
+f29c597324|Sven Eckelmann|Sun Nov 23 16:59:19 2025 +0100|realtek: Start function scope on newline
+1dd22279eb|Sven Eckelmann|Sun Nov 23 16:57:21 2025 +0100|realtek: Fix spaces around braces, ops and keywords
+230a1835c3|Sven Eckelmann|Sun Nov 23 16:50:29 2025 +0100|realtek: Clean up global array definitions
+8f42966c08|Sven Eckelmann|Sun Nov 23 16:45:25 2025 +0100|realtek: Separate variables and code by newline
+5a2a2b2020|Sven Eckelmann|Sun Nov 23 12:02:57 2025 +0100|realtek: Use __packed helper
+d5fec0b125|Sven Eckelmann|Sun Nov 23 15:25:05 2025 +0100|realtek: pcs: Fix overflow in rtpcs_930x_sds_clock_wait
+69c6658c73|Sven Eckelmann|Sun Nov 23 15:17:52 2025 +0100|realtek: pcs: Reduce nesting during calibration
+80375e5acd|Sven Eckelmann|Sun Nov 23 15:10:41 2025 +0100|realtek: ethernet: Avoid usage of unsafe strcpy
+bc71e705aa|Sven Eckelmann|Sun Nov 23 15:07:28 2025 +0100|realtek: dsa: Avoid misleading 'case' indentation
+e506cb68b1|Sven Eckelmann|Sun Nov 23 15:01:14 2025 +0100|realtek: pcs: Use "unused" attribute helper
+230d936394|Sven Eckelmann|Sun Nov 23 14:54:27 2025 +0100|realtek: pcs: Drop return on end of void functions
+dae62b0170|Sven Eckelmann|Sun Nov 23 14:52:22 2025 +0100|realtek: dsa: Drop extra space before printed newline
+f6ba70739d|Sven Eckelmann|Sun Nov 23 14:44:11 2025 +0100|realtek: Avoid line continuations in quoted strings
+7ade70bc42|Sven Eckelmann|Sun Nov 23 14:31:12 2025 +0100|realtek: mdio: Drop extern declaration for internal function
+1518753474|Sven Eckelmann|Sun Nov 23 14:12:52 2025 +0100|realtek: Keep extern declaration in headers
+7704e500e5|Sven Eckelmann|Sun Nov 23 13:23:52 2025 +0100|realtek: Fix block comment style
+c6e0638ed1|Sven Eckelmann|Sun Nov 23 13:17:31 2025 +0100|realtek: Avoid braces around single statement blocks
+18262471f3|Sven Eckelmann|Sun Nov 23 13:11:17 2025 +0100|realtek: Fix order of "static" + "inline" keywords
+1f1cafb217|Sven Eckelmann|Sun Nov 23 12:59:54 2025 +0100|realtek: Drop out-of-memory messages
+4f71495a47|Sven Eckelmann|Sun Nov 23 12:57:49 2025 +0100|realtek: Fix SPDX license lines in headers
+3e539b6447|Sven Eckelmann|Sun Nov 23 12:49:24 2025 +0100|realtek: Remove extern from function declarations
+039c9802a1|Sven Eckelmann|Sun Nov 23 12:43:28 2025 +0100|realtek: Enclose complex macros in parentheses
+c6ed536839|Sven Eckelmann|Sun Nov 23 12:37:20 2025 +0100|realtek: Prefer linux/* includes over asm/* ones
+3a5a5c768a|John Audia|Mon Nov 24 05:30:24 2025 -0500|kernel: bump 6.12 to 6.12.59
+4dab2a9405|Sven Eckelmann|Mon Nov 24 08:54:30 2025 +0100|realtek: dsa: Build check size of drop counter names
+abb7bbb64a|Sven Eckelmann|Sun Nov 23 15:42:20 2025 +0100|realtek: dsa: rtl839x: Fix incorrect drop counter names
+adad973a9c|Nick Hainke|Sun Nov 23 10:40:12 2025 +0100|toolchain: binutils: update to 2.45.1
+27d24fb7b0|Nick Hainke|Sun Nov 23 09:53:44 2025 +0100|libxml2: update to 2.15.1
+686b7a3ab4|Nick Hainke|Sun Nov 23 10:32:14 2025 +0100|binutils: update to 2.45.1
+6f0fee58e6|Nick Hainke|Sun Nov 23 12:11:50 2025 +0100|libbsd: update to 0.12.2
 </details>
