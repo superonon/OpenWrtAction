@@ -2,5 +2,8 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-38f555ccf7|Dirk Brenken|Mon Nov 24 22:29:02 2025 +0100|luci-app-adblock: sync with adblock 4.4.4-2
+33d6492459|Paul Donald|Sat Oct 18 02:57:32 2025 +0200|luci-app-lldpd: improvements for IO select
+764a94b59c|Paul Donald|Sat Oct 18 00:41:15 2025 +0200|luci-app-lldpd: ES6 treatment
+63d55a7ec1|Tokisaki-Galaxy|Tue Oct 7 14:40:03 2025 +0800|luci-mod-status: Fix legacy rule detection false positive
+805b2db670|Paul Donald|Tue Oct 28 16:55:28 2025 +0100|luci-mod-network: Implement WiFi QR Codes
 </details>

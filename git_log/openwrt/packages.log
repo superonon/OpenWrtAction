@@ -2,27 +2,21 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-37bfd2bb6|Christian Marangi|Sun Nov 23 13:21:38 2025 +0100|netopeer2: bump to 2.4.5
-4915240b1|Christian Marangi|Sun Nov 23 13:20:07 2025 +0100|sysrepo: bump to 3.7.11
-6620df9fb|Christian Marangi|Sun Nov 23 13:18:54 2025 +0100|libnetconf2: bump to 3.7.10
-92775f85f|Christian Marangi|Tue Nov 25 00:52:32 2025 +0100|v4l2tools: add pending patch for CMake >= 4.0 support
-dd03c6185|Christian Marangi|Tue Nov 25 00:13:11 2025 +0100|v4l2rtspserver: bump to 0.3.12
-5ce5d78e2|Christian Marangi|Mon Nov 24 23:53:14 2025 +0100|v4l2camera: backport upstream patch for CMake >= 4.0 support
-79171199a|Philip Prindeville|Sun Nov 16 13:27:36 2025 -0700|kea: update to 3.0.2
-cbf6769e3|Andrew Yong|Mon Nov 24 19:30:15 2025 +0800|nanomq: update to 0.24.6
-115b2971a|Christian Marangi|Mon Nov 24 22:55:01 2025 +0100|uspot: update to Git HEAD (2025-11-20)
-3b35d81d1|Christian Marangi|Mon Nov 24 22:49:06 2025 +0100|uledd: add patch for CMake >= 4.0 support
-dbaf717e9|Christian Marangi|Mon Nov 24 21:53:23 2025 +0100|sscep: add patch for CMake >= 4.0 support
-49197ac1b|Christian Marangi|Mon Nov 24 21:47:08 2025 +0100|srt: backport upstream patch for CMake >= 4.0 support
-681ac94a1|Dirk Brenken|Mon Nov 24 21:42:24 2025 +0100|adblock: update 4.4.4-2
-30b2794a0|Christian Marangi|Mon Nov 24 21:39:26 2025 +0100|schroot: add patch for CMake >= 4.0 support
-646817c8d|Christian Marangi|Mon Nov 24 20:21:57 2025 +0100|rtl_433: backport upstream patch for CMake >= 4.0 support
-16c3f7a7d|Christian Marangi|Mon Nov 24 20:17:41 2025 +0100|respondd: add pending patch for CMake >= 4.0 support
-84552b38b|Christian Marangi|Mon Nov 24 20:13:54 2025 +0100|ratechecker: add patch for CMake >= 4.0 support
-b4be62040|Christian Marangi|Mon Nov 24 20:01:39 2025 +0100|ovsd: add patch for CMake >= 4.0 support
-7733ddb73|Christian Marangi|Mon Nov 24 17:55:53 2025 +0100|openobex: add patch for CMake >= 4.0 support
-84c1ae128|Christian Marangi|Mon Nov 24 16:12:34 2025 +0100|python3: add pending patch fixing support for new LibreSSL version
-777571b50|Christian Marangi|Mon Nov 24 03:08:34 2025 +0100|mbusd: add pending patch for CMake >= 4.0 support
-ec3ce1628|Philip Prindeville|Sun Nov 23 17:12:46 2025 -0700|clixon: Update to 7.6.0
-292df25b1|Philip Prindeville|Sun Nov 23 17:04:10 2025 -0700|cligen: Update to 7.6.0
+7c9b2491a|Christian Marangi|Tue Nov 25 16:39:59 2025 +0100|sysrepo: correctly install .yang file with revision
+51f533e53|Christian Marangi|Tue Nov 25 16:18:12 2025 +0100|libnetconf2: add pending patch to disable PAM support
+7289b3893|Christian Marangi|Tue Nov 25 15:58:52 2025 +0100|libradiotap: backport upstream patch for CMake >= 4.0 support
+126161a82|Christian Marangi|Mon Nov 24 19:34:24 2025 +0100|openthread-br: bump to 2025-06-12 and add patch for CMake >= 4.0 support
+d00f2e3b8|Christian Marangi|Mon Nov 24 22:23:42 2025 +0100|taskwarrior: bump to 2.6.2 and backport patch for CMake >= 4.0 support
+108f2e84b|Christian Marangi|Tue Nov 25 15:48:47 2025 +0100|rtty: backport upstream patch for CMake >= 4.0 support
+593267af2|George Sapkin|Thu Nov 20 18:53:15 2025 +0200|tar: fix EXTRA_DEPENDS
+20132be0e|George Sapkin|Thu Nov 20 14:27:54 2025 +0200|ubnt-manager: fix EXTRA_DEPENDS
+4914e5ef7|George Sapkin|Thu Nov 20 14:26:58 2025 +0200|airos-dfs-reset: fix EXTRA_DEPENDS
+98164e390|Christian Marangi|Mon Nov 24 20:30:16 2025 +0100|rtpmidid: bump to version 24.12
+879cddcd0|Josef Schlehofer|Fri Nov 7 06:34:42 2025 +0100|python-pycparser: update to version 2.23
+022f74401|Josef Schlehofer|Thu Nov 6 22:13:49 2025 +0100|python-setuptools-rust: update to version 1.12.0
+1eaeb4cfb|Josef Schlehofer|Thu Nov 6 14:30:19 2025 +0100|python-maturin: update to version 1.9.6
+c4bcff285|Josef Schlehofer|Sun Nov 2 17:41:26 2025 +0100|python-zope-interface: update to 8.0.1
+a1c1bfc24|Josef Schlehofer|Sun Nov 2 17:27:20 2025 +0100|python-msgpack: update to version 1.1.2
+600672b65|Christian Marangi|Sun Nov 23 15:04:21 2025 +0100|lua-ev: add pending patch for CMake >= 4.0 support
+11f7c36d6|Karol Babioch|Sat Nov 22 16:22:25 2025 +0100|ddns-scripts: Use parameter-based authentication for he.net
 </details>
