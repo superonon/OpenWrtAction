@@ -2,21 +2,30 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-67af946dd7|Rosen Penev|Thu Oct 23 20:21:30 2025 -0700|lantiq: match wifi node names to reg
-d691e05395|Nick Hainke|Sun Nov 23 18:05:51 2025 +0100|libsemanage: update to 3.9
-e603841c80|Nick Hainke|Sun Nov 23 18:07:03 2025 +0100|libselinux: update to 3.9
-0ceb26a8e8|Nick Hainke|Sun Nov 23 18:04:20 2025 +0100|libsepol: update to 3.9
-4225b2c237|Nick Hainke|Sun Nov 23 18:03:13 2025 +0100|secilc: update to 3.9
-c7fec66897|Nick Hainke|Sun Nov 23 17:20:26 2025 +0100|policycoreutils: update to 3.9
-59a1e5b495|Nick Hainke|Sun Nov 23 17:13:42 2025 +0100|checkpolicy: update to 3.9
-2fe4e7d36f|Hauke Mehrtens|Wed Nov 26 21:24:31 2025 +0100|lantiq: Fix build of xway target
-28cc1c368c|Stijn Tintel|Wed Nov 26 21:06:28 2025 +0200|kernel: drop CONFIG_ARM64_CONTPTE from target configs
-e6b35fef99|Stijn Tintel|Wed Nov 26 20:55:40 2025 +0200|kernel: fix dependency on non-existent symbol
-2418ff90d9|Goetz Goerisch|Mon Nov 24 08:56:28 2025 +0100|odhcpd: update to Git HEAD (2025-11-23)
-a119464754|Goetz Goerisch|Sun Nov 23 10:05:10 2025 +0100|qoriq: drop support for kernel 6.6
-22d2061e23|Goetz Goerisch|Sun Nov 23 10:02:06 2025 +0100|qoriq: switch to kernel 6.12
-2e944e083e|Mario Andrés Pérez|Wed Nov 26 01:40:28 2025 +0100|tools: mtd-utils: fix patch 110 for musl This patch is introducing the same header that the other patch 001-ubifs-utils-link-libmissing.a-in-case-execinfo.h-isn.patch is guarding against missing in musl libc. We need to mimic that.
-5a4e65f612|John Audia|Tue Nov 25 16:25:36 2025 -0500|linux-firmware: update to 20251125
-e7022ec14e|Nick Hainke|Tue Nov 25 19:47:16 2025 +0100|tools/ninja: update to 1.13.2
-b03c79f382|Nick Hainke|Mon Nov 24 21:06:16 2025 +0100|wolfssl: update to 5.8.4
+eed995d4f9|Rosen Penev|Tue Sep 3 17:07:49 2024 -0700|lantiq: more conversions to nvmem
+75b9fae0c3|Rosen Penev|Tue Sep 3 17:07:49 2024 -0700|lantiq: dgn3500: use nvmem to load calibration
+00e5204e84|Rosen Penev|Thu Oct 23 13:19:41 2025 -0700|lantiq: homehub-v3a: assign wlan mac in dts
+feba8983ac|Rosen Penev|Wed Nov 26 17:04:11 2025 -0800|kernel: disable non layout u-boot,env
+96fc2fa594|Rosen Penev|Wed Nov 26 16:55:49 2025 -0800|treewide: convert u-boot,env to nvmem-layout
+2dc3617c0b|Raylynn Knight|Tue Nov 25 18:39:18 2025 -0500|mpc85xx: HPE MSM460 add HPE MSM466 alias
+1cbaed41b5|Thomas Richard|Tue Nov 18 13:33:48 2025 +0100|arm-trusted-firmware-stm32: bump to v2.13
+9c87b7f85e|Thomas Richard|Tue Nov 18 13:32:28 2025 +0100|optee-os-stm32: bump to 4.8.0
+b617a61908|Thomas Richard|Mon Oct 13 14:08:58 2025 +0200|uboot-stm32: bump to 2025.10
+4fd310a8d3|Christian Marangi|Thu Nov 27 20:26:37 2025 +0100|kernel: move .quilt_used to quilt.mk
+30a863bea0|Christian Marangi|Thu Nov 27 20:24:05 2025 +0100|Revert "kernel: move .quilt_used to quilt.mk"
+929a460bfa|Anari Jalakas|Thu Nov 27 15:22:03 2025 +0200|config: add !USE_APK dependency to CLEAN_IPKG
+cf14eb6c86|Christian Marangi|Thu Nov 27 14:23:56 2025 +0100|bpf-headers: update to version 6.12
+fee916f6b8|Christian Marangi|Thu Nov 27 14:26:33 2025 +0100|bpf-headers: correctly support refreshing the package
+61bfcc4bd7|Christian Marangi|Thu Nov 27 14:18:50 2025 +0100|kernel: move .quilt_used to quilt.mk
+ed7e01b7b6|Christian Marangi|Thu Nov 27 13:39:57 2025 +0100|libtraceevent: switch to meson and add missing dep for libtraceevent-extra
+de1b8012fe|Shiji Yang|Thu Nov 27 17:39:05 2025 +0800|generic: add missing symbol ARM64_CONTPTE
+cc88cf5b65|Nick Hainke|Thu Nov 27 11:22:58 2025 +0100|selinux-policy: update to 2.8.4
+15f2a8c4f2|Christian Marangi|Thu Nov 27 12:47:33 2025 +0100|ethtool: drop dependency on kernel 6.6
+6c037b6bd0|Christian Marangi|Thu Nov 27 12:47:16 2025 +0100|kselftests-bpf: drop dependency on kernel 6.6
+8cb728d88e|Christian Marangi|Thu Nov 27 12:46:37 2025 +0100|config: drop dependency on kernel 6.6
+0883bb7d31|Shiji Yang|Thu Nov 27 00:04:35 2025 +0800|treewide: dts: remove {#address,#size}-cells from "spi-nand" compatible node
+f2c1697819|Shiji Yang|Wed Nov 26 23:49:55 2025 +0800|treewide: dts: remove {#address,#size}-cells from "jedec,spi-nor" compatible node
+b4d7263bc3|Shiji Yang|Wed Nov 26 23:06:55 2025 +0800|kernel: of: avoid some unnecessary bad cell count warnings
+43c48d09ec|Mieczyslaw Nalewaj|Wed Nov 26 18:18:46 2025 +0100|packages: remove dependencies for kernel 6.6 and 6.12
+8a1ee7577e|Mieczyslaw Nalewaj|Wed Nov 26 17:26:32 2025 +0100|treewide: drop Linux 6.6 patches, hacks, configs and conditional
 </details>

@@ -2,37 +2,22 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-9e980168ed|Tianling Shen|Wed Nov 26 11:13:08 2025 +0800|Merge Official Source
-68631b186e|Jimmy Cavanaugh|Sat Nov 15 14:28:19 2025 +1300|mvebu: add support for Fortinet FortiWiFi 30E
-b92a339f92|Rani Hod|Tue Nov 25 00:47:47 2025 +0200|siflower: bpi-rv2 device tree fix
-26ba9b609b|Andreas Gnau|Wed Oct 8 23:00:44 2025 +0200|base-files: board_detect: make resilient against power-cuts
-cac609aca8|Andreas Gnau|Wed Oct 8 23:09:26 2025 +0200|base-files: board_detect: Address shellcheck warnings
-0337cdfb33|Goetz Goerisch|Tue Nov 25 07:53:40 2025 +0100|kernel: bump 6.6 to 6.6.117
-d711d906ad|Goetz Goerisch|Mon Nov 24 07:43:24 2025 +0100|siflower: refresh kernel-6.12 config
-245841eb4b|Goetz Goerisch|Sun Nov 23 19:51:37 2025 +0100|siflower: add kmod-i2c-designware-platform to device packages
-28f9ef5f5c|Goetz Goerisch|Sun Nov 23 10:07:38 2025 +0100|siflower: drop support for kernel 6.6
-cdafb1fde9|Goetz Goerisch|Sun Nov 23 10:06:15 2025 +0100|siflower: switch to kernel 6.12
-f911c2dc44|Chukun Pan|Sun Nov 9 23:10:06 2025 +0800|mediatek: update Bananapi BPi-R4 Lite support
-21fe2a8e43|Chukun Pan|Sat Nov 8 23:10:16 2025 +0800|mediatek: update mt7987 SoC device tree
-295601b0d4|Chukun Pan|Thu Nov 6 22:20:30 2025 +0800|mediatek: mt7987: enable usb 3.0 by default
-de8eb38db8|Chukun Pan|Wed Nov 5 23:10:16 2025 +0800|mediatek: move node from mt7987a SoC dtsi
-7af6029644|Daniel Golle|Tue Nov 25 16:32:41 2025 +0000|mediatek: mt7987: sync mt7987.dtsi with MediaTek SDK
-b947b6af04|Goetz Goerisch|Sun Nov 23 10:46:48 2025 +0100|zynq: drop support for kernel 6.6
-d263af38c0|Goetz Goerisch|Sun Nov 23 10:09:29 2025 +0100|zynq: switch to kernel 6.12
-cd851fb96e|Goetz Goerisch|Sat Nov 22 18:39:42 2025 +0100|at91: drop support for kernel 6.6
-ca626376d5|Goetz Goerisch|Sat Nov 22 18:39:07 2025 +0100|at91: switch to kernel 6.12
-9ba24e0ee9|Hannu Nyman|Sat Nov 22 09:29:46 2025 +0200|tools/cmake: update to 4.2.0
-117546b49a|Goetz Goerisch|Sun Nov 23 09:45:00 2025 +0100|bcm53xx: drop support for kernel 6.6
-7748ed6c68|Goetz Goerisch|Sat Nov 22 18:52:32 2025 +0100|bcm53xx: switch to kernel 6.12
-e34726bf66|Goetz Goerisch|Sun Nov 23 09:50:42 2025 +0100|bcm47xx: drop support for kernel 6.6
-2aa9a41136|Goetz Goerisch|Sun Nov 23 09:49:09 2025 +0100|bcm47xx: switch to kernel 6.12
-e9b7a9e42c|Goetz Goerisch|Sun Nov 23 10:04:13 2025 +0100|bcm4908: drop support for kernel 6.6
-2830d3b434|Goetz Goerisch|Sun Nov 23 10:00:20 2025 +0100|bcm4908: switch to kernel 6.12
-2c2b048295|Konstantin Meshkov|Tue Nov 25 16:18:31 2025 +0300|kirkwood: add aliases and new partition for support D-Link DNS-325 A1
-7e829b8209|Konstantin Meshkov|Tue Nov 25 16:08:26 2025 +0300|kirkwood: add support for D-Link DNS-325 A1
-6065edf3b2|Scott Mercer|Tue Nov 25 07:31:12 2025 -0500|mac80211: ath11k: fix rssi for IPQ5018 and QCN6122
-90a768aea8|Nick Hainke|Mon Nov 24 20:59:45 2025 +0100|libtraceevent: update to 1.8.6
-09360ef26a|Nick Hainke|Mon Nov 24 20:52:47 2025 +0100|wpan-tools: update to 0.10
-41541bf30e|Christian Marangi|Tue Nov 25 13:39:59 2025 +0100|libunistring: fix compilation error with MUSL
-b0e9371cb1|Álvaro Fernández Rojas|Tue Nov 25 10:53:20 2025 +0100|generic: 6.12: add pending b53 fixes for BCM5325
+372a017011|ZiMing Mo|Thu Nov 27 12:37:13 2025 +0800|Merge Official Source
+67af946dd7|Rosen Penev|Thu Oct 23 20:21:30 2025 -0700|lantiq: match wifi node names to reg
+d691e05395|Nick Hainke|Sun Nov 23 18:05:51 2025 +0100|libsemanage: update to 3.9
+e603841c80|Nick Hainke|Sun Nov 23 18:07:03 2025 +0100|libselinux: update to 3.9
+0ceb26a8e8|Nick Hainke|Sun Nov 23 18:04:20 2025 +0100|libsepol: update to 3.9
+4225b2c237|Nick Hainke|Sun Nov 23 18:03:13 2025 +0100|secilc: update to 3.9
+c7fec66897|Nick Hainke|Sun Nov 23 17:20:26 2025 +0100|policycoreutils: update to 3.9
+59a1e5b495|Nick Hainke|Sun Nov 23 17:13:42 2025 +0100|checkpolicy: update to 3.9
+2fe4e7d36f|Hauke Mehrtens|Wed Nov 26 21:24:31 2025 +0100|lantiq: Fix build of xway target
+28cc1c368c|Stijn Tintel|Wed Nov 26 21:06:28 2025 +0200|kernel: drop CONFIG_ARM64_CONTPTE from target configs
+e6b35fef99|Stijn Tintel|Wed Nov 26 20:55:40 2025 +0200|kernel: fix dependency on non-existent symbol
+2418ff90d9|Goetz Goerisch|Mon Nov 24 08:56:28 2025 +0100|odhcpd: update to Git HEAD (2025-11-23)
+a119464754|Goetz Goerisch|Sun Nov 23 10:05:10 2025 +0100|qoriq: drop support for kernel 6.6
+22d2061e23|Goetz Goerisch|Sun Nov 23 10:02:06 2025 +0100|qoriq: switch to kernel 6.12
+2e944e083e|Mario Andrés Pérez|Wed Nov 26 01:40:28 2025 +0100|tools: mtd-utils: fix patch 110 for musl This patch is introducing the same header that the other patch 001-ubifs-utils-link-libmissing.a-in-case-execinfo.h-isn.patch is guarding against missing in musl libc. We need to mimic that.
+5a4e65f612|John Audia|Tue Nov 25 16:25:36 2025 -0500|linux-firmware: update to 20251125
+e7022ec14e|Nick Hainke|Tue Nov 25 19:47:16 2025 +0100|tools/ninja: update to 1.13.2
+b03c79f382|Nick Hainke|Mon Nov 24 21:06:16 2025 +0100|wolfssl: update to 5.8.4
 </details>

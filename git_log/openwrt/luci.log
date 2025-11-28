@@ -1,9 +1,0 @@
-<details> <summary> <b>luci new commit log :new: </b>  </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-e6318e8305|try496|Thu Nov 27 07:11:36 2025 +0800|luci-mod-network:  add translation string for log level
-9b5d60757e|Mikael Magnusson|Wed Nov 26 23:48:37 2025 +0100|luci-theme-bootstrap: disable Dark Reader
-bf7d15af13|mdevolde|Mon Nov 24 16:12:23 2025 +0100|luci-app-wol: replace fs.stat/exec with safe RPC backend, fix ACLs
-cf3d8cdb27|Hosted Weblate|Wed Nov 26 17:14:36 2025 +0100|Translated using Weblate (Portuguese)
-</details>
