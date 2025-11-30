@@ -2,5 +2,7 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-ec39df25b5|Rany Hany|Fri Nov 28 15:35:29 2025 +0000|luci-mod-network: bump reassociation_deadline default to 20000
+0809b6b900|Stan Grishin|Sat Nov 29 15:27:42 2025 -0800|Merge pull request #8124 from stangri/master-luci-app-https-dns-proxy
+0f01cd2730|Hosted Weblate|Sat Nov 29 16:57:32 2025 +0100|Translated using Weblate (Chinese (Simplified Han script))
+cebf4cccce|Stan Grishin|Fri Nov 28 23:40:07 2025 +0000|luci-app-https-dns-proxy: bugfix: rename options in luci app
 </details>

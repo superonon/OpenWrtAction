@@ -2,7 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-b3ab1798c|Sandro Jäckel|Thu Nov 27 17:35:58 2025 +0100|tailscale: update to 1.90.9
-4008028a9|John Audia|Wed Nov 26 15:18:33 2025 -0500|snort3: update to 3.10.0.0
-74f595c57|John Audia|Wed Nov 26 15:17:26 2025 -0500|libdaq3: update to 3.0.23
+6629fc95e|Wei-Ting Yang|Thu Nov 27 19:56:52 2025 +0800|python-setuptools: fix PKG_CPE_ID
+5cfabbfd0|Vladimir Ermakov|Tue Nov 25 14:57:17 2025 +0100|shine: fix compile bug in l3mdct
 </details>

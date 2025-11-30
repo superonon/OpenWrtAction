@@ -2,11 +2,13 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-66672e7021|Rosen Penev|Sun May 25 14:17:22 2025 -0700|ath79: tplink_tl-wdrxxxx: use led-sources for ath9k
-c84025dea2|Hauke Mehrtens|Thu Nov 27 22:27:55 2025 +0100|uboot-mediatek: mtd: spinand: esmt: add support for F50L1G41LC
-9424b2b786|Hauke Mehrtens|Thu Nov 27 21:13:04 2025 +0100|kernel: mtd: spinand: esmt: add support for F50L1G41LC
-1f879b8839|George Moussalem|Thu Oct 23 15:16:21 2025 +0400|qualcommax: ipq50xx: split firmware variants and refactor QCN6122 support
-00d61da588|George Moussalem|Thu Oct 23 15:07:09 2025 +0400|qualcommax: Add support for qcom remoteproc WCSS secure PIL driver
-cdf187f1e7|Rani Hod|Fri Nov 28 01:43:13 2025 +0200|siflower: sf21 device tree fix
-9274e9a733|Goetz Goerisch|Thu Nov 27 15:08:21 2025 +0100|odhcpd: update to Git HEAD (2025-11-27)
+f614322d28|Rosen Penev|Thu Sep 18 16:15:02 2025 -0700|mediatek: rtl8367s: modernize gpio API
+23a070dfb1|Coia Prant|Wed Oct 1 18:04:26 2025 +0800|ramips: add support for Hongdian H8850 v20
+f891609fab|Rosen Penev|Fri Nov 28 12:20:45 2025 -0800|qualcommbe: fix wrongly edited patch
+9f6c16e722|George Sapkin|Tue Nov 25 14:10:50 2025 +0200|formal: fix workflow permissions
+1aee2f5567|Shiji Yang|Sat Nov 29 18:02:12 2025 +0100|ipq40xx: convert CRLF line-ending to LF for Linksys MR6350
+39f2019985|Robert Marko|Sat Nov 29 17:56:11 2025 +0100|Revert "treewide: fixup ath10k nodes"
+60521b6e5a|Shiji Yang|Sat Nov 29 17:06:28 2025 +0800|gitattributes: automatically convert dts file CRLF line endings to LF
+734eacf313|Rosen Penev|Wed Oct 8 16:05:25 2025 -0700|ramips: rt3xxx: fix wifi node address
+741689a335|Rosen Penev|Sat Jun 7 17:35:33 2025 -0700|treewide: fixup ath10k nodes
 </details>
