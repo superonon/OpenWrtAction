@@ -2,6 +2,8 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-6629fc95e|Wei-Ting Yang|Thu Nov 27 19:56:52 2025 +0800|python-setuptools: fix PKG_CPE_ID
-5cfabbfd0|Vladimir Ermakov|Tue Nov 25 14:57:17 2025 +0100|shine: fix compile bug in l3mdct
+fd191c9b4|Yanase Yuki|Sat Nov 29 21:37:47 2025 +0900|freeradius3: drop yubikey support
+8a5159256|Hannu Nyman|Sun Nov 30 09:40:07 2025 +0200|tdb: update for compatibility, remove absent maintainer
+6469f0685|Anari Jalakas|Fri Nov 28 12:34:16 2025 +0200|lm-sensors: pass TARGET_LDFLAGS to fix linking
+a33351cf7|Hannu Nyman|Sat Nov 29 21:15:18 2025 +0200|leptonica: adjust for tesseract expectations
 </details>
