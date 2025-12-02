@@ -2,8 +2,8 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-fd191c9b4|Yanase Yuki|Sat Nov 29 21:37:47 2025 +0900|freeradius3: drop yubikey support
-8a5159256|Hannu Nyman|Sun Nov 30 09:40:07 2025 +0200|tdb: update for compatibility, remove absent maintainer
-6469f0685|Anari Jalakas|Fri Nov 28 12:34:16 2025 +0200|lm-sensors: pass TARGET_LDFLAGS to fix linking
-a33351cf7|Hannu Nyman|Sat Nov 29 21:15:18 2025 +0200|leptonica: adjust for tesseract expectations
+8762399e1|Christian Marangi|Sun Nov 30 11:22:07 2025 +0100|clixon: backport upstream patch fixing support for 32 bit
+aed8ca7bd|Daniel Golle|Tue Oct 28 18:04:59 2025 +0000|exim: update to version 4.99
+6c55fe0c4|Hannu Nyman|Sun Nov 30 16:40:13 2025 +0200|pv: explicitly enable ncursesw, add dependency
+52e123912|Hannu Nyman|Sun Nov 30 16:34:02 2025 +0200|pv: remove inactive maintainer
 </details>
