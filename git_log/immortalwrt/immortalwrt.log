@@ -1,0 +1,86 @@
+<details> <summary> <b>immortalwrt new commit log :new: </b>  </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+f4fa62ca4e|Tianling Shen|Tue Dec 2 10:18:46 2025 +0800|kernel: refresh kernel 6.12 patches
+1e5d7a4c7c|Tianling Shen|Tue Dec 2 09:44:52 2025 +0800|Merge Official Source
+2bc7978323|Felix Fietkau|Mon Dec 1 18:13:52 2025 +0000|openssl: fix AES-GCM-SIV and AES-SIV with zero-length messages
+5bdf1b8d9c|Robert Marko|Mon Dec 1 15:02:04 2025 +0100|qualcommax: fix CPR of_property_present conversion
+401c0a03f1|Eric Schäfer|Tue Aug 12 18:47:28 2025 +0000|qualcommax: ipq807x: add support for Zyxel NWA210AX
+bda163eb7c|Rosen Penev|Mon Dec 1 02:28:04 2025 -0800|ath79: add back mistakenly removed label
+d7f777b41c|Álvaro Fernández Rojas|Sun Nov 30 17:09:46 2025 +0100|generic: 6.12: backport bcm63xx-spi CS deassertion fix
+0e7a7e62fb|Rany Hany|Sat Nov 15 15:32:31 2025 +0000|wifi-scripts: add beacon_prot and spp_amsdu support
+9f5cb25867|Shiji Yang|Tue Oct 21 12:07:52 2025 +0800|ipq40xx: dts: remove useless ethernet0 alias for WIA3300-20
+7bbbe77504|Shiji Yang|Tue Oct 21 12:06:04 2025 +0800|ipq40xx: dts: convert WIA3300-20 SPI chipselect to hardware mode
+c16d83184b|Rany Hany|Sat Nov 8 16:48:13 2025 +0000|wifi-scripts: change wifi-station's mac option into list
+ea6ee93060|Tomáš Macholda|Thu Sep 18 13:08:52 2025 +0200|mvebu: add support for Turris MOX
+cfb976d1d7|Rany Hany|Wed Nov 19 18:55:48 2025 +0000|wifi-scripts: make ft_iface configurable
+5baaee843a|INAGAKI Hiroshi|Tue Oct 7 23:53:32 2025 +0900|ath79: add support for NEC Aterm WF1200HP2
+29014b54d4|INAGAKI Hiroshi|Tue Oct 7 23:53:32 2025 +0900|ath79: add support for NEC Aterm WF1200HP
+5acccdc5ae|INAGAKI Hiroshi|Thu Oct 30 20:25:19 2025 +0900|uboot-ath79: add FE profile for NEC Aterm series (AR9344)
+e11e1c18ee|Andrew LaMarche|Wed Nov 19 11:28:19 2025 -0500|ramips: add support for TP-Link Archer AX21
+fb1e8a446d|Rosen Penev|Sat Oct 4 15:22:58 2025 -0700|ath79: ubnt: nvmem calibration
+f57a0e8db3|Richard Fröhning|Sun Nov 16 15:07:35 2025 +0100|mediatek-filogic: assign WAN netdev trigger to blue:wan LED for cudy wr3000e
+579d4654c7|Rosen Penev|Sun May 25 14:20:28 2025 -0700|ath79: ar9344: use led-sources for ath9k
+5629e06cf2|Til Kaiser|Mon Nov 24 15:50:33 2025 +0100|ramips: mt76x8: add Teltonika RUT976 support
+7ff854a197|Til Kaiser|Tue Nov 25 11:43:22 2025 +0100|uqmi: skip registration state check if not supported
+902b25abf3|Til Kaiser|Mon Nov 24 15:49:47 2025 +0100|generic: 6.12: backport net-usb-qmi_wwan: add Quectel RG255C
+93c29343ad|Til Kaiser|Mon Nov 24 15:49:09 2025 +0100|ramips: split Teltonika RUT9M SPI-NOR layout into separate dtsi
+b2648d8951|Schneider Azima|Fri Nov 28 05:37:25 2025 -0500|mediatek: add support for Mercusys MR85X
+c79c32b4e5|Schneider Azima|Fri Nov 28 05:34:02 2025 -0500|mediatek: build rtl8367s_gsw as a kernel module
+f190a5e842|Rosen Penev|Wed Nov 26 23:24:16 2025 -0800|kernel: remove uboot,env hack
+48c9e55094|Aleksander Jan Bajkowski|Sat Nov 29 17:55:41 2025 +0100|kernel: backport upstream Realtek PHY patches
+c9e7f32c4c|Rosen Penev|Wed Sep 3 19:01:49 2025 -0700|treewide: use of_property_present
+8d2d49195f|Hauke Mehrtens|Sat Nov 29 19:05:42 2025 +0100|toolchain: glibc: Update glibc 2.41 to recent HEAD
+2f30e14c49|Rosen Penev|Thu Nov 27 18:31:52 2025 -0800|ath79: convert pcie gpios to led-sources
+099807bea5|Rosen Penev|Sat May 24 17:11:32 2025 -0700|ath79: fix some ath10k LEDs
+592d4e67c6|Rosen Penev|Sun May 25 14:07:00 2025 -0700|ath79: mr600-v1: use led-sources for ath9k
+d4dcb94968|Vincent Li|Fri Nov 28 09:56:04 2025 -0800|loongarch64: add Loongson PCI DWMAC as built-in
+e7086d7a2f|Brian Lee|Fri Nov 28 14:37:15 2025 +0900|mediatek: filogic: add support for ASUS TUF-AX4200Q
+95bd7a76a1|Alexandru Gagniuc|Thu Nov 6 21:52:11 2025 -0600|qualcommbe: update ipq9574 PCS driver
+cc6b9ff17b|Alexandru Gagniuc|Thu Nov 6 20:59:37 2025 -0600|qualcommbe: drop "uniphy" from pcs node labels
+6891dc2562|Alexandru Gagniuc|Thu Nov 27 14:11:11 2025 -0600|qualcommbe: use ipq_pcs_get/put() in PPE (MAC) driver
+2b3efc300a|Álvaro Fernández Rojas|Fri Nov 28 12:00:30 2025 +0100|odhcp6c: update to Git HEAD (2025-11-24)
+f614322d28|Rosen Penev|Thu Sep 18 16:15:02 2025 -0700|mediatek: rtl8367s: modernize gpio API
+23a070dfb1|Coia Prant|Wed Oct 1 18:04:26 2025 +0800|ramips: add support for Hongdian H8850 v20
+f891609fab|Rosen Penev|Fri Nov 28 12:20:45 2025 -0800|qualcommbe: fix wrongly edited patch
+9f6c16e722|George Sapkin|Tue Nov 25 14:10:50 2025 +0200|formal: fix workflow permissions
+1aee2f5567|Shiji Yang|Sat Nov 29 18:02:12 2025 +0100|ipq40xx: convert CRLF line-ending to LF for Linksys MR6350
+39f2019985|Robert Marko|Sat Nov 29 17:56:11 2025 +0100|Revert "treewide: fixup ath10k nodes"
+60521b6e5a|Shiji Yang|Sat Nov 29 17:06:28 2025 +0800|gitattributes: automatically convert dts file CRLF line endings to LF
+734eacf313|Rosen Penev|Wed Oct 8 16:05:25 2025 -0700|ramips: rt3xxx: fix wifi node address
+741689a335|Rosen Penev|Sat Jun 7 17:35:33 2025 -0700|treewide: fixup ath10k nodes
+66672e7021|Rosen Penev|Sun May 25 14:17:22 2025 -0700|ath79: tplink_tl-wdrxxxx: use led-sources for ath9k
+c84025dea2|Hauke Mehrtens|Thu Nov 27 22:27:55 2025 +0100|uboot-mediatek: mtd: spinand: esmt: add support for F50L1G41LC
+9424b2b786|Hauke Mehrtens|Thu Nov 27 21:13:04 2025 +0100|kernel: mtd: spinand: esmt: add support for F50L1G41LC
+1f879b8839|George Moussalem|Thu Oct 23 15:16:21 2025 +0400|qualcommax: ipq50xx: split firmware variants and refactor QCN6122 support
+00d61da588|George Moussalem|Thu Oct 23 15:07:09 2025 +0400|qualcommax: Add support for qcom remoteproc WCSS secure PIL driver
+cdf187f1e7|Rani Hod|Fri Nov 28 01:43:13 2025 +0200|siflower: sf21 device tree fix
+9274e9a733|Goetz Goerisch|Thu Nov 27 15:08:21 2025 +0100|odhcpd: update to Git HEAD (2025-11-27)
+eed995d4f9|Rosen Penev|Tue Sep 3 17:07:49 2024 -0700|lantiq: more conversions to nvmem
+75b9fae0c3|Rosen Penev|Tue Sep 3 17:07:49 2024 -0700|lantiq: dgn3500: use nvmem to load calibration
+00e5204e84|Rosen Penev|Thu Oct 23 13:19:41 2025 -0700|lantiq: homehub-v3a: assign wlan mac in dts
+feba8983ac|Rosen Penev|Wed Nov 26 17:04:11 2025 -0800|kernel: disable non layout u-boot,env
+96fc2fa594|Rosen Penev|Wed Nov 26 16:55:49 2025 -0800|treewide: convert u-boot,env to nvmem-layout
+2dc3617c0b|Raylynn Knight|Tue Nov 25 18:39:18 2025 -0500|mpc85xx: HPE MSM460 add HPE MSM466 alias
+1cbaed41b5|Thomas Richard|Tue Nov 18 13:33:48 2025 +0100|arm-trusted-firmware-stm32: bump to v2.13
+9c87b7f85e|Thomas Richard|Tue Nov 18 13:32:28 2025 +0100|optee-os-stm32: bump to 4.8.0
+b617a61908|Thomas Richard|Mon Oct 13 14:08:58 2025 +0200|uboot-stm32: bump to 2025.10
+4fd310a8d3|Christian Marangi|Thu Nov 27 20:26:37 2025 +0100|kernel: move .quilt_used to quilt.mk
+30a863bea0|Christian Marangi|Thu Nov 27 20:24:05 2025 +0100|Revert "kernel: move .quilt_used to quilt.mk"
+929a460bfa|Anari Jalakas|Thu Nov 27 15:22:03 2025 +0200|config: add !USE_APK dependency to CLEAN_IPKG
+cf14eb6c86|Christian Marangi|Thu Nov 27 14:23:56 2025 +0100|bpf-headers: update to version 6.12
+fee916f6b8|Christian Marangi|Thu Nov 27 14:26:33 2025 +0100|bpf-headers: correctly support refreshing the package
+61bfcc4bd7|Christian Marangi|Thu Nov 27 14:18:50 2025 +0100|kernel: move .quilt_used to quilt.mk
+ed7e01b7b6|Christian Marangi|Thu Nov 27 13:39:57 2025 +0100|libtraceevent: switch to meson and add missing dep for libtraceevent-extra
+de1b8012fe|Shiji Yang|Thu Nov 27 17:39:05 2025 +0800|generic: add missing symbol ARM64_CONTPTE
+cc88cf5b65|Nick Hainke|Thu Nov 27 11:22:58 2025 +0100|selinux-policy: update to 2.8.4
+15f2a8c4f2|Christian Marangi|Thu Nov 27 12:47:33 2025 +0100|ethtool: drop dependency on kernel 6.6
+6c037b6bd0|Christian Marangi|Thu Nov 27 12:47:16 2025 +0100|kselftests-bpf: drop dependency on kernel 6.6
+8cb728d88e|Christian Marangi|Thu Nov 27 12:46:37 2025 +0100|config: drop dependency on kernel 6.6
+0883bb7d31|Shiji Yang|Thu Nov 27 00:04:35 2025 +0800|treewide: dts: remove {#address,#size}-cells from "spi-nand" compatible node
+f2c1697819|Shiji Yang|Wed Nov 26 23:49:55 2025 +0800|treewide: dts: remove {#address,#size}-cells from "jedec,spi-nor" compatible node
+b4d7263bc3|Shiji Yang|Wed Nov 26 23:06:55 2025 +0800|kernel: of: avoid some unnecessary bad cell count warnings
+43c48d09ec|Mieczyslaw Nalewaj|Wed Nov 26 18:18:46 2025 +0100|packages: remove dependencies for kernel 6.6 and 6.12
+8a1ee7577e|Mieczyslaw Nalewaj|Wed Nov 26 17:26:32 2025 +0100|treewide: drop Linux 6.6 patches, hacks, configs and conditional
+</details>

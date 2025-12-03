@@ -1,0 +1,10 @@
+<details> <summary> <b>luci new commit log :new: </b>  </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+d96d7cf798|mdevolde|Sun Nov 30 12:49:53 2025 +0100|luci-app-filemanager: fix regex, manage broken symlinks, support all file types
+875c2a958f|Paul Donald|Tue Dec 2 23:35:57 2025 +0100|luci-base: retain i18n strings for previous table heading commits
+62848505e6|David Härdeman|Sun Nov 30 17:47:27 2025 +0100|luci-mod-network: fix table headings
+d2e0f88618|David Härdeman|Sun Nov 30 17:22:09 2025 +0100|luci-mod-status: fix table headings
+61e81c1b53|David Härdeman|Sun Nov 30 16:47:48 2025 +0100|luci-mod-network: add IPv6-only preferred option
+</details>

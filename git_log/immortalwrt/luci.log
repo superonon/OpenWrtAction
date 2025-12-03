@@ -1,0 +1,28 @@
+<details> <summary> <b>luci new commit log :new: </b>  </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+b8be76edf8|Tianling Shen|Tue Dec 2 09:48:26 2025 +0800|Merge Official Soure
+0809b6b900|Stan Grishin|Sat Nov 29 15:27:42 2025 -0800|Merge pull request #8124 from stangri/master-luci-app-https-dns-proxy
+0f01cd2730|Hosted Weblate|Sat Nov 29 16:57:32 2025 +0100|Translated using Weblate (Chinese (Simplified Han script))
+cebf4cccce|Stan Grishin|Fri Nov 28 23:40:07 2025 +0000|luci-app-https-dns-proxy: bugfix: rename options in luci app
+ec39df25b5|Rany Hany|Fri Nov 28 15:35:29 2025 +0000|luci-mod-network: bump reassociation_deadline default to 20000
+e6318e8305|try496|Thu Nov 27 07:11:36 2025 +0800|luci-mod-network:  add translation string for log level
+9b5d60757e|Mikael Magnusson|Wed Nov 26 23:48:37 2025 +0100|luci-theme-bootstrap: disable Dark Reader
+bf7d15af13|mdevolde|Mon Nov 24 16:12:23 2025 +0100|luci-app-wol: replace fs.stat/exec with safe RPC backend, fix ACLs
+cf3d8cdb27|Hosted Weblate|Wed Nov 26 17:14:36 2025 +0100|Translated using Weblate (Portuguese)
+33d6492459|Paul Donald|Sat Oct 18 02:57:32 2025 +0200|luci-app-lldpd: improvements for IO select
+764a94b59c|Paul Donald|Sat Oct 18 00:41:15 2025 +0200|luci-app-lldpd: ES6 treatment
+63d55a7ec1|Tokisaki-Galaxy|Tue Oct 7 14:40:03 2025 +0800|luci-mod-status: Fix legacy rule detection false positive
+805b2db670|Paul Donald|Tue Oct 28 16:55:28 2025 +0100|luci-mod-network: Implement WiFi QR Codes
+38f555ccf7|Dirk Brenken|Mon Nov 24 22:29:02 2025 +0100|luci-app-adblock: sync with adblock 4.4.4-2
+2eac826ea0|Hannu Nyman|Sat Nov 22 08:35:17 2025 +0200|treewide: Sync translations
+61faae4c90|Hosted Weblate|Sat Nov 22 07:28:37 2025 +0100|Translated using Weblate (Portuguese (Brazil))
+fa2945a2e2|Dirk Brenken|Fri Nov 21 21:55:05 2025 +0100|luci-app-adblock: remove obsolete ACLs
+7d348dd14f|Dirk Brenken|Fri Nov 21 19:05:22 2025 +0100|luci-app-adblock: sync with adblock 4.4.4-1
+67919b296f|Florian Eckert|Fri Nov 21 13:56:51 2025 +0100|Merge pull request #8092 from eamonxg/feature_es6
+0096cef2b3|Eamon Xiong|Mon Nov 17 20:51:47 2025 +0800|luci-theme-openwrt-2020: use arrow function
+8df4e465a3|Eamon Xiong|Mon Nov 17 20:50:51 2025 +0800|luci-theme-openwrt: use arrow function
+53548203fd|Eamon Xiong|Mon Nov 17 20:49:32 2025 +0800|luci-theme-material: use arrow function
+8a8e4d53a7|Eamon Xiong|Mon Nov 17 20:39:15 2025 +0800|luci-theme-bootstrap: use ES6 syntax
+</details>

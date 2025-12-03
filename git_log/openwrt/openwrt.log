@@ -2,9 +2,13 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-2bc7978323|Felix Fietkau|Mon Dec 1 18:13:52 2025 +0000|openssl: fix AES-GCM-SIV and AES-SIV with zero-length messages
-5bdf1b8d9c|Robert Marko|Mon Dec 1 15:02:04 2025 +0100|qualcommax: fix CPR of_property_present conversion
-401c0a03f1|Eric Schäfer|Tue Aug 12 18:47:28 2025 +0000|qualcommax: ipq807x: add support for Zyxel NWA210AX
-bda163eb7c|Rosen Penev|Mon Dec 1 02:28:04 2025 -0800|ath79: add back mistakenly removed label
-d7f777b41c|Álvaro Fernández Rojas|Sun Nov 30 17:09:46 2025 +0100|generic: 6.12: backport bcm63xx-spi CS deassertion fix
+5e3a602def|Rosen Penev|Sat Jun 15 15:13:07 2024 -0700|ath79: sitecom,wlrx100: use nvmem
+ff1419f895|Rani Hod|Tue Oct 7 17:54:55 2025 +0300|mediatek: filogic: add support for Widelantech WAP430X
+e5b86c2320|Rosen Penev|Fri Jun 14 11:50:06 2024 -0700|ath79: ecb1xxx: use nvmem
+616b0cebe7|Rosen Penev|Fri Nov 28 15:31:24 2025 -0800|gpio-button-hotplug: use devm_kmemdup_array
+5b263f3360|Rosen Penev|Sun Aug 31 14:01:55 2025 -0700|treewide: add const to static arrays
+4ffd5aa239|Rosen Penev|Sun Nov 3 14:11:30 2024 -0800|treewide: fix coccinelle checks
+55b5e44673|Rosen Penev|Sat Jun 22 10:46:07 2024 -0700|ath79: ews511ap: use nvmem
+d0fcbddaad|gongzi miao|Mon Dec 1 19:30:51 2025 +0800|kernel: bump 6.12 to 6.12.60
+141ac0b2bd|Sven Eckelmann|Mon Dec 1 13:58:40 2025 +0100|realtek: dsa: rtl930x: Fix flow control with ingress shaping
 </details>

@@ -2,8 +2,7 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-8762399e1|Christian Marangi|Sun Nov 30 11:22:07 2025 +0100|clixon: backport upstream patch fixing support for 32 bit
-aed8ca7bd|Daniel Golle|Tue Oct 28 18:04:59 2025 +0000|exim: update to version 4.99
-6c55fe0c4|Hannu Nyman|Sun Nov 30 16:40:13 2025 +0200|pv: explicitly enable ncursesw, add dependency
-52e123912|Hannu Nyman|Sun Nov 30 16:34:02 2025 +0200|pv: remove inactive maintainer
+d4321095c|Jan Hák|Mon Dec 1 10:54:11 2025 +0100|knot: update to version 3.5.2
+27f55cdbd|Philip Prindeville|Mon Dec 1 16:09:26 2025 -0700|isc-dhcp: use modzone not addzone so in-addr.arpa works
+404d74feb|Daniel Golle|Mon Dec 1 11:46:55 2025 +0000|cyrus-sasl: fix build with glibc
 </details>

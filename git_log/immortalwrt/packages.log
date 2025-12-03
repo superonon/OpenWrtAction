@@ -1,0 +1,47 @@
+<details> <summary> <b>packages new commit log :new: </b>  </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+24a9a53d2|Tianling Shen|Tue Dec 2 09:47:47 2025 +0800|Merge Official Source
+8762399e1|Christian Marangi|Sun Nov 30 11:22:07 2025 +0100|clixon: backport upstream patch fixing support for 32 bit
+aed8ca7bd|Daniel Golle|Tue Oct 28 18:04:59 2025 +0000|exim: update to version 4.99
+6c55fe0c4|Hannu Nyman|Sun Nov 30 16:40:13 2025 +0200|pv: explicitly enable ncursesw, add dependency
+52e123912|Hannu Nyman|Sun Nov 30 16:34:02 2025 +0200|pv: remove inactive maintainer
+fd191c9b4|Yanase Yuki|Sat Nov 29 21:37:47 2025 +0900|freeradius3: drop yubikey support
+8a5159256|Hannu Nyman|Sun Nov 30 09:40:07 2025 +0200|tdb: update for compatibility, remove absent maintainer
+6469f0685|Anari Jalakas|Fri Nov 28 12:34:16 2025 +0200|lm-sensors: pass TARGET_LDFLAGS to fix linking
+a33351cf7|Hannu Nyman|Sat Nov 29 21:15:18 2025 +0200|leptonica: adjust for tesseract expectations
+6629fc95e|Wei-Ting Yang|Thu Nov 27 19:56:52 2025 +0800|python-setuptools: fix PKG_CPE_ID
+5cfabbfd0|Vladimir Ermakov|Tue Nov 25 14:57:17 2025 +0100|shine: fix compile bug in l3mdct
+b3ab1798c|Sandro Jäckel|Thu Nov 27 17:35:58 2025 +0100|tailscale: update to 1.90.9
+4008028a9|John Audia|Wed Nov 26 15:18:33 2025 -0500|snort3: update to 3.10.0.0
+74f595c57|John Audia|Wed Nov 26 15:17:26 2025 -0500|libdaq3: update to 3.0.23
+ac4f614df|Rui Salvaterra|Wed Nov 12 13:54:35 2025 +0000|tor: update to 0.4.8.21 stable
+3cc97c318|Yanase Yuki|Wed Nov 26 20:47:04 2025 +0900|esniper: remove package
+1f78d9d7a|Austin Lane|Wed Nov 19 19:58:40 2025 -0500|python-pypubsub: switch to PyPi sdist
+2201690cd|Austin Lane|Wed Nov 26 06:09:18 2025 -0500|python-chardet: fix build (depend on setuptools)
+485dee2b0|Austin Lane|Tue Nov 25 17:54:48 2025 -0500|python-certifi: fix build (depend on setuptools)
+d2d56d216|Alexandru Ardelean|Tue Nov 25 14:14:40 2025 +0200|python-curl: bump to version 7.45.7
+00204af37|Ioan Bobar|Mon Nov 10 10:15:29 2025 +0200|python-idna: bump to version 3.11
+5144398d1|George Sapkin|Wed Nov 26 02:48:10 2025 +0200|Revert "tar: fix EXTRA_DEPENDS"
+1f0a1f9f2|Rosen Penev|Tue Nov 25 16:07:47 2025 -0800|ola: fix compilation with newer liblo
+6377a6e8b|Rosen Penev|Tue Nov 25 15:42:01 2025 -0800|liblo: fix pkgconf file
+12d23c8e9|Austin Lane|Tue Nov 25 14:45:54 2025 -0500|python-urllib3: fix builds with setuptools-scm 9.x
+d0f1c668c|Christian Marangi|Wed Nov 26 02:46:32 2025 +0100|perl-www-curl: fix compilation error with new cURL version
+0028a5434|Christian Marangi|Wed Nov 26 02:26:06 2025 +0100|netopeer2: fix install path for netopeer2-server
+7c9b2491a|Christian Marangi|Tue Nov 25 16:39:59 2025 +0100|sysrepo: correctly install .yang file with revision
+51f533e53|Christian Marangi|Tue Nov 25 16:18:12 2025 +0100|libnetconf2: add pending patch to disable PAM support
+7289b3893|Christian Marangi|Tue Nov 25 15:58:52 2025 +0100|libradiotap: backport upstream patch for CMake >= 4.0 support
+126161a82|Christian Marangi|Mon Nov 24 19:34:24 2025 +0100|openthread-br: bump to 2025-06-12 and add patch for CMake >= 4.0 support
+d00f2e3b8|Christian Marangi|Mon Nov 24 22:23:42 2025 +0100|taskwarrior: bump to 2.6.2 and backport patch for CMake >= 4.0 support
+108f2e84b|Christian Marangi|Tue Nov 25 15:48:47 2025 +0100|rtty: backport upstream patch for CMake >= 4.0 support
+593267af2|George Sapkin|Thu Nov 20 18:53:15 2025 +0200|tar: fix EXTRA_DEPENDS
+20132be0e|George Sapkin|Thu Nov 20 14:27:54 2025 +0200|ubnt-manager: fix EXTRA_DEPENDS
+4914e5ef7|George Sapkin|Thu Nov 20 14:26:58 2025 +0200|airos-dfs-reset: fix EXTRA_DEPENDS
+98164e390|Christian Marangi|Mon Nov 24 20:30:16 2025 +0100|rtpmidid: bump to version 24.12
+879cddcd0|Josef Schlehofer|Fri Nov 7 06:34:42 2025 +0100|python-pycparser: update to version 2.23
+022f74401|Josef Schlehofer|Thu Nov 6 22:13:49 2025 +0100|python-setuptools-rust: update to version 1.12.0
+1eaeb4cfb|Josef Schlehofer|Thu Nov 6 14:30:19 2025 +0100|python-maturin: update to version 1.9.6
+c4bcff285|Josef Schlehofer|Sun Nov 2 17:41:26 2025 +0100|python-zope-interface: update to 8.0.1
+a1c1bfc24|Josef Schlehofer|Sun Nov 2 17:27:20 2025 +0100|python-msgpack: update to version 1.1.2
+</details>
