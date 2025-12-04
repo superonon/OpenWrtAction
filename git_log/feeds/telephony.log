@@ -1,0 +1,7 @@
+<details> <summary> <b>telephony new commit log :new: </b>  </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+37ec321|George Sapkin|Wed Nov 26 16:23:58 2025 +0200|check-autorelease-deprecation: drop workflow
+08e2bd1|George Sapkin|Wed Nov 26 15:34:57 2025 +0200|formal: fix workflow permissions
+</details>
