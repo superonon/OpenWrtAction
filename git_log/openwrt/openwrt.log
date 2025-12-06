@@ -2,21 +2,9 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-cc57e155a6|Christian Marangi|Fri Dec 5 00:54:38 2025 +0100|airoha: fix kernel panic from I2S driver
-7b55651e61|Christian Marangi|Thu Dec 4 23:14:30 2025 +0100|airoha: enable I2S sound driver and add nodes for eMMC RFB board
-8f1914053b|Christian Marangi|Thu Dec 4 23:13:12 2025 +0100|airoha: replace I2S patch with upstream pending version
-d6b4b63850|Caleb James DeLisle|Fri Nov 7 17:45:01 2025 +0000|econet: basic Ethernet support
-dac466452b|Caleb James DeLisle|Fri Nov 7 16:59:10 2025 +0000|econet: standardize partitions in DTS files
-4582d25a66|Tianling Shen|Wed Dec 3 14:36:32 2025 +0800|rockchip: backport MMC CQE fixes
-5aeaddc0c8|Hauke Mehrtens|Thu Dec 4 21:33:13 2025 +0100|bcm47xx: Fix lzma-loader compilation
-27e5d7ddd9|Hauke Mehrtens|Thu Dec 4 21:12:24 2025 +0100|ramips: Fix cmpilation
-4814636b9b|Álvaro Fernández Rojas|Tue Dec 2 09:18:48 2025 +0100|generic: 6.12: backport b53 fixes for BCM5325
-6c94b53f11|Christian Marangi|Thu Dec 4 19:20:55 2025 +0100|sdk: use GIT_COMMIT for buildbot SDK
-289172b00e|Christian Marangi|Thu Dec 4 19:11:17 2025 +0100|sdk: invert logic for GIT_BRANCH and GIT_TAGNAME
-0338dd44d5|Christian Marangi|Thu Dec 4 19:08:08 2025 +0100|sdk: filter out main on GIT_BRANCH parsing
-78a8cfb577|Christian Marangi|Thu Dec 4 16:32:03 2025 +0100|tools: gnulib: fix broken install of .m4 files
-9c6dbb0e3d|Shiji Yang|Tue Dec 2 00:06:45 2025 +0800|busybox: fix regression for long long type dump support
-1db4155aa9|Robert Marko|Thu Dec 4 11:31:01 2025 +0100|qca-nss-dp: update to Git HEAD (2025-11-24)
-af853d3d38|Robert Marko|Thu Dec 4 11:05:43 2025 +0100|rpcd: update to Git HEAD (2025-12-03)
-316a85ed91|Goetz Goerisch|Mon Dec 1 11:33:11 2025 +0100|odhcpd: update to Git HEAD (2025-12-01)
+00c8b5c612|David Bauer|Fri Dec 5 19:50:22 2025 +0100|libunwind: fix complie for PPC32
+09e7b24ceb|Shine|Tue Nov 11 19:49:16 2025 +0100|mpc85xx: p1010: Fix Sophos RED 15w NAND partitions
+e159d1ec81|Tianling Shen|Fri Oct 17 15:28:57 2025 +0800|rockchip: drop sdmmc speed limitation for RK3576/RK3588
+1842735a06|Álvaro Fernández Rojas|Thu Dec 4 10:20:45 2025 +0100|odhcp6c: update to Git HEAD (2025-12-04)
+3a10dd5967|Marcin Maj|Thu Dec 4 01:43:41 2025 +0100|ath79: fix platform check image mikrotik nor
 </details>

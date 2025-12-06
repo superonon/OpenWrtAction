@@ -1,9 +1,0 @@
-<details> <summary> <b>luci new commit log :new: </b>  </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-bf0ce9c571|Dirk Brenken|Thu Dec 4 20:28:42 2025 +0100|luci-app-banip: sync with banIP-1.6.0-1
-a9341c4a8d|Marcin|Fri Nov 7 21:50:52 2025 +0100|luci-app-tinyproxy: Loosen constraint on upstream target
-ee80999404|Paul Donald|Thu Dec 4 02:10:08 2025 +0100|luci-app-tinyproxy: revert accidental inclusion in previous commit
-4086111898|Paul Donald|Thu Dec 4 02:08:12 2025 +0100|luci-app-filemanager: i18n sync
-</details>
