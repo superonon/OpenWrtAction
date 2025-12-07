@@ -1,0 +1,8 @@
+<details> <summary> <b>luci new commit log :new: </b>  </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+02a4c753cd|Andrea Pesaresi|Fri Dec 5 21:39:10 2025 +0100|luci-app-ksmbd: add option to set guest on IPC$ share
+9a913af664|Hannu Nyman|Sat Dec 6 09:20:05 2025 +0200|treewide: sync i18n translations
+2c456b2cc1|Hosted Weblate|Sat Dec 6 08:06:16 2025 +0100|Translated using Weblate (Chinese (Simplified Han script))
+</details>
