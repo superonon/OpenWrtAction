@@ -1,0 +1,14 @@
+<details> <summary> <b>immortalwrt new commit log :new: </b>  </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+5e66e31971|Tianling Shen|Sun Dec 7 09:57:12 2025 +0800|Merge Official Source
+a90fb76736|Rosen Penev|Fri Dec 5 19:44:33 2025 -0800|lantiq: tplink_tdw89x0: use led-sources for wifi LED
+ff63c5cd82|Mario Andrés Pérez|Sat Dec 6 02:44:18 2025 +0100|bcm53xx: image: sync targets names with DT compatible
+6c0ef7d4c8|Goetz Goerisch|Fri Dec 5 20:11:40 2025 +0100|odhcpd: update to Git HEAD (2025-12-04)
+00c8b5c612|David Bauer|Fri Dec 5 19:50:22 2025 +0100|libunwind: fix complie for PPC32
+09e7b24ceb|Shine|Tue Nov 11 19:49:16 2025 +0100|mpc85xx: p1010: Fix Sophos RED 15w NAND partitions
+e159d1ec81|Tianling Shen|Fri Oct 17 15:28:57 2025 +0800|rockchip: drop sdmmc speed limitation for RK3576/RK3588
+1842735a06|Álvaro Fernández Rojas|Thu Dec 4 10:20:45 2025 +0100|odhcp6c: update to Git HEAD (2025-12-04)
+3a10dd5967|Marcin Maj|Thu Dec 4 01:43:41 2025 +0100|ath79: fix platform check image mikrotik nor
+</details>

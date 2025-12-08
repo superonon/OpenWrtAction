@@ -2,7 +2,9 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-ffa24c10d|George Sapkin|Wed Dec 3 20:07:14 2025 +0200|adguardhome: bump to 0.107.70
-e0d24e48f|George Sapkin|Thu Dec 4 06:52:42 2025 +0200|adguardhome: add SPDX license identifiers
-605a457ca|Philip Prindeville|Mon Dec 1 21:26:23 2025 -0700|bind: save out served domains on service stop
+90ee36fce|David Connolly|Sun Jun 29 13:54:37 2025 +0100|udpspeeder: disable color in logging to prevent side effects in syslog
+4406b792e|George Sapkin|Mon Nov 17 11:15:55 2025 +0200|vim: bump to 9.1.1918
+3365ba873|George Sapkin|Mon Nov 17 10:37:59 2025 +0200|vim: add actual xxd version
+6db7c6bae|Nate Robinson|Sun Dec 7 12:33:42 2025 -0500|lf: update to r39
+560e89e3b|Josef Schlehofer|Sat Dec 6 14:39:03 2025 +0100|radicale: remove obsolete package
 </details>

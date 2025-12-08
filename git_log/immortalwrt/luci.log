@@ -1,0 +1,35 @@
+<details> <summary> <b>luci new commit log :new: </b>  </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+5addba307c|Tianling Shen|Sun Dec 7 10:23:42 2025 +0800|Merge Official Source
+02a4c753cd|Andrea Pesaresi|Fri Dec 5 21:39:10 2025 +0100|luci-app-ksmbd: add option to set guest on IPC$ share
+9a913af664|Hannu Nyman|Sat Dec 6 09:20:05 2025 +0200|treewide: sync i18n translations
+2c456b2cc1|Hosted Weblate|Sat Dec 6 08:06:16 2025 +0100|Translated using Weblate (Chinese (Simplified Han script))
+bf0ce9c571|Dirk Brenken|Thu Dec 4 20:28:42 2025 +0100|luci-app-banip: sync with banIP-1.6.0-1
+a9341c4a8d|Marcin|Fri Nov 7 21:50:52 2025 +0100|luci-app-tinyproxy: Loosen constraint on upstream target
+ee80999404|Paul Donald|Thu Dec 4 02:10:08 2025 +0100|luci-app-tinyproxy: revert accidental inclusion in previous commit
+4086111898|Paul Donald|Thu Dec 4 02:08:12 2025 +0100|luci-app-filemanager: i18n sync
+a62518d1c6|Paul Donald|Wed Dec 3 01:12:14 2025 +0100|luci-app-filemanager: upgrades
+bf8fe5e6ea|Paul Donald|Wed Dec 3 23:34:57 2025 +0100|luci-theme-bootstrap: partial revert of monospace changes
+8c9e377820|Thomas Aldrian|Sat Dec 30 19:11:52 2023 +0000|Formatting fixes
+668b13f238|Paul Donald|Wed Dec 3 22:22:16 2025 +0100|luci-app-tinyproxy: bump bind to dynamic list for multiple values
+96f046d45b|Anton Luzgin|Fri Nov 28 12:42:32 2025 +0400|luci-app-dockerman: fix unhandled nil on containers page
+3c3a5e2b1a|Akihiro Nagai|Tue Nov 18 17:32:44 2025 +0900|luci-theme-bootstrap: fall back to system font stack with CSS custom properties
+1dca4dde96|jdd272|Thu Nov 21 15:52:54 2024 +0100|luci-app-statistics: support VPN client and VPN server(multi-users)
+9a863c8888|Liangbin Lian|Tue Dec 10 17:39:29 2024 +0800|luci-compat: CBI skip fields that do not satisfy depends
+d16ffa3113|Self-Hosting-Group|Thu Sep 25 00:00:00 2025 +0000|luci-theme: add missing menu name to page `<title>`
+97733541e5|Paul Donald|Wed Dec 3 16:54:29 2025 +0100|luci-app-firewall: use more strict validation for zone names
+de5ddebeed|Paul Donald|Wed Dec 3 16:51:47 2025 +0100|luci-base: add a validation for fw4 zone names
+d02e2a147e|Hosted Weblate|Wed Dec 3 14:52:57 2025 +0100|Translated using Weblate (Catalan)
+790d58e4e6|David Härdeman|Sun Nov 30 21:44:20 2025 +0100|luci-mod-network,-status: expose DUID/IAID for DHCPv4
+70d89764e3|David Härdeman|Sun Nov 30 20:03:03 2025 +0100|luci-mod-network,-status: expose the lease interface
+570b4bfe6f|David Härdeman|Sun Nov 30 19:43:29 2025 +0100|rpcd-mod-luci: report the interface for leases
+338b379d4d|David Härdeman|Sun Nov 30 19:34:08 2025 +0100|rpcd-mod-luci: fix default odhcpd statefile location
+3b7869e6df|David Härdeman|Sun Nov 30 18:35:56 2025 +0100|rpcd-mod-luci: correct DUID logic
+d96d7cf798|mdevolde|Sun Nov 30 12:49:53 2025 +0100|luci-app-filemanager: fix regex, manage broken symlinks, support all file types
+875c2a958f|Paul Donald|Tue Dec 2 23:35:57 2025 +0100|luci-base: retain i18n strings for previous table heading commits
+62848505e6|David Härdeman|Sun Nov 30 17:47:27 2025 +0100|luci-mod-network: fix table headings
+d2e0f88618|David Härdeman|Sun Nov 30 17:22:09 2025 +0100|luci-mod-status: fix table headings
+61e81c1b53|David Härdeman|Sun Nov 30 16:47:48 2025 +0100|luci-mod-network: add IPv6-only preferred option
+</details>
