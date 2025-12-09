@@ -2,5 +2,7 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-16ee9c3e1f|Paul Donald|Sun Dec 7 22:30:46 2025 +0100|luci-mod-dashboard: bug fixes and code cleanup
+dd1ede16a0|Paul Donald|Mon Dec 8 15:02:53 2025 +0100|luci-mod-status: add odhcp6c stats to network include
+2decd522de|Paul Donald|Mon Dec 8 15:02:45 2025 +0100|luci-mod-status: ES6 network panel refactor
+b6d43252f4|Paul Donald|Mon Dec 8 15:02:38 2025 +0100|luci-base: add odhcp6c stats to luci ucode
 </details>

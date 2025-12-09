@@ -2,13 +2,19 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-5e66e31971|Tianling Shen|Sun Dec 7 09:57:12 2025 +0800|Merge Official Source
-a90fb76736|Rosen Penev|Fri Dec 5 19:44:33 2025 -0800|lantiq: tplink_tdw89x0: use led-sources for wifi LED
-ff63c5cd82|Mario Andrés Pérez|Sat Dec 6 02:44:18 2025 +0100|bcm53xx: image: sync targets names with DT compatible
-6c0ef7d4c8|Goetz Goerisch|Fri Dec 5 20:11:40 2025 +0100|odhcpd: update to Git HEAD (2025-12-04)
-00c8b5c612|David Bauer|Fri Dec 5 19:50:22 2025 +0100|libunwind: fix complie for PPC32
-09e7b24ceb|Shine|Tue Nov 11 19:49:16 2025 +0100|mpc85xx: p1010: Fix Sophos RED 15w NAND partitions
-e159d1ec81|Tianling Shen|Fri Oct 17 15:28:57 2025 +0800|rockchip: drop sdmmc speed limitation for RK3576/RK3588
-1842735a06|Álvaro Fernández Rojas|Thu Dec 4 10:20:45 2025 +0100|odhcp6c: update to Git HEAD (2025-12-04)
-3a10dd5967|Marcin Maj|Thu Dec 4 01:43:41 2025 +0100|ath79: fix platform check image mikrotik nor
+e6401ef9e7|Tianling Shen|Mon Dec 8 17:17:45 2025 +0800|aic8800: add mac80211 6.18 support
+cbcc48f993|Tianling Shen|Mon Dec 8 14:47:22 2025 +0800|Merge Official Source
+cc20942931|Christian Marangi|Tue Dec 2 20:31:26 2025 +0100|rtl8812au-ct: rework patch to support kernel 6.18
+c8855881ea|Christian Marangi|Mon Dec 1 23:56:54 2025 +0100|mwlwifi: add pending patch to support kernel 6.18
+5869531992|Christian Marangi|Tue Dec 2 20:40:31 2025 +0100|ath10k-ct: switch to base 6.18
+03e197e23e|Christian Marangi|Tue Dec 2 20:34:12 2025 +0100|ath10k-ct: update to Git HEAD (2025-12-01)
+1346dc176f|Christian Marangi|Sun Nov 30 13:11:56 2025 +0100|mt76: backport patch fixing support for 6.18
+6e09394c3b|Christian Marangi|Thu Nov 27 23:16:38 2025 +0100|ramips: migrate wifi compatible to new name
+52a0873742|Christian Marangi|Thu Nov 27 22:00:54 2025 +0100|mac80211: update to version 6.18
+63e2b17c01|Christian Marangi|Sun Dec 7 23:24:26 2025 +0100|generic: add pending patch fixing resource_size()
+5c513d1f65|Christian Marangi|Mon Dec 1 23:57:53 2025 +0100|generic: move reserved_mem backports patch to generic
+2740ebdd60|Christian Marangi|Thu Nov 27 22:00:03 2025 +0100|generic: backport support for faux base driver
+35dbdd644c|Álvaro Fernández Rojas|Sat Dec 6 17:13:27 2025 +0100|odhcp6c: update to Git HEAD (2025-12-06)
+9323ed52d0|George Moussalem|Sat Nov 29 21:01:48 2025 +0400|qualcommax: ipq50xx: fix qca8337 dtc warnings
+3bbb4f6ce7|George Moussalem|Sat Nov 29 20:35:55 2025 +0400|qualcommax: ipq50xx: remove disabled partitions node
 </details>
