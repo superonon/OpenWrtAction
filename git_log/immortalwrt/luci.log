@@ -1,0 +1,15 @@
+<details> <summary> <b>luci new commit log :new: </b>  </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+b8ca7ba2c7|Tianling Shen|Thu Dec 11 15:16:30 2025 +0800|Merge Official Source
+4c4b5c31bd|Ivan Diaz|Wed Oct 15 20:51:01 2025 -0500|luci-app-watchcat: use DynamicList for pinghosts
+083176262c|Ivan Diaz|Wed Oct 15 09:14:31 2025 -0500|luci-app-watchcat: use DynamicList for pinghosts
+c3946f1f9a|Ivan Diaz|Tue Oct 14 21:10:57 2025 -0500|luci-app-watchcat: allow multiple IP addresses in ping hosts field
+332b3e3b17|Hosted Weblate|Tue Dec 9 16:04:00 2025 +0100|Translated using Weblate (Portuguese (Brazil))
+110aec09d0|David Härdeman|Tue Dec 9 08:58:23 2025 +0100|luci-mod-status: Host -> Hostname in DHCPv6 table
+dd1ede16a0|Paul Donald|Mon Dec 8 15:02:53 2025 +0100|luci-mod-status: add odhcp6c stats to network include
+2decd522de|Paul Donald|Mon Dec 8 15:02:45 2025 +0100|luci-mod-status: ES6 network panel refactor
+b6d43252f4|Paul Donald|Mon Dec 8 15:02:38 2025 +0100|luci-base: add odhcp6c stats to luci ucode
+16ee9c3e1f|Paul Donald|Sun Dec 7 22:30:46 2025 +0100|luci-mod-dashboard: bug fixes and code cleanup
+</details>

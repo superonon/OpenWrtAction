@@ -2,48 +2,30 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-2151ced240|Tianling Shen|Wed Dec 10 17:42:24 2025 +0800|r8152: Update to 2.21.4
-d3fac62966|Tianling Shen|Wed Dec 10 09:36:06 2025 +0800|Merge Official Source
-46532c9bcb|Álvaro Fernández Rojas|Tue Dec 9 16:17:04 2025 +0100|odhcp6c: update to Git HEAD (2025-12-09)
-355bb8c890|Hauke Mehrtens|Mon Dec 8 22:15:31 2025 +0100|libubox: update to Git HEAD (2025-12-08)
-0cceb4b509|Hauke Mehrtens|Mon Dec 8 22:26:53 2025 +0100|ubus: update to Git HEAD (2025-12-02)
-9c286bd1e3|Hauke Mehrtens|Mon Dec 8 22:14:47 2025 +0100|libnl-tiny: update to Git HEAD (2025-12-02)
-e7a57a980e|Hauke Mehrtens|Mon Dec 8 22:27:23 2025 +0100|uci: update to Git HEAD (2025-12-02)
-409b2f41a1|Shiji Yang|Tue Dec 9 18:47:32 2025 +0800|uboot-mediatek: fix readmem command help message
-c2c38469a8|Kyle Hendry|Fri Jan 17 12:18:20 2025 -0800|bmips: b53: enable bcm63268 internal PHYs
-d11b77db5e|Hauke Mehrtens|Tue Dec 9 02:06:26 2025 +0100|apk: Fix host compilation with C89
-344bb7f916|Zhiwei Cao|Fri Apr 25 11:03:56 2025 +0800|mediatek: filogic: add support Netcore NX30V2/N30PRO/POWER30AX/W7/GW3001
-b182f2e0b4|Rosen Penev|Fri Feb 16 21:27:05 2024 -0800|ath79: meraki_mr1[26]: userspace cal to nvmem
-6b961303e0|Rosen Penev|Wed Oct 22 18:02:12 2025 -0700|ath79: moxa,awk-1137c: use nvmem for calibration
-26ff8efc8a|Brian Lee|Wed Dec 3 13:57:28 2025 +0900|mediatek: filogic: replace spaces with tabs for indentation
-011890ad93|Pawel Dembicki|Thu Oct 2 15:49:17 2025 +0200|mediatek: filogic: add support for Kebidumei AX3000-U22
-05cd169cd4|Rosen Penev|Tue Dec 2 15:19:10 2025 -0800|gpio-button-hotplug: some modern cleanups
-cc2aefe619|Maxim Anisimov|Mon Nov 10 13:58:14 2025 +0300|mediatek: add Keenetic KN-1812/Netcraze NC-1812 support
-7423edb393|Maxim Anisimov|Tue Nov 11 17:38:21 2025 +0300|mediatek: import patch from Mediatek SDK for pcie
-ac1ee98c45|Shiji Yang|Fri Dec 5 21:19:05 2025 +0800|uboot-envtools: reorganize the initialization scripts
-448425261b|Shiji Yang|Fri Dec 5 21:16:05 2025 +0800|uboot-envtools: ipq40xx: remove unused function ubootenv_mtdinfo()
-7ff663cc31|Marcin Leksmark|Thu Dec 4 17:51:11 2025 +0100|ramips: mt7621.mk: fix alphabetical ordering some Cudy devices
-c3887c126d|Jonas Jelonek|Fri Nov 7 19:00:03 2025 +0000|realtek: dsa,phy: rtl838x: remove 'SerDes as PHY' leftovers
-a63da75e44|Jonas Jelonek|Fri Nov 7 18:45:27 2025 +0000|realtek: rtl838x: drop SFP pseudo-PHYs and phy-handle
-e956adfe3e|Jonas Jelonek|Fri Nov 7 16:15:17 2025 +0000|realtek: rtl838x: setup SDS entirely in PCS driver
-b670d48366|Jonas Jelonek|Fri Nov 7 11:45:30 2025 +0000|realtek: pcs: rtl838x: refactor imported code
-f4129beb39|Jonas Jelonek|Fri Nov 7 11:47:37 2025 +0000|realtek: pcs: rtl838x: import SerDes code from DSA/PHY
-6a5cae7d74|Jonas Jelonek|Fri Nov 7 10:21:43 2025 +0000|realtek: pcs: rtl838x: transplant firmware config
-328b970ecd|Jonas Jelonek|Fri Nov 7 12:16:45 2025 +0000|realtek: pcs: add init_serdes_common hook
-a703b9100e|George Sapkin|Mon Dec 1 16:57:00 2025 +0200|scripts/kernel_bump: adjust commit messages
-c9553caa0e|Jonas Jelonek|Fri Nov 7 18:34:58 2025 +0000|realtek: fix SFP support on Engenius EWS2910P
-721f808253|Christian Marangi|Mon Dec 8 21:42:48 2025 +0100|mac80211: add pending fix for wrong resource_size() usage for ath11k
-1c02c78e7c|Christian Marangi|Mon Dec 8 21:41:03 2025 +0100|Revert "generic: add pending patch fixing resource_size()"
-b91ebdabbb|Paul Donald|Mon Dec 8 17:41:25 2025 +0100|apk: bump to 3.0.1
-1684c28cfe|Paul Donald|Mon Dec 8 20:45:16 2025 +0100|apk: define minimal variant for install
-83f6177dbf|Petr Štetiar|Sat Dec 6 18:34:37 2025 +0000|dropbear: enable configurable port forwarding options
-ed5cefb037|Vincent Li|Sun Dec 7 07:53:07 2025 -0800|loongarch64: backport kernel BPF trampoline
-301eee8099|Shiji Yang|Mon Dec 8 19:11:39 2025 +0800|ath10k-ct: remove outdated iommu revert patch
-46c885ab6c|Shiji Yang|Mon Dec 8 19:02:33 2025 +0800|mac80211: ralink: remove rt2x00soc.ko
-75915e3580|Caleb James DeLisle|Thu Dec 4 19:13:23 2025 +0000|econet: fix wrong board name for Zyxel PMG5617GA
-4e0dfa6e27|Caleb James DeLisle|Tue Dec 2 20:37:24 2025 +0000|econet: update en75_chboot to use OpenWrt board_name
-72f43ac220|Rosen Penev|Sat Dec 6 13:14:03 2025 -0800|bmips: huawei-hg556a-c: use nvmem for wifi eeprom
-5ba9354fc5|Rosen Penev|Fri Dec 5 19:34:37 2025 -0800|bmips: use led-sources for ath9k
-7f05a9af9a|Rany Hany|Thu May 1 17:06:20 2025 +0000|hostapd: allow ubus ban client address to be a broadcast address
-5d7107ef63|Rany Hany|Thu May 1 16:46:35 2025 +0000|hostapd: add ubus support to disasoc/deauth all wireless STAs
+4a3e0df7c5|Jason Zou|Thu Dec 11 17:37:11 2025 +0800|rockchip: add support for Ariaboard Photonicat2
+0fc04bf0de|Tianling Shen|Thu Dec 11 15:23:00 2025 +0800|Merge Official Source
+589e0d8d4f|Tianling Shen|Thu Dec 11 15:06:31 2025 +0800|Merge Official Source
+f2c5abcda3|Tianling Shen|Thu Dec 11 14:41:27 2025 +0800|rockchip: backport pending PWMv4 support
+52fa3728e5|David Härdeman|Tue Dec 9 23:49:48 2025 +0100|base-files: always generate default DUID
+86bd55c4fd|Shiji Yang|Sat Nov 29 00:21:04 2025 +0800|bcm27xx: fix patch wrong CRLF line-ending
+bb2d9c1a65|Chukun Pan|Tue Nov 11 21:10:36 2025 +0800|arm-trusted-firmware-mediatek: remove DDR combo for MT7987
+f037a2e8bb|Chukun Pan|Mon Nov 10 18:16:30 2025 +0800|arm-trusted-firmware-mediatek: add MT7987 DDR4 4BG images
+3b14ace444|Chukun Pan|Mon Mar 10 23:15:38 2025 +0800|arm-trusted-firmware-mediatek: add MT7981 sdmmc images
+69918d1e0b|Chukun Pan|Tue Mar 11 23:15:20 2025 +0800|arm-trusted-firmware-mediatek: rearrange some images
+8b05db405b|Qingfang Deng|Wed Dec 10 09:28:29 2025 +0800|kernel: add network teaming modules
+be7aa5bda4|Shine|Thu Oct 24 14:19:43 2024 +0200|mpc85xx: add support for Watchguard Firebox T10-W, T15(-W)
+15ef024805|Shine|Thu Oct 24 18:17:43 2024 +0200|mpc85xx: p1010: use common DTSI for Watchguard Firebox T1X
+e40ca676ee|Hauke Mehrtens|Mon Dec 8 22:20:46 2025 +0100|ucode: update to Git HEAD (2025-12-01)
+c25265953b|Nick Hainke|Sun Nov 23 09:58:30 2025 +0100|libcap: update to 2.77
+afdbdbae3b|Hauke Mehrtens|Mon Dec 8 22:40:54 2025 +0100|bridger: update to Git HEAD (2025-10-23)
+367d8b2115|Hauke Mehrtens|Mon Dec 8 22:18:31 2025 +0100|nftables: update to version 1.1.6
+f26294f161|Hauke Mehrtens|Mon Dec 8 22:17:15 2025 +0100|libnftnl: update to version 1.3.1
+4e06003d06|Hauke Mehrtens|Mon Dec 8 22:12:49 2025 +0100|libnl: update to version 3.12
+04946ee8ab|Christian Marangi|Wed Dec 10 23:19:35 2025 +0100|openwrt-keyring: update to Git HEAD (2025-12-10)
+5cbafcbb67|Hauke Mehrtens|Mon Dec 8 22:38:25 2025 +0100|iproute2: update to version 6.18
+521087d131|Christian Marangi|Wed Dec 10 22:48:55 2025 +0100|mac80211: backport patch fixing support for GCC15
+1c7ec8ab19|Linus Walleij|Thu Jun 19 14:07:34 2025 +0200|scripts/jungo-image: Fix up whitespace
+9e9206427f|Vincent Li|Tue Dec 9 17:36:42 2025 -0800|loongarch64: Disable strict alignment to fix BPF program failures
+f3e4620f59|Andreas Gnau|Wed Dec 10 18:21:45 2025 +0100|build: depend on tools/zstd for download
+4e4986aaf6|Álvaro Fernández Rojas|Sat Dec 6 17:01:00 2025 +0100|odhcpd: update to Git HEAD (2025-12-10)
 </details>

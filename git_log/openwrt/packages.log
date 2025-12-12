@@ -2,8 +2,8 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-0ca33e71e|Goetz Goerisch|Sat Dec 6 08:43:13 2025 +0100|unbound: update to 1.24.2
-4a7220021|Dirk Brenken|Mon Dec 8 18:42:20 2025 +0100|unbound: minimal fix for odhcpd lease file parsing
-0b6d2a285|Til Kaiser|Mon Dec 8 19:13:46 2025 +0100|treewide: remove python3-distutils dependency
-7403bb5be|Yanase Yuki|Wed Dec 10 17:44:24 2025 +0900|ptunnel-ng: remove package
+990bf69fd|Dirk Brenken|Thu Dec 11 22:43:31 2025 +0100|travelmate: release 2.3.0-1
+5369c5cbb|George Sapkin|Mon Dec 8 16:48:29 2025 +0200|adguardhome: bump to 0.107.71
+4bcc482ab|Niklas Thorild|Wed Dec 10 16:31:00 2025 +0100|dnscrypt-proxy2: update to version 2.1.15
+1f2d66502|George Sapkin|Thu Dec 11 01:32:26 2025 +0200|multi-arch-test-build: disable comments and labels
 </details>
