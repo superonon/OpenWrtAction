@@ -2,5 +2,7 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-fdef3c0d0c|Dirk Brenken|Thu Dec 11 22:48:08 2025 +0100|luci-app-travelmate: sync with travelmate 2.3.0-1
+7df4840b1c|Paul Donald|Fri Dec 12 16:35:54 2025 +0100|luci-mod-network: ES6 refactor for diagnostics
+122a5ba73e|Richard Yu|Mon Sep 1 22:43:16 2025 +0800|luci-mod-network: diagnostics: add realtime command output
+ece28ab5a4|Richard Yu|Mon Sep 1 22:39:47 2025 +0800|luci-base: add `responseProgress` callback and `stderr` option for LuCI.request and `fs.exec_direct()`.
 </details>

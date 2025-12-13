@@ -2,8 +2,11 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-990bf69fd|Dirk Brenken|Thu Dec 11 22:43:31 2025 +0100|travelmate: release 2.3.0-1
-5369c5cbb|George Sapkin|Mon Dec 8 16:48:29 2025 +0200|adguardhome: bump to 0.107.71
-4bcc482ab|Niklas Thorild|Wed Dec 10 16:31:00 2025 +0100|dnscrypt-proxy2: update to version 2.1.15
-1f2d66502|George Sapkin|Thu Dec 11 01:32:26 2025 +0200|multi-arch-test-build: disable comments and labels
+3f52746c7|Vasileios Anagnostopoulos|Wed Nov 26 14:50:07 2025 +0100|watchcat: passing the interface in the ping_reboot
+90e227e75|Paul Donald|Thu Dec 11 15:04:15 2025 +0100|cgi-io: update to Git 658b14bda (2025-12-11)
+21019d063|Martin Schiller|Mon Nov 24 13:46:22 2025 +0100|xl2tp: add PPP unnumbered support to proto handler
+495e4e928|Wei-Ting Yang|Mon Dec 8 21:33:02 2025 +0800|python-urllib3: update to 2.6.1
+4b5b41e35|David Woodhouse|Mon Nov 17 13:41:06 2025 +0000|domoticz: improve config, don't require telldus
+b8430de53|David Woodhouse|Mon Nov 17 13:41:47 2025 +0000|openzwave: update to 1.6.1965, disable downloads
+76953dba6|Eric Fahlgren|Thu Dec 11 14:22:19 2025 -0800|owut: update to 2025.12.01
 </details>
