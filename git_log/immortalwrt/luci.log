@@ -1,8 +1,0 @@
-<details> <summary> <b>luci new commit log :new: </b>  </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-cb1d7d7b8d|xiaobaishu1|Fri Dec 12 11:32:02 2025 +0800|luci-base: fix duplicated `connect` import
-54362371b3|xiaobaishu1|Fri Dec 12 10:54:12 2025 +0800|luci-base: fix the closure of getOdhcp6cStats
-50b09e26d0|libriunk|Fri Dec 12 09:49:29 2025 +0800|luci-mod-status: 30_network: remove duplicated rpc include
-</details>

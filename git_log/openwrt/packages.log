@@ -2,11 +2,9 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-3f52746c7|Vasileios Anagnostopoulos|Wed Nov 26 14:50:07 2025 +0100|watchcat: passing the interface in the ping_reboot
-90e227e75|Paul Donald|Thu Dec 11 15:04:15 2025 +0100|cgi-io: update to Git 658b14bda (2025-12-11)
-21019d063|Martin Schiller|Mon Nov 24 13:46:22 2025 +0100|xl2tp: add PPP unnumbered support to proto handler
-495e4e928|Wei-Ting Yang|Mon Dec 8 21:33:02 2025 +0800|python-urllib3: update to 2.6.1
-4b5b41e35|David Woodhouse|Mon Nov 17 13:41:06 2025 +0000|domoticz: improve config, don't require telldus
-b8430de53|David Woodhouse|Mon Nov 17 13:41:47 2025 +0000|openzwave: update to 1.6.1965, disable downloads
-76953dba6|Eric Fahlgren|Thu Dec 11 14:22:19 2025 -0800|owut: update to 2025.12.01
+124596c31|Tomáš Macholda|Thu Sep 25 15:17:42 2025 +0200|mox-pkcs11: add new package
+a050b08db|Philip Prindeville|Wed Dec 10 15:03:41 2025 -0700|isc-dhcp: fix startup issues with RFC-1918 PTR RRs
+19c662ac7|Vladimir Ulrich|Sat Dec 13 07:20:09 2025 +0300|zoneinfo: updated to 2025c release
+315ef8adf|Stan Grishin|Thu Dec 11 20:00:03 2025 +0000|pbr: update to 1.2.1-r41
+9d751f30f|Philip Prindeville|Fri Dec 12 12:43:07 2025 -0700|bind: manual fix for IPv6 server unreachable noise
 </details>
