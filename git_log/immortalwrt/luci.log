@@ -1,0 +1,18 @@
+<details> <summary> <b>luci new commit log :new: </b>  </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+28015a52c7|Tianling Shen|Sun Dec 14 17:39:24 2025 +0800|Merge Official Source
+ce3e393ec2|Dirk Brenken|Sun Dec 14 07:11:19 2025 +0100|luci-app-adblock: sync with adblock 4.4.5-1
+66d0d6eeda|Paul Donald|Sat Dec 13 18:58:45 2025 +0100|luci-base: propagate the multiple flag for RichListValue
+c937c7fa27|Paul Donald|Sat Dec 13 18:57:21 2025 +0100|luci-mod-network: reveal ra_preference as router priority
+006643dcb3|Eamon Xiong|Sat Dec 13 01:27:54 2025 +0800|luci-mod-status: show DHCPv6 stats as tooltip
+6da11f8743|SakuraFallingMad|Fri Nov 14 19:55:15 2025 +0800|luci-app-passwall: bump to 25.12.13
+ef4a1c9cea|Paul Donald|Sat Dec 13 13:36:59 2025 +0100|luci-mod-network: remove debugger statement
+ac136290da|David Härdeman|Sat Dec 13 09:39:54 2025 +0100|luci-mod-network: update odhcpd configuration
+b1afdbeb55|Hosted Weblate|Fri Dec 12 16:53:37 2025 +0100|Translated using Weblate (French)
+7df4840b1c|Paul Donald|Fri Dec 12 16:35:54 2025 +0100|luci-mod-network: ES6 refactor for diagnostics
+122a5ba73e|Richard Yu|Mon Sep 1 22:43:16 2025 +0800|luci-mod-network: diagnostics: add realtime command output
+ece28ab5a4|Richard Yu|Mon Sep 1 22:39:47 2025 +0800|luci-base: add `responseProgress` callback and `stderr` option for LuCI.request and `fs.exec_direct()`.
+fdef3c0d0c|Dirk Brenken|Thu Dec 11 22:48:08 2025 +0100|luci-app-travelmate: sync with travelmate 2.3.0-1
+</details>

@@ -2,8 +2,9 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-006643dcb3|Eamon Xiong|Sat Dec 13 01:27:54 2025 +0800|luci-mod-status: show DHCPv6 stats as tooltip
-ef4a1c9cea|Paul Donald|Sat Dec 13 13:36:59 2025 +0100|luci-mod-network: remove debugger statement
-ac136290da|David Härdeman|Sat Dec 13 09:39:54 2025 +0100|luci-mod-network: update odhcpd configuration
-b1afdbeb55|Hosted Weblate|Fri Dec 12 16:53:37 2025 +0100|Translated using Weblate (French)
+adf9e685ec|Dirk Brenken|Sun Dec 14 23:10:08 2025 +0100|luci-app-travelmate: update 2.3.0-2
+fa74b609e9|mdevolde|Fri Dec 12 16:35:15 2025 +0100|luci-app-wol: Enables persistent configuration of hosts to wake up
+ce3e393ec2|Dirk Brenken|Sun Dec 14 07:11:19 2025 +0100|luci-app-adblock: sync with adblock 4.4.5-1
+66d0d6eeda|Paul Donald|Sat Dec 13 18:58:45 2025 +0100|luci-base: propagate the multiple flag for RichListValue
+c937c7fa27|Paul Donald|Sat Dec 13 18:57:21 2025 +0100|luci-mod-network: reveal ra_preference as router priority
 </details>
