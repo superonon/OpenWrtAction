@@ -2,9 +2,7 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-adf9e685ec|Dirk Brenken|Sun Dec 14 23:10:08 2025 +0100|luci-app-travelmate: update 2.3.0-2
-fa74b609e9|mdevolde|Fri Dec 12 16:35:15 2025 +0100|luci-app-wol: Enables persistent configuration of hosts to wake up
-ce3e393ec2|Dirk Brenken|Sun Dec 14 07:11:19 2025 +0100|luci-app-adblock: sync with adblock 4.4.5-1
-66d0d6eeda|Paul Donald|Sat Dec 13 18:58:45 2025 +0100|luci-base: propagate the multiple flag for RichListValue
-c937c7fa27|Paul Donald|Sat Dec 13 18:57:21 2025 +0100|luci-mod-network: reveal ra_preference as router priority
+a0531c7822|George Sapkin|Mon Dec 15 17:20:24 2025 +0200|formal: post formality check comments to PRs
+6b45572ea4|George Sapkin|Tue Nov 25 23:41:37 2025 +0200|formal: fix permissions
+3b81fafa80|zhusir|Mon Dec 15 20:03:02 2025 +0800|luci-app-acme: fixed the issue where certificates were not displaying (#8151)
 </details>
