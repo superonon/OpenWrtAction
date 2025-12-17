@@ -2,15 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-afce31650|Dirk Brenken|Mon Dec 15 22:58:34 2025 +0100|adblock: update 4.4.5-2
-d2709bd32|Til Kaiser|Mon Dec 15 17:41:16 2025 +0100|mstflint: update to 4.34.1-1
-6ec4b726f|Philip Prindeville|Sun Dec 14 12:21:20 2025 -0700|strongswan: update to 6.0.4
-d29dd8e02|Yanase Yuki|Fri Nov 28 19:21:17 2025 +0900|oor: remove package
-7eea92b91|Yanase Yuki|Wed Dec 10 17:49:40 2025 +0900|python3-speedtest-cli: remove package
-ebdb9536a|Hirokazu MORIKAWA|Mon Dec 15 17:42:33 2025 +0900|c-ares: bump to 1.34.6
-68b538b3e|Thomas Winkler|Mon Dec 15 06:39:41 2025 +0100|tang: make sure output and errors are logged to system log
-aa1acc0f2|Daniel F. Dickinson|Sun Dec 14 20:29:19 2025 -0500|php8: bump PKG_RELEASE
-f9591b851|Daniel F. Dickinson|Sun Dec 14 02:24:05 2025 -0500|php8: xml modules affect others
-6d6233b6b|Daniel F. Dickinson|Sun Dec 14 01:26:04 2025 -0500|php8: module selection affects other sub-packages
-902da8510|Mai Thanh Minh|Mon Dec 15 03:25:10 2025 +0700|zerotier: apply upstream license change to `MPL-2.0`
+cf39ccc1b|Jonas Jelonek|Tue Dec 16 21:29:48 2025 +0000|eza: update to 0.23.4
+105d94314|Jonas Jelonek|Tue Dec 16 21:17:02 2025 +0000|croc: update to 10.3.1
 </details>
