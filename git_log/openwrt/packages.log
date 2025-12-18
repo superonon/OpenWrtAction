@@ -2,6 +2,8 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-cf39ccc1b|Jonas Jelonek|Tue Dec 16 21:29:48 2025 +0000|eza: update to 0.23.4
-105d94314|Jonas Jelonek|Tue Dec 16 21:17:02 2025 +0000|croc: update to 10.3.1
+bc1da8b13|Hannu Nyman|Wed Dec 17 21:28:16 2025 +0200|irqbalance: Revert "irqbalance: update to 1.9.5"
+63308ab21|Brian J. Murrell|Thu Feb 23 15:01:46 2023 -0500|ddns-scripts: remove minimum 5 minute wait
+e564f6953|Sandro Jäckel|Tue Dec 16 02:08:28 2025 +0100|tailscale: update to 1.92.2
+82c3465e6|Luiz Angelo Daros de Luca|Tue Dec 16 16:33:02 2025 -0300|ruby: update to 3.4.7
 </details>

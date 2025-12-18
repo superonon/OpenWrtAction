@@ -2,29 +2,9 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-0bfc66e7b5|Hauke Mehrtens|Mon Dec 15 02:02:35 2025 +0100|kernel: Fix boot of realtek rtl838x
-97e9d7038e|John Audia|Wed Dec 10 15:19:42 2025 -0500|kernel: bump 6.12 to 6.12.62
-86996634f0|Hauke Mehrtens|Wed Dec 17 00:06:24 2025 +0100|uboot-sunxi: fix u-boot build
-e4d5e76af0|Rany Hany|Mon Dec 15 19:11:24 2025 +0200|wifi-scripts: update phys after rename_phy_by_name call
-d519a3ee86|Jonas Jelonek|Tue Dec 16 12:06:57 2025 +0000|realtek: mdio-serdes: use correct device table identifier
-56a71f3c82|Jonas Jelonek|Thu Dec 11 23:33:59 2025 +0000|realtek: pcs: move polarity into SerDes struct
-18eea05483|Jonas Jelonek|Sat Dec 13 10:48:52 2025 +0000|realtek: pcs: drop unneeded SerDes number range checks
-d8dd8bd88f|Jonas Jelonek|Sat Dec 13 20:12:13 2025 +0000|realtek: pcs: make use of SerDes struct in set_autoneg
-1fccb0eb16|Jonas Jelonek|Thu Dec 11 21:42:38 2025 +0000|realtek: pcs: make use of SerDes struct in SerDes setup
-4d9400f86b|Jonas Jelonek|Sat Dec 13 20:01:03 2025 +0000|realtek: pcs: switch to id from SerDes struct
-69bbcc685b|Jonas Jelonek|Sat Dec 13 10:29:56 2025 +0000|realtek: pcs: assign SerDes reference upon PCS creation
-232c1fb14a|Jonas Jelonek|Sat Dec 13 10:16:21 2025 +0000|realtek: pcs: add helpers for even, odd, neighbor SerDes
-6b3f8fb16f|Jonas Jelonek|Sat Dec 13 10:12:35 2025 +0000|realtek: pcs: add separate SerDes struct
-6cf33aacfe|Jonas Jelonek|Sat Dec 13 09:10:55 2025 +0000|realtek: pcs: use per-variant SerDes count
-a4d6e10bf2|Jonas Jelonek|Thu Dec 11 19:17:26 2025 +0000|realtek: pcs: add dedicated enum for SerDes modes
-decc4f6ba8|Jonas Jelonek|Fri Dec 12 20:05:52 2025 +0000|realtek: pcs: rtl930x: drop unused and broken function
-a58e41e522|Jonas Jelonek|Thu Dec 11 22:37:33 2025 +0000|realtek: pcs: drop PCS creation without SerDes ref
-8e4730fd60|Jonas Jelonek|Tue Dec 16 10:20:13 2025 +0000|realtek: mdio-serdes: improve debugfs creation
-3045f205b3|Christoph Krapp|Sat Nov 22 22:34:04 2025 +0100|ipq40xx: convert Orbi led labels to function/color
-f0909f7a05|Christoph Krapp|Sat Nov 22 20:42:33 2025 +0100|ipq40xx: fix second 5ghz radio on Netgear RBx40
-e9d6015bef|Christoph Krapp|Sat Nov 22 20:40:49 2025 +0100|ipq-wifi: add entry for Netgear RBK40
-0f0f578d0a|Christoph Krapp|Sat Nov 22 20:25:29 2025 +0100|ipq40xx: fix Netgear RBR40 wan mac
-314dbb7fec|Christoph Krapp|Sat Nov 22 20:20:14 2025 +0100|ipq40xx: split orbi devices in router and satellite
-4e688db5a8|Robert Marko|Tue Dec 16 10:27:34 2025 +0100|ipq-wifi: update to Git HEAD (2025-12-16)
-f0c5348775|Christoph Krapp|Mon Nov 10 23:44:21 2025 +0100|qualcommax: ipq807x: use ascii-env driver for Linksys MX4200v1
+41a1874c70|Álvaro Fernández Rojas|Wed Dec 17 15:09:38 2025 +0100|odhcp6c: update to Git HEAD (2025-12-17)
+3b58539817|Álvaro Fernández Rojas|Wed Dec 17 15:52:37 2025 +0100|odhcpd: update to Git HEAD (2025-12-14)
+487178f8b0|Markus Petri|Thu Dec 4 21:28:51 2025 +0100|vrx518_tc: fix rx_len_adj
+7bfe7788b1|Janusz Dziedzic|Tue Dec 16 17:15:03 2025 +0000|linux-firmware: intel: bump BE200 wifi firmware
+70a4da1ceb|Petr Štetiar|Tue Dec 16 16:42:19 2025 +0000|dropbear: bump to 2025.89 (CVE-2025-14282, CVE-2019-6111)
 </details>
