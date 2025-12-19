@@ -2,9 +2,9 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-41a1874c70|Álvaro Fernández Rojas|Wed Dec 17 15:09:38 2025 +0100|odhcp6c: update to Git HEAD (2025-12-17)
-3b58539817|Álvaro Fernández Rojas|Wed Dec 17 15:52:37 2025 +0100|odhcpd: update to Git HEAD (2025-12-14)
-487178f8b0|Markus Petri|Thu Dec 4 21:28:51 2025 +0100|vrx518_tc: fix rx_len_adj
-7bfe7788b1|Janusz Dziedzic|Tue Dec 16 17:15:03 2025 +0000|linux-firmware: intel: bump BE200 wifi firmware
-70a4da1ceb|Petr Štetiar|Tue Dec 16 16:42:19 2025 +0000|dropbear: bump to 2025.89 (CVE-2025-14282, CVE-2019-6111)
+caef0a839a|Álvaro Fernández Rojas|Thu Dec 18 18:30:56 2025 +0100|odhcpd: update to Git HEAD (2025-12-18)
+740f5dc175|Álvaro Fernández Rojas|Thu Dec 18 18:52:47 2025 +0100|odhcp6c: update to Git HEAD (2025-12-18)
+cd2ad6c464|Chester A. Unal|Thu Sep 11 10:45:32 2025 +0100|packages: nvram: add set_bcm43602_variables quirk for ASUS RT-AC3200
+64b6293eb7|Chester A. Unal|Mon Apr 8 11:36:58 2024 +0300|packages: nvram: add asus,rt-ac{3200,5300} to set_wireless_led_behaviour
+4284d56568|Chester A. Unal|Sun Apr 7 12:24:57 2024 +0200|bcm53xx: add support for ASUS RT-AC3200 and ASUS RT-AC5300
 </details>

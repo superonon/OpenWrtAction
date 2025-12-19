@@ -2,8 +2,7 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-bc1da8b13|Hannu Nyman|Wed Dec 17 21:28:16 2025 +0200|irqbalance: Revert "irqbalance: update to 1.9.5"
-63308ab21|Brian J. Murrell|Thu Feb 23 15:01:46 2023 -0500|ddns-scripts: remove minimum 5 minute wait
-e564f6953|Sandro Jäckel|Tue Dec 16 02:08:28 2025 +0100|tailscale: update to 1.92.2
-82c3465e6|Luiz Angelo Daros de Luca|Tue Dec 16 16:33:02 2025 -0300|ruby: update to 3.4.7
+b0b7e0bc3|Yanase Yuki|Wed Dec 10 17:41:33 2025 +0900|netwhere: remove package
+526520eaa|Christian Beier|Fri Nov 28 20:28:53 2025 +0100|shairport-sync: enable Airplay 2 for -openssl only
+78c39ff48|Luiz Angelo Daros de Luca|Wed Dec 17 23:23:17 2025 -0300|ruby: update to 3.4.8
 </details>
