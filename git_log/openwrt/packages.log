@@ -2,7 +2,7 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-b0b7e0bc3|Yanase Yuki|Wed Dec 10 17:41:33 2025 +0900|netwhere: remove package
-526520eaa|Christian Beier|Fri Nov 28 20:28:53 2025 +0100|shairport-sync: enable Airplay 2 for -openssl only
-78c39ff48|Luiz Angelo Daros de Luca|Wed Dec 17 23:23:17 2025 -0300|ruby: update to 3.4.8
+45a857940|George Sapkin|Wed Dec 17 16:13:01 2025 +0200|vim: add SPDX license identifier
+d1351b3d8|George Sapkin|Sat Dec 13 18:19:44 2025 +0200|vim: fix config and runtime
+bc91a9424|Javier Marcet|Sat Dec 6 15:31:24 2025 +0100|docker-compose: update to version 5.0.0
 </details>
