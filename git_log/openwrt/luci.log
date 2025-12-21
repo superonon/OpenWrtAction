@@ -2,5 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-effe3ea281|David Härdeman|Sun Dec 14 19:43:45 2025 +0100|luci-mod-network: update dhcpv6_pd_min_len values
+7fe6194cdb|Hannu Nyman|Sat Dec 20 16:53:01 2025 +0200|treewide: sync translations
+4b35b0a937|Hosted Weblate|Sat Dec 20 15:35:50 2025 +0100|Translated using Weblate (Persian)
 </details>

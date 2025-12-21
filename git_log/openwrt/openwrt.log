@@ -1,0 +1,9 @@
+<details> <summary> <b>openwrt new commit log :new: </b>  </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+22a69dfa4a|Dominic Germain|Fri Dec 19 09:46:57 2025 -0500|kernel: add option for USB FunctionFS gadget
+6bfb305394|Emre Yavuzalp|Sun Nov 30 18:53:51 2025 +0300|mediatek: filogic: TP-Link Archer AX80 v1 (EU) support
+b289edd84b|Alexander Patrakov|Sun Sep 28 03:59:41 2025 +0800|comgt-ncm: fix setting ip[46]table and MTU
+d34cef823e|Markus Stockhausen|Fri Dec 19 07:34:54 2025 +0100|build: avoid errors during release candidate kernel packaging
+</details>
