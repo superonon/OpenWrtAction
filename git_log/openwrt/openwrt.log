@@ -2,8 +2,7 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-22a69dfa4a|Dominic Germain|Fri Dec 19 09:46:57 2025 -0500|kernel: add option for USB FunctionFS gadget
-6bfb305394|Emre Yavuzalp|Sun Nov 30 18:53:51 2025 +0300|mediatek: filogic: TP-Link Archer AX80 v1 (EU) support
-b289edd84b|Alexander Patrakov|Sun Sep 28 03:59:41 2025 +0800|comgt-ncm: fix setting ip[46]table and MTU
-d34cef823e|Markus Stockhausen|Fri Dec 19 07:34:54 2025 +0100|build: avoid errors during release candidate kernel packaging
+def7548867|Shiji Yang|Thu Dec 18 21:26:36 2025 +0800|tools/xz: update to 5.8.2
+c13f299918|Qingfang Deng|Fri Dec 12 10:53:11 2025 +0800|mvebu: enable tickless idle
+79dac8f57c|Shiji Yang|Thu Dec 11 19:16:56 2025 +0800|arm-trusted-firmware-mediatek: use MT/s as DDR speed unit
 </details>
