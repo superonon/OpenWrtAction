@@ -2,9 +2,10 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-97b7ff2f4|Sven Eckelmann|Wed Nov 5 13:16:48 2025 +0100|poemgr: Install default PSX10 + PSX28 configuration
-970416925|George Sapkin|Fri Dec 19 15:20:41 2025 +0200|chicken-scheme: fix EXTRA_DEPENDS
-ad82c17f7|George Sapkin|Fri Dec 19 15:13:39 2025 +0200|tar: fix EXTRA_DEPENDS
-2d9126fef|Jeronimo Pellegrini|Mon Nov 24 20:31:31 2025 -0300|rlwrap: add package
-df05c1208|Wesley Gimenes|Sat Dec 20 21:35:54 2025 -0300|2to3: remove package
+118230152|Til Kaiser|Mon Dec 22 12:55:40 2025 +0100|mstflint: update to 4.34.1-2
+7b4b55633|Michael Heimpold|Fri Dec 19 16:56:16 2025 +0100|php8: update to 8.4.16
+3dcc4f1d3|George Sapkin|Mon Dec 22 03:28:07 2025 +0200|tar: fix circular dependency on xz
+8dfc56aff|Jeronimo Pellegrini|Wed Nov 19 13:23:02 2025 -0300|chicken-scheme: bump to 5.4.0
+5b4e4bf3c|George Sapkin|Mon Dec 22 00:40:01 2025 +0200|chicken-scheme: split library and refactor
+e00c01fd7|Jeronimo Pellegrini|Wed Nov 19 13:23:02 2025 -0300|chicken-scheme: add CI test script
 </details>

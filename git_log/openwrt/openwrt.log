@@ -2,7 +2,9 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-def7548867|Shiji Yang|Thu Dec 18 21:26:36 2025 +0800|tools/xz: update to 5.8.2
-c13f299918|Qingfang Deng|Fri Dec 12 10:53:11 2025 +0800|mvebu: enable tickless idle
-79dac8f57c|Shiji Yang|Thu Dec 11 19:16:56 2025 +0800|arm-trusted-firmware-mediatek: use MT/s as DDR speed unit
+74b5a63cf9|Jonas Jelonek|Mon Dec 22 09:57:52 2025 +0000|realtek: image: add rt-loader-no-uimage recipe
+b1c1b713f0|Jonas Jelonek|Sun Dec 21 23:13:10 2025 +0000|realtek: rt-loader: allow arbitrary kernel load address
+bdbb4bdfa0|Radek Dostál|Sun Dec 14 10:37:06 2025 +0100|ath79: fix build of big images for TP RE355v1, RE450v1 & v2
+18029977f6|George Sapkin|Thu Nov 20 01:50:03 2025 +0200|build: fix apk packaging and ABI-versioning
+095151b235|Mikhail Kshevetskiy|Fri Nov 22 01:29:06 2024 +0300|mediatek: fix pwn fan settings for sinovoip bpi-r3 (v3)
 </details>
