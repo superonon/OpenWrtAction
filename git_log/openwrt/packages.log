@@ -2,10 +2,9 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-118230152|Til Kaiser|Mon Dec 22 12:55:40 2025 +0100|mstflint: update to 4.34.1-2
-7b4b55633|Michael Heimpold|Fri Dec 19 16:56:16 2025 +0100|php8: update to 8.4.16
-3dcc4f1d3|George Sapkin|Mon Dec 22 03:28:07 2025 +0200|tar: fix circular dependency on xz
-8dfc56aff|Jeronimo Pellegrini|Wed Nov 19 13:23:02 2025 -0300|chicken-scheme: bump to 5.4.0
-5b4e4bf3c|George Sapkin|Mon Dec 22 00:40:01 2025 +0200|chicken-scheme: split library and refactor
-e00c01fd7|Jeronimo Pellegrini|Wed Nov 19 13:23:02 2025 -0300|chicken-scheme: add CI test script
+61debad22|xiao bo|Sat Dec 20 20:27:03 2025 +0800|sing-box: update to 1.12.13
+402881e18|John Audia|Sun Dec 21 05:51:52 2025 -0500|v4l2loopback: bump to 0.15.3
+390cdc141|Martin Schiller|Fri Aug 8 11:25:33 2025 +0200|openvpn: add missing options
+789cf8289|Martin Schiller|Fri Aug 8 10:12:09 2025 +0200|openvpn: remove vanished options
+77adc911b|Aleksey Vasilenko|Sat Sep 13 21:12:16 2025 +0300|unixodbc: re-enable autoreconf to fix host path leak
 </details>
