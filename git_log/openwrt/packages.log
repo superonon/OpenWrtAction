@@ -2,9 +2,7 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-61debad22|xiao bo|Sat Dec 20 20:27:03 2025 +0800|sing-box: update to 1.12.13
-402881e18|John Audia|Sun Dec 21 05:51:52 2025 -0500|v4l2loopback: bump to 0.15.3
-390cdc141|Martin Schiller|Fri Aug 8 11:25:33 2025 +0200|openvpn: add missing options
-789cf8289|Martin Schiller|Fri Aug 8 10:12:09 2025 +0200|openvpn: remove vanished options
-77adc911b|Aleksey Vasilenko|Sat Sep 13 21:12:16 2025 +0300|unixodbc: re-enable autoreconf to fix host path leak
+8e535fd91|George Sapkin|Tue Dec 23 22:14:06 2025 +0200|etebase: switch to nginx
+63a666bd0|George Sapkin|Tue Dec 23 22:11:13 2025 +0200|nginx: fix provides
+70ce349f1|Self-Hosting-Group|Thu Dec 18 00:00:00 2025 +0000|miniupnpd: update to 2.3.9 to fix issues, refresh building
 </details>

@@ -2,5 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-74d2192e83|Liangbin Lian|Tue Dec 23 15:14:46 2025 +0800|luci-mod-network: show "dhcpv4" option for dnsmasq
+db91dbcdf7|Paul Donald|Wed Dec 24 17:34:16 2025 +0100|luci-static: fix race condition when probing features
 </details>

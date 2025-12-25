@@ -2,29 +2,14 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-b43f7bc9c2|Jonas Jelonek|Mon Dec 15 19:41:16 2025 +0000|realtek: pcs: rtl931x: add helper for SerDes power up/down
-7899dfa6ef|Jonas Jelonek|Sun Dec 14 11:54:15 2025 +0000|realtek: pcs: rtl931x: separate and reuse 1000base-x config
-5334b41b00|Jonas Jelonek|Mon Dec 15 18:45:54 2025 +0000|realtek: pcs: rtl931x: reorder modes in mode configuration
-6079228b11|Jonas Jelonek|Mon Dec 15 17:44:00 2025 +0000|realtek: pcs: rtl931x: use hardware mode for configuration
-d7a184e3b1|Jonas Jelonek|Mon Dec 15 17:37:01 2025 +0000|realtek: pcs: rtl931x: map interface mode to hardware mode
-9856f6b0aa|Jonas Jelonek|Sun Dec 14 11:34:34 2025 +0000|realtek: pcs: rtl931x: move SerDes config out of setup
-93296c9e85|Jonas Jelonek|Tue Nov 11 09:55:42 2025 +0000|realtek: pcs: rtl931x: don't return error on USXGMII setup
-0f176ef961|Jonas Jelonek|Fri Dec 19 10:11:06 2025 +0000|realtek: pcs: add mapping for SerDes hardware mode
-1912f45b48|Jonas Jelonek|Wed Dec 17 21:33:17 2025 +0000|realtek: pcs: rename SerDes mode field
-dbf2cf1f00|Shiji Yang|Fri Dec 12 21:43:39 2025 +0800|treewide: dts: update rtl836x switch sck/sda gpio properties
-f36e9e9888|Shiji Yang|Fri Dec 12 21:39:40 2025 +0800|kernel: rtl836x: convert to gpiod API
-f8af185ec5|Shiji Yang|Sat Dec 13 00:40:41 2025 +0800|kernel: rtl836x: change missing mdio node log level to info
-52924bf194|Shiji Yang|Mon Dec 15 19:37:03 2025 +0800|kernel: rtl836x: directly defer probe when mdio is missing
-045007c24c|John Audia|Tue Dec 16 16:42:12 2025 -0500|cryptodev-linux: add backport to build for 6.18
-539352352a|John Audia|Wed Dec 17 15:46:11 2025 -0500|strace: update to 6.18
-68422b59ae|Markus Stockhausen|Tue Dec 16 11:29:04 2025 +0100|realtek: ethernet: decouple from soc_info
-e8dba8fb17|Markus Stockhausen|Tue Dec 16 11:23:58 2025 +0100|realtek: ethernet: switch to new family_id location
-abb11b542f|Markus Stockhausen|Tue Dec 16 11:19:52 2025 +0100|realtek: ethernet: switch to device_get_match_data()
-bbafac0816|Markus Stockhausen|Tue Dec 16 10:58:22 2025 +0100|realtek: ethernet: provide soc family in register config
-20a25b9ffa|Markus Stockhausen|Tue Dec 16 10:03:03 2025 +0100|realtek: ethernet: relocate ethernet below switchcore in DTS
-48305cccce|Markus Stockhausen|Tue Dec 16 13:28:56 2025 +0100|realtek: ethernet: drop devm_request_mem_region()
-b8f4fb2f3d|Markus Stockhausen|Tue Dec 16 09:41:37 2025 +0100|realtek: ethernet: split ethernet compatibles
-53dfb3e2e8|Markus Stockhausen|Wed Dec 17 20:07:36 2025 +0100|realtek: phy: reorganize package handling
-f79a2a57f5|Daniel Golle|Tue Dec 23 14:49:48 2025 +0000|mediatek: filogic: asus,rt-ax57m: remove unused pinctrl groups
-114b5c2063|Garrett Mesmer|Tue Jul 8 12:50:14 2025 +0300|mediatek: filogic: Add support ASUS RT-AX57M
+501e54b6c2|George Moussalem|Fri Dec 19 11:18:04 2025 +0400|qualcommax: ipq50xx: fix reo2host-status interrupt vector
+bce8432bbd|Robert Marko|Tue Dec 23 14:08:26 2025 +0100|microchipsw: sync with DTS sent upstream
+d992d95b52|George Moussalem|Mon Jun 2 15:21:36 2025 +0400|qualcommax: ipq50xx: add support for Linksys MX6200
+7d68582579|George Moussalem|Thu Dec 4 09:20:00 2025 +0400|qualcommax: ipq50xx: upgrade SMEM dualboot Linksys devices
+d02de1d35a|George Moussalem|Wed Dec 3 23:22:09 2025 +0400|qualcommax: ipq50xx: functions for bootconfig partition
+606a87ec44|George Moussalem|Tue Dec 9 15:12:32 2025 +0400|qualcommax: ipq50xx: move bootargs to Linksys board files
+597a2d7d18|George Moussalem|Tue Dec 9 15:04:56 2025 +0400|qualcommax: ipq50xx: load Linksys partition tables from SMEM
+423cda97f9|George Moussalem|Tue Dec 9 15:47:06 2025 +0400|qualcommax: ipq50xx: remove ipq5018 and qcn6122 wifi m3 fw
+5e32bfbf4b|George Sapkin|Wed Dec 24 04:32:01 2025 +0200|toolchain: fix libgcc ABI for libc
+56bc4a0d89|George Sapkin|Wed Dec 24 04:28:49 2025 +0200|build: fix missing PKG_INFO_DIR
 </details>
