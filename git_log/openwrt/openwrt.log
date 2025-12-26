@@ -2,14 +2,8 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-501e54b6c2|George Moussalem|Fri Dec 19 11:18:04 2025 +0400|qualcommax: ipq50xx: fix reo2host-status interrupt vector
-bce8432bbd|Robert Marko|Tue Dec 23 14:08:26 2025 +0100|microchipsw: sync with DTS sent upstream
-d992d95b52|George Moussalem|Mon Jun 2 15:21:36 2025 +0400|qualcommax: ipq50xx: add support for Linksys MX6200
-7d68582579|George Moussalem|Thu Dec 4 09:20:00 2025 +0400|qualcommax: ipq50xx: upgrade SMEM dualboot Linksys devices
-d02de1d35a|George Moussalem|Wed Dec 3 23:22:09 2025 +0400|qualcommax: ipq50xx: functions for bootconfig partition
-606a87ec44|George Moussalem|Tue Dec 9 15:12:32 2025 +0400|qualcommax: ipq50xx: move bootargs to Linksys board files
-597a2d7d18|George Moussalem|Tue Dec 9 15:04:56 2025 +0400|qualcommax: ipq50xx: load Linksys partition tables from SMEM
-423cda97f9|George Moussalem|Tue Dec 9 15:47:06 2025 +0400|qualcommax: ipq50xx: remove ipq5018 and qcn6122 wifi m3 fw
-5e32bfbf4b|George Sapkin|Wed Dec 24 04:32:01 2025 +0200|toolchain: fix libgcc ABI for libc
-56bc4a0d89|George Sapkin|Wed Dec 24 04:28:49 2025 +0200|build: fix missing PKG_INFO_DIR
+00e6c18a93|Nick Hainke|Thu Dec 25 20:32:28 2025 +0100|wifi-scripts: ucode: fix wpa_supplicant mesh
+95112a4939|Elwin Huang|Wed Dec 24 14:01:32 2025 +0800|wifi-scripts: add missing 802.11be type in hwmodelist
+2ebcda1ea6|Harin Lee|Thu Dec 25 04:15:25 2025 +0900|wifi-scripts: fix macaddr check in mac80211.uc
+3602a98f55|Robert Marko|Thu Dec 25 12:43:16 2025 +0100|ipq-wifi: update to Git HEAD (2025-12-25)
 </details>

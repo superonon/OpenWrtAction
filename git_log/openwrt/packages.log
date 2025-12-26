@@ -2,7 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-8e535fd91|George Sapkin|Tue Dec 23 22:14:06 2025 +0200|etebase: switch to nginx
-63a666bd0|George Sapkin|Tue Dec 23 22:11:13 2025 +0200|nginx: fix provides
-70ce349f1|Self-Hosting-Group|Thu Dec 18 00:00:00 2025 +0000|miniupnpd: update to 2.3.9 to fix issues, refresh building
+a13c76304|Vladimir Tkachev|Wed Dec 17 19:37:08 2025 +0400|ddns-scripts: add beget.com api support
+639fdb400|TeleostNaCl Dai|Wed Dec 24 22:59:36 2025 +0800|vim: fix depends configuration
 </details>
