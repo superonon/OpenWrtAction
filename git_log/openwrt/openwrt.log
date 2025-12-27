@@ -2,8 +2,9 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-00e6c18a93|Nick Hainke|Thu Dec 25 20:32:28 2025 +0100|wifi-scripts: ucode: fix wpa_supplicant mesh
-95112a4939|Elwin Huang|Wed Dec 24 14:01:32 2025 +0800|wifi-scripts: add missing 802.11be type in hwmodelist
-2ebcda1ea6|Harin Lee|Thu Dec 25 04:15:25 2025 +0900|wifi-scripts: fix macaddr check in mac80211.uc
-3602a98f55|Robert Marko|Thu Dec 25 12:43:16 2025 +0100|ipq-wifi: update to Git HEAD (2025-12-25)
+436c9af039|Yuhei Amemiya|Sun Dec 21 15:03:20 2025 +0800|mediatek: add support for Elecom WRC-G01
+e9fd3facd0|Liangbin Lian|Thu Dec 25 13:50:14 2025 +0800|base-files: fix default_postinst clearing luci cache
+9da57e2f82|Dmitry Mostovoy|Thu Dec 25 11:18:57 2025 +0300|mediatek: add kmod-usb3 to default package set of WR3000P
+cb94962ac4|Nick French|Thu Dec 25 09:53:37 2025 -0600|ath79: Fix syntax error in 10_fix_wifi_mac
+c1290fa48c|Robert Senderek|Tue Dec 16 14:49:40 2025 +0100|qualcommax: ipq50xx: remove cpufreq scaling
 </details>

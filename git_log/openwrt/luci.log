@@ -1,0 +1,6 @@
+<details> <summary> <b>luci new commit log :new: </b>  </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+bbec143bb3|Liangbin Lian|Thu Dec 25 12:58:32 2025 +0800|luci.mk: fix the rpcd reload command
+</details>

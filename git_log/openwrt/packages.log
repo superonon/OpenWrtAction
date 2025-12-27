@@ -2,6 +2,8 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-a13c76304|Vladimir Tkachev|Wed Dec 17 19:37:08 2025 +0400|ddns-scripts: add beget.com api support
-639fdb400|TeleostNaCl Dai|Wed Dec 24 22:59:36 2025 +0800|vim: fix depends configuration
+4369bd6f1|George Sapkin|Mon Dec 22 01:05:38 2025 +0200|ci: switch formal to an external action
+407617b78|Ivan Diaz|Tue Dec 23 08:30:29 2025 -0500|luci-app-watchcat: revert unnecessary quoting in init script
+57e6f89c0|Daniel F. Dickinson|Fri Dec 26 00:30:21 2025 -0500|curl: enable wrongly disabled HTTP_AUTH
+33b868d54|Daniel F. Dickinson|Tue Dec 9 00:24:07 2025 -0500|zabbix: tweak frontend dependencies
 </details>
