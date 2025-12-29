@@ -1,0 +1,34 @@
+<details> <summary> <b>packages new commit log :new: </b>  </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+1893dc609|ImmortalWrt AutoUpdate Bot|Sun Dec 28 18:37:40 2025 +0800|sing-box: Update to 1.12.14
+246f4d2a7|ImmortalWrt AutoUpdate Bot|Sun Dec 28 18:38:14 2025 +0800|ddns-go: Update to 6.14.1
+e1f448ee6|Tianling Shen|Sun Dec 28 18:36:42 2025 +0800|qBittorrent-Enhanced-Edition: Update to 5.1.3.10
+ad1a214e6|Tianling Shen|Sun Dec 28 18:09:18 2025 +0800|Merge Official Source
+00e2beec5|Konstantin Demin|Mon Dec 22 23:39:45 2025 +0300|softethervpn5: rearrange patches
+3f2fbc888|Wei-Ting Yang|Tue Dec 23 20:36:53 2025 +0800|coreutils: update to 9.9
+4f39dd9c0|Wei-Ting Yang|Tue Dec 23 20:01:31 2025 +0800|coreutils: clean up Makefile
+dfd0245f1|Aleksey Vasilenko|Tue Dec 23 04:05:20 2025 +0200|krant: drop maintainership
+1b1aa825a|Paul Donald|Fri Dec 26 18:21:26 2025 +0100|freeradius3: bump to 3.2.8
+4369bd6f1|George Sapkin|Mon Dec 22 01:05:38 2025 +0200|ci: switch formal to an external action
+407617b78|Ivan Diaz|Tue Dec 23 08:30:29 2025 -0500|luci-app-watchcat: revert unnecessary quoting in init script
+57e6f89c0|Daniel F. Dickinson|Fri Dec 26 00:30:21 2025 -0500|curl: enable wrongly disabled HTTP_AUTH
+33b868d54|Daniel F. Dickinson|Tue Dec 9 00:24:07 2025 -0500|zabbix: tweak frontend dependencies
+a13c76304|Vladimir Tkachev|Wed Dec 17 19:37:08 2025 +0400|ddns-scripts: add beget.com api support
+639fdb400|TeleostNaCl Dai|Wed Dec 24 22:59:36 2025 +0800|vim: fix depends configuration
+8e535fd91|George Sapkin|Tue Dec 23 22:14:06 2025 +0200|etebase: switch to nginx
+63a666bd0|George Sapkin|Tue Dec 23 22:11:13 2025 +0200|nginx: fix provides
+70ce349f1|Self-Hosting-Group|Thu Dec 18 00:00:00 2025 +0000|miniupnpd: update to 2.3.9 to fix issues, refresh building
+61debad22|xiao bo|Sat Dec 20 20:27:03 2025 +0800|sing-box: update to 1.12.13
+402881e18|John Audia|Sun Dec 21 05:51:52 2025 -0500|v4l2loopback: bump to 0.15.3
+390cdc141|Martin Schiller|Fri Aug 8 11:25:33 2025 +0200|openvpn: add missing options
+789cf8289|Martin Schiller|Fri Aug 8 10:12:09 2025 +0200|openvpn: remove vanished options
+77adc911b|Aleksey Vasilenko|Sat Sep 13 21:12:16 2025 +0300|unixodbc: re-enable autoreconf to fix host path leak
+118230152|Til Kaiser|Mon Dec 22 12:55:40 2025 +0100|mstflint: update to 4.34.1-2
+7b4b55633|Michael Heimpold|Fri Dec 19 16:56:16 2025 +0100|php8: update to 8.4.16
+3dcc4f1d3|George Sapkin|Mon Dec 22 03:28:07 2025 +0200|tar: fix circular dependency on xz
+8dfc56aff|Jeronimo Pellegrini|Wed Nov 19 13:23:02 2025 -0300|chicken-scheme: bump to 5.4.0
+5b4e4bf3c|George Sapkin|Mon Dec 22 00:40:01 2025 +0200|chicken-scheme: split library and refactor
+e00c01fd7|Jeronimo Pellegrini|Wed Nov 19 13:23:02 2025 -0300|chicken-scheme: add CI test script
+</details>
