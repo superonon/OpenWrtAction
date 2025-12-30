@@ -2,7 +2,23 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-d9b1c74780|Mikhail Kshevetskiy|Sat Dec 27 08:28:09 2025 +0300|airoha: spi: update airoha-snfi patches and en7523 dts
-fa3b9f5149|Zhenyu Qi|Sat Dec 13 14:04:51 2025 -0700|qualcommax: ipq60xx: enable dual-boot for 360v6
-08a1cace9f|Álvaro Fernández Rojas|Sat Dec 27 12:12:30 2025 +0100|kernel: r8101: fix build with linux v6.16+
+5578eb69c2|Hal Martin|Sun Dec 28 14:43:17 2025 +0100|ipq40xx: add support for Cisco Meraki MR20
+593e399568|Hal Martin|Mon Dec 22 10:48:46 2025 +0100|ipq40xx/meraki: refactor common device tree
+a0805af66c|Jonas Jelonek|Sat Dec 20 23:53:20 2025 +0000|realtek: pcs: rtl931x: fix SerDes mode application
+9efcc52a7b|Jonas Jelonek|Sat Dec 20 23:34:10 2025 +0000|realtek: pcs: rtl931x: streamline hardware mode setting
+d5a4387ac5|Jonas Jelonek|Sat Dec 20 22:18:23 2025 +0000|realtek: pcs: rtl931x: improve mode setting functions
+75493a812f|Jonas Jelonek|Sat Dec 20 21:09:52 2025 +0000|realtek: pcs: rtl931x: merge and drop unused helper
+65dc1ecf49|Jonas Jelonek|Sat Dec 20 21:01:20 2025 +0000|realtek: pcs: rtl931x: use hardware mode for mode setting
+f67d9ed9b4|Jonas Jelonek|Sat Dec 20 20:40:12 2025 +0000|realtek: pcs: rtl931x: merge helper into mode setting
+6614fcb95e|Jonas Jelonek|Sat Dec 20 21:42:34 2025 +0000|realtek: pcs: rtl931x: fix MII mode setting
+90cddeb75e|Jonas Jelonek|Sat Dec 20 18:57:35 2025 +0000|realtek: pcs: rtl931x: reorder functions
+19585a7966|Jonas Jelonek|Sat Dec 20 18:36:56 2025 +0000|realtek: pcs: rtl931x: fix clearing symbol errors
+b8a596e40b|Markus Stockhausen|Wed Dec 24 13:05:01 2025 +0100|realtek: mdio: drop family leftovers
+96bcabe1bf|Markus Stockhausen|Wed Dec 24 12:57:11 2025 +0100|realtek: mdio: relocate reset function
+87a3c62e32|Markus Stockhausen|Wed Dec 24 12:47:06 2025 +0100|realtek: mdio: give bus a family independent name
+b7f519ff3d|Markus Stockhausen|Wed Dec 24 12:32:34 2025 +0100|realtek: mdio: move read/write functions to config structure
+3fb1c9c625|Markus Stockhausen|Wed Dec 24 12:19:02 2025 +0100|realtek: mdio: configure bus read/write only once.
+89f5678948|Markus Stockhausen|Wed Dec 24 11:54:33 2025 +0100|realtek: mdio: move cpu_port to configuration structure
+36f56f27ae|Markus Stockhausen|Wed Dec 24 11:34:43 2025 +0100|realtek: mdio: add per family configuration structure
+349040eeb5|Markus Stockhausen|Tue Dec 23 22:35:49 2025 +0100|realtek: ethernet/dsa: Reduce mach include dependency
 </details>

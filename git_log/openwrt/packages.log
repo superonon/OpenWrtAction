@@ -2,13 +2,16 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-05c7ab746|Ivan Belokobylskiy|Fri Dec 26 14:46:58 2025 +0400|python-aio-mqtt-mod: update to 0.4.0
-0a584ba82|Wei-Ting Yang|Fri Dec 26 20:41:41 2025 +0800|tree: add LICENSE and LICENSE files
-447b3cb49|Tianling Shen|Sun Dec 28 19:19:37 2025 +0800|dnslookup: Update to 1.11.2
-534ca8e39|Stefan Hellermann|Thu Dec 25 14:44:04 2025 +0100|libmodbus: update to 3.1.11
-00e2beec5|Konstantin Demin|Mon Dec 22 23:39:45 2025 +0300|softethervpn5: rearrange patches
-3f2fbc888|Wei-Ting Yang|Tue Dec 23 20:36:53 2025 +0800|coreutils: update to 9.9
-4f39dd9c0|Wei-Ting Yang|Tue Dec 23 20:01:31 2025 +0800|coreutils: clean up Makefile
-dfd0245f1|Aleksey Vasilenko|Tue Dec 23 04:05:20 2025 +0200|krant: drop maintainership
-1b1aa825a|Paul Donald|Fri Dec 26 18:21:26 2025 +0100|freeradius3: bump to 3.2.8
+142331bdb|Josef Schlehofer|Mon Dec 29 13:11:18 2025 +0100|jq: refactor variants and fix PROVIDES
+73d8b6c6f|Daniel F. Dickinson|Sun Dec 28 20:26:51 2025 -0500|tree-wide: remove obsolete SDK in conditionals
+b0670ac10|Josef Schlehofer|Mon Dec 29 13:31:24 2025 +0100|python-bcrypt: update to version 5.0.0
+4f5de42c7|Josef Schlehofer|Mon Dec 29 11:50:49 2025 +0100|python3-bottle: update to version 0.13.4
+1c1af85fc|Jordan Ngako|Thu Dec 25 20:04:47 2025 +0100|libopen62541: preserve symlinks on install
+da6544f12|Luiz Angelo Daros de Luca|Fri Dec 26 16:59:53 2025 -0300|ruby: update to 4.0.0
+9f0b6fbc0|Carlos Miguel Ferreira|Fri Dec 26 22:34:05 2025 +0000|boost: updates package to version 1.90.0
+821f3f071|TeleostNaCl Dai|Sun Nov 16 12:05:11 2025 +0800|tcpreplay: add libbpf dependency
+47525f330|Josef Schlehofer|Mon Dec 29 09:37:02 2025 +0100|luajit2: add riscv64 support
+84f4bb951|Tianling Shen|Mon Dec 29 17:14:37 2025 +0800|openlist: Update to 4.1.8
+8277d2ebc|Yaroslav Petrov|Sun Dec 28 15:02:53 2025 +0100|monit: update to 5.35.2
+6a9fa60ea|xiao bo|Mon Dec 29 00:22:21 2025 +0800|sing-box: update to 1.12.14
 </details>
