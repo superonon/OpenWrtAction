@@ -2,5 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-c1c29d2ecd|Hosted Weblate|Mon Dec 29 17:35:38 2025 +0100|Translated using Weblate (Korean)
+7a18a0ef42|David Härdeman|Tue Dec 30 18:31:17 2025 +0100|luci-mod-network: show leases first in DHCP tab
 </details>
