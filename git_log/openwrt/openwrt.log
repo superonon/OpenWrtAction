@@ -2,13 +2,19 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-b71f4665cd|Eric Fahlgren|Mon Nov 3 12:34:37 2025 -0800|mediatek: filogic: fix supported_devices list for gl-mt2500
-3af16b2359|Andrii Kuiukoff|Wed Dec 24 19:50:40 2025 +0200|uboot-mediatek: comfast,cf-wr632ax: fix missing escape sequence
-15df98f3b5|Fil Dunsky|Fri Dec 12 18:51:39 2025 +0300|mediatek: add ubootmod layout for Cudy WBR3000UAX v1
-d7d6faf26f|Fil Dunsky|Fri Dec 12 16:16:50 2025 +0300|mediatek: add support for Cudy WBR3000UAX v1
-f4c9ab6591|Fil Dunsky|Sat Dec 20 00:28:16 2025 +0300|arm-trusted-firmware-mediatek: add Cudy DDR3 target
-01a87f4bd0|Hauke Mehrtens|Sun Dec 28 23:03:32 2025 +0100|wifi-scripts: use OWE + country for 6GHz
-ed836b1a9d|John Audia|Thu Dec 18 12:51:33 2025 -0500|package: gpio-nct5104d: adapt to kernel 6.18
-bc4e7fd38e|Leon M. Busch-George|Thu Dec 18 22:24:51 2025 +0100|wifi-scripts: don't set wpa_pairwise for wpa=0
-fb15ef4b23|Álvaro Fernández Rojas|Mon Dec 29 18:14:39 2025 +0100|odhcp6c: update to Git HEAD (2025-12-29)
+8e6cd2608a|Markus Stockhausen|Tue Dec 30 14:07:32 2025 +0100|realtek: setup cpu port in soc_info structure
+6b2e7ffd4b|Markus Stockhausen|Tue Dec 30 11:02:04 2025 +0100|realtek: RTL930x: setup highmem registers during init
+88e79af543|Markus Stockhausen|Tue Dec 30 10:33:32 2025 +0100|realtek: determine memory size during initialization
+8337573422|Markus Stockhausen|Tue Dec 30 09:59:26 2025 +0100|realtek: harmonize variables in prom.c
+2c81176f2b|George Sapkin|Sun Dec 28 17:37:08 2025 +0200|kernel/rtl8812au-ct: provide a virtual kmod
+8f4c64b930|George Sapkin|Sun Dec 28 17:34:48 2025 +0200|kernel/ath10k: provide a virtual kmod
+01fa50b774|George Sapkin|Sun Dec 28 17:30:12 2025 +0200|kernel/r8169: provide a virtual kmod
+d75a6bed7a|George Sapkin|Thu Dec 25 17:16:18 2025 +0200|ca-certificates: provide a virtual package
+9b37b7185c|George Sapkin|Sun Dec 28 17:22:41 2025 +0200|build: provide virtual self in kmods
+5ed650acbf|George Sapkin|Thu Dec 25 15:32:29 2025 +0200|build: add support for virtual provides
+cefbf1184f|George Sapkin|Thu Dec 25 14:09:53 2025 +0200|build: refactor provides logic
+b638d886f0|John Audia|Thu Dec 18 10:10:55 2025 -0500|kernel: bump 6.12 to 6.12.63
+b3d1da9115|John Audia|Fri Dec 19 16:37:38 2025 -0500|generic: add missing symbol
+8b93c563ad|Álvaro Fernández Rojas|Tue Dec 30 14:45:15 2025 +0100|kernel: r8168: fix CFLAGS with linux 6.15+
+b3d27b0115|Álvaro Fernández Rojas|Tue Dec 30 14:44:10 2025 +0100|kernel: r8101: fix CFLAGS with linux 6.15+
 </details>

@@ -2,5 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-7a18a0ef42|David Härdeman|Tue Dec 30 18:31:17 2025 +0100|luci-mod-network: show leases first in DHCP tab
+3c8ff55120|Paul Donald|Wed Dec 31 18:33:33 2025 +0100|luci-mod-network: add tags tab
+37aa2807ea|Paul Donald|Wed Dec 31 15:28:27 2025 +0100|luci-mod-system: extend dropbear listen options
 </details>

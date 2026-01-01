@@ -2,12 +2,11 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-3554c264f|Vladimir Ermakov|Sat Jul 5 16:38:38 2025 +0200|coredns: replace wgsd-coredns to full 1.13.2
-6b370bd51|Josef Schlehofer|Mon Dec 29 13:28:31 2025 +0100|treewide: remove Home Assistant dependencies
-a827c08d3|Glenn Strauss|Sat Dec 27 01:15:42 2025 -0500|lighttpd: 1.4.82-2
-ff9fe4b10|Glenn Strauss|Sat Dec 27 01:14:14 2025 -0500|lighttpd: mbedtls 3.x EC certs require drbg init
-ee21a8b22|Alarcon Laurent|Wed Dec 24 09:28:19 2025 +0100|lighttpd: fix plugin malformed dependencies
-cab93eb52|Josef Schlehofer|Mon Dec 29 08:30:46 2025 +0100|prometheus-node-exporter-lua: remove bmx6 leftovers
-e9125d937|Josef Schlehofer|Tue Dec 30 01:15:11 2025 +0100|uspot: move and format EXTRA_DEPENDS
-6e8b8fef6|Josef Schlehofer|Mon Dec 29 23:52:20 2025 +0100|python-pyfuse3: update to version 3.4.1
+7e25efa10|Hannu Nyman|Wed Dec 31 21:45:30 2025 +0200|php8: revert "php8: fix PHP8_GETTEXT missing icu dependency"
+996046e64|Daniel F. Dickinson|Tue Dec 30 20:27:14 2025 -0500|php8: fix PHP8_GETTEXT missing icu dependency
+851bfade6|Zhu Yujie|Wed Dec 31 13:59:12 2025 +0800|v2ray-geodata: update to latest version
+6ba7aca3c|Javier Marcet|Sun Dec 21 20:21:23 2025 +0100|docker-compose: Update to version 5.0.1
+66f2422b7|Yanase Yuki|Mon Dec 29 17:13:26 2025 +0900|treewide: remove FTP usage
+de64f871b|George Sapkin|Fri Dec 26 06:26:18 2025 +0200|treewide: fix spelling and grammar in Makefiles
+529150016|Alexandru Ardelean|Tue Dec 30 15:38:03 2025 +0200|tcpreplay: add libxdp as dependency
 </details>
