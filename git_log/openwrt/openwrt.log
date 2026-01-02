@@ -2,19 +2,7 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-8e6cd2608a|Markus Stockhausen|Tue Dec 30 14:07:32 2025 +0100|realtek: setup cpu port in soc_info structure
-6b2e7ffd4b|Markus Stockhausen|Tue Dec 30 11:02:04 2025 +0100|realtek: RTL930x: setup highmem registers during init
-88e79af543|Markus Stockhausen|Tue Dec 30 10:33:32 2025 +0100|realtek: determine memory size during initialization
-8337573422|Markus Stockhausen|Tue Dec 30 09:59:26 2025 +0100|realtek: harmonize variables in prom.c
-2c81176f2b|George Sapkin|Sun Dec 28 17:37:08 2025 +0200|kernel/rtl8812au-ct: provide a virtual kmod
-8f4c64b930|George Sapkin|Sun Dec 28 17:34:48 2025 +0200|kernel/ath10k: provide a virtual kmod
-01fa50b774|George Sapkin|Sun Dec 28 17:30:12 2025 +0200|kernel/r8169: provide a virtual kmod
-d75a6bed7a|George Sapkin|Thu Dec 25 17:16:18 2025 +0200|ca-certificates: provide a virtual package
-9b37b7185c|George Sapkin|Sun Dec 28 17:22:41 2025 +0200|build: provide virtual self in kmods
-5ed650acbf|George Sapkin|Thu Dec 25 15:32:29 2025 +0200|build: add support for virtual provides
-cefbf1184f|George Sapkin|Thu Dec 25 14:09:53 2025 +0200|build: refactor provides logic
-b638d886f0|John Audia|Thu Dec 18 10:10:55 2025 -0500|kernel: bump 6.12 to 6.12.63
-b3d1da9115|John Audia|Fri Dec 19 16:37:38 2025 -0500|generic: add missing symbol
-8b93c563ad|Álvaro Fernández Rojas|Tue Dec 30 14:45:15 2025 +0100|kernel: r8168: fix CFLAGS with linux 6.15+
-b3d27b0115|Álvaro Fernández Rojas|Tue Dec 30 14:44:10 2025 +0100|kernel: r8101: fix CFLAGS with linux 6.15+
+c1281a501e|Wei-Ting Yang|Wed Dec 24 23:20:12 2025 +0800|util-linux: update to 2.41.3
+99fd5aa496|Wei-Ting Yang|Wed Dec 24 23:16:00 2025 +0800|tools: util-linux: update to 2.41.3
+2139360a78|Hauke Mehrtens|Wed Dec 31 21:33:08 2025 +0100|libiwinfo: update to Git HEAD (2025-11-29)
 </details>
