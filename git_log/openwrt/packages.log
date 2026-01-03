@@ -1,9 +1,0 @@
-<details> <summary> <b>packages new commit log :new: </b>  </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-4e86243a8|Josef Schlehofer|Wed Dec 31 03:38:27 2025 +0100|pigeonhole: update to version 0.5.21.1
-547ac2e84|Josef Schlehofer|Wed Dec 31 03:33:18 2025 +0100|pigeonhole: change package versioning
-d4f9e59a9|Josef Schlehofer|Wed Dec 31 02:21:38 2025 +0100|dovecot-pigeonhole: fix Makefile syntax to match dovecot
-2dedccd80|Josef Schlehofer|Wed Dec 31 14:46:36 2025 +0100|uledd: drop this package as it is no longer available
-</details>

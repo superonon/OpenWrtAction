@@ -2,7 +2,39 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-c1281a501e|Wei-Ting Yang|Wed Dec 24 23:20:12 2025 +0800|util-linux: update to 2.41.3
-99fd5aa496|Wei-Ting Yang|Wed Dec 24 23:16:00 2025 +0800|tools: util-linux: update to 2.41.3
-2139360a78|Hauke Mehrtens|Wed Dec 31 21:33:08 2025 +0100|libiwinfo: update to Git HEAD (2025-11-29)
+ce282459e7|Michel Promonet|Sun Dec 14 16:58:32 2025 +0100|kernel: add kernel module sun6i_csi and ov5640
+479f1403f2|Jörg Seitz|Sun Dec 21 11:55:34 2025 +0100|mediatek: add support for device zbt-z8103ax-c
+b21b019af4|Jörg Seitz|Sun Dec 21 10:59:06 2025 +0100|mediatek: extract DTS include for zbt z8103ax
+34836dffb1|Tan Zien|Sun Dec 28 08:08:33 2025 +0800|openssl: add kTLS support option
+f49b452cc0|Aleksander Jan Bajkowski|Tue Dec 16 22:02:34 2025 +0100|airoha: replace patches with upstream version
+afad4c71f8|Derek Denk|Tue Dec 30 17:34:47 2025 -0700|mediatek: filogic: add support for Cudy AP3000 Wall v1
+ff5e66a920|Mikhail Zhilkin|Sat Dec 20 18:43:45 2025 +0300|mediatek: add support for Routerich BE7200
+8398a03e29|Mikhail Zhilkin|Sat Dec 20 18:40:22 2025 +0300|arm-trusted-firmware-mediatek: add mt7987-spim-nand0 build
+e581929341|Jonas Jelonek|Thu Jan 1 20:11:17 2026 +0000|realtek: dsa: rtl931x: configure phy ability source
+e782341848|Felix Fietkau|Fri Jan 2 18:59:49 2026 +0000|unetmsg: fix variable shadowing bug in network_rx_cleanup_state()
+b2c0182f26|Jacob Potter|Wed Dec 31 14:45:31 2025 -0500|realtek: rtl838x: fix lan9 and lan10 on Netgear GS110TUP
+96ad29a0f3|Robert Senderek|Wed Nov 12 10:08:37 2025 +0100|mvebu: Add support for WD MyCloud EX2 Ultra
+f92ee7a8e5|Yanase Yuki|Thu Dec 25 13:48:18 2025 +0900|treewide: switch to HTTPS URL
+edc3e82349|Yanase Yuki|Thu Dec 25 13:37:00 2025 +0900|f2fs-tools: update project URL
+9d71d20125|Yanase Yuki|Thu Dec 25 13:34:59 2025 +0900|adb: update project URL
+ac4f2e178b|Yanase Yuki|Thu Dec 25 13:33:10 2025 +0900|iw: update project URL
+85cc7393ed|Yanase Yuki|Thu Dec 25 13:31:10 2025 +0900|iproute2: update project URL
+69e90f0bc9|Yanase Yuki|Thu Dec 25 13:27:51 2025 +0900|ebtables: update project URL
+605879f232|Yanase Yuki|Thu Dec 25 13:25:06 2025 +0900|sysfsutils: update project URL
+1be208d805|Yanase Yuki|Thu Dec 25 13:21:45 2025 +0900|readline: update project URL
+c965e82328|Yanase Yuki|Thu Dec 25 13:18:57 2025 +0900|libxml2: update project URL
+c8756e825f|Yanase Yuki|Thu Dec 25 13:15:57 2025 +0900|treewide: update SELinux project URL
+69e33d2c3f|Yanase Yuki|Thu Dec 25 13:09:46 2025 +0900|lantiq: remove intel.com from URL
+ef6d7ba43f|Yanase Yuki|Thu Dec 25 13:06:07 2025 +0900|jansson: update project URL
+7772a958cd|Yanase Yuki|Thu Dec 25 13:02:47 2025 +0900|treewide: remove lantiq dot com URL
+c95e03c7b7|Yanase Yuki|Thu Dec 25 12:54:10 2025 +0900|treewide: use HTTPS URL for www.kernel.org
+00f924abad|Yanase Yuki|Thu Dec 25 12:49:19 2025 +0900|treewide: use HTTPS URL for GNU websites
+ac755f983a|Yanase Yuki|Thu Dec 25 12:44:10 2025 +0900|treewide: update u-boot URL
+7bfa1fa83b|Markus Stockhausen|Wed Dec 31 13:35:17 2025 +0100|realtek: rename smi-address dts property
+cd13ed6fcf|Markus Stockhausen|Tue Dec 30 17:34:41 2025 +0100|realtek: rt-loader: allow piggy-backed uimage
+4491f1d233|Markus Stockhausen|Tue Dec 30 17:32:45 2025 +0100|realtek: rt-loader: rename flash loading function
+2e74ef5be1|Markus Stockhausen|Tue Dec 30 16:54:56 2025 +0100|realtek: rt-loader: make search_image() generic
+8f66b33503|Markus Stockhausen|Tue Dec 30 16:43:37 2025 +0100|realtek: rt-loader: enhance is_uimage()
+7a78dc4a5d|Eric Fahlgren|Fri Jan 2 08:20:15 2026 -0800|package: ethtool: specify just one default variant
+f4fdb9964a|Eric Fahlgren|Thu Jan 1 18:02:30 2026 -0800|treewide: add explicit default variant
 </details>
