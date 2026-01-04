@@ -1,0 +1,22 @@
+<details> <summary> <b>luci new commit log :new: </b>  </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+077a508a93|Tianling Shen|Sat Jan 3 11:57:47 2026 +0800|Merge Official Source
+4499d25b59|Hannu Nyman|Fri Jan 2 20:09:42 2026 +0200|luci-base: sync translations
+eedc2614cf|Hosted Weblate|Fri Jan 2 19:05:02 2026 +0100|Translated using Weblate (Lithuanian)
+c38063cd60|Hosted Weblate|Thu Jan 1 16:28:31 2026 +0100|Translated using Weblate (Korean)
+3c8ff55120|Paul Donald|Wed Dec 31 18:33:33 2025 +0100|luci-mod-network: add tags tab
+37aa2807ea|Paul Donald|Wed Dec 31 15:28:27 2025 +0100|luci-mod-system: extend dropbear listen options
+7a18a0ef42|David Härdeman|Tue Dec 30 18:31:17 2025 +0100|luci-mod-network: show leases first in DHCP tab
+c1c29d2ecd|Hosted Weblate|Mon Dec 29 17:35:38 2025 +0100|Translated using Weblate (Korean)
+26ec03caa6|Hosted Weblate|Sat Dec 27 07:33:39 2025 +0100|Translated using Weblate (Korean)
+bbec143bb3|Liangbin Lian|Thu Dec 25 12:58:32 2025 +0800|luci.mk: fix the rpcd reload command
+db91dbcdf7|Paul Donald|Wed Dec 24 17:34:16 2025 +0100|luci-static: fix race condition when probing features
+74d2192e83|Liangbin Lian|Tue Dec 23 15:14:46 2025 +0800|luci-mod-network: show "dhcpv4" option for dnsmasq
+371f441591|Paul Donald|Mon Dec 22 02:07:08 2025 +0100|luci-mod-status: fix case error
+7fe6194cdb|Hannu Nyman|Sat Dec 20 16:53:01 2025 +0200|treewide: sync translations
+4b35b0a937|Hosted Weblate|Sat Dec 20 15:35:50 2025 +0100|Translated using Weblate (Persian)
+effe3ea281|David Härdeman|Sun Dec 14 19:43:45 2025 +0100|luci-mod-network: update dhcpv6_pd_min_len values
+e7213a5327|Hosted Weblate|Thu Dec 18 16:02:49 2025 +0100|Translated using Weblate (Russian)
+</details>
