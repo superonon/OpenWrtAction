@@ -2,6 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-c410b8963|Norman Gehrsitz|Wed Dec 31 03:02:10 2025 +0100|acme-acme.sh: support --cert-profile option
-7c822261b|Wei-Ting Yang|Fri Jan 2 21:07:27 2026 +0800|bash: update to 5.3
+fada6b2f7|John Audia|Sat Jan 3 17:14:17 2026 -0500|fscrypt: update to 0.3.6
+cc4309d44|John Audia|Fri Dec 19 16:52:44 2025 -0500|libpfring: update to 9.2.0
 </details>
