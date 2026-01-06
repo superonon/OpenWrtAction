@@ -2,70 +2,32 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-9833aaab28|Tianling Shen|Sun Jan 4 19:48:14 2026 +0800|Merge Official Source
-ded99c2984|Eric Fahlgren|Sat Jan 3 16:04:51 2026 -0800|treewide: add explicit default variant part 2
-a10d10edd7|Felix Fietkau|Sun Jan 4 10:59:14 2026 +0100|cli: fix typo in error reporting
-6e48b1b7af|fujr|Wed Nov 26 21:19:47 2025 +0800|rockchip: add support for Widora MangoPi M28C
-9934c716ed|Rosen Penev|Fri Dec 19 15:33:50 2025 -0800|treewide: replace remove_new with remove
-79ff31104c|Aleksander Jan Bajkowski|Sat Nov 29 18:58:17 2025 +0100|airoha: an7583: fix scuclk unit-address
-914fe44647|Aleksander Jan Bajkowski|Sat Nov 29 18:56:50 2025 +0100|airoha: en7583: dts: fix typo disable
-2055a4df78|Jonas Jelonek|Fri Jan 2 17:49:02 2026 +0000|realtek: pcs: rtl931x: soften early exit for USXGMII
-b63f68e409|Jonas Jelonek|Fri Jan 2 18:50:10 2026 +0000|realtek: pcs: select OFF mode with no links on SerDes
-7cd3407fde|Jonas Jelonek|Fri Jan 2 16:30:16 2026 +0000|realtek: pcs: cover number of links per SerDes for USXGMII
-76f392194b|Jonas Jelonek|Wed Dec 24 10:28:36 2025 +0000|realtek: pcs: keep track of number of links per SerDes
-dfd6a4212f|Jonas Jelonek|Wed Dec 24 10:36:03 2025 +0000|realtek: pcs: add missing SerDes modes
-93e9e67ee9|Hannu Nyman|Sat Jan 3 12:51:29 2026 +0200|mediatek: remove erroneous pipe action from BE7200 recipe
-ce282459e7|Michel Promonet|Sun Dec 14 16:58:32 2025 +0100|kernel: add kernel module sun6i_csi and ov5640
-479f1403f2|Jörg Seitz|Sun Dec 21 11:55:34 2025 +0100|mediatek: add support for device zbt-z8103ax-c
-b21b019af4|Jörg Seitz|Sun Dec 21 10:59:06 2025 +0100|mediatek: extract DTS include for zbt z8103ax
-34836dffb1|Tan Zien|Sun Dec 28 08:08:33 2025 +0800|openssl: add kTLS support option
-f49b452cc0|Aleksander Jan Bajkowski|Tue Dec 16 22:02:34 2025 +0100|airoha: replace patches with upstream version
-afad4c71f8|Derek Denk|Tue Dec 30 17:34:47 2025 -0700|mediatek: filogic: add support for Cudy AP3000 Wall v1
-ff5e66a920|Mikhail Zhilkin|Sat Dec 20 18:43:45 2025 +0300|mediatek: add support for Routerich BE7200
-8398a03e29|Mikhail Zhilkin|Sat Dec 20 18:40:22 2025 +0300|arm-trusted-firmware-mediatek: add mt7987-spim-nand0 build
-e581929341|Jonas Jelonek|Thu Jan 1 20:11:17 2026 +0000|realtek: dsa: rtl931x: configure phy ability source
-e782341848|Felix Fietkau|Fri Jan 2 18:59:49 2026 +0000|unetmsg: fix variable shadowing bug in network_rx_cleanup_state()
-b2c0182f26|Jacob Potter|Wed Dec 31 14:45:31 2025 -0500|realtek: rtl838x: fix lan9 and lan10 on Netgear GS110TUP
-96ad29a0f3|Robert Senderek|Wed Nov 12 10:08:37 2025 +0100|mvebu: Add support for WD MyCloud EX2 Ultra
-f92ee7a8e5|Yanase Yuki|Thu Dec 25 13:48:18 2025 +0900|treewide: switch to HTTPS URL
-edc3e82349|Yanase Yuki|Thu Dec 25 13:37:00 2025 +0900|f2fs-tools: update project URL
-9d71d20125|Yanase Yuki|Thu Dec 25 13:34:59 2025 +0900|adb: update project URL
-ac4f2e178b|Yanase Yuki|Thu Dec 25 13:33:10 2025 +0900|iw: update project URL
-85cc7393ed|Yanase Yuki|Thu Dec 25 13:31:10 2025 +0900|iproute2: update project URL
-69e90f0bc9|Yanase Yuki|Thu Dec 25 13:27:51 2025 +0900|ebtables: update project URL
-605879f232|Yanase Yuki|Thu Dec 25 13:25:06 2025 +0900|sysfsutils: update project URL
-1be208d805|Yanase Yuki|Thu Dec 25 13:21:45 2025 +0900|readline: update project URL
-c965e82328|Yanase Yuki|Thu Dec 25 13:18:57 2025 +0900|libxml2: update project URL
-c8756e825f|Yanase Yuki|Thu Dec 25 13:15:57 2025 +0900|treewide: update SELinux project URL
-69e33d2c3f|Yanase Yuki|Thu Dec 25 13:09:46 2025 +0900|lantiq: remove intel.com from URL
-ef6d7ba43f|Yanase Yuki|Thu Dec 25 13:06:07 2025 +0900|jansson: update project URL
-7772a958cd|Yanase Yuki|Thu Dec 25 13:02:47 2025 +0900|treewide: remove lantiq dot com URL
-c95e03c7b7|Yanase Yuki|Thu Dec 25 12:54:10 2025 +0900|treewide: use HTTPS URL for www.kernel.org
-00f924abad|Yanase Yuki|Thu Dec 25 12:49:19 2025 +0900|treewide: use HTTPS URL for GNU websites
-ac755f983a|Yanase Yuki|Thu Dec 25 12:44:10 2025 +0900|treewide: update u-boot URL
-7bfa1fa83b|Markus Stockhausen|Wed Dec 31 13:35:17 2025 +0100|realtek: rename smi-address dts property
-cd13ed6fcf|Markus Stockhausen|Tue Dec 30 17:34:41 2025 +0100|realtek: rt-loader: allow piggy-backed uimage
-4491f1d233|Markus Stockhausen|Tue Dec 30 17:32:45 2025 +0100|realtek: rt-loader: rename flash loading function
-2e74ef5be1|Markus Stockhausen|Tue Dec 30 16:54:56 2025 +0100|realtek: rt-loader: make search_image() generic
-8f66b33503|Markus Stockhausen|Tue Dec 30 16:43:37 2025 +0100|realtek: rt-loader: enhance is_uimage()
-7a78dc4a5d|Eric Fahlgren|Fri Jan 2 08:20:15 2026 -0800|package: ethtool: specify just one default variant
-f4fdb9964a|Eric Fahlgren|Thu Jan 1 18:02:30 2026 -0800|treewide: add explicit default variant
-c1281a501e|Wei-Ting Yang|Wed Dec 24 23:20:12 2025 +0800|util-linux: update to 2.41.3
-99fd5aa496|Wei-Ting Yang|Wed Dec 24 23:16:00 2025 +0800|tools: util-linux: update to 2.41.3
-2139360a78|Hauke Mehrtens|Wed Dec 31 21:33:08 2025 +0100|libiwinfo: update to Git HEAD (2025-11-29)
-8e6cd2608a|Markus Stockhausen|Tue Dec 30 14:07:32 2025 +0100|realtek: setup cpu port in soc_info structure
-6b2e7ffd4b|Markus Stockhausen|Tue Dec 30 11:02:04 2025 +0100|realtek: RTL930x: setup highmem registers during init
-88e79af543|Markus Stockhausen|Tue Dec 30 10:33:32 2025 +0100|realtek: determine memory size during initialization
-8337573422|Markus Stockhausen|Tue Dec 30 09:59:26 2025 +0100|realtek: harmonize variables in prom.c
-2c81176f2b|George Sapkin|Sun Dec 28 17:37:08 2025 +0200|kernel/rtl8812au-ct: provide a virtual kmod
-8f4c64b930|George Sapkin|Sun Dec 28 17:34:48 2025 +0200|kernel/ath10k: provide a virtual kmod
-01fa50b774|George Sapkin|Sun Dec 28 17:30:12 2025 +0200|kernel/r8169: provide a virtual kmod
-d75a6bed7a|George Sapkin|Thu Dec 25 17:16:18 2025 +0200|ca-certificates: provide a virtual package
-9b37b7185c|George Sapkin|Sun Dec 28 17:22:41 2025 +0200|build: provide virtual self in kmods
-5ed650acbf|George Sapkin|Thu Dec 25 15:32:29 2025 +0200|build: add support for virtual provides
-cefbf1184f|George Sapkin|Thu Dec 25 14:09:53 2025 +0200|build: refactor provides logic
-b638d886f0|John Audia|Thu Dec 18 10:10:55 2025 -0500|kernel: bump 6.12 to 6.12.63
-b3d1da9115|John Audia|Fri Dec 19 16:37:38 2025 -0500|generic: add missing symbol
-8b93c563ad|Álvaro Fernández Rojas|Tue Dec 30 14:45:15 2025 +0100|kernel: r8168: fix CFLAGS with linux 6.15+
-b3d27b0115|Álvaro Fernández Rojas|Tue Dec 30 14:44:10 2025 +0100|kernel: r8101: fix CFLAGS with linux 6.15+
+6a996d985e|Tianling Shen|Mon Jan 5 13:25:31 2026 +0800|Merge Official Source
+8b63a55fe2|Tianling Shen|Mon Jan 5 12:16:50 2026 +0800|uboot-rockchip: fix enter download mode (MaskROM) for RK356x/RK3588
+f5bf8c2b94|Ziyang Huang|Sun Oct 19 17:45:48 2025 +0800|airoha: an7581: correct led nodename
+077120fb64|Ziyang Huang|Sun Oct 19 17:51:28 2025 +0800|airoha: an7581: correct phy nodename
+ea54b6a478|Ziyang Huang|Sun Oct 19 17:41:43 2025 +0800|airoha: an7581: move the switch led label from soc-level to board-level
+e2f7ad08c7|Ziyang Huang|Sun Oct 19 17:37:39 2025 +0800|airoha: an7581: move the switch port label from soc-level to board-level
+007aa5a51c|Ziyang Huang|Sun Oct 19 17:45:24 2025 +0800|airoha: an7581: disable all switch port and phy by default
+65aed6aa12|Ziyang Huang|Sun Oct 19 17:34:53 2025 +0800|airoha: an7581: correct the pinctrl-name of phy leds
+17b90c59fa|Markus Stockhausen|Wed Dec 31 15:04:46 2025 +0100|realtek: eth: adapt prefix of ops structures
+f14fed9a92|Markus Stockhausen|Wed Dec 31 14:49:05 2025 +0100|realtek: eth: move netdev_ops to config structure
+2d8212e8a4|Markus Stockhausen|Wed Dec 31 14:31:42 2025 +0100|realtek: eth: reorder configuration data
+b8c6713ce4|Markus Stockhausen|Wed Dec 31 14:20:38 2025 +0100|realtek: eth: move cpu_port to config structure
+e6d282eee7|Markus Stockhausen|Wed Dec 31 14:09:58 2025 +0100|realtek: eth: Rename configuration structure
+8630fa09c7|Eric Fahlgren|Sun Jan 4 09:35:11 2026 -0800|packages: ethtool: restore CONFLICTS
+6c9c641777|John Audia|Thu Dec 25 08:31:13 2025 -0500|nat46: fix reproducible-build failure and use latest git
+7214acd759|Valent Turkovic|Sat Jan 3 09:50:16 2026 +0100|wifi-scripts: wdev.uc: fix mesh mode frequency handling
+b73fd273b3|Linus Walleij|Fri Jan 2 21:15:28 2026 +0100|ixp4xx: fix bug in Actiontec DTS file
+5230157a16|Hauke Mehrtens|Thu Jan 1 19:40:06 2026 +0100|kernel: QCOM SPI NAND: backport multiple fixes
+69d76e3a14|Hauke Mehrtens|Thu Jan 1 19:31:48 2026 +0100|kernel: phylink: disable autoneg for interfaces that have no inband
+2c7241b209|Hauke Mehrtens|Thu Jan 1 19:27:26 2026 +0100|kernel: RTL8211FVD: restore disabling of PHY-mode EEE
+9c4b7fbaad|Hauke Mehrtens|Thu Jan 1 19:21:08 2026 +0100|kernel: mv88e6xxx: backport fixes
+b3cc77eead|Hauke Mehrtens|Thu Jan 1 19:17:00 2026 +0100|kernel: reserved_mem: add missing IORESOURCE_MEM flag on resources
+b3318fe819|Hauke Mehrtens|Thu Jan 1 17:41:31 2026 +0100|kernel: as21xxx: backport patch improve PHY HW reset
+7390e63374|Hauke Mehrtens|Thu Jan 1 17:38:07 2026 +0100|kernel: pcs-mtk-lynxi: backport fix for in-band status capabilities
+63b45a10c0|Hauke Mehrtens|Thu Jan 1 17:34:05 2026 +0100|kernel: PHY: backport led fixes commit
+6ac5e28902|Hauke Mehrtens|Thu Jan 1 17:28:56 2026 +0100|kernel: r8169: backport upstream fix
+3c821c19a8|Hauke Mehrtens|Thu Jan 1 02:34:27 2026 +0100|kernel: move patches to backported
+7130053695|Hauke Mehrtens|Thu Jan 1 02:08:19 2026 +0100|kernel: refresh upstreamed patches
 </details>

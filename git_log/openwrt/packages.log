@@ -2,6 +2,7 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-fada6b2f7|John Audia|Sat Jan 3 17:14:17 2026 -0500|fscrypt: update to 0.3.6
-cc4309d44|John Audia|Fri Dec 19 16:52:44 2025 -0500|libpfring: update to 9.2.0
+e367c1d73|Stan Grishin|Sun Jan 4 19:21:54 2026 +0000|adblock-fast: update to 1.2.0-26
+b1bd9b18e|Wei-Ting Yang|Sun Jan 4 23:06:13 2026 +0800|python-certifi: update to 2026.1.4
+a69761a22|TeleostNaCl Dai|Thu Jan 1 15:49:14 2026 +0800|v2ray-geodata: provide a virtual package
 </details>
