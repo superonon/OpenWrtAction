@@ -2,5 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-698cca3a4|Philip Prindeville|Mon Jan 5 16:20:55 2026 -0700|kea: fix build issue with boost-1.90 static assert
+6e47354e|Internet1235|Tue Jan 6 21:00:06 2026 +0800|rrdtool1: fix build with GCC 14
 </details>
