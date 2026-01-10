@@ -2,8 +2,36 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-e1a9636959|George Moussalem|Thu Jan 8 13:22:33 2026 +0400|qualcommax: ipq50xx: Correct USB DWC3 wrapper interrupts
-0ff1553bd7|Robert Marko|Thu Jan 8 11:16:46 2026 +0100|ipq-wifi: rename BDF for EAP623-Outdoor HD v1
-d6ab889e45|George Moussalem|Wed Jan 7 18:31:15 2026 +0400|qualcommax: ipq50xx: correct assigned cmn pll clock rate
-fdce6f99be|George Moussalem|Wed Jan 7 17:44:44 2026 +0400|qualcommax: ipq50xx: enable ipq-cmn-pll driver compilation
+93e98b4082|Goetz Goerisch|Fri Jan 9 21:14:47 2026 +0100|feeds: revert to git.openwrt.org
+fa9f925951|Stijn Tintel|Tue Jun 28 17:44:51 2022 +0300|realtek/rtl839x: Edgecore ECS4100-12PH support
+7b351062d2|Markus Stockhausen|Sun Jan 4 21:21:23 2026 +0100|realtek: eth: move init_mac() into configuration structure
+320e6f3188|Markus Stockhausen|Sun Jan 4 21:00:33 2026 +0100|realtek: eth: add init_mac() for RTL930x
+f8ec6a3b5f|Markus Stockhausen|Sun Jan 4 20:52:29 2026 +0100|realtek: eth: reorder init_mac() functions
+7fb393fa7d|Markus Stockhausen|Sun Jan 4 20:42:13 2026 +0100|realtek: eth: simplify rtl8380_init_mac()
+28c7524e78|Markus Stockhausen|Sun Jan 4 20:31:08 2026 +0100|realtek: eth: harmonize mac (aka chip) init
+985f30d576|Markus Stockhausen|Fri Jan 9 19:17:38 2026 +0100|realtek: dts: RTL93xx whitespace cleanup
+a2e49c4d72|Jonas Jelonek|Tue Jan 6 20:58:11 2026 +0000|realtek: replace remove_new with remove
+66e6ebbc1e|Robert Marko|Fri Jan 9 18:52:20 2026 +0100|microchipsw: drop source-only
+29b3d929a6|Robert Marko|Sun Nov 2 15:15:35 2025 +0100|microchipsw: lan969x: add Novarq Tactical 1000
+7b7a559976|Robert Marko|Fri Jan 9 18:27:33 2026 +0100|microchipsw: use upstreamed patches
+6e0379deb9|Robert Marko|Fri Jan 9 18:10:35 2026 +0100|boot: arm-trusted-firmware-microchipsw: update to latest
+6944f1c6a0|Robert Marko|Fri Jan 9 16:50:34 2026 +0100|microchipsw: use latest DTS
+de9faf9e75|Jonas Jelonek|Tue Jan 6 19:54:44 2026 +0000|realtek: mdio: drop SerDes access functionality
+ffda7e6748|Pawel Dembicki|Sat Dec 13 00:25:46 2025 +0100|qoriq: kernel: refresh config
+0a2b3b66db|Pawel Dembicki|Wed Nov 19 22:58:54 2025 +0100|qoriq: add support for NXP T4240RDB board
+c5d3d5fe28|Pawel Dembicki|Fri Oct 7 14:25:20 2022 +0200|package: u-boot: initial support for qoriq arch
+5ed0f5a6dd|Pawel Dembicki|Fri Jan 9 09:37:01 2026 +0100|kernel: move patch from mpc85xx to pending
+e5812c7a8c|Daniel Golle|Wed Jan 7 15:41:17 2026 +0000|kernel: net: phy: mxl-gpy: replace downstream SGMII AN hack
+92ff3dfd84|John Audia|Fri Jan 9 08:16:09 2026 -0500|x86: switch from CONFIG_HZ_PERIODIC to CONFIG_NO_HZ_IDLE
+1137aaa1c9|Markus Stockhausen|Sun Jan 4 21:41:12 2026 +0100|realtek: phy: keep register state during RTL8214FC fibre check
+b5195cd473|Chukun Pan|Fri Dec 5 20:16:02 2025 +0800|mediatek: fix 2.5G PHY LED polarity for MT7987
+0827720e04|Chukun Pan|Thu Dec 4 20:21:08 2025 +0800|uboot-mediatek: fix LED on Bananapi BPi-R4 Lite
+2a7d374dcd|Daniel Golle|Thu Jan 8 16:43:26 2026 +0000|kernel: net: phy: realtek: replace patches with upstream backports
+d93429888c|Shiji Yang|Thu Jan 8 21:10:56 2026 +0800|tools/squashfs4: fix rare data corruption issue
+a9254a593b|Jonas Jelonek|Sun Nov 9 11:15:42 2025 +0000|realtek: dsa,phy: rtl839x: remove SerDes PHY leftovers
+9c0dfa339f|Jonas Jelonek|Sun Nov 9 13:29:25 2025 +0000|realtek: pcs: rtl839x: setup SerDes in PCS driver
+6e2c676076|Jonas Jelonek|Tue Jan 6 10:48:22 2026 +0000|realtek: pcs: rtl839x: add initialization patch sequence
+afec14aee1|Jonas Jelonek|Sun Nov 9 10:58:40 2025 +0000|realtek: pcs: rtl839x: add SerDes setup functionality
+7de5ba2e98|Jonas Jelonek|Mon Dec 29 10:29:57 2025 +0000|realtek: pcs: rtl839x: refactor SerDes reset sequence
+82d0ae3134|Jonas Jelonek|Mon Dec 29 10:27:32 2025 +0000|realtek: pcs: rtl893x: add SerDes reset sequence
 </details>
