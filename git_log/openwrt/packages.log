@@ -2,5 +2,9 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-295c75a2b|Wei-Ting Yang|Thu Jan 8 12:35:42 2026 +0800|python-urllib3: update to 2.6.3
+dec74a798|Florian Eckert|Thu Dec 18 14:12:49 2025 +0100|zabbix: zabbix-server-frontend: update dependency
+74a3da92b|Florian Eckert|Thu Dec 18 13:11:23 2025 +0100|php8: add php8 depends and move compile option to Config.in
+a2eec1a56|Torbjorn Tyridal|Tue Nov 18 14:02:25 2025 +0000|strongswan: Add support for EAP-TLS authentication
+b1210d155|Daniel F. Dickinson|Sat Jan 10 21:19:37 2026 -0500|radicale3: updates due to radicale 3 vs 2 changes
+2dfa60f3f|Daniel F. Dickinson|Fri Jan 9 00:12:23 2026 -0500|radicale3: tweak Makefile and initscript
 </details>

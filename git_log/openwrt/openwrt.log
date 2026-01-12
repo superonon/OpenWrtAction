@@ -2,12 +2,15 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-93665d0aa3|Robert Marko|Fri Jan 9 20:37:01 2026 +0100|linux: crypto: fix dependencies for curve25519 and poly1305
-dd519f6c05|Thomas Perale|Wed Jan 7 14:03:22 2026 +0100|ppp: update deprecated cpe
-2a55846bf4|Andreas Böhler|Fri Jan 9 23:07:02 2026 +0100|realtek: add support for ZyXEL GS1920-24HPv1
-1c63273d8d|Andreas Böhler|Sun Oct 12 19:33:19 2025 +0200|realtek: Makefile: add rt-loader-standalone and zynsig recipes
-6150f9ceab|Pawel Dembicki|Sun Nov 30 23:50:48 2025 +0100|mpc85xx: p2020: add support for WatchGuard XTM330 (NC5AE7)
-e4b8d3f294|Yanase Yuki|Wed Dec 24 15:35:02 2025 +0900|projectsmirrors: switch to HTTPS
-b378868a39|Yanase Yuki|Wed Dec 24 15:27:14 2025 +0900|projectsmirrors: drop some sites
-89d982d723|JINLIANG GU|Sat Jan 10 09:45:58 2026 +0800|netifd: dhcp: suppress udhcpc default vendor class if specified in sendopts
+9b1b5a6aec|Rany Hany|Mon Jan 5 15:43:43 2026 +0000|wifi-scripts: move no_probe_resp_if_max_sta to wifi-iface
+9653fd423b|Til Kaiser|Thu Oct 2 15:30:07 2025 +0200|kernel: modules: add kmod-pmbus-sensors package
+54c7ad8d8a|Eric Fahlgren|Fri Jan 9 17:32:37 2026 -0800|base-files: uci-defaults: migrate time zonename on upgrade
+cffc2a9102|Leo Barsky|Sun Jan 11 01:55:50 2026 -0300|econet: refresh patches 6.12
+4ff0f496a4|Anari Jalakas|Thu Jan 8 12:11:47 2026 +0200|readline: add $(FPIC) to LDFLAGS
+ee60b65643|Rany Hany|Tue Jan 6 14:35:05 2026 +0000|wifi-scripts: ucode: fix RRM defaults
+f7c5334c4c|Stijn Tintel|Thu Jan 8 21:56:02 2026 +0200|kernel: cleanup CONFIG_SQUASHFS_DECOMP_MULTI_PERCPU
+e4fd28e989|Jonas Jelonek|Fri Jan 2 17:12:47 2026 +0000|realtek: pcs: rtl838x: use SerDes hardware modes
+f47453863f|Jonas Jelonek|Fri Jan 9 23:12:36 2026 +0000|realtek: pcs: drop legacy comment and warning
+dc78b80f4a|Jonas Jelonek|Fri Jan 9 23:43:21 2026 +0000|realtek: phy: add comment to firmware file definition
+0917569dc2|Jonas Jelonek|Fri Jan 9 23:38:25 2026 +0000|realtek: eth: remove unused SerDes defines
 </details>

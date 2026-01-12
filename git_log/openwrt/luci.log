@@ -1,0 +1,8 @@
+<details> <summary> <b>luci new commit log :new: </b>  </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+2a84e490e1|Paul Donald|Mon Jan 12 01:36:35 2026 +0100|luci-base: amend ZoneSelect widget datatype
+4de4296642|Paul Donald|Sun Jan 11 23:35:42 2026 +0100|luci-mod-network: add PIO flag management
+bf040b1f5c|Hosted Weblate|Sun Jan 11 12:13:49 2026 +0100|Translated using Weblate (Lithuanian)
+</details>
