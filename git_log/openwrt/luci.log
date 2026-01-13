@@ -2,7 +2,10 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-2a84e490e1|Paul Donald|Mon Jan 12 01:36:35 2026 +0100|luci-base: amend ZoneSelect widget datatype
-4de4296642|Paul Donald|Sun Jan 11 23:35:42 2026 +0100|luci-mod-network: add PIO flag management
-bf040b1f5c|Hosted Weblate|Sun Jan 11 12:13:49 2026 +0100|Translated using Weblate (Lithuanian)
+2eb0501b38|Dirk Brenken|Mon Jan 12 23:04:39 2026 +0100|luci-app-banip: sync with banIP-1.8.0-1
+9e4d87003c|Florian Eckert|Mon Jan 12 08:32:31 2026 +0100|Merge pull request #8208 from TDT-AG/pr/20260109-luci-app-mwan3
+688008b696|Konstantin Glukhov|Thu Jan 8 17:38:21 2026 +0900|luci-mod-status: aid DNS lookups with /etc/ethers
+110eecb9e1|Florian Eckert|Thu Oct 30 16:15:51 2025 +0100|luci-app-mwan3: split ACL into status and config
+1243d8023a|Florian Eckert|Thu Oct 30 16:14:31 2025 +0100|luci-app-mwan3: delete additional mwan3 load call
+a02b048984|Florian Eckert|Thu Oct 30 16:11:01 2025 +0100|luci-app-mwan3: adjust json formating
 </details>

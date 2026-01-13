@@ -2,15 +2,30 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-9b1b5a6aec|Rany Hany|Mon Jan 5 15:43:43 2026 +0000|wifi-scripts: move no_probe_resp_if_max_sta to wifi-iface
-9653fd423b|Til Kaiser|Thu Oct 2 15:30:07 2025 +0200|kernel: modules: add kmod-pmbus-sensors package
-54c7ad8d8a|Eric Fahlgren|Fri Jan 9 17:32:37 2026 -0800|base-files: uci-defaults: migrate time zonename on upgrade
-cffc2a9102|Leo Barsky|Sun Jan 11 01:55:50 2026 -0300|econet: refresh patches 6.12
-4ff0f496a4|Anari Jalakas|Thu Jan 8 12:11:47 2026 +0200|readline: add $(FPIC) to LDFLAGS
-ee60b65643|Rany Hany|Tue Jan 6 14:35:05 2026 +0000|wifi-scripts: ucode: fix RRM defaults
-f7c5334c4c|Stijn Tintel|Thu Jan 8 21:56:02 2026 +0200|kernel: cleanup CONFIG_SQUASHFS_DECOMP_MULTI_PERCPU
-e4fd28e989|Jonas Jelonek|Fri Jan 2 17:12:47 2026 +0000|realtek: pcs: rtl838x: use SerDes hardware modes
-f47453863f|Jonas Jelonek|Fri Jan 9 23:12:36 2026 +0000|realtek: pcs: drop legacy comment and warning
-dc78b80f4a|Jonas Jelonek|Fri Jan 9 23:43:21 2026 +0000|realtek: phy: add comment to firmware file definition
-0917569dc2|Jonas Jelonek|Fri Jan 9 23:38:25 2026 +0000|realtek: eth: remove unused SerDes defines
+02f0efd60b|Jakub Vaněk|Mon Jan 5 00:10:46 2026 +0100|mediatek: fix PHY autodetection on Cudy WR3000H
+dbafbab876|Andrew MacIntyre|Tue Dec 30 12:22:41 2025 +1100|mediatek: add Motorcomm PHY driver to Cudy WR3000H
+96a1337374|Andrew MacIntyre|Mon Dec 29 23:38:10 2025 +1100|kernel: add kmod-phy-motorcomm
+082fe669f7|Robert Marko|Mon Jan 12 17:33:02 2026 +0100|boot: arm-trusted-firmware-microchipsw: depend on host Ruby
+410277ca12|Robert Marko|Mon Jan 12 17:28:06 2026 +0100|boot: arm-trusted-firmware-microchipsw: fix compilation against LibreSSL
+5c5823afdc|Markus Stockhausen|Fri Jan 9 18:53:04 2026 +0100|realtek: mdio: drop interfaces attribute
+b2717357a7|Markus Stockhausen|Fri Jan 9 11:40:22 2026 +0100|realtek: mdio: Simplify RTL930x phy polling setup
+93711307e0|Markus Stockhausen|Sun Jan 11 10:40:12 2026 +0100|realtek: mdio: provide phy info helper
+4acbbf6f05|Markus Stockhausen|Sat Jan 10 08:35:35 2026 +0100|realtek: mdio: improve iterator readability
+470e030a5e|George Sapkin|Tue Jan 6 03:50:37 2026 +0200|build: add default priority to ABI-versioned packages
+1dec4683f6|George Sapkin|Tue Jan 6 00:56:06 2026 +0200|build: remove redundant shebang from apk lifecycle scripts
+2d844a0770|George Sapkin|Mon Jan 5 04:03:00 2026 +0200|build: fix implicit self-provides
+8cc2743c48|George Sapkin|Sun Jan 4 23:02:21 2026 +0200|elfutils: drop libelf1 provide
+af1fa176c3|George Sapkin|Fri Jan 2 16:26:40 2026 +0200|uclient: provide virtual wget-any
+952c918028|George Sapkin|Sun Jan 4 19:50:52 2026 +0200|build: fix provides logic when ABI version is set
+779fa7ff6c|George Sapkin|Sun Jan 4 03:46:38 2026 +0200|build: refactor dependency formatting
+2a1977a4b8|George Sapkin|Fri Jan 2 17:10:00 2026 +0200|build: don't auto mark all provides as virtual
+49fc319033|George Sapkin|Fri Jan 2 17:07:52 2026 +0200|build: remove default provider priority
+80dbf932a3|Markus Stockhausen|Sun Jan 11 19:18:48 2026 +0100|realtek: eth: remove mdio leftovers
+20727f89d5|Pawel Dembicki|Mon Jan 12 09:39:16 2026 +0100|package: uboot-qoriq: fix T4240RDB u-boot selection
+19b8d391a9|Carl-Daniel Hailfinger|Mon Jan 12 12:02:24 2026 +0100|realtek: ethernet: avoid using unitialized memory
+a91c3abe83|Carl-Daniel Hailfinger|Sun Jan 11 20:31:20 2026 +0100|realtek: dsa: avoid use-after-free
+6ac605e4c6|Daniel Golle|Mon Jan 12 03:25:54 2026 +0000|kernel: net: phy: mxl-gpy: replace patch with upstream commit
+0bab65dfa7|Markus Stockhausen|Wed Jan 7 08:32:58 2026 +0100|realtek: phy: add RTL8214FC initialization for RTL839x
+4fa90d879b|Markus Stockhausen|Wed Jan 7 08:02:40 2026 +0100|realtek: phy: enhance RTL8218B initialization
+b209174c43|Markus Stockhausen|Wed Jan 7 07:52:12 2026 +0100|realtek: phy: use lock helpers
 </details>
