@@ -2,10 +2,10 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-396c65e67|Dirk Brenken|Mon Jan 12 22:59:19 2026 +0100|banip: release 1.8.0-1
-9aaf2ffb9|Michael Gray|Sat Jan 10 15:42:36 2026 +1100|miniupnpd: enable IPv6 leases file
-552298e21|Jens Wagner|Fri Jan 2 14:39:23 2026 +0100|perl-www: added dependency on perlbase-module
-bbed74c78|Andrea Ferro|Mon Jan 12 09:22:29 2026 +0100|ddns-scripts: add apertodns.com to provider list
-6265fab8c|Andrea Ferro|Sat Jan 10 18:46:13 2026 +0100|ddns-scripts: add ApertoDNS DDNS provider
-8392630a2|George Sapkin|Sun Jan 11 17:15:16 2026 +0200|sqlite3: bump to 3.51.2
+2891aa447|Eric Fahlgren|Tue Jan 13 10:02:29 2026 -0800|owut: update to 2026.01.13
+38e19d3fb|George Sapkin|Fri Jan 2 19:24:52 2026 +0200|wget: provide virtual wget-any
+0000b9177|xiao bo|Sat Jan 10 19:38:06 2026 +0800|sing-box: update to 1.12.15
+5aa86e05c|Qingfang Deng|Mon Jan 12 09:50:43 2026 +0800|libteam: disable zmq and dbus
+1305fa9b5|Hirokazu MORIKAWA|Tue Jan 13 11:07:14 2026 +0900|icu: bump to 78.2
+3a4b906a3|Andrea Ferro|Mon Jan 12 15:10:01 2026 +0100|ddns-scripts: add apertodns.com-token to provider list
 </details>

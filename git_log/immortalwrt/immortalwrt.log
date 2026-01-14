@@ -2,5 +2,110 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-df83fe19b3|Zhang Zhe|Mon Jan 12 15:23:41 2026 +0800|rockchip: mod NLnet XiGuaPi V3 DEVICE_PACKAGES
+0927a303ed|Tianling Shen|Tue Jan 13 15:59:57 2026 +0800|Merge Official Source
+02f0efd60b|Jakub Vaněk|Mon Jan 5 00:10:46 2026 +0100|mediatek: fix PHY autodetection on Cudy WR3000H
+dbafbab876|Andrew MacIntyre|Tue Dec 30 12:22:41 2025 +1100|mediatek: add Motorcomm PHY driver to Cudy WR3000H
+96a1337374|Andrew MacIntyre|Mon Dec 29 23:38:10 2025 +1100|kernel: add kmod-phy-motorcomm
+082fe669f7|Robert Marko|Mon Jan 12 17:33:02 2026 +0100|boot: arm-trusted-firmware-microchipsw: depend on host Ruby
+410277ca12|Robert Marko|Mon Jan 12 17:28:06 2026 +0100|boot: arm-trusted-firmware-microchipsw: fix compilation against LibreSSL
+5c5823afdc|Markus Stockhausen|Fri Jan 9 18:53:04 2026 +0100|realtek: mdio: drop interfaces attribute
+b2717357a7|Markus Stockhausen|Fri Jan 9 11:40:22 2026 +0100|realtek: mdio: Simplify RTL930x phy polling setup
+93711307e0|Markus Stockhausen|Sun Jan 11 10:40:12 2026 +0100|realtek: mdio: provide phy info helper
+4acbbf6f05|Markus Stockhausen|Sat Jan 10 08:35:35 2026 +0100|realtek: mdio: improve iterator readability
+470e030a5e|George Sapkin|Tue Jan 6 03:50:37 2026 +0200|build: add default priority to ABI-versioned packages
+1dec4683f6|George Sapkin|Tue Jan 6 00:56:06 2026 +0200|build: remove redundant shebang from apk lifecycle scripts
+2d844a0770|George Sapkin|Mon Jan 5 04:03:00 2026 +0200|build: fix implicit self-provides
+8cc2743c48|George Sapkin|Sun Jan 4 23:02:21 2026 +0200|elfutils: drop libelf1 provide
+af1fa176c3|George Sapkin|Fri Jan 2 16:26:40 2026 +0200|uclient: provide virtual wget-any
+952c918028|George Sapkin|Sun Jan 4 19:50:52 2026 +0200|build: fix provides logic when ABI version is set
+779fa7ff6c|George Sapkin|Sun Jan 4 03:46:38 2026 +0200|build: refactor dependency formatting
+2a1977a4b8|George Sapkin|Fri Jan 2 17:10:00 2026 +0200|build: don't auto mark all provides as virtual
+49fc319033|George Sapkin|Fri Jan 2 17:07:52 2026 +0200|build: remove default provider priority
+80dbf932a3|Markus Stockhausen|Sun Jan 11 19:18:48 2026 +0100|realtek: eth: remove mdio leftovers
+20727f89d5|Pawel Dembicki|Mon Jan 12 09:39:16 2026 +0100|package: uboot-qoriq: fix T4240RDB u-boot selection
+19b8d391a9|Carl-Daniel Hailfinger|Mon Jan 12 12:02:24 2026 +0100|realtek: ethernet: avoid using unitialized memory
+a91c3abe83|Carl-Daniel Hailfinger|Sun Jan 11 20:31:20 2026 +0100|realtek: dsa: avoid use-after-free
+6ac605e4c6|Daniel Golle|Mon Jan 12 03:25:54 2026 +0000|kernel: net: phy: mxl-gpy: replace patch with upstream commit
+0bab65dfa7|Markus Stockhausen|Wed Jan 7 08:32:58 2026 +0100|realtek: phy: add RTL8214FC initialization for RTL839x
+4fa90d879b|Markus Stockhausen|Wed Jan 7 08:02:40 2026 +0100|realtek: phy: enhance RTL8218B initialization
+b209174c43|Markus Stockhausen|Wed Jan 7 07:52:12 2026 +0100|realtek: phy: use lock helpers
+9b1b5a6aec|Rany Hany|Mon Jan 5 15:43:43 2026 +0000|wifi-scripts: move no_probe_resp_if_max_sta to wifi-iface
+9653fd423b|Til Kaiser|Thu Oct 2 15:30:07 2025 +0200|kernel: modules: add kmod-pmbus-sensors package
+54c7ad8d8a|Eric Fahlgren|Fri Jan 9 17:32:37 2026 -0800|base-files: uci-defaults: migrate time zonename on upgrade
+cffc2a9102|Leo Barsky|Sun Jan 11 01:55:50 2026 -0300|econet: refresh patches 6.12
+4ff0f496a4|Anari Jalakas|Thu Jan 8 12:11:47 2026 +0200|readline: add $(FPIC) to LDFLAGS
+ee60b65643|Rany Hany|Tue Jan 6 14:35:05 2026 +0000|wifi-scripts: ucode: fix RRM defaults
+f7c5334c4c|Stijn Tintel|Thu Jan 8 21:56:02 2026 +0200|kernel: cleanup CONFIG_SQUASHFS_DECOMP_MULTI_PERCPU
+e4fd28e989|Jonas Jelonek|Fri Jan 2 17:12:47 2026 +0000|realtek: pcs: rtl838x: use SerDes hardware modes
+f47453863f|Jonas Jelonek|Fri Jan 9 23:12:36 2026 +0000|realtek: pcs: drop legacy comment and warning
+dc78b80f4a|Jonas Jelonek|Fri Jan 9 23:43:21 2026 +0000|realtek: phy: add comment to firmware file definition
+0917569dc2|Jonas Jelonek|Fri Jan 9 23:38:25 2026 +0000|realtek: eth: remove unused SerDes defines
+93665d0aa3|Robert Marko|Fri Jan 9 20:37:01 2026 +0100|linux: crypto: fix dependencies for curve25519 and poly1305
+dd519f6c05|Thomas Perale|Wed Jan 7 14:03:22 2026 +0100|ppp: update deprecated cpe
+2a55846bf4|Andreas Böhler|Fri Jan 9 23:07:02 2026 +0100|realtek: add support for ZyXEL GS1920-24HPv1
+1c63273d8d|Andreas Böhler|Sun Oct 12 19:33:19 2025 +0200|realtek: Makefile: add rt-loader-standalone and zynsig recipes
+6150f9ceab|Pawel Dembicki|Sun Nov 30 23:50:48 2025 +0100|mpc85xx: p2020: add support for WatchGuard XTM330 (NC5AE7)
+e4b8d3f294|Yanase Yuki|Wed Dec 24 15:35:02 2025 +0900|projectsmirrors: switch to HTTPS
+b378868a39|Yanase Yuki|Wed Dec 24 15:27:14 2025 +0900|projectsmirrors: drop some sites
+89d982d723|JINLIANG GU|Sat Jan 10 09:45:58 2026 +0800|netifd: dhcp: suppress udhcpc default vendor class if specified in sendopts
+93e98b4082|Goetz Goerisch|Fri Jan 9 21:14:47 2026 +0100|feeds: revert to git.openwrt.org
+fa9f925951|Stijn Tintel|Tue Jun 28 17:44:51 2022 +0300|realtek/rtl839x: Edgecore ECS4100-12PH support
+7b351062d2|Markus Stockhausen|Sun Jan 4 21:21:23 2026 +0100|realtek: eth: move init_mac() into configuration structure
+320e6f3188|Markus Stockhausen|Sun Jan 4 21:00:33 2026 +0100|realtek: eth: add init_mac() for RTL930x
+f8ec6a3b5f|Markus Stockhausen|Sun Jan 4 20:52:29 2026 +0100|realtek: eth: reorder init_mac() functions
+7fb393fa7d|Markus Stockhausen|Sun Jan 4 20:42:13 2026 +0100|realtek: eth: simplify rtl8380_init_mac()
+28c7524e78|Markus Stockhausen|Sun Jan 4 20:31:08 2026 +0100|realtek: eth: harmonize mac (aka chip) init
+985f30d576|Markus Stockhausen|Fri Jan 9 19:17:38 2026 +0100|realtek: dts: RTL93xx whitespace cleanup
+a2e49c4d72|Jonas Jelonek|Tue Jan 6 20:58:11 2026 +0000|realtek: replace remove_new with remove
+66e6ebbc1e|Robert Marko|Fri Jan 9 18:52:20 2026 +0100|microchipsw: drop source-only
+29b3d929a6|Robert Marko|Sun Nov 2 15:15:35 2025 +0100|microchipsw: lan969x: add Novarq Tactical 1000
+7b7a559976|Robert Marko|Fri Jan 9 18:27:33 2026 +0100|microchipsw: use upstreamed patches
+6e0379deb9|Robert Marko|Fri Jan 9 18:10:35 2026 +0100|boot: arm-trusted-firmware-microchipsw: update to latest
+6944f1c6a0|Robert Marko|Fri Jan 9 16:50:34 2026 +0100|microchipsw: use latest DTS
+de9faf9e75|Jonas Jelonek|Tue Jan 6 19:54:44 2026 +0000|realtek: mdio: drop SerDes access functionality
+ffda7e6748|Pawel Dembicki|Sat Dec 13 00:25:46 2025 +0100|qoriq: kernel: refresh config
+0a2b3b66db|Pawel Dembicki|Wed Nov 19 22:58:54 2025 +0100|qoriq: add support for NXP T4240RDB board
+c5d3d5fe28|Pawel Dembicki|Fri Oct 7 14:25:20 2022 +0200|package: u-boot: initial support for qoriq arch
+5ed0f5a6dd|Pawel Dembicki|Fri Jan 9 09:37:01 2026 +0100|kernel: move patch from mpc85xx to pending
+e5812c7a8c|Daniel Golle|Wed Jan 7 15:41:17 2026 +0000|kernel: net: phy: mxl-gpy: replace downstream SGMII AN hack
+92ff3dfd84|John Audia|Fri Jan 9 08:16:09 2026 -0500|x86: switch from CONFIG_HZ_PERIODIC to CONFIG_NO_HZ_IDLE
+1137aaa1c9|Markus Stockhausen|Sun Jan 4 21:41:12 2026 +0100|realtek: phy: keep register state during RTL8214FC fibre check
+b5195cd473|Chukun Pan|Fri Dec 5 20:16:02 2025 +0800|mediatek: fix 2.5G PHY LED polarity for MT7987
+0827720e04|Chukun Pan|Thu Dec 4 20:21:08 2025 +0800|uboot-mediatek: fix LED on Bananapi BPi-R4 Lite
+2a7d374dcd|Daniel Golle|Thu Jan 8 16:43:26 2026 +0000|kernel: net: phy: realtek: replace patches with upstream backports
+d93429888c|Shiji Yang|Thu Jan 8 21:10:56 2026 +0800|tools/squashfs4: fix rare data corruption issue
+a9254a593b|Jonas Jelonek|Sun Nov 9 11:15:42 2025 +0000|realtek: dsa,phy: rtl839x: remove SerDes PHY leftovers
+9c0dfa339f|Jonas Jelonek|Sun Nov 9 13:29:25 2025 +0000|realtek: pcs: rtl839x: setup SerDes in PCS driver
+6e2c676076|Jonas Jelonek|Tue Jan 6 10:48:22 2026 +0000|realtek: pcs: rtl839x: add initialization patch sequence
+afec14aee1|Jonas Jelonek|Sun Nov 9 10:58:40 2025 +0000|realtek: pcs: rtl839x: add SerDes setup functionality
+7de5ba2e98|Jonas Jelonek|Mon Dec 29 10:29:57 2025 +0000|realtek: pcs: rtl839x: refactor SerDes reset sequence
+82d0ae3134|Jonas Jelonek|Mon Dec 29 10:27:32 2025 +0000|realtek: pcs: rtl893x: add SerDes reset sequence
+e1a9636959|George Moussalem|Thu Jan 8 13:22:33 2026 +0400|qualcommax: ipq50xx: Correct USB DWC3 wrapper interrupts
+0ff1553bd7|Robert Marko|Thu Jan 8 11:16:46 2026 +0100|ipq-wifi: rename BDF for EAP623-Outdoor HD v1
+d6ab889e45|George Moussalem|Wed Jan 7 18:31:15 2026 +0400|qualcommax: ipq50xx: correct assigned cmn pll clock rate
+fdce6f99be|George Moussalem|Wed Jan 7 17:44:44 2026 +0400|qualcommax: ipq50xx: enable ipq-cmn-pll driver compilation
+f948f71300|Robert Senderek|Fri Oct 10 14:40:21 2025 +0200|qualcommax: ipq50xx: Add support for Zyxel SCR50AXE
+95a3dc83f1|Robert Marko|Wed Jan 7 11:03:54 2026 +0100|ipq-wifi: update to Git HEAD (2026-01-07)
+b94c3ba0ff|Jonas Jelonek|Sun Jan 4 17:22:29 2026 +0000|realtek: pcs: rtl931x: improve port media handling
+7971386514|Jonas Jelonek|Sun Dec 21 13:45:36 2025 +0000|realtek: pcs: rtl931x: add port media handling
+b4bd85d504|Jonas Jelonek|Sun Dec 21 13:14:04 2025 +0000|realtek: pcs: add enum for port media
+b435b5bc61|Jonas Jelonek|Mon Jan 5 15:07:59 2026 +0000|realtek: pcs: drop some unneeded unused attributes
+84f2ecba4d|Jonas Jelonek|Mon Jan 5 14:52:38 2026 +0000|realtek: pcs: fix naming of RTL931X sds config data
+3753805b2a|Jonas Jelonek|Mon Jan 5 14:44:41 2026 +0000|realtek: pcs: use ARRAY_SIZE kernel macro
+7aa7e97e53|Jonas Jelonek|Mon Jan 5 14:07:48 2026 +0000|realtek: pcs: fix sds_config struct definition
+fe0f6f82c1|Jonas Jelonek|Mon Jan 5 13:04:34 2026 +0000|realtek: pcs: add myself as module author
+c79fa27cbf|Tianling Shen|Tue Jan 6 12:02:40 2026 +0800|rockchip: fix kernel tag for backported patches
+6aaffddf27|Daniel Golle|Mon Jan 5 18:12:40 2026 +0000|kernel: net: phy: realtek: fix C22-only mode on 2.5GE PHYs
+96ff31b94a|Daniel Golle|Sat Jan 3 21:05:35 2026 +0000|kernel: net: phy: c45: check validity of 10GbE LPA
+dfce21df96|Daniel Golle|Sat Jan 3 15:41:17 2026 +0000|kernel: net: phy: realtek: replace in-band AN hack
+5652b98952|Daniel Golle|Sat Jan 3 18:43:33 2026 +0000|kernel: net: phy: realtek: replace hack with proper fix
+e06c4125fd|Felix Fietkau|Tue Jan 6 19:09:01 2026 +0000|ucode: remove the fs.read_nb patch
+ed2587c73d|Felix Fietkau|Tue Jan 6 19:08:41 2026 +0000|ucode: add package for ucode-mod-io
+79a0aebd81|Felix Fietkau|Tue Jan 6 18:46:46 2026 +0100|wifi-scripts: move the "disabled" option to the wifi-iface section
+12d47550e6|Linus Walleij|Sat Jan 3 21:44:13 2026 +0100|uboot-bcm53xx: bump U-Boot to 2025.10
+838a9ff1ca|George Sapkin|Mon Jan 5 16:26:47 2026 +0200|build: restore opkg-related provides logic
+bf46d119a2|Felix Fietkau|Sun Jan 4 18:21:41 2026 +0000|ucode-mod-ubus: complete pending requests when disconnecting locally
+bdc3c1a820|Felix Fietkau|Sun Jan 4 12:17:39 2026 +0000|unetmsg: remove redundant socket close
+8a304d051f|Felix Fietkau|Sun Jan 4 10:07:33 2026 +0000|unetmsg: add timeout for outgoing auth requests
+f631d1576d|Felix Fietkau|Sun Jan 4 10:04:58 2026 +0000|unetmsg: add null check in TX disconnect callback
 </details>
