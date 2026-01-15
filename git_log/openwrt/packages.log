@@ -2,10 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-2891aa447|Eric Fahlgren|Tue Jan 13 10:02:29 2026 -0800|owut: update to 2026.01.13
-38e19d3fb|George Sapkin|Fri Jan 2 19:24:52 2026 +0200|wget: provide virtual wget-any
-0000b9177|xiao bo|Sat Jan 10 19:38:06 2026 +0800|sing-box: update to 1.12.15
-5aa86e05c|Qingfang Deng|Mon Jan 12 09:50:43 2026 +0800|libteam: disable zmq and dbus
-1305fa9b5|Hirokazu MORIKAWA|Tue Jan 13 11:07:14 2026 +0900|icu: bump to 78.2
-3a4b906a3|Andrea Ferro|Mon Jan 12 15:10:01 2026 +0100|ddns-scripts: add apertodns.com-token to provider list
+d07014245|Vladimir Ermakov|Mon Jan 12 17:10:56 2026 +0100|coredns: update 1.14.0
 </details>
