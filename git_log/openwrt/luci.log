@@ -1,0 +1,9 @@
+<details> <summary> <b>luci new commit log :new: </b>  </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+85d625918a|Daniel F. Dickinson|Mon Jan 5 07:41:26 2026 -0500|luci-app-radicale3: initial add of applications
+7e25a5c32a|Daniel F. Dickinson|Fri Jan 9 19:07:34 2026 -0500|rpcd-mod-rad3-enc: add radicale3 password hasher
+db37d7dd24|Josef Schlehofer|Fri Jan 9 17:11:16 2026 +0100|luci-app-radicale2, rpcd-mod-rad2-enc: drop packages
+5a36477c95|Paul Donald|Thu Jan 15 17:48:26 2026 +0100|luci-theme-openwrt: prevent minify errors
+</details>

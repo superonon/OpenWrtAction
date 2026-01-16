@@ -2,5 +2,7 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-d07014245|Vladimir Ermakov|Mon Jan 12 17:10:56 2026 +0100|coredns: update 1.14.0
+ffdb7209a|Daniel F. Dickinson|Tue Dec 9 00:21:18 2025 -0500|zabbix: add initscript for server
+1ff6a9225|Daniel F. Dickinson|Thu Dec 25 15:04:47 2025 -0500|zabbix: fix agentd PidFile creation
+de4244145|George Sapkin|Wed Jan 14 21:48:49 2026 +0200|syncthing: bump 2.0.13
 </details>

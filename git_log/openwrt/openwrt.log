@@ -2,13 +2,18 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-226981d49c|John Audia|Sun Jan 11 10:43:45 2026 -0500|kernel: bump 6.12 to 6.12.65
-ba6b07a4ab|John Audia|Tue Jan 6 17:43:30 2026 -0500|kernel: bump 6.12 to 6.12.64
-39700aeaa1|Hauke Mehrtens|Mon Jan 12 23:05:57 2026 +0100|bcm27xx: refresh kernel patches
-5b887135ba|John Audia|Thu Jan 8 07:13:08 2026 -0500|mac80211: fix build for 6.12.64 bump
-e1c125c167|Álvaro Fernández Rojas|Sat Jan 10 15:44:48 2026 +0100|netifd: use stable IAID for DHCPv4
-e1f2b666ff|Álvaro Fernández Rojas|Tue Jan 13 18:19:48 2026 +0100|base-files: introduce a function to generate IAID
-4953db3aef|Aleksander Jan Bajkowski|Sat Jan 10 18:05:38 2026 +0100|airoha: show link rate and duplex
-43039157ba|FUKAUMI Naoki|Wed Jan 14 01:52:55 2026 +0000|rockchip: add `"compat_version": "1.1"` for Radxa E52C
-cb82479475|Stijn Tintel|Mon Jan 12 03:49:19 2026 +0200|kernel: add kmod-hwmon-adt7470
+66b6791abe|Steffen Förster|Wed Jan 14 20:45:01 2026 +0100|ramips: fix gmac definition for cudy ap1300 outdoor
+63c596f46c|Markus Stockhausen|Fri Jan 9 21:19:13 2026 +0100|realtek: eth: convert prefix of net_device_ops
+7073fb4657|Markus Stockhausen|Fri Jan 9 21:08:49 2026 +0100|realtek: eth: adapt prefix of tx functions
+53b6593f04|Markus Stockhausen|Fri Jan 9 20:57:36 2026 +0100|realtek: eth: adapt prefix for mac functions
+bca14f3a02|Markus Stockhausen|Fri Jan 9 20:40:38 2026 +0100|realtek: eth: convert tag decoder/encoder to new prefix
+a3003725e8|Markus Stockhausen|Fri Jan 9 20:28:41 2026 +0100|realtek: eth: rename priv to ctrl (as in other drivers)
+c7f585bfc3|Val Kulkov|Mon Jan 12 17:21:52 2026 +0000|wifi-scripts: fix wifi failure on specifying value of DAE client
+bd1cf1b18a|Stijn Tintel|Mon Jan 12 17:26:05 2026 +0200|uboot-rockchip: bump to 2026.01
+0d8e4ebeb9|Stijn Tintel|Mon Jan 12 16:33:51 2026 +0200|arm-trusted-firmware-rockchip: bump to 2.14.0
+168f5609af|Markus Stockhausen|Sun Jan 11 14:43:07 2026 +0100|realtek: rt-loader: fix chip revision printout
+10ae743260|Markus Stockhausen|Mon Jan 12 10:29:44 2026 +0100|realtek: phy: simplify RTL8214FC configuration
+1e3139d483|Markus Stockhausen|Mon Jan 12 09:52:24 2026 +0100|realtek: phy: drop unused firmware setup for RTL8214FC
+2c2817d3a4|Markus Stockhausen|Mon Jan 12 09:44:33 2026 +0100|realtek: phy: Use single initialization for RTL8214FC
+d891c747fc|Markus Stockhausen|Wed Jan 14 07:41:34 2026 +0100|realtek: dts: fix Zyxel GS1920 port section
 </details>
