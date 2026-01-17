@@ -2,7 +2,8 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-ffdb7209a|Daniel F. Dickinson|Tue Dec 9 00:21:18 2025 -0500|zabbix: add initscript for server
-1ff6a9225|Daniel F. Dickinson|Thu Dec 25 15:04:47 2025 -0500|zabbix: fix agentd PidFile creation
-de4244145|George Sapkin|Wed Jan 14 21:48:49 2026 +0200|syncthing: bump 2.0.13
+f8b8ce62c|Daniel F. Dickinson|Thu Jan 1 01:17:32 2026 -0500|php8: fix gettext and intl dependencies and build
+1a01a175f|Daniel F. Dickinson|Thu Jan 1 01:33:10 2026 -0500|php8: add more help text and tweak whitespace
+247c1a196|Daniel F. Dickinson|Thu Jan 1 01:24:17 2026 -0500|php8: fix xmlreader dom circular dependency
+8d7faa245|Daniel F. Dickinson|Thu Jan 1 01:01:34 2026 -0500|php8: reformat CONFIG_DEPENDS
 </details>
