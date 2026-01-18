@@ -2,7 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-9d1f6ec49d|George Moussalem|Thu Jan 8 13:32:42 2026 +0400|qualcommax: ipq50xx: match QDSK ports unit address with port id
-63c2add66e|Eric Fahlgren|Thu Jan 15 13:48:11 2026 -0800|realtek: imagebuilder: add guard around loader generation
-8cff0d8ca0|Paul Spooren|Thu Jan 15 09:19:16 2026 +0700|ci: rework and move build-on-comment action
+16422510b5|Chukun Pan|Wed Apr 2 22:01:30 2025 +0800|qualcommax: ipq60xx: add JDCloud RE-SS-01 support
 </details>
